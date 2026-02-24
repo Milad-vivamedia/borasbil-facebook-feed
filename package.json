@@ -1,0 +1,9 @@
+{
+  "name": "borasbil-facebook-feed",
+  "version": "1.0.0",
+  "description": "Facebook Dynamic Ads feed generator for Borås Bil",
+  "main": "generate-feed.js",
+  "scripts": {
+    "generate": "node generate-feed.js"
+  }
+}
