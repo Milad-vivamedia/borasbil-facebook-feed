@@ -5,6 +5,138 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>5aed24c1-d23f-4a28-b046-580176847e41</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>5aed24c1-d23f-4a28-b046-580176847e41</vehicle_id>
+    <vehicle_registration_plate>BBM82G</vehicle_registration_plate>
+    <g:title>Volvo C40 Core</g:title>
+    <title>Volvo C40 Core</title>
+    <g:description>Core. Miltal: 4 404 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: BBM82G. Kontakta oss för mer information.</g:description>
+    <description>Core. Miltal: 4 404 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: BBM82G. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-c40-recharge-twin-motor-bbm82g</g:link>
+    <link>https://borasbil.se/bilar/volvo-c40-recharge-twin-motor-bbm82g</link>
+    <url>https://borasbil.se/bilar/volvo-c40-recharge-twin-motor-bbm82g</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/d914cb1e-0a55-453f-a1ad-39d19177ac97/505379c6-88d2-4c5c-98e8-b8649e465c8d?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/d914cb1e-0a55-453f-a1ad-39d19177ac97/505379c6-88d2-4c5c-98e8-b8649e465c8d?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>C40</model>
+    <year>2023</year>
+    <mileage>
+      <value>44040</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>359000 SEK</g:price>
+    <price>359000 SEK</price>
+    <sale_price>359000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Bogesunds Bil Ulricehamn</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>c353b651-410e-44d2-a79b-98f7ef6c7cde</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>c353b651-410e-44d2-a79b-98f7ef6c7cde</vehicle_id>
+    <vehicle_registration_plate>ACM64E</vehicle_registration_plate>
+    <g:title>Volvo C40 Core</g:title>
+    <title>Volvo C40 Core</title>
+    <g:description>Core. Miltal: 4 470 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: ACM64E. Kontakta oss för mer information.</g:description>
+    <description>Core. Miltal: 4 470 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: ACM64E. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-acm64e</g:link>
+    <link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-acm64e</link>
+    <url>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-acm64e</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/3ef39df0-793a-40eb-8b01-dbaabf3e6089/80b1e10d-83a5-4ace-9bce-42a698a60ad7?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/3ef39df0-793a-40eb-8b01-dbaabf3e6089/80b1e10d-83a5-4ace-9bce-42a698a60ad7?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>C40</model>
+    <year>2023</year>
+    <mileage>
+      <value>44700</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>329000 SEK</g:price>
+    <price>329000 SEK</price>
+    <sale_price>329000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Bogesunds Bil Ulricehamn</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>e90b3c4a-7914-4acf-b6c0-5c3f6fa51a59</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>e90b3c4a-7914-4acf-b6c0-5c3f6fa51a59</vehicle_id>
+    <vehicle_registration_plate>PKF24S</vehicle_registration_plate>
+    <g:title>Volvo C40 Core</g:title>
+    <title>Volvo C40 Core</title>
+    <g:description>Core. Miltal: 4 451 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: PKF24S. Kontakta oss för mer information.</g:description>
+    <description>Core. Miltal: 4 451 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: PKF24S. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-pkf24s</g:link>
+    <link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-pkf24s</link>
+    <url>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-pkf24s</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/b3c27871-f5b8-4bb5-870f-7780fe35e0b3/e9f956fd-5a9b-4da3-aad3-7d575dd5d0fe?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/b3c27871-f5b8-4bb5-870f-7780fe35e0b3/e9f956fd-5a9b-4da3-aad3-7d575dd5d0fe?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>C40</model>
+    <year>2023</year>
+    <mileage>
+      <value>44510</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>319000 SEK</g:price>
+    <price>319000 SEK</price>
+    <sale_price>319000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>7640f8f9-5dda-407e-8c2e-d7ddac30ee47</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -619,50 +751,6 @@
     <g:condition>new</g:condition>
     <condition>new</condition>
     <state_of_vehicle>NEW</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>5b58d759-a1b9-487b-81e1-6a5f355a5a40</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>5b58d759-a1b9-487b-81e1-6a5f355a5a40</vehicle_id>
-    <vehicle_registration_plate>BBM82G</vehicle_registration_plate>
-    <g:title>Volvo C40 Core</g:title>
-    <title>Volvo C40 Core</title>
-    <g:description>Core. Miltal: 4 404 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: BBM82G. Kontakta oss för mer information.</g:description>
-    <description>Core. Miltal: 4 404 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: BBM82G. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-c40-recharge-twin-motor-bbm82g</g:link>
-    <link>https://borasbil.se/bilar/volvo-c40-recharge-twin-motor-bbm82g</link>
-    <url>https://borasbil.se/bilar/volvo-c40-recharge-twin-motor-bbm82g</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/995c362f-cd8f-4767-9e02-efbb3ba07904/5132ea3a-896a-437b-a2bc-3533e110df22?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/995c362f-cd8f-4767-9e02-efbb3ba07904/5132ea3a-896a-437b-a2bc-3533e110df22?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C40</model>
-    <year>2023</year>
-    <mileage>
-      <value>44040</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>359000 SEK</g:price>
-    <price>359000 SEK</price>
-    <sale_price>359000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
     <g:id>b1c4997f-d431-4f82-bf26-5846145c7884</g:id>
@@ -2769,50 +2857,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>9a00aa5d-91c1-419a-a53f-28893087d129</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>9a00aa5d-91c1-419a-a53f-28893087d129</vehicle_id>
-    <vehicle_registration_plate>ACM64E</vehicle_registration_plate>
-    <g:title>Volvo C40 Core</g:title>
-    <title>Volvo C40 Core</title>
-    <g:description>Core. Miltal: 4 470 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: ACM64E. Kontakta oss för mer information.</g:description>
-    <description>Core. Miltal: 4 470 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: ACM64E. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-acm64e</g:link>
-    <link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-acm64e</link>
-    <url>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-acm64e</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/2a786dbf-9b1f-4eac-a9d3-93c28cecaed7/acc2ee94-edd5-45ed-823d-344f7885d905?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/2a786dbf-9b1f-4eac-a9d3-93c28cecaed7/acc2ee94-edd5-45ed-823d-344f7885d905?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C40</model>
-    <year>2023</year>
-    <mileage>
-      <value>44700</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>329000 SEK</g:price>
-    <price>329000 SEK</price>
-    <sale_price>329000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>354a3a07-97b0-4da8-8388-6df9ef39c5d7</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -4101,50 +4145,6 @@
     <g:price>329000 SEK</g:price>
     <price>329000 SEK</price>
     <sale_price>329000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>38dc6e1d-4a69-442f-b6be-f191e9efea25</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>38dc6e1d-4a69-442f-b6be-f191e9efea25</vehicle_id>
-    <vehicle_registration_plate>PKF24S</vehicle_registration_plate>
-    <g:title>Volvo C40 Core</g:title>
-    <title>Volvo C40 Core</title>
-    <g:description>Core. Miltal: 4 451 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: PKF24S. Kontakta oss för mer information.</g:description>
-    <description>Core. Miltal: 4 451 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: PKF24S. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-pkf24s</g:link>
-    <link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-pkf24s</link>
-    <url>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-pkf24s</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/d4e9a148-6b69-408c-aa3e-10b553a19dbe/9b4bb004-caec-4754-950f-15041798c91f?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/d4e9a148-6b69-408c-aa3e-10b553a19dbe/9b4bb004-caec-4754-950f-15041798c91f?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C40</model>
-    <year>2023</year>
-    <mileage>
-      <value>44510</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>319000 SEK</g:price>
-    <price>319000 SEK</price>
-    <sale_price>319000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Kinna Bil</component>
       <component name="country">SE</component>
@@ -12491,50 +12491,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>22c8b41b-1b8f-4d21-adfe-a12d52c4f6d9</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>22c8b41b-1b8f-4d21-adfe-a12d52c4f6d9</vehicle_id>
-    <vehicle_registration_plate>JAA70K</vehicle_registration_plate>
-    <g:title>Volvo XC60 Recharge T6 Core Edition</g:title>
-    <title>Volvo XC60 Recharge T6 Core Edition</title>
-    <g:description>Recharge T6 Core Edition. Miltal: 9 083 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: JAA70K. Kontakta oss för mer information.</g:description>
-    <description>Recharge T6 Core Edition. Miltal: 9 083 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: JAA70K. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc60-jaa70k</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc60-jaa70k</link>
-    <url>https://borasbil.se/bilar/volvo-xc60-jaa70k</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/91f45d7f-0f73-4f88-ad49-54ec6686f231/2e87b4a6-ace2-478b-befd-fbcea588fa61?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/91f45d7f-0f73-4f88-ad49-54ec6686f231/2e87b4a6-ace2-478b-befd-fbcea588fa61?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2023</year>
-    <mileage>
-      <value>90830</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>389000 SEK</g:price>
-    <price>389000 SEK</price>
-    <sale_price>389000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
