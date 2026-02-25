@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>ed48379a-a67c-4b6c-9789-2ffc3847c265</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>ed48379a-a67c-4b6c-9789-2ffc3847c265</vehicle_id>
+    <vehicle_registration_plate>RSR01P</vehicle_registration_plate>
+    <g:title>Volvo V60 Recharge T6 II Ultimate Dark</g:title>
+    <title>Volvo V60 Recharge T6 II Ultimate Dark</title>
+    <g:description>Recharge T6 II Ultimate Dark. Miltal: 2 690 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Reg.nr: RSR01P. Kontakta oss för mer information.</g:description>
+    <description>Recharge T6 II Ultimate Dark. Miltal: 2 690 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Reg.nr: RSR01P. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-v60-rsr01p</g:link>
+    <link>https://borasbil.se/bilar/volvo-v60-rsr01p</link>
+    <url>https://borasbil.se/bilar/volvo-v60-rsr01p</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/d33fedfd-707e-48d8-bb01-ecff072faec6/ddfdce01-ee70-4456-a5ef-17d39e032d0d?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/d33fedfd-707e-48d8-bb01-ecff072faec6/ddfdce01-ee70-4456-a5ef-17d39e032d0d?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>V60</model>
+    <year>2024</year>
+    <mileage>
+      <value>26900</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Wagon</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>499000 SEK</g:price>
+    <price>499000 SEK</price>
+    <sale_price>499000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>8b396b0e-a383-4f94-8149-83d12c378a69</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -1948,9 +1992,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/c5df6c17-c2c1-4431-a8fc-55d106147c95/46b187bc-728a-44ab-922c-69911efa336e?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/e05ab8b2-c3d2-4643-87cb-a5019e3b2487/c2e74ee2-82d7-478e-86ed-9e116093bbe4?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/c5df6c17-c2c1-4431-a8fc-55d106147c95/46b187bc-728a-44ab-922c-69911efa336e?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/e05ab8b2-c3d2-4643-87cb-a5019e3b2487/c2e74ee2-82d7-478e-86ed-9e116093bbe4?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC90</model>
