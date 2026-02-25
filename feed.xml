@@ -5,6 +5,270 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>e4d04d44-b053-4ab8-b604-9bf0db8995b6</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>e4d04d44-b053-4ab8-b604-9bf0db8995b6</vehicle_id>
+    <vehicle_registration_plate>EAH98H</vehicle_registration_plate>
+    <g:title>Volvo V90 T6 Plus Dark Nordic Edition</g:title>
+    <title>Volvo V90 T6 Plus Dark Nordic Edition</title>
+    <g:description>T6 Plus Dark Nordic Edition. Miltal: 1 801 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: EAH98H. Kontakta oss för mer information.</g:description>
+    <description>T6 Plus Dark Nordic Edition. Miltal: 1 801 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: EAH98H. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-v90-eah98h</g:link>
+    <link>https://borasbil.se/bilar/volvo-v90-eah98h</link>
+    <url>https://borasbil.se/bilar/volvo-v90-eah98h</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/b31e8ae3-0801-4233-a1b5-497445d5526d/9933915d-d806-46f6-9293-625efd2dd878?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/b31e8ae3-0801-4233-a1b5-497445d5526d/9933915d-d806-46f6-9293-625efd2dd878?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>V90</model>
+    <year>2026</year>
+    <mileage>
+      <value>18010</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Wagon</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>539000 SEK</g:price>
+    <price>539000 SEK</price>
+    <sale_price>539000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Bogesunds Bil Ulricehamn</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>a2d1796b-66d6-4466-b0ba-9c37738ef770</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>a2d1796b-66d6-4466-b0ba-9c37738ef770</vehicle_id>
+    <vehicle_registration_plate>HHR67N</vehicle_registration_plate>
+    <g:title>Volvo V90 T6 Plus Dark Nordic Edition</g:title>
+    <title>Volvo V90 T6 Plus Dark Nordic Edition</title>
+    <g:description>T6 Plus Dark Nordic Edition. Miltal: 1 798 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: HHR67N. Kontakta oss för mer information.</g:description>
+    <description>T6 Plus Dark Nordic Edition. Miltal: 1 798 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: HHR67N. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-v90-hhr67n</g:link>
+    <link>https://borasbil.se/bilar/volvo-v90-hhr67n</link>
+    <url>https://borasbil.se/bilar/volvo-v90-hhr67n</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/255bc030-cab2-48f3-91f9-b16b57c6f53b/40404cdf-cbce-4565-86f3-cf673467b07c?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/255bc030-cab2-48f3-91f9-b16b57c6f53b/40404cdf-cbce-4565-86f3-cf673467b07c?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>V90</model>
+    <year>2026</year>
+    <mileage>
+      <value>17980</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Wagon</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>539000 SEK</g:price>
+    <price>539000 SEK</price>
+    <sale_price>539000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Bogesunds Bil Ulricehamn</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>ffe1c2f6-fbe6-4053-8340-068bc5da7573</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>ffe1c2f6-fbe6-4053-8340-068bc5da7573</vehicle_id>
+    <vehicle_registration_plate>UCY91J</vehicle_registration_plate>
+    <g:title>Volvo EX30 M R Plus Edition</g:title>
+    <title>Volvo EX30 M R Plus Edition</title>
+    <g:description>M R Plus Edition. Miltal: 1 225 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: UCY91J. Kontakta oss för mer information.</g:description>
+    <description>M R Plus Edition. Miltal: 1 225 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: UCY91J. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-ex30-single-motor-extended-range-ucy91j</g:link>
+    <link>https://borasbil.se/bilar/volvo-ex30-single-motor-extended-range-ucy91j</link>
+    <url>https://borasbil.se/bilar/volvo-ex30-single-motor-extended-range-ucy91j</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/e1f021f9-e55d-4fd8-840f-b1a65a5d7844/acaa6d98-ead6-419b-8139-d484b77e763f?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/e1f021f9-e55d-4fd8-840f-b1a65a5d7844/acaa6d98-ead6-419b-8139-d484b77e763f?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>EX30</model>
+    <year>2025</year>
+    <mileage>
+      <value>12250</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>359000 SEK</g:price>
+    <price>359000 SEK</price>
+    <sale_price>359000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>e0ef4dac-4b75-4509-8da2-0bcd549aa4fa</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>e0ef4dac-4b75-4509-8da2-0bcd549aa4fa</vehicle_id>
+    <vehicle_registration_plate>JBK31J</vehicle_registration_plate>
+    <g:title>Volvo EX30 M R Plus Edition</g:title>
+    <title>Volvo EX30 M R Plus Edition</title>
+    <g:description>M R Plus Edition. Miltal: 907 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: JBK31J. Kontakta oss för mer information.</g:description>
+    <description>M R Plus Edition. Miltal: 907 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: JBK31J. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-ex30-single-motor-extended-range-jbk31j</g:link>
+    <link>https://borasbil.se/bilar/volvo-ex30-single-motor-extended-range-jbk31j</link>
+    <url>https://borasbil.se/bilar/volvo-ex30-single-motor-extended-range-jbk31j</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/70a815c1-68db-4e36-b5d6-0e1cf33b0819/5e69c581-77a8-466f-8980-dead4d45864c?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/70a815c1-68db-4e36-b5d6-0e1cf33b0819/5e69c581-77a8-466f-8980-dead4d45864c?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>EX30</model>
+    <year>2025</year>
+    <mileage>
+      <value>9070</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>359000 SEK</g:price>
+    <price>359000 SEK</price>
+    <sale_price>359000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>ddb6c635-e747-4738-97e7-0385f895a653</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>ddb6c635-e747-4738-97e7-0385f895a653</vehicle_id>
+    <vehicle_registration_plate>BFY92E</vehicle_registration_plate>
+    <g:title>Volvo EX30 M R Plus Edition</g:title>
+    <title>Volvo EX30 M R Plus Edition</title>
+    <g:description>M R Plus Edition. Miltal: 1 272 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: BFY92E. Kontakta oss för mer information.</g:description>
+    <description>M R Plus Edition. Miltal: 1 272 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: BFY92E. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-ex30-single-motor-extended-range-bfy92e</g:link>
+    <link>https://borasbil.se/bilar/volvo-ex30-single-motor-extended-range-bfy92e</link>
+    <url>https://borasbil.se/bilar/volvo-ex30-single-motor-extended-range-bfy92e</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/897b47e9-fd04-471f-9007-f702042192ee/3a848e9c-2137-4e76-8f8d-186574cc8494?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/897b47e9-fd04-471f-9007-f702042192ee/3a848e9c-2137-4e76-8f8d-186574cc8494?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>EX30</model>
+    <year>2025</year>
+    <mileage>
+      <value>12720</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>359000 SEK</g:price>
+    <price>359000 SEK</price>
+    <sale_price>359000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>9fb1206a-aff7-4916-ad0a-812d48411f01</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>9fb1206a-aff7-4916-ad0a-812d48411f01</vehicle_id>
+    <vehicle_registration_plate>TJY51C</vehicle_registration_plate>
+    <g:title>Volvo EX30 M R Plus Edition</g:title>
+    <title>Volvo EX30 M R Plus Edition</title>
+    <g:description>M R Plus Edition. Miltal: 1 301 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: TJY51C. Kontakta oss för mer information.</g:description>
+    <description>M R Plus Edition. Miltal: 1 301 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: TJY51C. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-ex30-single-motor-extended-range-tjy51c</g:link>
+    <link>https://borasbil.se/bilar/volvo-ex30-single-motor-extended-range-tjy51c</link>
+    <url>https://borasbil.se/bilar/volvo-ex30-single-motor-extended-range-tjy51c</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/7e8ce7b6-666f-453c-bf9a-ac3304b502e9/bfabd7ab-33b0-482e-8597-05250c7fab06?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/7e8ce7b6-666f-453c-bf9a-ac3304b502e9/bfabd7ab-33b0-482e-8597-05250c7fab06?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>EX30</model>
+    <year>2025</year>
+    <mileage>
+      <value>13010</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>359000 SEK</g:price>
+    <price>359000 SEK</price>
+    <sale_price>359000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>5aed24c1-d23f-4a28-b046-580176847e41</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -929,50 +1193,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>ade1724c-ca46-4865-9bbd-8a93f3e0eb81</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>ade1724c-ca46-4865-9bbd-8a93f3e0eb81</vehicle_id>
-    <vehicle_registration_plate>JBK31J</vehicle_registration_plate>
-    <g:title>Volvo EX30 M R Plus Edition</g:title>
-    <title>Volvo EX30 M R Plus Edition</title>
-    <g:description>M R Plus Edition. Miltal: 907 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: JBK31J. Kontakta oss för mer information.</g:description>
-    <description>M R Plus Edition. Miltal: 907 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: JBK31J. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-ex30-single-motor-extended-range-jbk31j</g:link>
-    <link>https://borasbil.se/bilar/volvo-ex30-single-motor-extended-range-jbk31j</link>
-    <url>https://borasbil.se/bilar/volvo-ex30-single-motor-extended-range-jbk31j</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/a102148b-475c-4181-b8d5-ff4b41cc8601/1e5f03a3-09f4-47e8-b7fd-6bac2c563390?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/a102148b-475c-4181-b8d5-ff4b41cc8601/1e5f03a3-09f4-47e8-b7fd-6bac2c563390?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>EX30</model>
-    <year>2025</year>
-    <mileage>
-      <value>9070</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>359000 SEK</g:price>
-    <price>359000 SEK</price>
-    <sale_price>359000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>32fe3758-b94d-4ffe-a7be-6c1fe0b40b8f</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -1105,50 +1325,6 @@
     <state_of_vehicle>NEW</state_of_vehicle>
     </item>
     <item>
-    <g:id>a097f915-49e3-4a17-8a91-5a7ae0ff86e7</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>a097f915-49e3-4a17-8a91-5a7ae0ff86e7</vehicle_id>
-    <vehicle_registration_plate>BFY92E</vehicle_registration_plate>
-    <g:title>Volvo EX30 M R Plus Edition</g:title>
-    <title>Volvo EX30 M R Plus Edition</title>
-    <g:description>M R Plus Edition. Miltal: 1 272 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: BFY92E. Kontakta oss för mer information.</g:description>
-    <description>M R Plus Edition. Miltal: 1 272 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: BFY92E. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-ex30-single-motor-extended-range-bfy92e</g:link>
-    <link>https://borasbil.se/bilar/volvo-ex30-single-motor-extended-range-bfy92e</link>
-    <url>https://borasbil.se/bilar/volvo-ex30-single-motor-extended-range-bfy92e</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/7a7f57cf-e95e-48ae-9a3a-de0e3caafa47/d982d224-4e50-4d08-98a0-640034718fba?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/7a7f57cf-e95e-48ae-9a3a-de0e3caafa47/d982d224-4e50-4d08-98a0-640034718fba?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>EX30</model>
-    <year>2025</year>
-    <mileage>
-      <value>12720</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>359000 SEK</g:price>
-    <price>359000 SEK</price>
-    <sale_price>359000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>dbf7df9f-268b-4b86-9e58-107d42291adf</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -1217,50 +1393,6 @@
     <year>2026</year>
     <mileage>
       <value>17930</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>539000 SEK</g:price>
-    <price>539000 SEK</price>
-    <sale_price>539000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>new</g:condition>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>5350b6da-42fb-454e-8223-364f0ea3cc94</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>5350b6da-42fb-454e-8223-364f0ea3cc94</vehicle_id>
-    <vehicle_registration_plate>HHR67N</vehicle_registration_plate>
-    <g:title>Volvo V90 T6 Plus Dark Nordic Edition</g:title>
-    <title>Volvo V90 T6 Plus Dark Nordic Edition</title>
-    <g:description>T6 Plus Dark Nordic Edition. Miltal: 1 798 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: HHR67N. Kontakta oss för mer information.</g:description>
-    <description>T6 Plus Dark Nordic Edition. Miltal: 1 798 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: HHR67N. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-v90-hhr67n</g:link>
-    <link>https://borasbil.se/bilar/volvo-v90-hhr67n</link>
-    <url>https://borasbil.se/bilar/volvo-v90-hhr67n</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/5c2e11c8-6f56-4a90-b4f7-aab8620b3a78/0de06f36-a406-4cbf-b106-86e5a66ee4aa?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/5c2e11c8-6f56-4a90-b4f7-aab8620b3a78/0de06f36-a406-4cbf-b106-86e5a66ee4aa?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V90</model>
-    <year>2026</year>
-    <mileage>
-      <value>17980</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Wagon</body_style>
@@ -1589,50 +1721,6 @@
     <state_of_vehicle>NEW</state_of_vehicle>
     </item>
     <item>
-    <g:id>610fe56a-c638-4dd4-a017-7f74cbfbfc9d</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>610fe56a-c638-4dd4-a017-7f74cbfbfc9d</vehicle_id>
-    <vehicle_registration_plate>EAH98H</vehicle_registration_plate>
-    <g:title>Volvo V90 T6 Plus Dark Nordic Edition</g:title>
-    <title>Volvo V90 T6 Plus Dark Nordic Edition</title>
-    <g:description>T6 Plus Dark Nordic Edition. Miltal: 1 801 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: EAH98H. Kontakta oss för mer information.</g:description>
-    <description>T6 Plus Dark Nordic Edition. Miltal: 1 801 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: EAH98H. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-v90-eah98h</g:link>
-    <link>https://borasbil.se/bilar/volvo-v90-eah98h</link>
-    <url>https://borasbil.se/bilar/volvo-v90-eah98h</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/6f44e019-aacb-4746-bcfe-82413fe670a4/f47d997a-7a87-4d74-8462-7c0afbbe64b9?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/6f44e019-aacb-4746-bcfe-82413fe670a4/f47d997a-7a87-4d74-8462-7c0afbbe64b9?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V90</model>
-    <year>2026</year>
-    <mileage>
-      <value>18010</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>539000 SEK</g:price>
-    <price>539000 SEK</price>
-    <sale_price>539000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>new</g:condition>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    </item>
-    <item>
     <g:id>b415b858-ab66-45f8-a995-e0a19dcd2f40</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -1851,94 +1939,6 @@
     <g:condition>new</g:condition>
     <condition>new</condition>
     <state_of_vehicle>NEW</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>709b2b51-7082-4fa7-9806-f8630abe03ca</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>709b2b51-7082-4fa7-9806-f8630abe03ca</vehicle_id>
-    <vehicle_registration_plate>TJY51C</vehicle_registration_plate>
-    <g:title>Volvo EX30 M R Plus Edition</g:title>
-    <title>Volvo EX30 M R Plus Edition</title>
-    <g:description>M R Plus Edition. Miltal: 1 301 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: TJY51C. Kontakta oss för mer information.</g:description>
-    <description>M R Plus Edition. Miltal: 1 301 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: TJY51C. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-ex30-single-motor-extended-range-tjy51c</g:link>
-    <link>https://borasbil.se/bilar/volvo-ex30-single-motor-extended-range-tjy51c</link>
-    <url>https://borasbil.se/bilar/volvo-ex30-single-motor-extended-range-tjy51c</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/fdccdbac-44a7-4afd-ae78-be9f6233f4d6/cf99866f-9cfa-45f1-9e14-8a4e7d26231c?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/fdccdbac-44a7-4afd-ae78-be9f6233f4d6/cf99866f-9cfa-45f1-9e14-8a4e7d26231c?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>EX30</model>
-    <year>2025</year>
-    <mileage>
-      <value>13010</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>359000 SEK</g:price>
-    <price>359000 SEK</price>
-    <sale_price>359000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>a07bdab7-6d77-4c01-a028-2dadf6812891</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>a07bdab7-6d77-4c01-a028-2dadf6812891</vehicle_id>
-    <vehicle_registration_plate>UCY91J</vehicle_registration_plate>
-    <g:title>Volvo EX30 M R Plus Edition</g:title>
-    <title>Volvo EX30 M R Plus Edition</title>
-    <g:description>M R Plus Edition. Miltal: 1 225 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: UCY91J. Kontakta oss för mer information.</g:description>
-    <description>M R Plus Edition. Miltal: 1 225 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: UCY91J. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-ex30-single-motor-extended-range-ucy91j</g:link>
-    <link>https://borasbil.se/bilar/volvo-ex30-single-motor-extended-range-ucy91j</link>
-    <url>https://borasbil.se/bilar/volvo-ex30-single-motor-extended-range-ucy91j</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/6839ba02-d81b-4235-82fa-f03d2c00893a/5027133d-1405-4038-b1d4-f6f52943e47e?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/6839ba02-d81b-4235-82fa-f03d2c00893a/5027133d-1405-4038-b1d4-f6f52943e47e?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>EX30</model>
-    <year>2025</year>
-    <mileage>
-      <value>12250</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>359000 SEK</g:price>
-    <price>359000 SEK</price>
-    <sale_price>359000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
     <g:id>544256a4-4474-4db6-aa3e-e0138c9334fc</g:id>
@@ -2498,50 +2498,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>126ee9b3-c49a-45dc-94e2-a30ae5e24b57</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>126ee9b3-c49a-45dc-94e2-a30ae5e24b57</vehicle_id>
-    <vehicle_registration_plate>ESH61F</vehicle_registration_plate>
-    <g:title>Volvo V60 Recharge T6 Core Edition</g:title>
-    <title>Volvo V60 Recharge T6 Core Edition</title>
-    <g:description>Recharge T6 Core Edition. Miltal: 10 280 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: ESH61F. Kontakta oss för mer information.</g:description>
-    <description>Recharge T6 Core Edition. Miltal: 10 280 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: ESH61F. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-v60-esh61f</g:link>
-    <link>https://borasbil.se/bilar/volvo-v60-esh61f</link>
-    <url>https://borasbil.se/bilar/volvo-v60-esh61f</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/a2224957-db70-4d73-8d82-b12588d74b00/9f447eee-a384-46ad-8056-db2196416bd2?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/a2224957-db70-4d73-8d82-b12588d74b00/9f447eee-a384-46ad-8056-db2196416bd2?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V60</model>
-    <year>2023</year>
-    <mileage>
-      <value>102800</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>319000 SEK</g:price>
-    <price>319000 SEK</price>
-    <sale_price>319000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Bogesunds Bil Ulricehamn</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -9751,50 +9707,6 @@
     <g:price>269000 SEK</g:price>
     <price>269000 SEK</price>
     <sale_price>269000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>e1c2064c-ca02-47b8-a53b-6a9f43ff5604</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>e1c2064c-ca02-47b8-a53b-6a9f43ff5604</vehicle_id>
-    <vehicle_registration_plate>LGF648</vehicle_registration_plate>
-    <g:title>Volvo XC40 Recharge T4 Plus Dark - 360 / HarmanKardon</g:title>
-    <title>Volvo XC40 Recharge T4 Plus Dark - 360 / HarmanKardon</title>
-    <g:description>Recharge T4 Plus Dark - 360 / HarmanKardon. Miltal: 3 757 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: LGF648. Kontakta oss för mer information.</g:description>
-    <description>Recharge T4 Plus Dark - 360 / HarmanKardon. Miltal: 3 757 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: LGF648. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc40-lgf648</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc40-lgf648</link>
-    <url>https://borasbil.se/bilar/volvo-xc40-lgf648</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/eb906c3b-2a5a-48cb-940e-9994670c3f6d/5e8b4ad0-6358-42d6-a6de-8543cb1b5c64?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/eb906c3b-2a5a-48cb-940e-9994670c3f6d/5e8b4ad0-6358-42d6-a6de-8543cb1b5c64?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2023</year>
-    <mileage>
-      <value>37570</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>389000 SEK</g:price>
-    <price>389000 SEK</price>
-    <sale_price>389000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Borås Bil</component>
       <component name="country">SE</component>
