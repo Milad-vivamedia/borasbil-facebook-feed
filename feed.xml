@@ -5,15 +5,59 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>2862c522-907a-40de-b286-113f7766bd86</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>2862c522-907a-40de-b286-113f7766bd86</vehicle_id>
+    <vehicle_registration_plate>BWA12K</vehicle_registration_plate>
+    <g:title>Volvo C40 Plus Edition</g:title>
+    <title>Volvo C40 Plus Edition</title>
+    <g:description>Plus Edition. Miltal: 6 615 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: BWA12K. Kontakta oss för mer information.</g:description>
+    <description>Plus Edition. Miltal: 6 615 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: BWA12K. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-bwa12k</g:link>
+    <link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-bwa12k</link>
+    <url>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-bwa12k</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/1beac17a-221d-4c78-8a75-029d1fc2ae3e/468c0ae5-129c-48ea-b571-26f8c1779ab9?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/1beac17a-221d-4c78-8a75-029d1fc2ae3e/468c0ae5-129c-48ea-b571-26f8c1779ab9?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>C40</model>
+    <year>2023</year>
+    <mileage>
+      <value>66150</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>319000 SEK</g:price>
+    <price>319000 SEK</price>
+    <sale_price>319000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Bogesunds Bil Ulricehamn</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>a855a21d-9e98-4841-af8b-83019cbbb1e1</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
     <vehicle_id>a855a21d-9e98-4841-af8b-83019cbbb1e1</vehicle_id>
     <vehicle_registration_plate>ZWW70U</vehicle_registration_plate>
-    <g:title>Volvo XC60 Recharge T6 Plus Dark</g:title>
-    <title>Volvo XC60 Recharge T6 Plus Dark</title>
-    <g:description>Recharge T6 Plus Dark. Miltal: 5 768 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: ZWW70U. Kontakta oss för mer information.</g:description>
-    <description>Recharge T6 Plus Dark. Miltal: 5 768 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: ZWW70U. Kontakta oss för mer information.</description>
+    <g:title>Volvo XC60 Recharge T6 Plus Dark/DRAG</g:title>
+    <title>Volvo XC60 Recharge T6 Plus Dark/DRAG</title>
+    <g:description>Recharge T6 Plus Dark/DRAG. Miltal: 5 768 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: ZWW70U. Kontakta oss för mer information.</g:description>
+    <description>Recharge T6 Plus Dark/DRAG. Miltal: 5 768 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: ZWW70U. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc60-zww70u</g:link>
     <link>https://borasbil.se/bilar/volvo-xc60-zww70u</link>
     <url>https://borasbil.se/bilar/volvo-xc60-zww70u</url>
