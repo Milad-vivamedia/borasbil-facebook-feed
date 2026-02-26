@@ -2432,9 +2432,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/d5829a36-9310-4ebc-8727-e7fe13206ebf/07f24231-7f32-4c3e-aa01-8c7e66221a71?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/df9c37bc-ba3e-4e11-9aeb-d36e19576b42/cd8b5f4d-491f-41fe-ba95-f3592cbb737f?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/d5829a36-9310-4ebc-8727-e7fe13206ebf/07f24231-7f32-4c3e-aa01-8c7e66221a71?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/df9c37bc-ba3e-4e11-9aeb-d36e19576b42/cd8b5f4d-491f-41fe-ba95-f3592cbb737f?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC40</model>
@@ -2666,9 +2666,9 @@
     <body_style>Sedan</body_style>
     <fuel_type>Electric</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>349000 SEK</g:price>
-    <price>349000 SEK</price>
-    <sale_price>349000 SEK</sale_price>
+    <g:price>339000 SEK</g:price>
+    <price>339000 SEK</price>
+    <sale_price>339000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Borås Bil</component>
       <component name="country">SE</component>
@@ -3526,9 +3526,9 @@
     <body_style>Sedan</body_style>
     <fuel_type>Electric</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>389000 SEK</g:price>
-    <price>389000 SEK</price>
-    <sale_price>389000 SEK</sale_price>
+    <g:price>369000 SEK</g:price>
+    <price>369000 SEK</price>
+    <sale_price>369000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Kinna Bil</component>
       <component name="country">SE</component>
@@ -4230,9 +4230,9 @@
     <body_style>SUV</body_style>
     <fuel_type>Electric</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>309000 SEK</g:price>
-    <price>309000 SEK</price>
-    <sale_price>309000 SEK</sale_price>
+    <g:price>299000 SEK</g:price>
+    <price>299000 SEK</price>
+    <sale_price>299000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Borås Bil</component>
       <component name="country">SE</component>
@@ -6142,9 +6142,9 @@
     <body_style>Sedan</body_style>
     <fuel_type>Electric</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>309000 SEK</g:price>
-    <price>309000 SEK</price>
-    <sale_price>309000 SEK</sale_price>
+    <g:price>299000 SEK</g:price>
+    <price>299000 SEK</price>
+    <sale_price>299000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Kinna Bil</component>
       <component name="country">SE</component>
@@ -6274,9 +6274,9 @@
     <body_style>Sedan</body_style>
     <fuel_type>Electric</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>299000 SEK</g:price>
-    <price>299000 SEK</price>
-    <sale_price>299000 SEK</sale_price>
+    <g:price>289000 SEK</g:price>
+    <price>289000 SEK</price>
+    <sale_price>289000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Kinna Bil</component>
       <component name="country">SE</component>
@@ -7418,9 +7418,9 @@
     <body_style>Wagon</body_style>
     <fuel_type>Plug-in Hybrid</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>369000 SEK</g:price>
-    <price>369000 SEK</price>
-    <sale_price>369000 SEK</sale_price>
+    <g:price>349000 SEK</g:price>
+    <price>349000 SEK</price>
+    <sale_price>349000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Kinna Bil</component>
       <component name="country">SE</component>
@@ -7462,9 +7462,9 @@
     <body_style>SUV</body_style>
     <fuel_type>Plug-in Hybrid</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>529000 SEK</g:price>
-    <price>529000 SEK</price>
-    <sale_price>529000 SEK</sale_price>
+    <g:price>509000 SEK</g:price>
+    <price>509000 SEK</price>
+    <sale_price>509000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Kinna Bil</component>
       <component name="country">SE</component>
@@ -7506,9 +7506,9 @@
     <body_style>SUV</body_style>
     <fuel_type>Electric</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>349000 SEK</g:price>
-    <price>349000 SEK</price>
-    <sale_price>349000 SEK</sale_price>
+    <g:price>309000 SEK</g:price>
+    <price>309000 SEK</price>
+    <sale_price>309000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Kinna Bil</component>
       <component name="country">SE</component>
@@ -7594,9 +7594,9 @@
     <body_style>SUV</body_style>
     <fuel_type>Plug-in Hybrid</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>369000 SEK</g:price>
-    <price>369000 SEK</price>
-    <sale_price>369000 SEK</sale_price>
+    <g:price>359000 SEK</g:price>
+    <price>359000 SEK</price>
+    <sale_price>359000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Kinna Bil</component>
       <component name="country">SE</component>
@@ -7638,9 +7638,9 @@
     <body_style>Wagon</body_style>
     <fuel_type>Diesel</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>409000 SEK</g:price>
-    <price>409000 SEK</price>
-    <sale_price>409000 SEK</sale_price>
+    <g:price>399000 SEK</g:price>
+    <price>399000 SEK</price>
+    <sale_price>399000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Kinna Bil</component>
       <component name="country">SE</component>
