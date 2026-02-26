@@ -335,6 +335,7 @@ function generateCSVFeed(vehicles) {
 
   vehicles.forEach(vehicle => {
     if (!vehicle.id || !vehicle.manufacturer || !vehicle.price) return;
+    if (!getImageUrl(vehicle)) return; // Skip cars without images
 
     const titleParts = [vehicle.manufacturer];
     if (vehicle.model_series) titleParts.push(vehicle.model_series);
@@ -355,7 +356,7 @@ function generateCSVFeed(vehicles) {
       escapeCsv(vehicle.manufacturer),
       escapeCsv(vehicle.model_series || ''),
       escapeCsv(vehicle.model_year || ''),
-      escapeCsv(vehicle.mileage ? vehicle.mileage * 10 : ''),
+      escapeCsv(vehicle.mileage ? vehicle.mileage * 10 : 1),
       escapeCsv('KM'),
       escapeCsv(getBodyStyle(vehicle.model_series || '')),
       escapeCsv(vehicle.fuel_type ? mapFuelType(vehicle.fuel_type) : ''),
@@ -363,7 +364,7 @@ function generateCSVFeed(vehicles) {
       escapeCsv(`${vehicle.price} SEK`),
       escapeCsv(`${vehicle.price} SEK`),
       escapeCsv(imageUrl),
-      escapeCsv('Exterior'),
+      escapeCsv('["Exterior"]'),
       escapeCsv(condition),
       escapeCsv(state),
       escapeCsv('in stock'),
