@@ -273,6 +273,102 @@ function generateXMLFeed(vehicles) {
 }
 
 /**
+ * Escape CSV field (wrap in quotes if needed)
+ */
+function escapeCsv(value) {
+  if (!value && value !== 0) return '';
+  const str = String(value);
+  if (str.includes(',') || str.includes('"') || str.includes('\n') || str.includes(';')) {
+    return '"' + str.replace(/"/g, '""') + '"';
+  }
+  return str;
+}
+
+/**
+ * Generate CSV feed for Facebook Automotive Catalog
+ * Uses Facebook's required columns for vehicle listings
+ */
+function generateCSVFeed(vehicles) {
+  const headers = [
+    'vehicle_id',
+    'title',
+    'description',
+    'url',
+    'make',
+    'model',
+    'year',
+    'mileage.value',
+    'mileage.unit',
+    'body_style',
+    'fuel_type',
+    'transmission',
+    'price',
+    'sale_price',
+    'image[0].url',
+    'image[0].tag',
+    'condition',
+    'state_of_vehicle',
+    'availability',
+    'vehicle_registration_plate',
+    'address.addr1',
+    'address.country',
+    'dealer_id',
+    'brand'
+  ];
+
+  let csv = headers.join(',') + '\n';
+  let processedCount = 0;
+
+  vehicles.forEach(vehicle => {
+    if (!vehicle.id || !vehicle.manufacturer || !vehicle.price) return;
+
+    const titleParts = [vehicle.manufacturer];
+    if (vehicle.model_series) titleParts.push(vehicle.model_series);
+    if (vehicle.short_description) titleParts.push(vehicle.short_description);
+    const title = titleParts.join(' ').substring(0, 200);
+
+    const description = formatDescription(vehicle);
+    const vehicleUrl = `https://borasbil.se/bilar/${vehicle.slug}`;
+    const imageUrl = getImageUrl(vehicle);
+    const state = getVehicleCondition(vehicle.model_year || 0);
+    const condition = state === 'NEW' ? 'new' : 'used';
+
+    const row = [
+      escapeCsv(vehicle.id),
+      escapeCsv(title),
+      escapeCsv(description),
+      escapeCsv(vehicleUrl),
+      escapeCsv(vehicle.manufacturer),
+      escapeCsv(vehicle.model_series || ''),
+      escapeCsv(vehicle.model_year || ''),
+      escapeCsv(vehicle.mileage ? vehicle.mileage * 10 : ''),
+      escapeCsv('KM'),
+      escapeCsv(getBodyStyle(vehicle.model_series || '')),
+      escapeCsv(vehicle.fuel_type ? mapFuelType(vehicle.fuel_type) : ''),
+      escapeCsv(vehicle.gearbox_type ? mapTransmission(vehicle.gearbox_type) : ''),
+      escapeCsv(`${vehicle.price} SEK`),
+      escapeCsv(`${vehicle.price} SEK`),
+      escapeCsv(imageUrl),
+      escapeCsv('Exterior'),
+      escapeCsv(condition),
+      escapeCsv(state),
+      escapeCsv('in stock'),
+      escapeCsv(vehicle.registration_number || ''),
+      escapeCsv(vehicle.branch?.name || ''),
+      escapeCsv('SE'),
+      escapeCsv(vehicle.branch?.id || ''),
+      escapeCsv(vehicle.manufacturer)
+    ];
+
+    csv += row.join(',') + '\n';
+    processedCount++;
+  });
+
+  console.log(`Generated CSV feed with ${processedCount} vehicles`);
+  return { csv, processedCount };
+}
+
+/**
  * Main execution
  */
 async function main() {
@@ -293,8 +389,15 @@ async function main() {
 
     const outputPath = path.join(OUTPUT_DIR, OUTPUT_FILE);
     fs.writeFileSync(outputPath, xml, 'utf8');
-    console.log(`Saved feed to: ${outputPath}`);
-    console.log(`File size: ${(xml.length / 1024).toFixed(2)} KB`);
+    console.log(`Saved XML feed to: ${outputPath}`);
+    console.log(`XML file size: ${(xml.length / 1024).toFixed(2)} KB`);
+
+    // Generate CSV feed
+    const csvResult = generateCSVFeed(vehicles);
+    const csvPath = path.join(OUTPUT_DIR, 'feed.csv');
+    fs.writeFileSync(csvPath, '\uFEFF' + csvResult.csv, 'utf8'); // BOM for Excel compatibility
+    console.log(`Saved CSV feed to: ${csvPath}`);
+    console.log(`CSV file size: ${(csvResult.csv.length / 1024).toFixed(2)} KB`);
 
     // Index page
     const indexHtml = `<!DOCTYPE html>
