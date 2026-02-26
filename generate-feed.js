@@ -110,11 +110,27 @@ function getVehicleCondition(modelYear) {
 }
 
 /**
+ * Clean short_description: remove "More", "Demo", "DEMO", "Demobil" etc.
+ */
+function cleanShortDescription(text) {
+  if (!text) return '';
+  return text
+    .replace(/\b[Dd]emobil\b\.?/g, '')
+    .replace(/\b[Dd][Ee][Mm][Oo]\b\.?/g, '')
+    .replace(/\bMore\b/g, '')
+    .replace(/\s*-\s*$/g, '')       // trailing " - "
+    .replace(/\.\s*$/g, '')         // trailing ". "
+    .replace(/\s{2,}/g, ' ')        // collapse multiple spaces
+    .trim();
+}
+
+/**
  * Format description from vehicle data
  */
 function formatDescription(vehicle) {
   const parts = [];
-  if (vehicle.short_description) parts.push(vehicle.short_description);
+  const cleaned = cleanShortDescription(vehicle.short_description);
+  if (cleaned) parts.push(cleaned);
   if (vehicle.mileage) parts.push(`Miltal: ${vehicle.mileage.toLocaleString('sv-SE')} mil`);
   if (vehicle.model_year) parts.push(`Årsmodell: ${vehicle.model_year}`);
   if (vehicle.gearbox_type) parts.push(`Växellåda: ${vehicle.gearbox_type}`);
@@ -172,7 +188,8 @@ function generateXMLFeed(vehicles) {
     // Title
     const titleParts = [vehicle.manufacturer];
     if (vehicle.model_series) titleParts.push(vehicle.model_series);
-    if (vehicle.short_description) titleParts.push(vehicle.short_description);
+    const cleanedDesc = cleanShortDescription(vehicle.short_description);
+    if (cleanedDesc) titleParts.push(cleanedDesc);
     const title = titleParts.join(' ').substring(0, 200);
     xml += `    <g:title>${escapeXml(title)}</g:title>\n`;
     xml += `    <title>${escapeXml(title)}</title>\n`;
@@ -339,7 +356,8 @@ function generateCSVFeed(vehicles) {
 
     const titleParts = [vehicle.manufacturer];
     if (vehicle.model_series) titleParts.push(vehicle.model_series);
-    if (vehicle.short_description) titleParts.push(vehicle.short_description);
+    const cleanedDesc = cleanShortDescription(vehicle.short_description);
+    if (cleanedDesc) titleParts.push(cleanedDesc);
     const title = titleParts.join(' ').substring(0, 200);
 
     const description = formatDescription(vehicle);
