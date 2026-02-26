@@ -273,6 +273,18 @@ function generateXMLFeed(vehicles) {
 }
 
 /**
+ * Map branch name to city
+ */
+function getBranchCity(branchName) {
+  const mapping = {
+    'Borås Bil': 'Borås',
+    'Kinna Bil': 'Kinna',
+    'Bogesunds Bil Ulricehamn': 'Ulricehamn'
+  };
+  return mapping[branchName] || branchName || '';
+}
+
+/**
  * Escape CSV field (wrap in quotes if needed)
  */
 function escapeCsv(value) {
@@ -311,6 +323,8 @@ function generateCSVFeed(vehicles) {
     'availability',
     'vehicle_registration_plate',
     'address.addr1',
+    'address.city',
+    'address.region',
     'address.country',
     'dealer_id',
     'brand'
@@ -355,6 +369,8 @@ function generateCSVFeed(vehicles) {
       escapeCsv('in stock'),
       escapeCsv(vehicle.registration_number || ''),
       escapeCsv(vehicle.branch?.name || ''),
+      escapeCsv(getBranchCity(vehicle.branch?.name)),
+      escapeCsv('Västra Götalands län'),
       escapeCsv('SE'),
       escapeCsv(vehicle.branch?.id || ''),
       escapeCsv(vehicle.manufacturer)
