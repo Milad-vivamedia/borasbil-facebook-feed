@@ -5366,9 +5366,9 @@
     <body_style>SUV</body_style>
     <fuel_type>Plug-in Hybrid</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>469000 SEK</g:price>
-    <price>469000 SEK</price>
-    <sale_price>469000 SEK</sale_price>
+    <g:price>449000 SEK</g:price>
+    <price>449000 SEK</price>
+    <sale_price>449000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Bogesunds Bil Ulricehamn</component>
       <component name="country">SE</component>
@@ -6890,9 +6890,9 @@
     <body_style>Sedan</body_style>
     <fuel_type>Electric</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>369000 SEK</g:price>
-    <price>369000 SEK</price>
-    <sale_price>369000 SEK</sale_price>
+    <g:price>359000 SEK</g:price>
+    <price>359000 SEK</price>
+    <sale_price>359000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Kinna Bil</component>
       <component name="country">SE</component>
@@ -7726,9 +7726,9 @@
     <body_style>Sedan</body_style>
     <fuel_type>Electric</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>329000 SEK</g:price>
-    <price>329000 SEK</price>
-    <sale_price>329000 SEK</sale_price>
+    <g:price>319000 SEK</g:price>
+    <price>319000 SEK</price>
+    <sale_price>319000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Kinna Bil</component>
       <component name="country">SE</component>
