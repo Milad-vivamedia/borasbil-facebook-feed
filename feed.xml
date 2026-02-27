@@ -8787,50 +8787,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>069226a7-efa8-4687-9bba-c358de05f96a</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>069226a7-efa8-4687-9bba-c358de05f96a</vehicle_id>
-    <vehicle_registration_plate>URA08F</vehicle_registration_plate>
-    <g:title>Volvo XC40 Core - FRI HEMLEVERANS!</g:title>
-    <title>Volvo XC40 Core - FRI HEMLEVERANS!</title>
-    <g:description>Core - FRI HEMLEVERANS!. Miltal: 3 343 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: URA08F. Kontakta oss för mer information.</g:description>
-    <description>Core - FRI HEMLEVERANS!. Miltal: 3 343 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: URA08F. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-ura08f</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-ura08f</link>
-    <url>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-ura08f</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/232891ef-3072-44b1-a47f-9e3d05827700/4a62b6d4-eb62-4096-b33e-318b8b7798b0?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/232891ef-3072-44b1-a47f-9e3d05827700/4a62b6d4-eb62-4096-b33e-318b8b7798b0?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2023</year>
-    <mileage>
-      <value>33430</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>359000 SEK</g:price>
-    <price>359000 SEK</price>
-    <sale_price>359000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>444b34c6-2314-4efd-b702-869521c3ef88</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
