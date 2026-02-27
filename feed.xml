@@ -1501,50 +1501,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>779db131-530f-4adf-b4fd-963f1d4f8046</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>779db131-530f-4adf-b4fd-963f1d4f8046</vehicle_id>
-    <vehicle_registration_plate>JRJ99A</vehicle_registration_plate>
-    <g:title>Renault Clio TCe 90 Zen 5-d III</g:title>
-    <title>Renault Clio TCe 90 Zen 5-d III</title>
-    <g:description>TCe 90 Zen 5-d III. Miltal: 4 488 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Förbränningsmotor. Reg.nr: JRJ99A. Kontakta oss för mer information.</g:description>
-    <description>TCe 90 Zen 5-d III. Miltal: 4 488 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Förbränningsmotor. Reg.nr: JRJ99A. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/renault-clio-jrj99a</g:link>
-    <link>https://borasbil.se/bilar/renault-clio-jrj99a</link>
-    <url>https://borasbil.se/bilar/renault-clio-jrj99a</url>
-    <g:brand>Renault</g:brand>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <g:image_link>https://cdn.wayke.se/cfit/0c1c9ee5-dd9e-4e5c-8f66-aff39e2180e7/b9031efb-8050-474a-ad37-4fe55eca1457?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/0c1c9ee5-dd9e-4e5c-8f66-aff39e2180e7/b9031efb-8050-474a-ad37-4fe55eca1457?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Clio</model>
-    <year>2023</year>
-    <mileage>
-      <value>44880</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Förbränningsmotor</fuel_type>
-    <transmission>Manual</transmission>
-    <g:price>129000 SEK</g:price>
-    <price>129000 SEK</price>
-    <sale_price>129000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>ed48379a-a67c-4b6c-9789-2ffc3847c265</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
