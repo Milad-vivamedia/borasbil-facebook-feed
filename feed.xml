@@ -269,50 +269,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>a855a21d-9e98-4841-af8b-83019cbbb1e1</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>a855a21d-9e98-4841-af8b-83019cbbb1e1</vehicle_id>
-    <vehicle_registration_plate>ZWW70U</vehicle_registration_plate>
-    <g:title>Volvo XC60 Recharge T6 Plus Dark/DRAG</g:title>
-    <title>Volvo XC60 Recharge T6 Plus Dark/DRAG</title>
-    <g:description>Recharge T6 Plus Dark/DRAG. Miltal: 5 768 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: ZWW70U. Kontakta oss för mer information.</g:description>
-    <description>Recharge T6 Plus Dark/DRAG. Miltal: 5 768 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: ZWW70U. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc60-zww70u</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc60-zww70u</link>
-    <url>https://borasbil.se/bilar/volvo-xc60-zww70u</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/0f288e96-d63f-4171-8a24-386c8da7c5e0/c4ea2160-01a8-4a45-9cd2-07bb45e77a89?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/0f288e96-d63f-4171-8a24-386c8da7c5e0/c4ea2160-01a8-4a45-9cd2-07bb45e77a89?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2023</year>
-    <mileage>
-      <value>57680</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>499000 SEK</g:price>
-    <price>499000 SEK</price>
-    <sale_price>499000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>8f52e8e0-5bba-4d11-b11e-fc407ef16b20</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -9679,50 +9635,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>81f95105-fa0a-4453-9e3f-ecd3d51de604</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>81f95105-fa0a-4453-9e3f-ecd3d51de604</vehicle_id>
-    <vehicle_registration_plate>DLR01F</vehicle_registration_plate>
-    <g:title>Citroën C3 SHINE Pure Tech 82 5-d</g:title>
-    <title>Citroën C3 SHINE Pure Tech 82 5-d</title>
-    <g:description>SHINE Pure Tech 82 5-d. Miltal: 3 318 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: DLR01F. Kontakta oss för mer information.</g:description>
-    <description>SHINE Pure Tech 82 5-d. Miltal: 3 318 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: DLR01F. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/citroen-c3-dlr01f</g:link>
-    <link>https://borasbil.se/bilar/citroen-c3-dlr01f</link>
-    <url>https://borasbil.se/bilar/citroen-c3-dlr01f</url>
-    <g:brand>Citroën</g:brand>
-    <brand>Citroën</brand>
-    <make>Citroën</make>
-    <g:image_link>https://cdn.wayke.se/cfit/11700bdd-0268-47ac-8a8e-12db4649f82c/a910842d-a083-4969-aa51-936fec1280b5?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/11700bdd-0268-47ac-8a8e-12db4649f82c/a910842d-a083-4969-aa51-936fec1280b5?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C3</model>
-    <year>2023</year>
-    <mileage>
-      <value>33180</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Manual</transmission>
-    <g:price>119000 SEK</g:price>
-    <price>119000 SEK</price>
-    <sale_price>119000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Bogesunds Bil Ulricehamn</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>7af7ab55-044c-4224-a9ce-da12f55b50bc</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -11628,50 +11540,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>95b765c6-e0c1-4bc2-8d9e-e4e25ebfad22</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>95b765c6-e0c1-4bc2-8d9e-e4e25ebfad22</vehicle_id>
-    <vehicle_registration_plate>JAL00Y</vehicle_registration_plate>
-    <g:title>Citroën C3 SHINE Pure Tech 82 5-d Farthållare</g:title>
-    <title>Citroën C3 SHINE Pure Tech 82 5-d Farthållare</title>
-    <g:description>SHINE Pure Tech 82 5-d Farthållare. Miltal: 2 716 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: JAL00Y. Kontakta oss för mer information.</g:description>
-    <description>SHINE Pure Tech 82 5-d Farthållare. Miltal: 2 716 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: JAL00Y. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/citroen-c3-jal00y</g:link>
-    <link>https://borasbil.se/bilar/citroen-c3-jal00y</link>
-    <url>https://borasbil.se/bilar/citroen-c3-jal00y</url>
-    <g:brand>Citroën</g:brand>
-    <brand>Citroën</brand>
-    <make>Citroën</make>
-    <g:image_link>https://cdn.wayke.se/cfit/eeb6b6e9-2338-47d8-8db5-b7c6ac67860b/0a44867a-3ec0-444f-b0e6-69b684a270dd?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/eeb6b6e9-2338-47d8-8db5-b7c6ac67860b/0a44867a-3ec0-444f-b0e6-69b684a270dd?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C3</model>
-    <year>2023</year>
-    <mileage>
-      <value>27160</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Manual</transmission>
-    <g:price>119000 SEK</g:price>
-    <price>119000 SEK</price>
-    <sale_price>119000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
