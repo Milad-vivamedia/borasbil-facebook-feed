@@ -3549,50 +3549,6 @@
     <state_of_vehicle>NEW</state_of_vehicle>
     </item>
     <item>
-    <g:id>edb92636-6d17-46eb-a19e-f1ada33b8dae</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>edb92636-6d17-46eb-a19e-f1ada33b8dae</vehicle_id>
-    <vehicle_registration_plate>XWA07L</vehicle_registration_plate>
-    <g:title>Volvo C40 Core</g:title>
-    <title>Volvo C40 Core</title>
-    <g:description>Core. Miltal: 6 004 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: XWA07L. Kontakta oss för mer information.</g:description>
-    <description>Core. Miltal: 6 004 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: XWA07L. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-xwa07l</g:link>
-    <link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-xwa07l</link>
-    <url>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-xwa07l</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/07776296-ffb5-426d-86b2-74b72db73cbe/0b82795c-e91c-484a-9bf4-280107910bff?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/07776296-ffb5-426d-86b2-74b72db73cbe/0b82795c-e91c-484a-9bf4-280107910bff?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C40</model>
-    <year>2023</year>
-    <mileage>
-      <value>60040</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>309000 SEK</g:price>
-    <price>309000 SEK</price>
-    <sale_price>309000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>f02bc056-67fe-4071-8524-f664baeb841b</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -6597,50 +6553,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>f092527a-aa1d-4a26-a970-1584cfa4520d</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>f092527a-aa1d-4a26-a970-1584cfa4520d</vehicle_id>
-    <vehicle_registration_plate>NJH32E</vehicle_registration_plate>
-    <g:title>Polestar 2 69kWh</g:title>
-    <title>Polestar 2 69kWh</title>
-    <g:description>69kWh. Miltal: 4 419 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: NJH32E. Kontakta oss för mer information.</g:description>
-    <description>69kWh. Miltal: 4 419 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: NJH32E. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/polestar-2-standard-range-single-motor-njh32e</g:link>
-    <link>https://borasbil.se/bilar/polestar-2-standard-range-single-motor-njh32e</link>
-    <url>https://borasbil.se/bilar/polestar-2-standard-range-single-motor-njh32e</url>
-    <g:brand>Polestar</g:brand>
-    <brand>Polestar</brand>
-    <make>Polestar</make>
-    <g:image_link>https://cdn.wayke.se/cfit/9d02e108-51af-421c-9e2e-53cfd4341cdb/84fa58fc-079e-41d5-8c02-43c53d81d6cd?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/9d02e108-51af-421c-9e2e-53cfd4341cdb/84fa58fc-079e-41d5-8c02-43c53d81d6cd?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>2</model>
-    <year>2023</year>
-    <mileage>
-      <value>44190</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>299000 SEK</g:price>
-    <price>299000 SEK</price>
-    <sale_price>299000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>b2196a24-0fb3-455f-b476-672e440c372d</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -7113,50 +7025,6 @@
     <g:price>329000 SEK</g:price>
     <price>329000 SEK</price>
     <sale_price>329000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>9c9ab4db-2bad-45ba-8e6f-40d2552093c4</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>9c9ab4db-2bad-45ba-8e6f-40d2552093c4</vehicle_id>
-    <vehicle_registration_plate>OBC43G</vehicle_registration_plate>
-    <g:title>Peugeot 3008 GT PureTech 130 A 5-d SUV</g:title>
-    <title>Peugeot 3008 GT PureTech 130 A 5-d SUV</title>
-    <g:description>GT PureTech 130 A 5-d SUV. Miltal: 4 159 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Reg.nr: OBC43G. Kontakta oss för mer information.</g:description>
-    <description>GT PureTech 130 A 5-d SUV. Miltal: 4 159 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Reg.nr: OBC43G. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/peugeot-3008-obc43g</g:link>
-    <link>https://borasbil.se/bilar/peugeot-3008-obc43g</link>
-    <url>https://borasbil.se/bilar/peugeot-3008-obc43g</url>
-    <g:brand>Peugeot</g:brand>
-    <brand>Peugeot</brand>
-    <make>Peugeot</make>
-    <g:image_link>https://cdn.wayke.se/cfit/11cfe537-f11d-4eff-89c7-3838c07c01dd/0d42b073-69d8-4d6f-9064-fed1c22c2bd9?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/11cfe537-f11d-4eff-89c7-3838c07c01dd/0d42b073-69d8-4d6f-9064-fed1c22c2bd9?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>3008</model>
-    <year>2024</year>
-    <mileage>
-      <value>41590</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>229000 SEK</g:price>
-    <price>229000 SEK</price>
-    <sale_price>229000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Borås Bil</component>
       <component name="country">SE</component>
