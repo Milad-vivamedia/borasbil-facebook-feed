@@ -5,50 +5,6 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
-    <g:id>a8f3ecf1-ce2b-4002-89c8-c21cfb025802</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>a8f3ecf1-ce2b-4002-89c8-c21cfb025802</vehicle_id>
-    <vehicle_registration_plate>LTF10H</vehicle_registration_plate>
-    <g:title>Peugeot 208 GT Electric 5-d</g:title>
-    <title>Peugeot 208 GT Electric 5-d</title>
-    <g:description>GT Electric 5-d. Miltal: 2 777 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: LTF10H. Kontakta oss för mer information.</g:description>
-    <description>GT Electric 5-d. Miltal: 2 777 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: LTF10H. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/peugeot-e-208-ltf10h</g:link>
-    <link>https://borasbil.se/bilar/peugeot-e-208-ltf10h</link>
-    <url>https://borasbil.se/bilar/peugeot-e-208-ltf10h</url>
-    <g:brand>Peugeot</g:brand>
-    <brand>Peugeot</brand>
-    <make>Peugeot</make>
-    <g:image_link>https://cdn.wayke.se/cfit/5ae45b91-2d6d-4794-8927-40c31f8a42a3/128401f2-368c-40c8-b500-f5e085ab8f0c?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/5ae45b91-2d6d-4794-8927-40c31f8a42a3/128401f2-368c-40c8-b500-f5e085ab8f0c?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>208</model>
-    <year>2023</year>
-    <mileage>
-      <value>27770</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>199000 SEK</g:price>
-    <price>199000 SEK</price>
-    <sale_price>199000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>49b61b40-55ef-4e0e-b982-62ed6329738d</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -11459,50 +11415,6 @@
     <state_of_vehicle>NEW</state_of_vehicle>
     </item>
     <item>
-    <g:id>4578cbb1-df41-420e-8862-855fd542b9a8</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>4578cbb1-df41-420e-8862-855fd542b9a8</vehicle_id>
-    <vehicle_registration_plate>SLZ67W</vehicle_registration_plate>
-    <g:title>Volvo V60 Recharge T6 Core Edition</g:title>
-    <title>Volvo V60 Recharge T6 Core Edition</title>
-    <g:description>Recharge T6 Core Edition. Miltal: 3 777 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: SLZ67W. Kontakta oss för mer information.</g:description>
-    <description>Recharge T6 Core Edition. Miltal: 3 777 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: SLZ67W. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-v60-slz67w</g:link>
-    <link>https://borasbil.se/bilar/volvo-v60-slz67w</link>
-    <url>https://borasbil.se/bilar/volvo-v60-slz67w</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/02ac5974-c556-41aa-adb0-9e6c11c09a5d/20a0ed0e-8ddb-477d-a1b6-465d0a5d4df1?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/02ac5974-c556-41aa-adb0-9e6c11c09a5d/20a0ed0e-8ddb-477d-a1b6-465d0a5d4df1?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V60</model>
-    <year>2024</year>
-    <mileage>
-      <value>37770</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>389000 SEK</g:price>
-    <price>389000 SEK</price>
-    <sale_price>389000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Bogesunds Bil Ulricehamn</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>49ee1ebb-b6f8-4391-bb43-b663ac02f755</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -13554,94 +13466,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>e8bd5517-f903-472e-bca0-c2b038e590fb</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>e8bd5517-f903-472e-bca0-c2b038e590fb</vehicle_id>
-    <vehicle_registration_plate>WEJ00U</vehicle_registration_plate>
-    <g:title>Peugeot 208 GT Electric 5-d</g:title>
-    <title>Peugeot 208 GT Electric 5-d</title>
-    <g:description>GT Electric 5-d. Miltal: 3 860 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: WEJ00U. Kontakta oss för mer information.</g:description>
-    <description>GT Electric 5-d. Miltal: 3 860 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: WEJ00U. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/peugeot-e-208-wej00u</g:link>
-    <link>https://borasbil.se/bilar/peugeot-e-208-wej00u</link>
-    <url>https://borasbil.se/bilar/peugeot-e-208-wej00u</url>
-    <g:brand>Peugeot</g:brand>
-    <brand>Peugeot</brand>
-    <make>Peugeot</make>
-    <g:image_link>https://cdn.wayke.se/cfit/edc72d1f-b23c-4bc3-942a-0698a53c0525/da4d04ba-84b7-4c27-82fc-0b56ec5f85a0?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/edc72d1f-b23c-4bc3-942a-0698a53c0525/da4d04ba-84b7-4c27-82fc-0b56ec5f85a0?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>208</model>
-    <year>2022</year>
-    <mileage>
-      <value>38600</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>199000 SEK</g:price>
-    <price>199000 SEK</price>
-    <sale_price>199000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Bogesunds Bil Ulricehamn</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>558c8f7a-e35b-4fe8-88a6-161a376103bb</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>558c8f7a-e35b-4fe8-88a6-161a376103bb</vehicle_id>
-    <vehicle_registration_plate>TOF28B</vehicle_registration_plate>
-    <g:title>Ford Mustang Mach-E RWD 294 91 kWh</g:title>
-    <title>Ford Mustang Mach-E RWD 294 91 kWh</title>
-    <g:description>RWD 294 91 kWh. Miltal: 6 628 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: El. Reg.nr: TOF28B. Kontakta oss för mer information.</g:description>
-    <description>RWD 294 91 kWh. Miltal: 6 628 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: El. Reg.nr: TOF28B. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/ford-mustang-mach-e-long-range-tof28b</g:link>
-    <link>https://borasbil.se/bilar/ford-mustang-mach-e-long-range-tof28b</link>
-    <url>https://borasbil.se/bilar/ford-mustang-mach-e-long-range-tof28b</url>
-    <g:brand>Ford</g:brand>
-    <brand>Ford</brand>
-    <make>Ford</make>
-    <g:image_link>https://cdn.wayke.se/cfit/f74a77ad-d26f-4924-9dc9-961e6d049d15/4ae9ae61-febb-4de6-b1fe-eb209f949d9f?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/f74a77ad-d26f-4924-9dc9-961e6d049d15/4ae9ae61-febb-4de6-b1fe-eb209f949d9f?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Mustang Mach-E</model>
-    <year>2021</year>
-    <mileage>
-      <value>66280</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>309000 SEK</g:price>
-    <price>309000 SEK</price>
-    <sale_price>309000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>3572cce8-64e6-472d-a0d2-3bdec32b84a9</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -13886,50 +13710,6 @@
     <g:price>349000 SEK</g:price>
     <price>349000 SEK</price>
     <sale_price>349000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>c92b637e-1f46-48cb-a94b-e36d03095157</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>c92b637e-1f46-48cb-a94b-e36d03095157</vehicle_id>
-    <vehicle_registration_plate>GAF73U</vehicle_registration_plate>
-    <g:title>Volvo C40 Plus Edition - FRI HEMLEVERANS!</g:title>
-    <title>Volvo C40 Plus Edition - FRI HEMLEVERANS!</title>
-    <g:description>Plus Edition - FRI HEMLEVERANS!. Miltal: 5 007 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: GAF73U. Kontakta oss för mer information.</g:description>
-    <description>Plus Edition - FRI HEMLEVERANS!. Miltal: 5 007 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: GAF73U. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-gaf73u</g:link>
-    <link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-gaf73u</link>
-    <url>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-gaf73u</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/ce963e02-4490-4fd8-b68e-8e29fed3fedd/69c150fb-b150-4a14-98ba-04da3a69cc13?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/ce963e02-4490-4fd8-b68e-8e29fed3fedd/69c150fb-b150-4a14-98ba-04da3a69cc13?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C40</model>
-    <year>2023</year>
-    <mileage>
-      <value>50070</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>319000 SEK</g:price>
-    <price>319000 SEK</price>
-    <sale_price>319000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Kinna Bil</component>
       <component name="country">SE</component>
