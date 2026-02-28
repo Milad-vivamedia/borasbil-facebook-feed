@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>a8f3ecf1-ce2b-4002-89c8-c21cfb025802</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>a8f3ecf1-ce2b-4002-89c8-c21cfb025802</vehicle_id>
+    <vehicle_registration_plate>LTF10H</vehicle_registration_plate>
+    <g:title>Peugeot 208 GT Electric 5-d</g:title>
+    <title>Peugeot 208 GT Electric 5-d</title>
+    <g:description>GT Electric 5-d. Miltal: 2 777 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: LTF10H. Kontakta oss för mer information.</g:description>
+    <description>GT Electric 5-d. Miltal: 2 777 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: LTF10H. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/peugeot-e-208-ltf10h</g:link>
+    <link>https://borasbil.se/bilar/peugeot-e-208-ltf10h</link>
+    <url>https://borasbil.se/bilar/peugeot-e-208-ltf10h</url>
+    <g:brand>Peugeot</g:brand>
+    <brand>Peugeot</brand>
+    <make>Peugeot</make>
+    <g:image_link>https://cdn.wayke.se/cfit/5ae45b91-2d6d-4794-8927-40c31f8a42a3/128401f2-368c-40c8-b500-f5e085ab8f0c?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/5ae45b91-2d6d-4794-8927-40c31f8a42a3/128401f2-368c-40c8-b500-f5e085ab8f0c?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>208</model>
+    <year>2023</year>
+    <mileage>
+      <value>27770</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>199000 SEK</g:price>
+    <price>199000 SEK</price>
+    <sale_price>199000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>49b61b40-55ef-4e0e-b982-62ed6329738d</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
