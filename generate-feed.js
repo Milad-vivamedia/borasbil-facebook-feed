@@ -110,6 +110,30 @@ function getVehicleCondition(modelYear) {
 }
 
 /**
+ * Calculate monthly loan cost (annuity formula)
+ * Based on Borås Bil / Volvofinans (Ziklo Bank) default terms:
+ * - 20% down payment
+ * - 6.7% annual interest
+ * - 60 months loan term
+ */
+function calculateMonthlyCost(price) {
+  if (!price || price <= 0) return null;
+  const downPaymentRate = 0.20;
+  const annualRate = 0.067;
+  const months = 60;
+
+  const loanAmount = price * (1 - downPaymentRate);
+  const monthlyRate = annualRate / 12;
+  const monthlyCost = loanAmount * (monthlyRate * Math.pow(1 + monthlyRate, months)) / (Math.pow(1 + monthlyRate, months) - 1);
+
+  return {
+    monthlyCost: Math.round(monthlyCost),
+    loanAmount: Math.round(loanAmount),
+    downPayment: Math.round(price * downPaymentRate)
+  };
+}
+
+/**
  * Clean short_description: remove "More", "Demo", "DEMO", "Demobil" etc.
  */
 function cleanShortDescription(text) {
@@ -131,6 +155,8 @@ function formatDescription(vehicle) {
   const parts = [];
   const cleaned = cleanShortDescription(vehicle.short_description);
   if (cleaned) parts.push(cleaned);
+  const loan = calculateMonthlyCost(vehicle.price);
+  if (loan) parts.push(`Från ${loan.monthlyCost.toLocaleString('sv-SE')} kr/mån`);
   if (vehicle.mileage) parts.push(`Miltal: ${vehicle.mileage.toLocaleString('sv-SE')} mil`);
   if (vehicle.model_year) parts.push(`Årsmodell: ${vehicle.model_year}`);
   if (vehicle.gearbox_type) parts.push(`Växellåda: ${vehicle.gearbox_type}`);
@@ -344,7 +370,10 @@ function generateCSVFeed(vehicles) {
     'address.region',
     'address.country',
     'dealer_id',
-    'brand'
+    'brand',
+    'custom_label_0',
+    'custom_label_1',
+    'custom_label_2'
   ];
 
   let csv = headers.join(',') + '\n';
@@ -363,6 +392,7 @@ function generateCSVFeed(vehicles) {
     const description = formatDescription(vehicle);
     const vehicleUrl = `https://borasbil.se/bilar/${vehicle.slug}`;
     const imageUrl = getImageUrl(vehicle);
+    const loan = calculateMonthlyCost(vehicle.price);
     const state = getVehicleCondition(vehicle.model_year || 0);
     const condition = state === 'NEW' ? 'new' : 'used';
 
@@ -392,7 +422,10 @@ function generateCSVFeed(vehicles) {
       escapeCsv('Västra Götalands län'),
       escapeCsv('SE'),
       escapeCsv(vehicle.branch?.id || ''),
-      escapeCsv(vehicle.manufacturer)
+      escapeCsv(vehicle.manufacturer),
+      escapeCsv(loan ? `${loan.monthlyCost} kr/mån` : ''),
+      escapeCsv(loan ? `Lånebelopp: ${loan.loanAmount} kr` : ''),
+      escapeCsv(loan ? `Kontantinsats: ${loan.downPayment} kr` : '')
     ];
 
     csv += row.join(',') + '\n';
