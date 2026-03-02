@@ -705,50 +705,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>dafdc484-3f76-4f9e-972e-67eb821a7f16</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>dafdc484-3f76-4f9e-972e-67eb821a7f16</vehicle_id>
-    <vehicle_registration_plate>GHC09J</vehicle_registration_plate>
-    <g:title>Volvo XC40 Ultimate</g:title>
-    <title>Volvo XC40 Ultimate</title>
-    <g:description>Ultimate. Från 5 961 kr/mån. Miltal: 7 762 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: GHC09J. Kontakta oss för mer information.</g:description>
-    <description>Ultimate. Från 5 961 kr/mån. Miltal: 7 762 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: GHC09J. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-ghc09j</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-ghc09j</link>
-    <url>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-ghc09j</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/7474d620-4a2d-467c-bf53-edb137e7ddf4/59a454bd-f5f6-4b51-b550-5c517704f39a?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/7474d620-4a2d-467c-bf53-edb137e7ddf4/59a454bd-f5f6-4b51-b550-5c517704f39a?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2023</year>
-    <mileage>
-      <value>77620</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>379000 SEK</g:price>
-    <price>379000 SEK</price>
-    <sale_price>379000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>9bd34a7d-9e86-4356-94ea-656ea19db0d8</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
