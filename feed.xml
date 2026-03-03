@@ -5,6 +5,94 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>24af1a13-d539-455a-8fad-1043c2d8959b</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>24af1a13-d539-455a-8fad-1043c2d8959b</vehicle_id>
+    <vehicle_registration_plate>GHU19C</vehicle_registration_plate>
+    <g:title>Peugeot 2008 GT Electric 5-d SUV</g:title>
+    <title>Peugeot 2008 GT Electric 5-d SUV</title>
+    <g:description>GT Electric 5-d SUV. Från 3 444 kr/mån. Miltal: 2 604 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: GHU19C. Kontakta oss för mer information.</g:description>
+    <description>GT Electric 5-d SUV. Från 3 444 kr/mån. Miltal: 2 604 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: GHU19C. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/peugeot-e-2008-ghu19c</g:link>
+    <link>https://borasbil.se/bilar/peugeot-e-2008-ghu19c</link>
+    <url>https://borasbil.se/bilar/peugeot-e-2008-ghu19c</url>
+    <g:brand>Peugeot</g:brand>
+    <brand>Peugeot</brand>
+    <make>Peugeot</make>
+    <g:image_link>https://cdn.wayke.se/cfit/e5b47201-3a02-45fa-a391-6c16ca83a28a/947b39c1-9efd-4122-980d-ca0477fb72c2?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/e5b47201-3a02-45fa-a391-6c16ca83a28a/947b39c1-9efd-4122-980d-ca0477fb72c2?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>2008</model>
+    <year>2022</year>
+    <mileage>
+      <value>26040</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>219000 SEK</g:price>
+    <price>219000 SEK</price>
+    <sale_price>219000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>5ba86380-82d1-443f-b9aa-f52e33ec211b</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>5ba86380-82d1-443f-b9aa-f52e33ec211b</vehicle_id>
+    <vehicle_registration_plate>THR14P</vehicle_registration_plate>
+    <g:title>Polestar 2</g:title>
+    <title>Polestar 2</title>
+    <g:description>Från 6 275 kr/mån. Miltal: 3 974 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Reg.nr: THR14P. Kontakta oss för mer information.</g:description>
+    <description>Från 6 275 kr/mån. Miltal: 3 974 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Reg.nr: THR14P. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/polestar-2-long-range-single-motor-thr14p</g:link>
+    <link>https://borasbil.se/bilar/polestar-2-long-range-single-motor-thr14p</link>
+    <url>https://borasbil.se/bilar/polestar-2-long-range-single-motor-thr14p</url>
+    <g:brand>Polestar</g:brand>
+    <brand>Polestar</brand>
+    <make>Polestar</make>
+    <g:image_link>https://cdn.wayke.se/cfit/3d4d742c-fe14-4564-b7ea-3c9ad2ebf723/915ba1f4-2cee-4344-9577-8312cab8699a?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/3d4d742c-fe14-4564-b7ea-3c9ad2ebf723/915ba1f4-2cee-4344-9577-8312cab8699a?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>2</model>
+    <year>2024</year>
+    <mileage>
+      <value>39740</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>399000 SEK</g:price>
+    <price>399000 SEK</price>
+    <sale_price>399000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>f1f85ea7-80c6-4234-ad5f-3463d5a983d7</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
