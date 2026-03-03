@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>ada087d9-6d07-4d9a-afbe-1522c37c1bfb</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>ada087d9-6d07-4d9a-afbe-1522c37c1bfb</vehicle_id>
+    <vehicle_registration_plate>RCB74C</vehicle_registration_plate>
+    <g:title>Volvo V60 T6 Plus Dark Nordic Edition</g:title>
+    <title>Volvo V60 T6 Plus Dark Nordic Edition</title>
+    <g:description>T6 Plus Dark Nordic Edition. Från 8 006 kr/mån. Miltal: 1 592 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: RCB74C. Kontakta oss för mer information.</g:description>
+    <description>T6 Plus Dark Nordic Edition. Från 8 006 kr/mån. Miltal: 1 592 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: RCB74C. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-v60-rcb74c</g:link>
+    <link>https://borasbil.se/bilar/volvo-v60-rcb74c</link>
+    <url>https://borasbil.se/bilar/volvo-v60-rcb74c</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/17aa38c3-7a62-42e4-b575-72de39e1e3b3/57356666-ed0e-447f-8edd-5742b32e8498?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/17aa38c3-7a62-42e4-b575-72de39e1e3b3/57356666-ed0e-447f-8edd-5742b32e8498?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>V60</model>
+    <year>2026</year>
+    <mileage>
+      <value>15920</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Wagon</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>509000 SEK</g:price>
+    <price>509000 SEK</price>
+    <sale_price>509000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    </item>
+    <item>
     <g:id>dc71ef38-a4fd-42c0-b025-c42f172cfb55</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -3105,50 +3149,6 @@
     <year>2026</year>
     <mileage>
       <value>15050</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>509000 SEK</g:price>
-    <price>509000 SEK</price>
-    <sale_price>509000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>new</g:condition>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>64ca73d9-cf7e-4ffe-9c5f-569c8ee69afa</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>64ca73d9-cf7e-4ffe-9c5f-569c8ee69afa</vehicle_id>
-    <vehicle_registration_plate>RCB74C</vehicle_registration_plate>
-    <g:title>Volvo V60 T6 Plus Dark Nordic Edition</g:title>
-    <title>Volvo V60 T6 Plus Dark Nordic Edition</title>
-    <g:description>T6 Plus Dark Nordic Edition. Från 8 006 kr/mån. Miltal: 1 592 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: RCB74C. Kontakta oss för mer information.</g:description>
-    <description>T6 Plus Dark Nordic Edition. Från 8 006 kr/mån. Miltal: 1 592 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: RCB74C. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-v60-rcb74c</g:link>
-    <link>https://borasbil.se/bilar/volvo-v60-rcb74c</link>
-    <url>https://borasbil.se/bilar/volvo-v60-rcb74c</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/7fd3d828-d2df-4da6-b51a-1a9fac15dc5f/311d4805-cdbe-405a-ad7a-770c93943a68?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/7fd3d828-d2df-4da6-b51a-1a9fac15dc5f/311d4805-cdbe-405a-ad7a-770c93943a68?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V60</model>
-    <year>2026</year>
-    <mileage>
-      <value>15920</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Wagon</body_style>
