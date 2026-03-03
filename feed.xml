@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>1730a19e-1e92-46f1-ad99-0a4fe5f074fd</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>1730a19e-1e92-46f1-ad99-0a4fe5f074fd</vehicle_id>
+    <vehicle_registration_plate>WBH95R</vehicle_registration_plate>
+    <g:title>Citroën C4 SHINE Pure Tech 130 A 5-d</g:title>
+    <title>Citroën C4 SHINE Pure Tech 130 A 5-d</title>
+    <g:description>SHINE Pure Tech 130 A 5-d. Från 3 287 kr/mån. Miltal: 4 650 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Reg.nr: WBH95R. Kontakta oss för mer information.</g:description>
+    <description>SHINE Pure Tech 130 A 5-d. Från 3 287 kr/mån. Miltal: 4 650 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Reg.nr: WBH95R. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/citroen-c4-wbh95r</g:link>
+    <link>https://borasbil.se/bilar/citroen-c4-wbh95r</link>
+    <url>https://borasbil.se/bilar/citroen-c4-wbh95r</url>
+    <g:brand>Citroën</g:brand>
+    <brand>Citroën</brand>
+    <make>Citroën</make>
+    <g:image_link>https://cdn.wayke.se/cfit/d7c3a4f8-1f90-4f84-b049-ab0c82cd3754/3aff0967-01a3-4595-b865-1f38b22f382c?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/d7c3a4f8-1f90-4f84-b049-ab0c82cd3754/3aff0967-01a3-4595-b865-1f38b22f382c?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>C4</model>
+    <year>2024</year>
+    <mileage>
+      <value>46500</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>209000 SEK</g:price>
+    <price>209000 SEK</price>
+    <sale_price>209000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>2fa76138-ea28-451c-b52c-e56dc599d0ae</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -4520,8 +4564,8 @@
     <vehicle_registration_plate>CHB23E</vehicle_registration_plate>
     <g:title>Renault Captur PHEV Intens CVT II</g:title>
     <title>Renault Captur PHEV Intens CVT II</title>
-    <g:description>PHEV Intens CVT II. Från 4 074 kr/mån. Miltal: 6 085 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: CHB23E. Kontakta oss för mer information.</g:description>
-    <description>PHEV Intens CVT II. Från 4 074 kr/mån. Miltal: 6 085 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: CHB23E. Kontakta oss för mer information.</description>
+    <g:description>PHEV Intens CVT II. Från 3 287 kr/mån. Miltal: 6 085 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: CHB23E. Kontakta oss för mer information.</g:description>
+    <description>PHEV Intens CVT II. Från 3 287 kr/mån. Miltal: 6 085 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: CHB23E. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/renault-captur-e-tech-plugin-hybrid-160-chb23e</g:link>
     <link>https://borasbil.se/bilar/renault-captur-e-tech-plugin-hybrid-160-chb23e</link>
     <url>https://borasbil.se/bilar/renault-captur-e-tech-plugin-hybrid-160-chb23e</url>
@@ -4542,9 +4586,9 @@
     <body_style>Sedan</body_style>
     <fuel_type>Plug-in Hybrid</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>259000 SEK</g:price>
-    <price>259000 SEK</price>
-    <sale_price>259000 SEK</sale_price>
+    <g:price>209000 SEK</g:price>
+    <price>209000 SEK</price>
+    <sale_price>209000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Borås Bil</component>
       <component name="country">SE</component>
