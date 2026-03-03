@@ -5,6 +5,138 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>2fa76138-ea28-451c-b52c-e56dc599d0ae</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>2fa76138-ea28-451c-b52c-e56dc599d0ae</vehicle_id>
+    <vehicle_registration_plate>NJH32E</vehicle_registration_plate>
+    <g:title>Polestar 2 69kWh</g:title>
+    <title>Polestar 2 69kWh</title>
+    <g:description>69kWh. Från 4 703 kr/mån. Miltal: 4 428 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: NJH32E. Kontakta oss för mer information.</g:description>
+    <description>69kWh. Från 4 703 kr/mån. Miltal: 4 428 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: NJH32E. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/polestar-2-standard-range-single-motor-njh32e</g:link>
+    <link>https://borasbil.se/bilar/polestar-2-standard-range-single-motor-njh32e</link>
+    <url>https://borasbil.se/bilar/polestar-2-standard-range-single-motor-njh32e</url>
+    <g:brand>Polestar</g:brand>
+    <brand>Polestar</brand>
+    <make>Polestar</make>
+    <g:image_link>https://cdn.wayke.se/cfit/4336f9b9-2231-4844-bf4d-75e679c227f4/9fe86771-9451-4cb1-8b9b-fff9ecb531b0?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/4336f9b9-2231-4844-bf4d-75e679c227f4/9fe86771-9451-4cb1-8b9b-fff9ecb531b0?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>2</model>
+    <year>2023</year>
+    <mileage>
+      <value>44280</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>299000 SEK</g:price>
+    <price>299000 SEK</price>
+    <sale_price>299000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>c4ba9ae2-9568-49df-8b37-5050d67ea3b9</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>c4ba9ae2-9568-49df-8b37-5050d67ea3b9</vehicle_id>
+    <vehicle_registration_plate>GRA09N</vehicle_registration_plate>
+    <g:title>Volvo C40 Ultimate</g:title>
+    <title>Volvo C40 Ultimate</title>
+    <g:description>Ultimate. Från 5 804 kr/mån. Miltal: 3 859 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: GRA09N. Kontakta oss för mer information.</g:description>
+    <description>Ultimate. Från 5 804 kr/mån. Miltal: 3 859 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: GRA09N. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-gra09n</g:link>
+    <link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-gra09n</link>
+    <url>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-gra09n</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/6ed199e7-ecf3-4c07-b0c8-33b03f168486/c39ebe5a-b18c-4cb4-bada-a25bc4c90388?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/6ed199e7-ecf3-4c07-b0c8-33b03f168486/c39ebe5a-b18c-4cb4-bada-a25bc4c90388?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>C40</model>
+    <year>2023</year>
+    <mileage>
+      <value>38590</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>369000 SEK</g:price>
+    <price>369000 SEK</price>
+    <sale_price>369000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>f590d664-401f-4c62-a979-f4e6e7767951</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>f590d664-401f-4c62-a979-f4e6e7767951</vehicle_id>
+    <vehicle_registration_plate>CMP03D</vehicle_registration_plate>
+    <g:title>Volvo C40 Core</g:title>
+    <title>Volvo C40 Core</title>
+    <g:description>Core. Från 4 703 kr/mån. Miltal: 7 505 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: CMP03D. Kontakta oss för mer information.</g:description>
+    <description>Core. Från 4 703 kr/mån. Miltal: 7 505 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: CMP03D. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-cmp03d</g:link>
+    <link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-cmp03d</link>
+    <url>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-cmp03d</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/06ec21c7-5858-4302-a7d0-691f3519a47b/6af838ea-b474-4cf5-9a3b-dfe5567c9619?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/06ec21c7-5858-4302-a7d0-691f3519a47b/6af838ea-b474-4cf5-9a3b-dfe5567c9619?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>C40</model>
+    <year>2023</year>
+    <mileage>
+      <value>75050</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>299000 SEK</g:price>
+    <price>299000 SEK</price>
+    <sale_price>299000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>4d357b95-2ce3-437b-bbd8-ddcabd41ec30</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -3792,9 +3924,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/918283ad-e3a2-4e1f-9fe0-51c9fe7b80c1/2aaa6fde-c059-4bb2-bb15-6ae102327171?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/b5afc0be-07b3-43c1-a952-3f9a9e554e8a/449a6ddc-780c-4307-89db-6868f3fcd55b?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/918283ad-e3a2-4e1f-9fe0-51c9fe7b80c1/2aaa6fde-c059-4bb2-bb15-6ae102327171?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/b5afc0be-07b3-43c1-a952-3f9a9e554e8a/449a6ddc-780c-4307-89db-6868f3fcd55b?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC60</model>
@@ -12958,6 +13090,11 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/f68753a1-f2d0-4e13-a443-f6860bd50267/58e98ad2-0d2a-43f8-99ef-8c9150c4a440?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/f68753a1-f2d0-4e13-a443-f6860bd50267/58e98ad2-0d2a-43f8-99ef-8c9150c4a440?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
     <model>C40</model>
     <year>2023</year>
     <mileage>
