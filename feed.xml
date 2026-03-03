@@ -5,45 +5,6 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
-    <g:id>e98ef56d-72b9-4817-a548-e81feba575df</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>e98ef56d-72b9-4817-a548-e81feba575df</vehicle_id>
-    <vehicle_registration_plate>GXA73B</vehicle_registration_plate>
-    <g:title>Volvo XC40 Core</g:title>
-    <title>Volvo XC40 Core</title>
-    <g:description>Core. Från 4 168 kr/mån. Miltal: 11 226 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: GXA73B. Kontakta oss för mer information.</g:description>
-    <description>Core. Från 4 168 kr/mån. Miltal: 11 226 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: GXA73B. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-gxa73b</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-gxa73b</link>
-    <url>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-gxa73b</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <model>XC40</model>
-    <year>2023</year>
-    <mileage>
-      <value>112260</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>265000 SEK</g:price>
-    <price>265000 SEK</price>
-    <sale_price>265000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>4d357b95-2ce3-437b-bbd8-ddcabd41ec30</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
