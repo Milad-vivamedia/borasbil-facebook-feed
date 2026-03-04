@@ -4704,9 +4704,9 @@
     <g:brand>Renault</g:brand>
     <brand>Renault</brand>
     <make>Renault</make>
-    <g:image_link>https://cdn.wayke.se/cfit/350efb70-2f7e-43c5-9a84-c5005ff86b64/9ce235a5-9207-441e-8b57-8b35dbdb02ff?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/64fe0ab4-ab8f-416b-b178-12b79baf8230/bcc32fc0-e980-4c99-8cfa-77698be625a0?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/350efb70-2f7e-43c5-9a84-c5005ff86b64/9ce235a5-9207-441e-8b57-8b35dbdb02ff?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/64fe0ab4-ab8f-416b-b178-12b79baf8230/bcc32fc0-e980-4c99-8cfa-77698be625a0?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>Captur</model>
@@ -12147,50 +12147,6 @@
     <g:price>599995 SEK</g:price>
     <price>599995 SEK</price>
     <sale_price>599995 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>new</g:condition>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>ab5b71f0-369a-499f-87d3-112b42ff9ef5</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>ab5b71f0-369a-499f-87d3-112b42ff9ef5</vehicle_id>
-    <vehicle_registration_plate>NEA86T</vehicle_registration_plate>
-    <g:title>Lynk &amp; Co 08</g:title>
-    <title>Lynk &amp; Co 08</title>
-    <g:description>Från 8 949 kr/mån. Miltal: 302 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: NEA86T. Kontakta oss för mer information.</g:description>
-    <description>Från 8 949 kr/mån. Miltal: 302 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: NEA86T. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/lynk-co-08-phev-nea86t</g:link>
-    <link>https://borasbil.se/bilar/lynk-co-08-phev-nea86t</link>
-    <url>https://borasbil.se/bilar/lynk-co-08-phev-nea86t</url>
-    <g:brand>Lynk &amp; Co</g:brand>
-    <brand>Lynk &amp; Co</brand>
-    <make>Lynk &amp; Co</make>
-    <g:image_link>https://cdn.wayke.se/cfit/22dd2b4c-471a-4ea6-89c4-a9c40ac390c4/73c78a25-1f90-4b7a-82d1-d1a9a51c201a?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/22dd2b4c-471a-4ea6-89c4-a9c40ac390c4/73c78a25-1f90-4b7a-82d1-d1a9a51c201a?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>08</model>
-    <year>2026</year>
-    <mileage>
-      <value>3020</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>569000 SEK</g:price>
-    <price>569000 SEK</price>
-    <sale_price>569000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Borås Bil</component>
       <component name="country">SE</component>
