@@ -1680,9 +1680,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/422d07ed-039c-48c1-a8ce-8f85fda5183c/8fbd99fa-4ed7-42bc-84e1-68a7f0e55db2?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/4f2c0fe8-7db9-4c62-a283-1b674f9b5d9b/9722e078-f534-46d7-9462-050c88810424?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/422d07ed-039c-48c1-a8ce-8f85fda5183c/8fbd99fa-4ed7-42bc-84e1-68a7f0e55db2?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/4f2c0fe8-7db9-4c62-a283-1b674f9b5d9b/9722e078-f534-46d7-9462-050c88810424?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC60</model>
@@ -8433,50 +8433,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>c53172f6-208d-48a3-adbe-5751e3e58a63</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>c53172f6-208d-48a3-adbe-5751e3e58a63</vehicle_id>
-    <vehicle_registration_plate>JAL30Y</vehicle_registration_plate>
-    <g:title>Citroën C3 SHINE Pure Tech 82 5-d</g:title>
-    <title>Citroën C3 SHINE Pure Tech 82 5-d</title>
-    <g:description>SHINE Pure Tech 82 5-d. Från 1 872 kr/mån. Miltal: 3 306 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: JAL30Y. Kontakta oss för mer information.</g:description>
-    <description>SHINE Pure Tech 82 5-d. Från 1 872 kr/mån. Miltal: 3 306 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: JAL30Y. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/citroen-c3-jal30y</g:link>
-    <link>https://borasbil.se/bilar/citroen-c3-jal30y</link>
-    <url>https://borasbil.se/bilar/citroen-c3-jal30y</url>
-    <g:brand>Citroën</g:brand>
-    <brand>Citroën</brand>
-    <make>Citroën</make>
-    <g:image_link>https://cdn.wayke.se/cfit/c6358585-33bd-4224-9180-5d4ab4d16dc6/a1f5a4cd-4074-4a41-8ee6-b1e4056535e7?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/c6358585-33bd-4224-9180-5d4ab4d16dc6/a1f5a4cd-4074-4a41-8ee6-b1e4056535e7?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C3</model>
-    <year>2023</year>
-    <mileage>
-      <value>33060</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Manual</transmission>
-    <g:price>119000 SEK</g:price>
-    <price>119000 SEK</price>
-    <sale_price>119000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>526e3377-f976-4752-9c7e-1734a1e35b88</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -8602,50 +8558,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>f22337c1-e228-4d32-b629-72ef55114d99</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>f22337c1-e228-4d32-b629-72ef55114d99</vehicle_id>
-    <vehicle_registration_plate>DAT03R</vehicle_registration_plate>
-    <g:title>Volvo XC40 Ultimate - FRI HEMLEVERANS!</g:title>
-    <title>Volvo XC40 Ultimate - FRI HEMLEVERANS!</title>
-    <g:description>Ultimate - FRI HEMLEVERANS!. Från 6 118 kr/mån. Miltal: 5 392 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: DAT03R. Kontakta oss för mer information.</g:description>
-    <description>Ultimate - FRI HEMLEVERANS!. Från 6 118 kr/mån. Miltal: 5 392 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: DAT03R. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-dat03r</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-dat03r</link>
-    <url>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-dat03r</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/92825240-6ef8-484c-8146-efde3925fd79/e6f967d5-6371-4cd4-838c-7fd72bd588f1?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/92825240-6ef8-484c-8146-efde3925fd79/e6f967d5-6371-4cd4-838c-7fd72bd588f1?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2023</year>
-    <mileage>
-      <value>53920</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>389000 SEK</g:price>
-    <price>389000 SEK</price>
-    <sale_price>389000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -9454,9 +9366,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/9a06515d-cfd4-4a6f-8447-e4e8aba0d919/55dd801b-7109-4bbe-93aa-e6a69bbe1fac?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/a991c844-712b-4902-9d19-4fcba22e885a/9582543f-e309-46fe-8a50-8d30f8ece885?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/9a06515d-cfd4-4a6f-8447-e4e8aba0d919/55dd801b-7109-4bbe-93aa-e6a69bbe1fac?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/a991c844-712b-4902-9d19-4fcba22e885a/9582543f-e309-46fe-8a50-8d30f8ece885?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC90</model>
@@ -14636,50 +14548,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>0cf10f74-384d-4538-87cc-99237090e8e9</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>0cf10f74-384d-4538-87cc-99237090e8e9</vehicle_id>
-    <vehicle_registration_plate>BKU82E</vehicle_registration_plate>
-    <g:title>Volvo C40 Core - FRI HEMLEVERANS!</g:title>
-    <title>Volvo C40 Core - FRI HEMLEVERANS!</title>
-    <g:description>Core - FRI HEMLEVERANS!. Från 5 489 kr/mån. Miltal: 6 676 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: BKU82E. Kontakta oss för mer information.</g:description>
-    <description>Core - FRI HEMLEVERANS!. Från 5 489 kr/mån. Miltal: 6 676 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: BKU82E. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-c40-recharge-twin-motor-bku82e</g:link>
-    <link>https://borasbil.se/bilar/volvo-c40-recharge-twin-motor-bku82e</link>
-    <url>https://borasbil.se/bilar/volvo-c40-recharge-twin-motor-bku82e</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/a4c7de79-d9c9-4c26-b5b8-f6f068bcab3a/b96689d5-8356-4acb-bd4c-fb5ac33c425d?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/a4c7de79-d9c9-4c26-b5b8-f6f068bcab3a/b96689d5-8356-4acb-bd4c-fb5ac33c425d?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C40</model>
-    <year>2023</year>
-    <mileage>
-      <value>66760</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>349000 SEK</g:price>
-    <price>349000 SEK</price>
-    <sale_price>349000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
