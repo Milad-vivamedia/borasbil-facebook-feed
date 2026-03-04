@@ -5,6 +5,46 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>5e35e1f2-85ce-4c95-906a-4a0839981f46</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>5e35e1f2-85ce-4c95-906a-4a0839981f46</vehicle_id>
+    <vehicle_registration_plate>MGS22E</vehicle_registration_plate>
+    <g:title>Volvo XC90 T8 Ultra Black Edition</g:title>
+    <title>Volvo XC90 T8 Ultra Black Edition</title>
+    <g:description>T8 Ultra Black Edition. Från 16 735 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: MGS22E. Kontakta oss för mer information.</g:description>
+    <description>T8 Ultra Black Edition. Från 16 735 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: MGS22E. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-xc90-mgs22e</g:link>
+    <link>https://borasbil.se/bilar/volvo-xc90-mgs22e</link>
+    <url>https://borasbil.se/bilar/volvo-xc90-mgs22e</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/9c1def54-0776-4878-822d-77ad672c4700/520e5a33-b7ba-4c16-8277-82cd537cbcbd?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/9c1def54-0776-4878-822d-77ad672c4700/520e5a33-b7ba-4c16-8277-82cd537cbcbd?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC90</model>
+    <year>2026</year>
+    <body_style>SUV</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>1064000 SEK</g:price>
+    <price>1064000 SEK</price>
+    <sale_price>1064000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    </item>
+    <item>
     <g:id>114195f1-ee76-4cca-8fcc-32899aa7a1dc</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -4656,9 +4696,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/22859506-021c-4663-bf7a-64a6d316eeda/84f7974e-ac75-4992-b54b-5ed1b90f3bc3?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/13a94e26-9d80-422e-9263-cf705b654dad/a1a50d30-dd5a-4db6-b46f-92bf71cbf789?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/22859506-021c-4663-bf7a-64a6d316eeda/84f7974e-ac75-4992-b54b-5ed1b90f3bc3?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/13a94e26-9d80-422e-9263-cf705b654dad/a1a50d30-dd5a-4db6-b46f-92bf71cbf789?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC40</model>
@@ -9010,8 +9050,8 @@
     <vehicle_registration_plate>FSA25L</vehicle_registration_plate>
     <g:title>Lynk &amp; Co 01</g:title>
     <title>Lynk &amp; Co 01</title>
-    <g:description>Från 6 747 kr/mån. Årsmodell: 2025. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: FSA25L. Kontakta oss för mer information.</g:description>
-    <description>Från 6 747 kr/mån. Årsmodell: 2025. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: FSA25L. Kontakta oss för mer information.</description>
+    <g:description>Från 6 747 kr/mån. Miltal: 85 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: FSA25L. Kontakta oss för mer information.</g:description>
+    <description>Från 6 747 kr/mån. Miltal: 85 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: FSA25L. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/lynk-co-01-phev-fsa25l</g:link>
     <link>https://borasbil.se/bilar/lynk-co-01-phev-fsa25l</link>
     <url>https://borasbil.se/bilar/lynk-co-01-phev-fsa25l</url>
@@ -9025,6 +9065,10 @@
     </image>
     <model>01</model>
     <year>2025</year>
+    <mileage>
+      <value>850</value>
+      <unit>KM</unit>
+    </mileage>
     <body_style>Sedan</body_style>
     <fuel_type>Plug-in Hybrid</fuel_type>
     <transmission>Automatic</transmission>
@@ -11730,8 +11774,8 @@
     <vehicle_registration_plate>RJZ94H</vehicle_registration_plate>
     <g:title>Citroën C3 Aircross PLUS 7 sits 100hk</g:title>
     <title>Citroën C3 Aircross PLUS 7 sits 100hk</title>
-    <g:description>PLUS 7 sits 100hk. Från 3 853 kr/mån. Årsmodell: 2025. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: RJZ94H. Kontakta oss för mer information.</g:description>
-    <description>PLUS 7 sits 100hk. Från 3 853 kr/mån. Årsmodell: 2025. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: RJZ94H. Kontakta oss för mer information.</description>
+    <g:description>PLUS 7 sits 100hk. Från 3 759 kr/mån. Årsmodell: 2025. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: RJZ94H. Kontakta oss för mer information.</g:description>
+    <description>PLUS 7 sits 100hk. Från 3 759 kr/mån. Årsmodell: 2025. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: RJZ94H. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/citroen-c3-aircross-rjz94h</g:link>
     <link>https://borasbil.se/bilar/citroen-c3-aircross-rjz94h</link>
     <url>https://borasbil.se/bilar/citroen-c3-aircross-rjz94h</url>
@@ -11748,9 +11792,9 @@
     <body_style>Sedan</body_style>
     <fuel_type>Gasoline</fuel_type>
     <transmission>Manual</transmission>
-    <g:price>245000 SEK</g:price>
-    <price>245000 SEK</price>
-    <sale_price>245000 SEK</sale_price>
+    <g:price>239000 SEK</g:price>
+    <price>239000 SEK</price>
+    <sale_price>239000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Borås Bil</component>
       <component name="country">SE</component>
@@ -11770,8 +11814,8 @@
     <vehicle_registration_plate>NRA78M</vehicle_registration_plate>
     <g:title>Citroën C3 MAX 44 kWh</g:title>
     <title>Citroën C3 MAX 44 kWh</title>
-    <g:description>MAX 44 kWh. Från 4 561 kr/mån. Miltal: 90 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: NRA78M. Kontakta oss för mer information.</g:description>
-    <description>MAX 44 kWh. Från 4 561 kr/mån. Miltal: 90 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: NRA78M. Kontakta oss för mer information.</description>
+    <g:description>MAX 44 kWh. Från 4 388 kr/mån. Miltal: 90 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: NRA78M. Kontakta oss för mer information.</g:description>
+    <description>MAX 44 kWh. Från 4 388 kr/mån. Miltal: 90 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: NRA78M. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/citroen-e-c3-nra78m</g:link>
     <link>https://borasbil.se/bilar/citroen-e-c3-nra78m</link>
     <url>https://borasbil.se/bilar/citroen-e-c3-nra78m</url>
@@ -11792,9 +11836,9 @@
     <body_style>Sedan</body_style>
     <fuel_type>Electric</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>289999 SEK</g:price>
-    <price>289999 SEK</price>
-    <sale_price>289999 SEK</sale_price>
+    <g:price>279000 SEK</g:price>
+    <price>279000 SEK</price>
+    <sale_price>279000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Borås Bil</component>
       <component name="country">SE</component>
@@ -16892,8 +16936,8 @@
     <vehicle_registration_plate>XPC96K</vehicle_registration_plate>
     <g:title>Peugeot 5008 GT 73kWh 7 Sits Ink vinterdäck</g:title>
     <title>Peugeot 5008 GT 73kWh 7 Sits Ink vinterdäck</title>
-    <g:description>GT 73kWh 7 Sits Ink vinterdäck. Från 8 006 kr/mån. Miltal: 1 161 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: XPC96K. Kontakta oss för mer information.</g:description>
-    <description>GT 73kWh 7 Sits Ink vinterdäck. Från 8 006 kr/mån. Miltal: 1 161 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: XPC96K. Kontakta oss för mer information.</description>
+    <g:description>GT 73kWh 7 Sits Ink vinterdäck. Från 7 848 kr/mån. Miltal: 1 161 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: XPC96K. Kontakta oss för mer information.</g:description>
+    <description>GT 73kWh 7 Sits Ink vinterdäck. Från 7 848 kr/mån. Miltal: 1 161 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: XPC96K. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/peugeot-e-5008-xpc96k</g:link>
     <link>https://borasbil.se/bilar/peugeot-e-5008-xpc96k</link>
     <url>https://borasbil.se/bilar/peugeot-e-5008-xpc96k</url>
@@ -16914,9 +16958,9 @@
     <body_style>SUV</body_style>
     <fuel_type>Electric</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>509000 SEK</g:price>
-    <price>509000 SEK</price>
-    <sale_price>509000 SEK</sale_price>
+    <g:price>499000 SEK</g:price>
+    <price>499000 SEK</price>
+    <sale_price>499000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Borås Bil</component>
       <component name="country">SE</component>
@@ -17024,8 +17068,8 @@
     <vehicle_registration_plate>MJD22K</vehicle_registration_plate>
     <g:title>Citroën C4 FL MAX 130hk AUT</g:title>
     <title>Citroën C4 FL MAX 130hk AUT</title>
-    <g:description>FL MAX 130hk AUT. Från 4 231 kr/mån. Miltal: 286 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Reg.nr: MJD22K. Kontakta oss för mer information.</g:description>
-    <description>FL MAX 130hk AUT. Från 4 231 kr/mån. Miltal: 286 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Reg.nr: MJD22K. Kontakta oss för mer information.</description>
+    <g:description>FL MAX 130hk AUT. Från 4 074 kr/mån. Miltal: 286 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Reg.nr: MJD22K. Kontakta oss för mer information.</g:description>
+    <description>FL MAX 130hk AUT. Från 4 074 kr/mån. Miltal: 286 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Reg.nr: MJD22K. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/citroen-c4-mjd22k</g:link>
     <link>https://borasbil.se/bilar/citroen-c4-mjd22k</link>
     <url>https://borasbil.se/bilar/citroen-c4-mjd22k</url>
@@ -17046,9 +17090,9 @@
     <body_style>Sedan</body_style>
     <fuel_type>Gasoline</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>269000 SEK</g:price>
-    <price>269000 SEK</price>
-    <sale_price>269000 SEK</sale_price>
+    <g:price>259000 SEK</g:price>
+    <price>259000 SEK</price>
+    <sale_price>259000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Borås Bil</component>
       <component name="country">SE</component>
@@ -17406,8 +17450,8 @@
     <vehicle_registration_plate>LKE37U</vehicle_registration_plate>
     <g:title>Citroën C4 FL MAX PureTech 130 A</g:title>
     <title>Citroën C4 FL MAX PureTech 130 A</title>
-    <g:description>FL MAX PureTech 130 A. Från 4 168 kr/mån. Miltal: 1 050 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Reg.nr: LKE37U. Kontakta oss för mer information.</g:description>
-    <description>FL MAX PureTech 130 A. Från 4 168 kr/mån. Miltal: 1 050 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Reg.nr: LKE37U. Kontakta oss för mer information.</description>
+    <g:description>FL MAX PureTech 130 A. Från 4 074 kr/mån. Miltal: 1 050 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Reg.nr: LKE37U. Kontakta oss för mer information.</g:description>
+    <description>FL MAX PureTech 130 A. Från 4 074 kr/mån. Miltal: 1 050 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Reg.nr: LKE37U. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/citroen-c4-lke37u</g:link>
     <link>https://borasbil.se/bilar/citroen-c4-lke37u</link>
     <url>https://borasbil.se/bilar/citroen-c4-lke37u</url>
@@ -17428,9 +17472,9 @@
     <body_style>Sedan</body_style>
     <fuel_type>Gasoline</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>265000 SEK</g:price>
-    <price>265000 SEK</price>
-    <sale_price>265000 SEK</sale_price>
+    <g:price>259000 SEK</g:price>
+    <price>259000 SEK</price>
+    <sale_price>259000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Kinna Bil</component>
       <component name="country">SE</component>
@@ -18006,8 +18050,8 @@
     <vehicle_registration_plate>DWA53R</vehicle_registration_plate>
     <g:title>Peugeot 3008 GT Ultimate Electric 5-d SUV - Drag</g:title>
     <title>Peugeot 3008 GT Ultimate Electric 5-d SUV - Drag</title>
-    <g:description>GT Ultimate Electric 5-d SUV - Drag. Från 7 062 kr/mån. Miltal: 1 618 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Reg.nr: DWA53R. Kontakta oss för mer information.</g:description>
-    <description>GT Ultimate Electric 5-d SUV - Drag. Från 7 062 kr/mån. Miltal: 1 618 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Reg.nr: DWA53R. Kontakta oss för mer information.</description>
+    <g:description>GT Ultimate Electric 5-d SUV - Drag. Från 6 747 kr/mån. Miltal: 1 618 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Reg.nr: DWA53R. Kontakta oss för mer information.</g:description>
+    <description>GT Ultimate Electric 5-d SUV - Drag. Från 6 747 kr/mån. Miltal: 1 618 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Reg.nr: DWA53R. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/peugeot-e-3008-dwa53r</g:link>
     <link>https://borasbil.se/bilar/peugeot-e-3008-dwa53r</link>
     <url>https://borasbil.se/bilar/peugeot-e-3008-dwa53r</url>
@@ -18028,9 +18072,9 @@
     <body_style>SUV</body_style>
     <fuel_type>Electric</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>449000 SEK</g:price>
-    <price>449000 SEK</price>
-    <sale_price>449000 SEK</sale_price>
+    <g:price>429000 SEK</g:price>
+    <price>429000 SEK</price>
+    <sale_price>429000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Borås Bil</component>
       <component name="country">SE</component>
