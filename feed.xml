@@ -5,6 +5,46 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>114195f1-ee76-4cca-8fcc-32899aa7a1dc</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>114195f1-ee76-4cca-8fcc-32899aa7a1dc</vehicle_id>
+    <vehicle_registration_plate>KPR02R</vehicle_registration_plate>
+    <g:title>Volvo XC90 II T8 Ultra Bright</g:title>
+    <title>Volvo XC90 II T8 Ultra Bright</title>
+    <g:description>II T8 Ultra Bright. Från 14 926 kr/mån. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Reg.nr: KPR02R. Kontakta oss för mer information.</g:description>
+    <description>II T8 Ultra Bright. Från 14 926 kr/mån. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Reg.nr: KPR02R. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-xc90-7-saten-kpr02r</g:link>
+    <link>https://borasbil.se/bilar/volvo-xc90-7-saten-kpr02r</link>
+    <url>https://borasbil.se/bilar/volvo-xc90-7-saten-kpr02r</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/eb41a851-ce18-48f5-9cce-3e0d4032683a/b5f919f7-db1e-44a5-a1b5-700a5f121385?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/eb41a851-ce18-48f5-9cce-3e0d4032683a/b5f919f7-db1e-44a5-a1b5-700a5f121385?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC90</model>
+    <year>2025</year>
+    <body_style>SUV</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>949000 SEK</g:price>
+    <price>949000 SEK</price>
+    <sale_price>949000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>6f549c58-a260-4fd3-9a50-89de1490d1ba</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -1636,8 +1676,8 @@
     <vehicle_registration_plate>ANO680</vehicle_registration_plate>
     <g:title>Volvo XC40 Core Edition</g:title>
     <title>Volvo XC40 Core Edition</title>
-    <g:description>Core Edition. Från 4 797 kr/mån. Miltal: 7 605 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: ANO680. Kontakta oss för mer information.</g:description>
-    <description>Core Edition. Från 4 797 kr/mån. Miltal: 7 605 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: ANO680. Kontakta oss för mer information.</description>
+    <g:description>Core Edition. Från 4 797 kr/mån. Miltal: 7 605 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: ANO680. Kontakta oss för mer information.</g:description>
+    <description>Core Edition. Från 4 797 kr/mån. Miltal: 7 605 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: ANO680. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-ano680</g:link>
     <link>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-ano680</link>
     <url>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-ano680</url>
@@ -1988,8 +2028,8 @@
     <vehicle_registration_plate>LBC17J</vehicle_registration_plate>
     <g:title>Volvo C40 Ultimate</g:title>
     <title>Volvo C40 Ultimate</title>
-    <g:description>Ultimate. Från 5 804 kr/mån. Miltal: 6 915 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: LBC17J. Kontakta oss för mer information.</g:description>
-    <description>Ultimate. Från 5 804 kr/mån. Miltal: 6 915 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: LBC17J. Kontakta oss för mer information.</description>
+    <g:description>Ultimate. Från 5 804 kr/mån. Miltal: 6 915 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: LBC17J. Kontakta oss för mer information.</g:description>
+    <description>Ultimate. Från 5 804 kr/mån. Miltal: 6 915 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: LBC17J. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-c40-recharge-twin-motor-lbc17j</g:link>
     <link>https://borasbil.se/bilar/volvo-c40-recharge-twin-motor-lbc17j</link>
     <url>https://borasbil.se/bilar/volvo-c40-recharge-twin-motor-lbc17j</url>
@@ -2428,8 +2468,8 @@
     <vehicle_registration_plate>ACM64E</vehicle_registration_plate>
     <g:title>Volvo C40 Core Drag</g:title>
     <title>Volvo C40 Core Drag</title>
-    <g:description>Core Drag. Från 5 175 kr/mån. Miltal: 4 476 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: ACM64E. Kontakta oss för mer information.</g:description>
-    <description>Core Drag. Från 5 175 kr/mån. Miltal: 4 476 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: ACM64E. Kontakta oss för mer information.</description>
+    <g:description>Core Drag. Från 5 175 kr/mån. Miltal: 4 476 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: ACM64E. Kontakta oss för mer information.</g:description>
+    <description>Core Drag. Från 5 175 kr/mån. Miltal: 4 476 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: ACM64E. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-acm64e</g:link>
     <link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-acm64e</link>
     <url>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-acm64e</url>
@@ -2516,8 +2556,8 @@
     <vehicle_registration_plate>HAB84F</vehicle_registration_plate>
     <g:title>Volvo XC40 Plus. Drag</g:title>
     <title>Volvo XC40 Plus. Drag</title>
-    <g:description>Plus. Drag. Från 5 175 kr/mån. Miltal: 5 316 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: HAB84F. Kontakta oss för mer information.</g:description>
-    <description>Plus. Drag. Från 5 175 kr/mån. Miltal: 5 316 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: HAB84F. Kontakta oss för mer information.</description>
+    <g:description>Plus. Drag. Från 5 175 kr/mån. Miltal: 5 316 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: HAB84F. Kontakta oss för mer information.</g:description>
+    <description>Plus. Drag. Från 5 175 kr/mån. Miltal: 5 316 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: HAB84F. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-hab84f</g:link>
     <link>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-hab84f</link>
     <url>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-hab84f</url>
@@ -2648,8 +2688,8 @@
     <vehicle_registration_plate>KTW007</vehicle_registration_plate>
     <g:title>Polestar 2 69kWh Plus</g:title>
     <title>Polestar 2 69kWh Plus</title>
-    <g:description>69kWh Plus. Från 4 860 kr/mån. Miltal: 6 629 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: KTW007. Kontakta oss för mer information.</g:description>
-    <description>69kWh Plus. Från 4 860 kr/mån. Miltal: 6 629 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: KTW007. Kontakta oss för mer information.</description>
+    <g:description>69kWh Plus. Från 4 860 kr/mån. Miltal: 6 629 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: KTW007. Kontakta oss för mer information.</g:description>
+    <description>69kWh Plus. Från 4 860 kr/mån. Miltal: 6 629 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: KTW007. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/polestar-2-standard-range-single-motor-ktw007</g:link>
     <link>https://borasbil.se/bilar/polestar-2-standard-range-single-motor-ktw007</link>
     <url>https://borasbil.se/bilar/polestar-2-standard-range-single-motor-ktw007</url>
@@ -2780,8 +2820,8 @@
     <vehicle_registration_plate>LWU819</vehicle_registration_plate>
     <g:title>Volvo C40 Ultimate</g:title>
     <title>Volvo C40 Ultimate</title>
-    <g:description>Ultimate. Från 5 646 kr/mån. Miltal: 5 926 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: LWU819. Kontakta oss för mer information.</g:description>
-    <description>Ultimate. Från 5 646 kr/mån. Miltal: 5 926 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: LWU819. Kontakta oss för mer information.</description>
+    <g:description>Ultimate. Från 5 646 kr/mån. Miltal: 5 926 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: LWU819. Kontakta oss för mer information.</g:description>
+    <description>Ultimate. Från 5 646 kr/mån. Miltal: 5 926 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: LWU819. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-lwu819</g:link>
     <link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-lwu819</link>
     <url>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-lwu819</url>
@@ -2876,9 +2916,9 @@
     <g:brand>Citroën</g:brand>
     <brand>Citroën</brand>
     <make>Citroën</make>
-    <g:image_link>https://cdn.wayke.se/cfit/88f0a65f-3147-4a1b-ad09-234d10844444/4142a89d-c8cb-4aa4-b503-1267561b53e2?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/2833ea4e-0eda-4f12-977f-8209ae472ff3/8df29a8a-fa7c-4eb1-b494-099192299601?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/88f0a65f-3147-4a1b-ad09-234d10844444/4142a89d-c8cb-4aa4-b503-1267561b53e2?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/2833ea4e-0eda-4f12-977f-8209ae472ff3/8df29a8a-fa7c-4eb1-b494-099192299601?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>C4</model>
@@ -3872,8 +3912,8 @@
     <vehicle_registration_plate>WJA04E</vehicle_registration_plate>
     <g:title>Renault Mégane E-TECH Techno 40kWh/130hk</g:title>
     <title>Renault Mégane E-TECH Techno 40kWh/130hk</title>
-    <g:description>Techno 40kWh/130hk. Från 3 444 kr/mån. Miltal: 2 988 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: WJA04E. Kontakta oss för mer information.</g:description>
-    <description>Techno 40kWh/130hk. Från 3 444 kr/mån. Miltal: 2 988 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: WJA04E. Kontakta oss för mer information.</description>
+    <g:description>Techno 40kWh/130hk. Från 3 444 kr/mån. Miltal: 2 988 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: WJA04E. Kontakta oss för mer information.</g:description>
+    <description>Techno 40kWh/130hk. Från 3 444 kr/mån. Miltal: 2 988 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: WJA04E. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/renault-megane-e-tech-wja04e</g:link>
     <link>https://borasbil.se/bilar/renault-megane-e-tech-wja04e</link>
     <url>https://borasbil.se/bilar/renault-megane-e-tech-wja04e</url>
@@ -3960,8 +4000,8 @@
     <vehicle_registration_plate>PEF24R</vehicle_registration_plate>
     <g:title>Volvo XC40 Core</g:title>
     <title>Volvo XC40 Core</title>
-    <g:description>Core. Från 5 489 kr/mån. Miltal: 6 785 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: PEF24R. Kontakta oss för mer information.</g:description>
-    <description>Core. Från 5 489 kr/mån. Miltal: 6 785 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: PEF24R. Kontakta oss för mer information.</description>
+    <g:description>Core. Från 5 489 kr/mån. Miltal: 6 785 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: PEF24R. Kontakta oss för mer information.</g:description>
+    <description>Core. Från 5 489 kr/mån. Miltal: 6 785 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: PEF24R. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-pef24r</g:link>
     <link>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-pef24r</link>
     <url>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-pef24r</url>
@@ -4268,8 +4308,8 @@
     <vehicle_registration_plate>MOA398</vehicle_registration_plate>
     <g:title>Polestar 2 78kWh Perfomance</g:title>
     <title>Polestar 2 78kWh Perfomance</title>
-    <g:description>78kWh Perfomance. Från 5 804 kr/mån. Miltal: 8 450 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: MOA398. Kontakta oss för mer information.</g:description>
-    <description>78kWh Perfomance. Från 5 804 kr/mån. Miltal: 8 450 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: MOA398. Kontakta oss för mer information.</description>
+    <g:description>78kWh Perfomance. Från 5 804 kr/mån. Miltal: 8 450 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: MOA398. Kontakta oss för mer information.</g:description>
+    <description>78kWh Perfomance. Från 5 804 kr/mån. Miltal: 8 450 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: MOA398. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-performance-moa398</g:link>
     <link>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-performance-moa398</link>
     <url>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-performance-moa398</url>
@@ -4312,8 +4352,8 @@
     <vehicle_registration_plate>JAC612</vehicle_registration_plate>
     <g:title>Volvo C40 Core</g:title>
     <title>Volvo C40 Core</title>
-    <g:description>Core. Från 5 017 kr/mån. Miltal: 5 995 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: JAC612. Kontakta oss för mer information.</g:description>
-    <description>Core. Från 5 017 kr/mån. Miltal: 5 995 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: JAC612. Kontakta oss för mer information.</description>
+    <g:description>Core. Från 5 017 kr/mån. Miltal: 5 995 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: JAC612. Kontakta oss för mer information.</g:description>
+    <description>Core. Från 5 017 kr/mån. Miltal: 5 995 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: JAC612. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-jac612</g:link>
     <link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-jac612</link>
     <url>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-jac612</url>
@@ -4476,8 +4516,8 @@
     <vehicle_registration_plate>RTM405</vehicle_registration_plate>
     <g:title>Volvo C40 Core</g:title>
     <title>Volvo C40 Core</title>
-    <g:description>Core. Från 5 175 kr/mån. Miltal: 4 434 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: RTM405. Kontakta oss för mer information.</g:description>
-    <description>Core. Från 5 175 kr/mån. Miltal: 4 434 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: RTM405. Kontakta oss för mer information.</description>
+    <g:description>Core. Från 5 175 kr/mån. Miltal: 4 434 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: RTM405. Kontakta oss för mer information.</g:description>
+    <description>Core. Från 5 175 kr/mån. Miltal: 4 434 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: RTM405. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-rtm405</g:link>
     <link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-rtm405</link>
     <url>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-rtm405</url>
@@ -4740,8 +4780,8 @@
     <vehicle_registration_plate>JGP52C</vehicle_registration_plate>
     <g:title>Volvo XC40 Plus/DRAG</g:title>
     <title>Volvo XC40 Plus/DRAG</title>
-    <g:description>Plus/DRAG. Från 5 804 kr/mån. Miltal: 5 100 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: JGP52C. Kontakta oss för mer information.</g:description>
-    <description>Plus/DRAG. Från 5 804 kr/mån. Miltal: 5 100 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: JGP52C. Kontakta oss för mer information.</description>
+    <g:description>Plus/DRAG. Från 5 804 kr/mån. Miltal: 5 100 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: JGP52C. Kontakta oss för mer information.</g:description>
+    <description>Plus/DRAG. Från 5 804 kr/mån. Miltal: 5 100 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: JGP52C. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-jgp52c</g:link>
     <link>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-jgp52c</link>
     <url>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-jgp52c</url>
@@ -4868,8 +4908,8 @@
     <vehicle_registration_plate>EEP98B</vehicle_registration_plate>
     <g:title>Volvo XC40 Plus Edition/DRAG</g:title>
     <title>Volvo XC40 Plus Edition/DRAG</title>
-    <g:description>Plus Edition/DRAG. Från 5 017 kr/mån. Miltal: 6 318 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: EEP98B. Kontakta oss för mer information.</g:description>
-    <description>Plus Edition/DRAG. Från 5 017 kr/mån. Miltal: 6 318 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: EEP98B. Kontakta oss för mer information.</description>
+    <g:description>Plus Edition/DRAG. Från 5 017 kr/mån. Miltal: 6 318 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: EEP98B. Kontakta oss för mer information.</g:description>
+    <description>Plus Edition/DRAG. Från 5 017 kr/mån. Miltal: 6 318 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: EEP98B. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-eep98b</g:link>
     <link>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-eep98b</link>
     <url>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-eep98b</url>
@@ -4996,8 +5036,8 @@
     <vehicle_registration_plate>MBF75M</vehicle_registration_plate>
     <g:title>Polestar 2 78kWh Perf Plus</g:title>
     <title>Polestar 2 78kWh Perf Plus</title>
-    <g:description>78kWh Perf Plus. Från 6 433 kr/mån. Miltal: 5 937 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: MBF75M. Kontakta oss för mer information.</g:description>
-    <description>78kWh Perf Plus. Från 6 433 kr/mån. Miltal: 5 937 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: MBF75M. Kontakta oss för mer information.</description>
+    <g:description>78kWh Perf Plus. Från 6 433 kr/mån. Miltal: 5 937 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: MBF75M. Kontakta oss för mer information.</g:description>
+    <description>78kWh Perf Plus. Från 6 433 kr/mån. Miltal: 5 937 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: MBF75M. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-performance-mbf75m</g:link>
     <link>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-performance-mbf75m</link>
     <url>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-performance-mbf75m</url>
@@ -5040,8 +5080,8 @@
     <vehicle_registration_plate>SRB68H</vehicle_registration_plate>
     <g:title>Volvo EX30 SM Plus Black Edt</g:title>
     <title>Volvo EX30 SM Plus Black Edt</title>
-    <g:description>SM Plus Black Edt. Från 7 691 kr/mån. Miltal: 80 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: SRB68H. Kontakta oss för mer information.</g:description>
-    <description>SM Plus Black Edt. Från 7 691 kr/mån. Miltal: 80 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: SRB68H. Kontakta oss för mer information.</description>
+    <g:description>SM Plus Black Edt. Från 7 691 kr/mån. Miltal: 80 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: SRB68H. Kontakta oss för mer information.</g:description>
+    <description>SM Plus Black Edt. Från 7 691 kr/mån. Miltal: 80 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: SRB68H. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-ex30-single-motor-extended-range-srb68h</g:link>
     <link>https://borasbil.se/bilar/volvo-ex30-single-motor-extended-range-srb68h</link>
     <url>https://borasbil.se/bilar/volvo-ex30-single-motor-extended-range-srb68h</url>
@@ -5084,8 +5124,8 @@
     <vehicle_registration_plate>OHU50W</vehicle_registration_plate>
     <g:title>Volvo C40 Plus</g:title>
     <title>Volvo C40 Plus</title>
-    <g:description>Plus. Från 5 804 kr/mån. Miltal: 6 688 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: OHU50W. Kontakta oss för mer information.</g:description>
-    <description>Plus. Från 5 804 kr/mån. Miltal: 6 688 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: OHU50W. Kontakta oss för mer information.</description>
+    <g:description>Plus. Från 5 804 kr/mån. Miltal: 6 688 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: OHU50W. Kontakta oss för mer information.</g:description>
+    <description>Plus. Från 5 804 kr/mån. Miltal: 6 688 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: OHU50W. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-c40-recharge-twin-motor-ohu50w</g:link>
     <link>https://borasbil.se/bilar/volvo-c40-recharge-twin-motor-ohu50w</link>
     <url>https://borasbil.se/bilar/volvo-c40-recharge-twin-motor-ohu50w</url>
@@ -5128,8 +5168,8 @@
     <vehicle_registration_plate>LMS91N</vehicle_registration_plate>
     <g:title>Peugeot 2008 GT Electric 5-d SUV</g:title>
     <title>Peugeot 2008 GT Electric 5-d SUV</title>
-    <g:description>GT Electric 5-d SUV. Från 3 287 kr/mån. Miltal: 2 500 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: LMS91N. Kontakta oss för mer information.</g:description>
-    <description>GT Electric 5-d SUV. Från 3 287 kr/mån. Miltal: 2 500 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: LMS91N. Kontakta oss för mer information.</description>
+    <g:description>GT Electric 5-d SUV. Från 3 287 kr/mån. Miltal: 2 500 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: LMS91N. Kontakta oss för mer information.</g:description>
+    <description>GT Electric 5-d SUV. Från 3 287 kr/mån. Miltal: 2 500 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: LMS91N. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/peugeot-e-2008-lms91n</g:link>
     <link>https://borasbil.se/bilar/peugeot-e-2008-lms91n</link>
     <url>https://borasbil.se/bilar/peugeot-e-2008-lms91n</url>
@@ -5172,8 +5212,8 @@
     <vehicle_registration_plate>FBZ08X</vehicle_registration_plate>
     <g:title>Volvo XC40 Ultimate</g:title>
     <title>Volvo XC40 Ultimate</title>
-    <g:description>Ultimate. Från 6 275 kr/mån. Miltal: 4 700 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: FBZ08X. Kontakta oss för mer information.</g:description>
-    <description>Ultimate. Från 6 275 kr/mån. Miltal: 4 700 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: FBZ08X. Kontakta oss för mer information.</description>
+    <g:description>Ultimate. Från 6 275 kr/mån. Miltal: 4 700 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: FBZ08X. Kontakta oss för mer information.</g:description>
+    <description>Ultimate. Från 6 275 kr/mån. Miltal: 4 700 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: FBZ08X. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-fbz08x</g:link>
     <link>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-fbz08x</link>
     <url>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-fbz08x</url>
@@ -5216,8 +5256,8 @@
     <vehicle_registration_plate>ONP50Z</vehicle_registration_plate>
     <g:title>Volvo C40 Ultimate</g:title>
     <title>Volvo C40 Ultimate</title>
-    <g:description>Ultimate. Från 5 804 kr/mån. Miltal: 2 918 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: ONP50Z. Kontakta oss för mer information.</g:description>
-    <description>Ultimate. Från 5 804 kr/mån. Miltal: 2 918 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: ONP50Z. Kontakta oss för mer information.</description>
+    <g:description>Ultimate. Från 5 804 kr/mån. Miltal: 2 918 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: ONP50Z. Kontakta oss för mer information.</g:description>
+    <description>Ultimate. Från 5 804 kr/mån. Miltal: 2 918 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: ONP50Z. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-onp50z</g:link>
     <link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-onp50z</link>
     <url>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-onp50z</url>
@@ -5260,8 +5300,8 @@
     <vehicle_registration_plate>RPT66C</vehicle_registration_plate>
     <g:title>Volvo XC40 Ultimate</g:title>
     <title>Volvo XC40 Ultimate</title>
-    <g:description>Ultimate. Från 5 804 kr/mån. Miltal: 7 222 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: RPT66C. Kontakta oss för mer information.</g:description>
-    <description>Ultimate. Från 5 804 kr/mån. Miltal: 7 222 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: RPT66C. Kontakta oss för mer information.</description>
+    <g:description>Ultimate. Från 5 804 kr/mån. Miltal: 7 222 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: RPT66C. Kontakta oss för mer information.</g:description>
+    <description>Ultimate. Från 5 804 kr/mån. Miltal: 7 222 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: RPT66C. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-rpt66c</g:link>
     <link>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-rpt66c</link>
     <url>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-rpt66c</url>
@@ -5348,8 +5388,8 @@
     <vehicle_registration_plate>YLJ09Y</vehicle_registration_plate>
     <g:title>Polestar 2 78kWh Plus</g:title>
     <title>Polestar 2 78kWh Plus</title>
-    <g:description>78kWh Plus. Från 5 646 kr/mån. Miltal: 5 675 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: YLJ09Y. Kontakta oss för mer information.</g:description>
-    <description>78kWh Plus. Från 5 646 kr/mån. Miltal: 5 675 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: YLJ09Y. Kontakta oss för mer information.</description>
+    <g:description>78kWh Plus. Från 5 646 kr/mån. Miltal: 5 675 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: YLJ09Y. Kontakta oss för mer information.</g:description>
+    <description>78kWh Plus. Från 5 646 kr/mån. Miltal: 5 675 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: YLJ09Y. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-ylj09y</g:link>
     <link>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-ylj09y</link>
     <url>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-ylj09y</url>
@@ -5392,8 +5432,8 @@
     <vehicle_registration_plate>JAC81G</vehicle_registration_plate>
     <g:title>Volvo C40 Core</g:title>
     <title>Volvo C40 Core</title>
-    <g:description>Core. Från 4 860 kr/mån. Miltal: 6 998 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: JAC81G. Kontakta oss för mer information.</g:description>
-    <description>Core. Från 4 860 kr/mån. Miltal: 6 998 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: JAC81G. Kontakta oss för mer information.</description>
+    <g:description>Core. Från 4 860 kr/mån. Miltal: 6 998 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: JAC81G. Kontakta oss för mer information.</g:description>
+    <description>Core. Från 4 860 kr/mån. Miltal: 6 998 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: JAC81G. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-jac81g</g:link>
     <link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-jac81g</link>
     <url>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-jac81g</url>
@@ -5436,8 +5476,8 @@
     <vehicle_registration_plate>MUG92G</vehicle_registration_plate>
     <g:title>Polestar 2 78kWh Perf Plus</g:title>
     <title>Polestar 2 78kWh Perf Plus</title>
-    <g:description>78kWh Perf Plus. Från 6 747 kr/mån. Miltal: 4 425 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: MUG92G. Kontakta oss för mer information.</g:description>
-    <description>78kWh Perf Plus. Från 6 747 kr/mån. Miltal: 4 425 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: MUG92G. Kontakta oss för mer information.</description>
+    <g:description>78kWh Perf Plus. Från 6 747 kr/mån. Miltal: 4 425 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: MUG92G. Kontakta oss för mer information.</g:description>
+    <description>78kWh Perf Plus. Från 6 747 kr/mån. Miltal: 4 425 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: MUG92G. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-performance-mug92g</g:link>
     <link>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-performance-mug92g</link>
     <url>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-performance-mug92g</url>
@@ -5480,8 +5520,8 @@
     <vehicle_registration_plate>SWA77F</vehicle_registration_plate>
     <g:title>Volvo C40 Ultimate</g:title>
     <title>Volvo C40 Ultimate</title>
-    <g:description>Ultimate. Från 5 175 kr/mån. Miltal: 9 877 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: SWA77F. Kontakta oss för mer information.</g:description>
-    <description>Ultimate. Från 5 175 kr/mån. Miltal: 9 877 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: SWA77F. Kontakta oss för mer information.</description>
+    <g:description>Ultimate. Från 5 175 kr/mån. Miltal: 9 877 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: SWA77F. Kontakta oss för mer information.</g:description>
+    <description>Ultimate. Från 5 175 kr/mån. Miltal: 9 877 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: SWA77F. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-swa77f</g:link>
     <link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-swa77f</link>
     <url>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-swa77f</url>
@@ -5524,8 +5564,8 @@
     <vehicle_registration_plate>CBR40E</vehicle_registration_plate>
     <g:title>Polestar 2 69kWh</g:title>
     <title>Polestar 2 69kWh</title>
-    <g:description>69kWh. Från 4 545 kr/mån. Miltal: 5 002 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: CBR40E. Kontakta oss för mer information.</g:description>
-    <description>69kWh. Från 4 545 kr/mån. Miltal: 5 002 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: CBR40E. Kontakta oss för mer information.</description>
+    <g:description>69kWh. Från 4 545 kr/mån. Miltal: 5 002 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: CBR40E. Kontakta oss för mer information.</g:description>
+    <description>69kWh. Från 4 545 kr/mån. Miltal: 5 002 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: CBR40E. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/polestar-2-standard-range-single-motor-cbr40e</g:link>
     <link>https://borasbil.se/bilar/polestar-2-standard-range-single-motor-cbr40e</link>
     <url>https://borasbil.se/bilar/polestar-2-standard-range-single-motor-cbr40e</url>
@@ -5568,8 +5608,8 @@
     <vehicle_registration_plate>GAR19B</vehicle_registration_plate>
     <g:title>Polestar 2 69kWh Plus</g:title>
     <title>Polestar 2 69kWh Plus</title>
-    <g:description>69kWh Plus. Från 4 860 kr/mån. Miltal: 6 232 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: GAR19B. Kontakta oss för mer information.</g:description>
-    <description>69kWh Plus. Från 4 860 kr/mån. Miltal: 6 232 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: GAR19B. Kontakta oss för mer information.</description>
+    <g:description>69kWh Plus. Från 4 860 kr/mån. Miltal: 6 232 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: GAR19B. Kontakta oss för mer information.</g:description>
+    <description>69kWh Plus. Från 4 860 kr/mån. Miltal: 6 232 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: GAR19B. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/polestar-2-standard-range-single-motor-gar19b</g:link>
     <link>https://borasbil.se/bilar/polestar-2-standard-range-single-motor-gar19b</link>
     <url>https://borasbil.se/bilar/polestar-2-standard-range-single-motor-gar19b</url>
@@ -5612,8 +5652,8 @@
     <vehicle_registration_plate>WAE81E</vehicle_registration_plate>
     <g:title>Volvo XC40 Ultimate</g:title>
     <title>Volvo XC40 Ultimate</title>
-    <g:description>Ultimate. Från 4 703 kr/mån. Miltal: 11 629 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: WAE81E. Kontakta oss för mer information.</g:description>
-    <description>Ultimate. Från 4 703 kr/mån. Miltal: 11 629 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: WAE81E. Kontakta oss för mer information.</description>
+    <g:description>Ultimate. Från 4 703 kr/mån. Miltal: 11 629 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: WAE81E. Kontakta oss för mer information.</g:description>
+    <description>Ultimate. Från 4 703 kr/mån. Miltal: 11 629 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: WAE81E. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-wae81e</g:link>
     <link>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-wae81e</link>
     <url>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-wae81e</url>
@@ -5656,8 +5696,8 @@
     <vehicle_registration_plate>HRM47F</vehicle_registration_plate>
     <g:title>Polestar 2 78kWh</g:title>
     <title>Polestar 2 78kWh</title>
-    <g:description>78kWh. Från 5 646 kr/mån. Miltal: 6 872 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: HRM47F. Kontakta oss för mer information.</g:description>
-    <description>78kWh. Från 5 646 kr/mån. Miltal: 6 872 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: HRM47F. Kontakta oss för mer information.</description>
+    <g:description>78kWh. Från 5 646 kr/mån. Miltal: 6 872 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: HRM47F. Kontakta oss för mer information.</g:description>
+    <description>78kWh. Från 5 646 kr/mån. Miltal: 6 872 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: HRM47F. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-hrm47f</g:link>
     <link>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-hrm47f</link>
     <url>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-hrm47f</url>
@@ -5700,8 +5740,8 @@
     <vehicle_registration_plate>JNU79W</vehicle_registration_plate>
     <g:title>Volvo EC40 UltraBlackSE</g:title>
     <title>Volvo EC40 UltraBlackSE</title>
-    <g:description>UltraBlackSE. Från 9 264 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: JNU79W. Kontakta oss för mer information.</g:description>
-    <description>UltraBlackSE. Från 9 264 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: JNU79W. Kontakta oss för mer information.</description>
+    <g:description>UltraBlackSE. Från 9 264 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: JNU79W. Kontakta oss för mer information.</g:description>
+    <description>UltraBlackSE. Från 9 264 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: JNU79W. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-ec40-twin-motor-performance-jnu79w</g:link>
     <link>https://borasbil.se/bilar/volvo-ec40-twin-motor-performance-jnu79w</link>
     <url>https://borasbil.se/bilar/volvo-ec40-twin-motor-performance-jnu79w</url>
@@ -5740,8 +5780,8 @@
     <vehicle_registration_plate>AOC54P</vehicle_registration_plate>
     <g:title>Volvo XC40 Plus</g:title>
     <title>Volvo XC40 Plus</title>
-    <g:description>Plus. Från 5 804 kr/mån. Miltal: 3 700 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: AOC54P. Kontakta oss för mer information.</g:description>
-    <description>Plus. Från 5 804 kr/mån. Miltal: 3 700 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: AOC54P. Kontakta oss för mer information.</description>
+    <g:description>Plus. Från 5 804 kr/mån. Miltal: 3 700 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: AOC54P. Kontakta oss för mer information.</g:description>
+    <description>Plus. Från 5 804 kr/mån. Miltal: 3 700 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: AOC54P. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-aoc54p</g:link>
     <link>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-aoc54p</link>
     <url>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-aoc54p</url>
@@ -5828,8 +5868,8 @@
     <vehicle_registration_plate>WAD39M</vehicle_registration_plate>
     <g:title>Volvo C40 Core</g:title>
     <title>Volvo C40 Core</title>
-    <g:description>Core. Från 5 017 kr/mån. Miltal: 5 277 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: WAD39M. Kontakta oss för mer information.</g:description>
-    <description>Core. Från 5 017 kr/mån. Miltal: 5 277 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: WAD39M. Kontakta oss för mer information.</description>
+    <g:description>Core. Från 5 017 kr/mån. Miltal: 5 277 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: WAD39M. Kontakta oss för mer information.</g:description>
+    <description>Core. Från 5 017 kr/mån. Miltal: 5 277 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: WAD39M. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-wad39m</g:link>
     <link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-wad39m</link>
     <url>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-wad39m</url>
@@ -5872,8 +5912,8 @@
     <vehicle_registration_plate>PHW24L</vehicle_registration_plate>
     <g:title>Volvo C40 Core</g:title>
     <title>Volvo C40 Core</title>
-    <g:description>Core. Från 5 017 kr/mån. Miltal: 4 829 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: PHW24L. Kontakta oss för mer information.</g:description>
-    <description>Core. Från 5 017 kr/mån. Miltal: 4 829 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: PHW24L. Kontakta oss för mer information.</description>
+    <g:description>Core. Från 5 017 kr/mån. Miltal: 4 829 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: PHW24L. Kontakta oss för mer information.</g:description>
+    <description>Core. Från 5 017 kr/mån. Miltal: 4 829 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: PHW24L. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-phw24l</g:link>
     <link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-phw24l</link>
     <url>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-phw24l</url>
@@ -5916,8 +5956,8 @@
     <vehicle_registration_plate>RWY39J</vehicle_registration_plate>
     <g:title>Volvo XC40 Ultimate</g:title>
     <title>Volvo XC40 Ultimate</title>
-    <g:description>Ultimate. Från 5 175 kr/mån. Miltal: 10 098 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: RWY39J. Kontakta oss för mer information.</g:description>
-    <description>Ultimate. Från 5 175 kr/mån. Miltal: 10 098 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: RWY39J. Kontakta oss för mer information.</description>
+    <g:description>Ultimate. Från 5 175 kr/mån. Miltal: 10 098 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: RWY39J. Kontakta oss för mer information.</g:description>
+    <description>Ultimate. Från 5 175 kr/mån. Miltal: 10 098 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: RWY39J. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-rwy39j</g:link>
     <link>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-rwy39j</link>
     <url>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-rwy39j</url>
@@ -5960,8 +6000,8 @@
     <vehicle_registration_plate>JAD23W</vehicle_registration_plate>
     <g:title>Polestar 2 78kWh</g:title>
     <title>Polestar 2 78kWh</title>
-    <g:description>78kWh. Från 4 388 kr/mån. Miltal: 12 082 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: JAD23W. Kontakta oss för mer information.</g:description>
-    <description>78kWh. Från 4 388 kr/mån. Miltal: 12 082 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: JAD23W. Kontakta oss för mer information.</description>
+    <g:description>78kWh. Från 4 388 kr/mån. Miltal: 12 082 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: JAD23W. Kontakta oss för mer information.</g:description>
+    <description>78kWh. Från 4 388 kr/mån. Miltal: 12 082 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: JAD23W. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/polestar-2-long-range-single-motor-jad23w</g:link>
     <link>https://borasbil.se/bilar/polestar-2-long-range-single-motor-jad23w</link>
     <url>https://borasbil.se/bilar/polestar-2-long-range-single-motor-jad23w</url>
@@ -6256,8 +6296,8 @@
     <vehicle_registration_plate>ZAR60Y</vehicle_registration_plate>
     <g:title>Volvo C40 Core</g:title>
     <title>Volvo C40 Core</title>
-    <g:description>Core. Från 5 175 kr/mån. Miltal: 4 400 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: ZAR60Y. Kontakta oss för mer information.</g:description>
-    <description>Core. Från 5 175 kr/mån. Miltal: 4 400 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Elektrisk. Reg.nr: ZAR60Y. Kontakta oss för mer information.</description>
+    <g:description>Core. Från 5 175 kr/mån. Miltal: 4 400 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: ZAR60Y. Kontakta oss för mer information.</g:description>
+    <description>Core. Från 5 175 kr/mån. Miltal: 4 400 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: ZAR60Y. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-zar60y</g:link>
     <link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-zar60y</link>
     <url>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-zar60y</url>
