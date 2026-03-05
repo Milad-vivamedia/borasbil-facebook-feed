@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>e8f6031c-21ee-44dc-9f04-9d76bbc5aefe</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>e8f6031c-21ee-44dc-9f04-9d76bbc5aefe</vehicle_id>
+    <vehicle_registration_plate>NBX42C</vehicle_registration_plate>
+    <g:title>Volvo XC40 Recharge T4 Inscription</g:title>
+    <title>Volvo XC40 Recharge T4 Inscription</title>
+    <g:description>Recharge T4 Inscription. Från 5 175 kr/mån. Miltal: 8 540 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Bensin. Reg.nr: NBX42C. Kontakta oss för mer information.</g:description>
+    <description>Recharge T4 Inscription. Från 5 175 kr/mån. Miltal: 8 540 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Bensin. Reg.nr: NBX42C. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-xc40-nbx42c</g:link>
+    <link>https://borasbil.se/bilar/volvo-xc40-nbx42c</link>
+    <url>https://borasbil.se/bilar/volvo-xc40-nbx42c</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/577f128c-b525-4e90-9ec0-576f20490b9c/f9674559-3798-4f67-ac35-4d51b454d7be?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/577f128c-b525-4e90-9ec0-576f20490b9c/f9674559-3798-4f67-ac35-4d51b454d7be?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC40</model>
+    <year>2021</year>
+    <mileage>
+      <value>85400</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>329000 SEK</g:price>
+    <price>329000 SEK</price>
+    <sale_price>329000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>d485acd6-3fbd-443f-ba8d-a9fe6d04d9b5</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
