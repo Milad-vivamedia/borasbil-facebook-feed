@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>ff73ff19-a5a0-4de5-8e7e-f62d26582114</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>ff73ff19-a5a0-4de5-8e7e-f62d26582114</vehicle_id>
+    <vehicle_registration_plate>JAH48F</vehicle_registration_plate>
+    <g:title>Citroën Jumpy Skåp BusPre L3 BHDi 180 A</g:title>
+    <title>Citroën Jumpy Skåp BusPre L3 BHDi 180 A</title>
+    <g:description>Skåp BusPre L3 BHDi 180 A. Från 5 332 kr/mån. Miltal: 3 980 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Diesel. Reg.nr: JAH48F. Kontakta oss för mer information.</g:description>
+    <description>Skåp BusPre L3 BHDi 180 A. Från 5 332 kr/mån. Miltal: 3 980 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Diesel. Reg.nr: JAH48F. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/citroen-jumpy-van-ip-jah48f</g:link>
+    <link>https://borasbil.se/bilar/citroen-jumpy-van-ip-jah48f</link>
+    <url>https://borasbil.se/bilar/citroen-jumpy-van-ip-jah48f</url>
+    <g:brand>Citroën</g:brand>
+    <brand>Citroën</brand>
+    <make>Citroën</make>
+    <g:image_link>https://cdn.wayke.se/cfit/221cf32f-28dc-40ee-8b7d-18ffedbef947/13c1066d-1ed1-40d4-9162-1274730468e5?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/221cf32f-28dc-40ee-8b7d-18ffedbef947/13c1066d-1ed1-40d4-9162-1274730468e5?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>Jumpy</model>
+    <year>2023</year>
+    <mileage>
+      <value>39800</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>339000 SEK</g:price>
+    <price>339000 SEK</price>
+    <sale_price>339000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>e8f6031c-21ee-44dc-9f04-9d76bbc5aefe</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
