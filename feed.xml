@@ -7985,50 +7985,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>3fb9b4d2-0417-4369-b1ce-5b43413bcb3c</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>3fb9b4d2-0417-4369-b1ce-5b43413bcb3c</vehicle_id>
-    <vehicle_registration_plate>JAB69D</vehicle_registration_plate>
-    <g:title>Volvo XC60 Recharge T6 Core Edition</g:title>
-    <title>Volvo XC60 Recharge T6 Core Edition</title>
-    <g:description>Recharge T6 Core Edition. Från 6 118 kr/mån. Miltal: 9 229 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: JAB69D. Kontakta oss för mer information.</g:description>
-    <description>Recharge T6 Core Edition. Från 6 118 kr/mån. Miltal: 9 229 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: JAB69D. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc60-jab69d</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc60-jab69d</link>
-    <url>https://borasbil.se/bilar/volvo-xc60-jab69d</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/f84866ca-c6d7-4ebe-ac0a-c1586dcfab1f/db66e99d-b3cd-4e9b-a628-ab98a499deba?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/f84866ca-c6d7-4ebe-ac0a-c1586dcfab1f/db66e99d-b3cd-4e9b-a628-ab98a499deba?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2023</year>
-    <mileage>
-      <value>92290</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>389000 SEK</g:price>
-    <price>389000 SEK</price>
-    <sale_price>389000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>109a3456-704c-4145-9da0-6076237cf018</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -11023,50 +10979,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>646932b7-8636-490b-b2c8-7538e4376c7c</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>646932b7-8636-490b-b2c8-7538e4376c7c</vehicle_id>
-    <vehicle_registration_plate>LDB54T</vehicle_registration_plate>
-    <g:title>Volvo XC40 Plus Edition- FRI HEMLEVERANS</g:title>
-    <title>Volvo XC40 Plus Edition- FRI HEMLEVERANS</title>
-    <g:description>Plus Edition- FRI HEMLEVERANS. Från 4 703 kr/mån. Miltal: 6 477 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: LDB54T. Kontakta oss för mer information.</g:description>
-    <description>Plus Edition- FRI HEMLEVERANS. Från 4 703 kr/mån. Miltal: 6 477 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: LDB54T. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-ldb54t</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-ldb54t</link>
-    <url>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-ldb54t</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/873e6418-d993-4f95-8f4a-fef2af6cf1ab/cffca511-7ebb-48c9-a77a-8c8f56c46ad8?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/873e6418-d993-4f95-8f4a-fef2af6cf1ab/cffca511-7ebb-48c9-a77a-8c8f56c46ad8?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2023</year>
-    <mileage>
-      <value>64770</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>299000 SEK</g:price>
-    <price>299000 SEK</price>
-    <sale_price>299000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>e4adafad-5da4-4df7-abb6-643f76cb3a59</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -11319,50 +11231,6 @@
     <g:price>309000 SEK</g:price>
     <price>309000 SEK</price>
     <sale_price>309000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Bogesunds Bil Ulricehamn</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>78ad29e4-358e-44e9-9c20-f86362c0d326</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>78ad29e4-358e-44e9-9c20-f86362c0d326</vehicle_id>
-    <vehicle_registration_plate>USZ38R</vehicle_registration_plate>
-    <g:title>Volvo XC90 Recharge T8 R-Design 7-säten</g:title>
-    <title>Volvo XC90 Recharge T8 R-Design 7-säten</title>
-    <g:description>Recharge T8 R-Design 7-säten. Från 8 163 kr/mån. Miltal: 10 551 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: USZ38R. Kontakta oss för mer information.</g:description>
-    <description>Recharge T8 R-Design 7-säten. Från 8 163 kr/mån. Miltal: 10 551 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: USZ38R. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc90-7-saten-usz38r</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc90-7-saten-usz38r</link>
-    <url>https://borasbil.se/bilar/volvo-xc90-7-saten-usz38r</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/bbbd6250-367b-4e06-b249-5db0533d93ed/cf3f62f9-8290-4508-a8c9-daeb78d4be11?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/bbbd6250-367b-4e06-b249-5db0533d93ed/cf3f62f9-8290-4508-a8c9-daeb78d4be11?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC90</model>
-    <year>2021</year>
-    <mileage>
-      <value>105510</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>519000 SEK</g:price>
-    <price>519000 SEK</price>
-    <sale_price>519000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Bogesunds Bil Ulricehamn</component>
       <component name="country">SE</component>
@@ -15398,50 +15266,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>181e1548-b1ab-4c78-a4d3-deeb0fa635f9</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>181e1548-b1ab-4c78-a4d3-deeb0fa635f9</vehicle_id>
-    <vehicle_registration_plate>JDP02R</vehicle_registration_plate>
-    <g:title>Volvo XC60 Recharge T6 Plus Dark</g:title>
-    <title>Volvo XC60 Recharge T6 Plus Dark</title>
-    <g:description>Recharge T6 Plus Dark. Från 7 219 kr/mån. Miltal: 8 606 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: JDP02R. Kontakta oss för mer information.</g:description>
-    <description>Recharge T6 Plus Dark. Från 7 219 kr/mån. Miltal: 8 606 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: JDP02R. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc60-jdp02r</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc60-jdp02r</link>
-    <url>https://borasbil.se/bilar/volvo-xc60-jdp02r</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/e8b6cac8-d38c-451c-baf3-06074e15ecf1/fa30b1c0-6659-47d3-9cd1-5068a55e6da9?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/e8b6cac8-d38c-451c-baf3-06074e15ecf1/fa30b1c0-6659-47d3-9cd1-5068a55e6da9?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2023</year>
-    <mileage>
-      <value>86060</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>459000 SEK</g:price>
-    <price>459000 SEK</price>
-    <sale_price>459000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Bogesunds Bil Ulricehamn</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
