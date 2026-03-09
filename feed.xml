@@ -965,50 +965,6 @@
     <state_of_vehicle>NEW</state_of_vehicle>
     </item>
     <item>
-    <g:id>436f860e-c722-48df-99d7-9515c1e06416</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>436f860e-c722-48df-99d7-9515c1e06416</vehicle_id>
-    <vehicle_registration_plate>CAC49C</vehicle_registration_plate>
-    <g:title>Peugeot 2008 GT Electric 5-d SUV</g:title>
-    <title>Peugeot 2008 GT Electric 5-d SUV</title>
-    <g:description>GT Electric 5-d SUV. Från 3 287 kr/mån. Miltal: 2 438 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: CAC49C. Kontakta oss för mer information.</g:description>
-    <description>GT Electric 5-d SUV. Från 3 287 kr/mån. Miltal: 2 438 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: CAC49C. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/peugeot-e-2008-cac49c</g:link>
-    <link>https://borasbil.se/bilar/peugeot-e-2008-cac49c</link>
-    <url>https://borasbil.se/bilar/peugeot-e-2008-cac49c</url>
-    <g:brand>Peugeot</g:brand>
-    <brand>Peugeot</brand>
-    <make>Peugeot</make>
-    <g:image_link>https://cdn.wayke.se/cfit/cc2b5162-3ef7-4894-a0a0-6c1fbbd146eb/ebc6a648-d6a7-4b2c-bbe5-f049d46bc88f?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/cc2b5162-3ef7-4894-a0a0-6c1fbbd146eb/ebc6a648-d6a7-4b2c-bbe5-f049d46bc88f?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>2008</model>
-    <year>2022</year>
-    <mileage>
-      <value>24380</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>209000 SEK</g:price>
-    <price>209000 SEK</price>
-    <sale_price>209000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>5e35e1f2-85ce-4c95-906a-4a0839981f46</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -2913,50 +2869,6 @@
     <year>2025</year>
     <mileage>
       <value>12250</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>359000 SEK</g:price>
-    <price>359000 SEK</price>
-    <sale_price>359000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>e0ef4dac-4b75-4509-8da2-0bcd549aa4fa</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>e0ef4dac-4b75-4509-8da2-0bcd549aa4fa</vehicle_id>
-    <vehicle_registration_plate>JBK31J</vehicle_registration_plate>
-    <g:title>Volvo EX30 M R Plus Edition</g:title>
-    <title>Volvo EX30 M R Plus Edition</title>
-    <g:description>M R Plus Edition. Från 5 646 kr/mån. Miltal: 907 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: JBK31J. Kontakta oss för mer information.</g:description>
-    <description>M R Plus Edition. Från 5 646 kr/mån. Miltal: 907 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: JBK31J. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-ex30-single-motor-extended-range-jbk31j</g:link>
-    <link>https://borasbil.se/bilar/volvo-ex30-single-motor-extended-range-jbk31j</link>
-    <url>https://borasbil.se/bilar/volvo-ex30-single-motor-extended-range-jbk31j</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/70a815c1-68db-4e36-b5d6-0e1cf33b0819/5e69c581-77a8-466f-8980-dead4d45864c?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/70a815c1-68db-4e36-b5d6-0e1cf33b0819/5e69c581-77a8-466f-8980-dead4d45864c?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>EX30</model>
-    <year>2025</year>
-    <mileage>
-      <value>9070</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
@@ -6117,50 +6029,6 @@
     <state_of_vehicle>NEW</state_of_vehicle>
     </item>
     <item>
-    <g:id>4c6ac63a-633b-488f-89ea-9417c27b5dc8</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>4c6ac63a-633b-488f-89ea-9417c27b5dc8</vehicle_id>
-    <vehicle_registration_plate>AOC54P</vehicle_registration_plate>
-    <g:title>Volvo XC40 Plus</g:title>
-    <title>Volvo XC40 Plus</title>
-    <g:description>Plus. Från 5 804 kr/mån. Miltal: 3 700 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: AOC54P. Kontakta oss för mer information.</g:description>
-    <description>Plus. Från 5 804 kr/mån. Miltal: 3 700 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: AOC54P. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-aoc54p</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-aoc54p</link>
-    <url>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-aoc54p</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/8cb7b201-36f0-4629-a555-389247ec69d0/1af3a286-1dd9-4211-a12d-c78b91375699?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/8cb7b201-36f0-4629-a555-389247ec69d0/1af3a286-1dd9-4211-a12d-c78b91375699?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2023</year>
-    <mileage>
-      <value>37000</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>369000 SEK</g:price>
-    <price>369000 SEK</price>
-    <sale_price>369000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>030c0689-5d88-43a6-9a86-9f70fa84062b</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -7713,50 +7581,6 @@
     <g:price>169000 SEK</g:price>
     <price>169000 SEK</price>
     <sale_price>169000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>6cf153ce-db7b-4777-87ee-885f6e0fc24b</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>6cf153ce-db7b-4777-87ee-885f6e0fc24b</vehicle_id>
-    <vehicle_registration_plate>KUR26J</vehicle_registration_plate>
-    <g:title>Volvo XC40 Plus Edition</g:title>
-    <title>Volvo XC40 Plus Edition</title>
-    <g:description>Plus Edition. Från 5 017 kr/mån. Miltal: 5 625 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: KUR26J. Kontakta oss för mer information.</g:description>
-    <description>Plus Edition. Från 5 017 kr/mån. Miltal: 5 625 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: KUR26J. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-kur26j</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-kur26j</link>
-    <url>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-kur26j</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/70381d35-4dc9-4d8a-b2c8-5d89b7ac444a/57eff674-bff8-4d0c-9aa1-498e7702d872?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/70381d35-4dc9-4d8a-b2c8-5d89b7ac444a/57eff674-bff8-4d0c-9aa1-498e7702d872?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2023</year>
-    <mileage>
-      <value>56250</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>319000 SEK</g:price>
-    <price>319000 SEK</price>
-    <sale_price>319000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Borås Bil</component>
       <component name="country">SE</component>
