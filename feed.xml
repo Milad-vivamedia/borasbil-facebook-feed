@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>9633c6d7-43d9-41e9-821d-3562510a3551</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>9633c6d7-43d9-41e9-821d-3562510a3551</vehicle_id>
+    <vehicle_registration_plate>KHT26W</vehicle_registration_plate>
+    <g:title>Polestar 2</g:title>
+    <title>Polestar 2</title>
+    <g:description>Från 5 646 kr/mån. Miltal: 4 415 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Reg.nr: KHT26W. Kontakta oss för mer information.</g:description>
+    <description>Från 5 646 kr/mån. Miltal: 4 415 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Reg.nr: KHT26W. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/polestar-2-standard-range-single-motor-kht26w</g:link>
+    <link>https://borasbil.se/bilar/polestar-2-standard-range-single-motor-kht26w</link>
+    <url>https://borasbil.se/bilar/polestar-2-standard-range-single-motor-kht26w</url>
+    <g:brand>Polestar</g:brand>
+    <brand>Polestar</brand>
+    <make>Polestar</make>
+    <g:image_link>https://cdn.wayke.se/cfit/478fbb66-baa5-415e-9089-4b56bcc3da71/8a5c811a-c8e7-4b5e-a89b-9087b3deca78?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/478fbb66-baa5-415e-9089-4b56bcc3da71/8a5c811a-c8e7-4b5e-a89b-9087b3deca78?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>2</model>
+    <year>2024</year>
+    <mileage>
+      <value>44150</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>359000 SEK</g:price>
+    <price>359000 SEK</price>
+    <sale_price>359000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>756be2a4-f394-4687-bba4-fbef7dd3c282</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -7264,9 +7308,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/581ba776-a4ca-45d5-ab00-7533c4c1f7ee/4fd1d3dd-7a95-45fc-b81d-a6fb13096c58?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/90489229-08c7-472f-9aac-594889eecf60/30416946-ed6e-4431-a682-84e6365c6e63?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/581ba776-a4ca-45d5-ab00-7533c4c1f7ee/4fd1d3dd-7a95-45fc-b81d-a6fb13096c58?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/90489229-08c7-472f-9aac-594889eecf60/30416946-ed6e-4431-a682-84e6365c6e63?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>V90</model>
@@ -11291,46 +11335,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>abe79004-0514-4ad6-89ce-0ebad960f5ea</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>abe79004-0514-4ad6-89ce-0ebad960f5ea</vehicle_id>
-    <vehicle_registration_plate>OMD25S</vehicle_registration_plate>
-    <g:title>Peugeot Expert Skåp Plus L3 BHDi 145 A FL Dubbla skjutdörrar</g:title>
-    <title>Peugeot Expert Skåp Plus L3 BHDi 145 A FL Dubbla skjutdörrar</title>
-    <g:description>Skåp Plus L3 BHDi 145 A FL Dubbla skjutdörrar. Från 7 392 kr/mån. Årsmodell: 2025. Växellåda: Automat. Bränsle: Diesel. Reg.nr: OMD25S. Kontakta oss för mer information.</g:description>
-    <description>Skåp Plus L3 BHDi 145 A FL Dubbla skjutdörrar. Från 7 392 kr/mån. Årsmodell: 2025. Växellåda: Automat. Bränsle: Diesel. Reg.nr: OMD25S. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/peugeot-expert-utokad-last-omd25s</g:link>
-    <link>https://borasbil.se/bilar/peugeot-expert-utokad-last-omd25s</link>
-    <url>https://borasbil.se/bilar/peugeot-expert-utokad-last-omd25s</url>
-    <g:brand>Peugeot</g:brand>
-    <brand>Peugeot</brand>
-    <make>Peugeot</make>
-    <g:image_link>https://cdn.wayke.se/cfit/fd3b6189-b78b-496a-86c8-640322006188/2134b5be-e877-4b67-90fe-1d9bd46d1a7f?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/fd3b6189-b78b-496a-86c8-640322006188/2134b5be-e877-4b67-90fe-1d9bd46d1a7f?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Expert</model>
-    <year>2025</year>
-    <body_style>Sedan</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>470000 SEK</g:price>
-    <price>470000 SEK</price>
-    <sale_price>470000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>201d810e-2969-45d4-900d-873d32a12baf</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -13795,94 +13799,6 @@
     <g:price>479000 SEK</g:price>
     <price>479000 SEK</price>
     <sale_price>479000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>3f08eaa6-eed0-4e9a-9316-1fac888ae3ed</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>3f08eaa6-eed0-4e9a-9316-1fac888ae3ed</vehicle_id>
-    <vehicle_registration_plate>ALS81S</vehicle_registration_plate>
-    <g:title>Lynk &amp; Co 01</g:title>
-    <title>Lynk &amp; Co 01</title>
-    <g:description>Från 5 017 kr/mån. Miltal: 727 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: ALS81S. Kontakta oss för mer information.</g:description>
-    <description>Från 5 017 kr/mån. Miltal: 727 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: ALS81S. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/lynk-co-01-phev-als81s</g:link>
-    <link>https://borasbil.se/bilar/lynk-co-01-phev-als81s</link>
-    <url>https://borasbil.se/bilar/lynk-co-01-phev-als81s</url>
-    <g:brand>Lynk &amp; Co</g:brand>
-    <brand>Lynk &amp; Co</brand>
-    <make>Lynk &amp; Co</make>
-    <g:image_link>https://cdn.wayke.se/cfit/3665964d-812b-4da2-8d55-f599b7f52634/8629a3bd-8c33-4ebe-a9eb-3704024b2dbc?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/3665964d-812b-4da2-8d55-f599b7f52634/8629a3bd-8c33-4ebe-a9eb-3704024b2dbc?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>01</model>
-    <year>2024</year>
-    <mileage>
-      <value>7270</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>319000 SEK</g:price>
-    <price>319000 SEK</price>
-    <sale_price>319000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>8e7d5695-e476-4cf6-95e9-e17ca5238fb1</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>8e7d5695-e476-4cf6-95e9-e17ca5238fb1</vehicle_id>
-    <vehicle_registration_plate>EUM61R</vehicle_registration_plate>
-    <g:title>Lynk &amp; Co 01</g:title>
-    <title>Lynk &amp; Co 01</title>
-    <g:description>Från 5 017 kr/mån. Miltal: 781 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: EUM61R. Kontakta oss för mer information.</g:description>
-    <description>Från 5 017 kr/mån. Miltal: 781 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: EUM61R. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/lynk-co-01-phev-eum61r</g:link>
-    <link>https://borasbil.se/bilar/lynk-co-01-phev-eum61r</link>
-    <url>https://borasbil.se/bilar/lynk-co-01-phev-eum61r</url>
-    <g:brand>Lynk &amp; Co</g:brand>
-    <brand>Lynk &amp; Co</brand>
-    <make>Lynk &amp; Co</make>
-    <g:image_link>https://cdn.wayke.se/cfit/7dd0c585-0c7d-4c11-a9a1-124fda68d097/8babee3c-0ff4-4740-9b86-27a6b85f6ed9?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/7dd0c585-0c7d-4c11-a9a1-124fda68d097/8babee3c-0ff4-4740-9b86-27a6b85f6ed9?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>01</model>
-    <year>2024</year>
-    <mileage>
-      <value>7810</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>319000 SEK</g:price>
-    <price>319000 SEK</price>
-    <sale_price>319000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Borås Bil</component>
       <component name="country">SE</component>
