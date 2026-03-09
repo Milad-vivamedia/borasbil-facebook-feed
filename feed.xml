@@ -5,6 +5,94 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>3810fda5-1589-42f1-94eb-8d8377dd5bb7</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>3810fda5-1589-42f1-94eb-8d8377dd5bb7</vehicle_id>
+    <vehicle_registration_plate>RAE07C</vehicle_registration_plate>
+    <g:title>Peugeot 2008 GT Electric 5-d SUV</g:title>
+    <title>Peugeot 2008 GT Electric 5-d SUV</title>
+    <g:description>GT Electric 5-d SUV. Från 3 287 kr/mån. Miltal: 3 283 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: RAE07C. Kontakta oss för mer information.</g:description>
+    <description>GT Electric 5-d SUV. Från 3 287 kr/mån. Miltal: 3 283 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: RAE07C. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/peugeot-e-2008-rae07c</g:link>
+    <link>https://borasbil.se/bilar/peugeot-e-2008-rae07c</link>
+    <url>https://borasbil.se/bilar/peugeot-e-2008-rae07c</url>
+    <g:brand>Peugeot</g:brand>
+    <brand>Peugeot</brand>
+    <make>Peugeot</make>
+    <g:image_link>https://cdn.wayke.se/cfit/92c01afb-6807-460f-ae0d-22ac312aae66/9903faa2-48a0-46c6-babf-ba07d0c91264?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/92c01afb-6807-460f-ae0d-22ac312aae66/9903faa2-48a0-46c6-babf-ba07d0c91264?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>2008</model>
+    <year>2022</year>
+    <mileage>
+      <value>32830</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>209000 SEK</g:price>
+    <price>209000 SEK</price>
+    <sale_price>209000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>c61e56e8-7438-483f-a7f5-d69df16c6a12</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>c61e56e8-7438-483f-a7f5-d69df16c6a12</vehicle_id>
+    <vehicle_registration_plate>AZU81Z</vehicle_registration_plate>
+    <g:title>Dacia Sandero TCe 90 Essential IV</g:title>
+    <title>Dacia Sandero TCe 90 Essential IV</title>
+    <g:description>TCe 90 Essential IV. Från 1 714 kr/mån. Miltal: 3 075 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: AZU81Z. Kontakta oss för mer information.</g:description>
+    <description>TCe 90 Essential IV. Från 1 714 kr/mån. Miltal: 3 075 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: AZU81Z. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/dacia-sandero-azu81z</g:link>
+    <link>https://borasbil.se/bilar/dacia-sandero-azu81z</link>
+    <url>https://borasbil.se/bilar/dacia-sandero-azu81z</url>
+    <g:brand>Dacia</g:brand>
+    <brand>Dacia</brand>
+    <make>Dacia</make>
+    <g:image_link>https://cdn.wayke.se/cfit/08c811a0-0871-41e0-82ae-dcd6066c5212/741fad5d-3b90-4cec-bcfb-58104dfc7bae?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/08c811a0-0871-41e0-82ae-dcd6066c5212/741fad5d-3b90-4cec-bcfb-58104dfc7bae?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>Sandero</model>
+    <year>2023</year>
+    <mileage>
+      <value>30750</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Manual</transmission>
+    <g:price>109000 SEK</g:price>
+    <price>109000 SEK</price>
+    <sale_price>109000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>3cb2f71e-3215-4cc8-ae96-edfd23e3ec0d</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -628,9 +716,9 @@
     <g:brand>Citroën</g:brand>
     <brand>Citroën</brand>
     <make>Citroën</make>
-    <g:image_link>https://cdn.wayke.se/cfit/221cf32f-28dc-40ee-8b7d-18ffedbef947/13c1066d-1ed1-40d4-9162-1274730468e5?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/48c84d01-f502-4c41-bd06-4ae302107d76/1af629f3-83b2-4721-a8db-c979f921033b?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/221cf32f-28dc-40ee-8b7d-18ffedbef947/13c1066d-1ed1-40d4-9162-1274730468e5?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/48c84d01-f502-4c41-bd06-4ae302107d76/1af629f3-83b2-4721-a8db-c979f921033b?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>Jumpy</model>
