@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>69395633-140a-4e93-984e-e779dfbb65c9</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>69395633-140a-4e93-984e-e779dfbb65c9</vehicle_id>
+    <vehicle_registration_plate>DRW01B</vehicle_registration_plate>
+    <g:title>Volvo C40 Core</g:title>
+    <title>Volvo C40 Core</title>
+    <g:description>Core. Från 5 332 kr/mån. Miltal: 8 735 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: DRW01B. Kontakta oss för mer information.</g:description>
+    <description>Core. Från 5 332 kr/mån. Miltal: 8 735 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: DRW01B. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-c40-recharge-twin-motor-drw01b</g:link>
+    <link>https://borasbil.se/bilar/volvo-c40-recharge-twin-motor-drw01b</link>
+    <url>https://borasbil.se/bilar/volvo-c40-recharge-twin-motor-drw01b</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/38dd10f5-1990-4af3-8f60-2afca798ca29/fffc9d4f-ee32-47ef-ba16-a7c8c40fbd10?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/38dd10f5-1990-4af3-8f60-2afca798ca29/fffc9d4f-ee32-47ef-ba16-a7c8c40fbd10?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>C40</model>
+    <year>2023</year>
+    <mileage>
+      <value>87350</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>339000 SEK</g:price>
+    <price>339000 SEK</price>
+    <sale_price>339000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>c8cd79c8-00ba-4f89-a29b-68841803c605</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
