@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>c8cd79c8-00ba-4f89-a29b-68841803c605</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>c8cd79c8-00ba-4f89-a29b-68841803c605</vehicle_id>
+    <vehicle_registration_plate>JBF85E</vehicle_registration_plate>
+    <g:title>Volvo XC60 T8 Ultra Dark</g:title>
+    <title>Volvo XC60 T8 Ultra Dark</title>
+    <g:description>T8 Ultra Dark. Från 10 207 kr/mån. Miltal: 2 055 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Reg.nr: JBF85E. Kontakta oss för mer information.</g:description>
+    <description>T8 Ultra Dark. Från 10 207 kr/mån. Miltal: 2 055 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Reg.nr: JBF85E. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-xc60-jbf85e</g:link>
+    <link>https://borasbil.se/bilar/volvo-xc60-jbf85e</link>
+    <url>https://borasbil.se/bilar/volvo-xc60-jbf85e</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/dc14a2aa-afe6-4bdb-a036-1bfd5fe70f7e/1fe3936e-23f8-4bc5-8a4f-ace76c5e1caa?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/dc14a2aa-afe6-4bdb-a036-1bfd5fe70f7e/1fe3936e-23f8-4bc5-8a4f-ace76c5e1caa?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC60</model>
+    <year>2025</year>
+    <mileage>
+      <value>20550</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>649000 SEK</g:price>
+    <price>649000 SEK</price>
+    <sale_price>649000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>259a359a-2455-443d-8cc3-3f923407b5b2</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -2376,9 +2420,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/79945d26-fe45-4eb8-ad9d-aa7f1f19824e/9a6f0190-3ef6-4736-8ceb-db030f7a512d?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/01667c20-7d78-4dd6-863c-cc9328e94055/aa97dbc6-a348-4ec7-b792-f145d02e2d84?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/79945d26-fe45-4eb8-ad9d-aa7f1f19824e/9a6f0190-3ef6-4736-8ceb-db030f7a512d?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/01667c20-7d78-4dd6-863c-cc9328e94055/aa97dbc6-a348-4ec7-b792-f145d02e2d84?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC40</model>
