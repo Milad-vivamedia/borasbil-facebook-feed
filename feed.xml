@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>c2257f63-af94-4fc1-80cd-9cb7230612be</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>c2257f63-af94-4fc1-80cd-9cb7230612be</vehicle_id>
+    <vehicle_registration_plate>UHY52M</vehicle_registration_plate>
+    <g:title>Volvo XC40 Ultimate/DRAG</g:title>
+    <title>Volvo XC40 Ultimate/DRAG</title>
+    <g:description>Ultimate/DRAG. Från 5 646 kr/mån. Miltal: 8 609 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: UHY52M. Kontakta oss för mer information.</g:description>
+    <description>Ultimate/DRAG. Från 5 646 kr/mån. Miltal: 8 609 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: UHY52M. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-uhy52m</g:link>
+    <link>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-uhy52m</link>
+    <url>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-uhy52m</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/1e160850-3f2b-4d2e-86f7-9f496f8a07dc/503b6e54-8fdc-4cb0-b95b-ec7ee2072590?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/1e160850-3f2b-4d2e-86f7-9f496f8a07dc/503b6e54-8fdc-4cb0-b95b-ec7ee2072590?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC40</model>
+    <year>2023</year>
+    <mileage>
+      <value>86090</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>359000 SEK</g:price>
+    <price>359000 SEK</price>
+    <sale_price>359000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>03336283-87af-4f64-afaa-0ce61ca5e9f7</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -783,50 +827,6 @@
     <g:condition>new</g:condition>
     <condition>new</condition>
     <state_of_vehicle>NEW</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>f6bc2166-d0c9-4ed7-b2a0-309ec523fbe1</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>f6bc2166-d0c9-4ed7-b2a0-309ec523fbe1</vehicle_id>
-    <vehicle_registration_plate>POE95H</vehicle_registration_plate>
-    <g:title>Volvo XC60 B4 Diesel Inscription</g:title>
-    <title>Volvo XC60 B4 Diesel Inscription</title>
-    <g:description>B4 Diesel Inscription. Från 6 684 kr/mån. Miltal: 566 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Diesel. Reg.nr: POE95H. Kontakta oss för mer information.</g:description>
-    <description>B4 Diesel Inscription. Från 6 684 kr/mån. Miltal: 566 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Diesel. Reg.nr: POE95H. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc60-poe95h</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc60-poe95h</link>
-    <url>https://borasbil.se/bilar/volvo-xc60-poe95h</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/16812263-2f57-4c31-892a-42402b7eb6c7/924efbb9-723a-4b90-bc1f-14e2e363af2f?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/16812263-2f57-4c31-892a-42402b7eb6c7/924efbb9-723a-4b90-bc1f-14e2e363af2f?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2021</year>
-    <mileage>
-      <value>5660</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>425000 SEK</g:price>
-    <price>425000 SEK</price>
-    <sale_price>425000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
     <g:id>ad2957be-fe2a-48de-82dd-18075f6d40e7</g:id>
@@ -2460,9 +2460,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/df4c0e24-fe42-4445-9b18-2570b8e244c4/f698fae0-5c64-44f4-848c-b85064d769aa?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/9328f2a1-ec81-41c1-8509-38e08a3ad29f/437db579-3d13-4a1a-a4fe-0813357999ab?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/df4c0e24-fe42-4445-9b18-2570b8e244c4/f698fae0-5c64-44f4-848c-b85064d769aa?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/9328f2a1-ec81-41c1-8509-38e08a3ad29f/437db579-3d13-4a1a-a4fe-0813357999ab?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>V60</model>
@@ -2663,50 +2663,6 @@
     <g:condition>new</g:condition>
     <condition>new</condition>
     <state_of_vehicle>NEW</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>f4793309-1bf0-454a-9b12-132b1d2d2e84</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>f4793309-1bf0-454a-9b12-132b1d2d2e84</vehicle_id>
-    <vehicle_registration_plate>YSC256</vehicle_registration_plate>
-    <g:title>Volvo V60 D3 Momentum Advanced Edition - Automat</g:title>
-    <title>Volvo V60 D3 Momentum Advanced Edition - Automat</title>
-    <g:description>D3 Momentum Advanced Edition - Automat. Från 3 759 kr/mån. Miltal: 11 182 mil. Årsmodell: 2019. Växellåda: Automat. Bränsle: Förbränningsmotor. Reg.nr: YSC256. Kontakta oss för mer information.</g:description>
-    <description>D3 Momentum Advanced Edition - Automat. Från 3 759 kr/mån. Miltal: 11 182 mil. Årsmodell: 2019. Växellåda: Automat. Bränsle: Förbränningsmotor. Reg.nr: YSC256. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-v60-ysc256</g:link>
-    <link>https://borasbil.se/bilar/volvo-v60-ysc256</link>
-    <url>https://borasbil.se/bilar/volvo-v60-ysc256</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/72465407-adf5-45d8-b243-0f1897f742e4/2999abfa-85e3-4196-9cdb-f39b27ff26a2?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/72465407-adf5-45d8-b243-0f1897f742e4/2999abfa-85e3-4196-9cdb-f39b27ff26a2?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V60</model>
-    <year>2019</year>
-    <mileage>
-      <value>111820</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Förbränningsmotor</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>239000 SEK</g:price>
-    <price>239000 SEK</price>
-    <sale_price>239000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Bogesunds Bil Ulricehamn</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
     <g:id>3ce73f85-c78f-481c-86dc-dbd8ed57f28c</g:id>
@@ -11240,50 +11196,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>bd64c7c3-efa6-4607-ad23-1f71abe98493</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>bd64c7c3-efa6-4607-ad23-1f71abe98493</vehicle_id>
-    <vehicle_registration_plate>ZFF06U</vehicle_registration_plate>
-    <g:title>Volvo XC40 Core Edition- FRI HEMEVERANS</g:title>
-    <title>Volvo XC40 Core Edition- FRI HEMEVERANS</title>
-    <g:description>Core Edition- FRI HEMEVERANS. Från 4 545 kr/mån. Miltal: 4 187 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: ZFF06U. Kontakta oss för mer information.</g:description>
-    <description>Core Edition- FRI HEMEVERANS. Från 4 545 kr/mån. Miltal: 4 187 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: ZFF06U. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-zff06u</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-zff06u</link>
-    <url>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-zff06u</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/61d4e071-257f-45ad-9357-066cd9b1f889/3fee8ac6-61d9-4295-9418-c77e82cd1081?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/61d4e071-257f-45ad-9357-066cd9b1f889/3fee8ac6-61d9-4295-9418-c77e82cd1081?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2023</year>
-    <mileage>
-      <value>41870</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>289000 SEK</g:price>
-    <price>289000 SEK</price>
-    <sale_price>289000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Bogesunds Bil Ulricehamn</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
