@@ -5,6 +5,134 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>03336283-87af-4f64-afaa-0ce61ca5e9f7</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>03336283-87af-4f64-afaa-0ce61ca5e9f7</vehicle_id>
+    <vehicle_registration_plate>YFS70U</vehicle_registration_plate>
+    <g:title>Volvo XC90 T8 Ultra Black Edition</g:title>
+    <title>Volvo XC90 T8 Ultra Black Edition</title>
+    <g:description>T8 Ultra Black Edition. Från 16 735 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: YFS70U. Kontakta oss för mer information.</g:description>
+    <description>T8 Ultra Black Edition. Från 16 735 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: YFS70U. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-xc90-yfs70u</g:link>
+    <link>https://borasbil.se/bilar/volvo-xc90-yfs70u</link>
+    <url>https://borasbil.se/bilar/volvo-xc90-yfs70u</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/5f682e85-060a-4272-958b-5ce29c9d6c7d/5e67f94d-dd07-4be8-8ed6-76ec5e98694c?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/5f682e85-060a-4272-958b-5ce29c9d6c7d/5e67f94d-dd07-4be8-8ed6-76ec5e98694c?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC90</model>
+    <year>2026</year>
+    <body_style>SUV</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>1064000 SEK</g:price>
+    <price>1064000 SEK</price>
+    <sale_price>1064000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>5768b182-c8eb-489e-9e93-86d5db430413</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>5768b182-c8eb-489e-9e93-86d5db430413</vehicle_id>
+    <vehicle_registration_plate>DRU51E</vehicle_registration_plate>
+    <g:title>Volvo V60 T6 Plus Dark Nordic Edition</g:title>
+    <title>Volvo V60 T6 Plus Dark Nordic Edition</title>
+    <g:description>T6 Plus Dark Nordic Edition. Från 9 421 kr/mån. Miltal: 50 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: DRU51E. Kontakta oss för mer information.</g:description>
+    <description>T6 Plus Dark Nordic Edition. Från 9 421 kr/mån. Miltal: 50 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: DRU51E. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-v60-dru51e</g:link>
+    <link>https://borasbil.se/bilar/volvo-v60-dru51e</link>
+    <url>https://borasbil.se/bilar/volvo-v60-dru51e</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/5c65c9d3-f394-41f4-9546-e3a6b999d683/8adbf3c5-c066-4bdc-9dbc-64dd18ea9af5?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/5c65c9d3-f394-41f4-9546-e3a6b999d683/8adbf3c5-c066-4bdc-9dbc-64dd18ea9af5?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>V60</model>
+    <year>2026</year>
+    <mileage>
+      <value>500</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Wagon</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>599000 SEK</g:price>
+    <price>599000 SEK</price>
+    <sale_price>599000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>446abaf3-3f23-4787-925f-50a31a5997ef</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>446abaf3-3f23-4787-925f-50a31a5997ef</vehicle_id>
+    <vehicle_registration_plate>WAU73L</vehicle_registration_plate>
+    <g:title>Volvo V60 Recharge T6 Ultimate Dark</g:title>
+    <title>Volvo V60 Recharge T6 Ultimate Dark</title>
+    <g:description>Recharge T6 Ultimate Dark. Från 6 905 kr/mån. Miltal: 7 897 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Reg.nr: WAU73L. Kontakta oss för mer information.</g:description>
+    <description>Recharge T6 Ultimate Dark. Från 6 905 kr/mån. Miltal: 7 897 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Reg.nr: WAU73L. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-v60-wau73l</g:link>
+    <link>https://borasbil.se/bilar/volvo-v60-wau73l</link>
+    <url>https://borasbil.se/bilar/volvo-v60-wau73l</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/48752cb0-a8ef-4993-a795-6a0c8869162e/773f6087-a502-4724-b24c-2d5989cd6a84?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/48752cb0-a8ef-4993-a795-6a0c8869162e/773f6087-a502-4724-b24c-2d5989cd6a84?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>V60</model>
+    <year>2024</year>
+    <mileage>
+      <value>78970</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Wagon</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>439000 SEK</g:price>
+    <price>439000 SEK</price>
+    <sale_price>439000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>69395633-140a-4e93-984e-e779dfbb65c9</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
