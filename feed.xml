@@ -4817,50 +4817,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>bc574034-aa9a-4779-9453-0cf4525a824a</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>bc574034-aa9a-4779-9453-0cf4525a824a</vehicle_id>
-    <vehicle_registration_plate>DCW02G</vehicle_registration_plate>
-    <g:title>Volvo C40 Plus</g:title>
-    <title>Volvo C40 Plus</title>
-    <g:description>Plus. Från 6 275 kr/mån. Miltal: 3 900 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Reg.nr: DCW02G. Kontakta oss för mer information.</g:description>
-    <description>Plus. Från 6 275 kr/mån. Miltal: 3 900 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Reg.nr: DCW02G. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-c40-recharge-twin-motor-dcw02g</g:link>
-    <link>https://borasbil.se/bilar/volvo-c40-recharge-twin-motor-dcw02g</link>
-    <url>https://borasbil.se/bilar/volvo-c40-recharge-twin-motor-dcw02g</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/63cd1e17-f4ab-426d-b266-5b8cfced4662/3f042403-54a4-484b-b1f6-e7c273ec6c7b?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/63cd1e17-f4ab-426d-b266-5b8cfced4662/3f042403-54a4-484b-b1f6-e7c273ec6c7b?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C40</model>
-    <year>2024</year>
-    <mileage>
-      <value>39000</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>399000 SEK</g:price>
-    <price>399000 SEK</price>
-    <sale_price>399000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>c18d7fb4-1c0f-4a16-8a7a-bf1db4974069</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -10765,50 +10721,6 @@
     <g:condition>new</g:condition>
     <condition>new</condition>
     <state_of_vehicle>NEW</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>3664133e-edd4-4d39-9914-7705a7484c16</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>3664133e-edd4-4d39-9914-7705a7484c16</vehicle_id>
-    <vehicle_registration_plate>PJN15T</vehicle_registration_plate>
-    <g:title>Volvo XC40 T3 FWD R-Design</g:title>
-    <title>Volvo XC40 T3 FWD R-Design</title>
-    <g:description>T3 FWD R-Design. Från 4 231 kr/mån. Miltal: 7 591 mil. Årsmodell: 2020. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: PJN15T. Kontakta oss för mer information.</g:description>
-    <description>T3 FWD R-Design. Från 4 231 kr/mån. Miltal: 7 591 mil. Årsmodell: 2020. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: PJN15T. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc40-pjn15t</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc40-pjn15t</link>
-    <url>https://borasbil.se/bilar/volvo-xc40-pjn15t</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/304fb4c7-97a5-410a-a655-58cb392e97aa/7835c6fd-2ddc-453d-a6d5-d41260ef4ec2?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/304fb4c7-97a5-410a-a655-58cb392e97aa/7835c6fd-2ddc-453d-a6d5-d41260ef4ec2?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2020</year>
-    <mileage>
-      <value>75910</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Manual</transmission>
-    <g:price>269000 SEK</g:price>
-    <price>269000 SEK</price>
-    <sale_price>269000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
     <g:id>d989840c-8fea-4793-a778-0ca57c056581</g:id>
