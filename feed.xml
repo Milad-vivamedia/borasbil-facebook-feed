@@ -2064,9 +2064,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/19b31d7a-3756-4e69-9a81-75020783f71b/db7d266e-54a0-41a8-aa81-dafd42ac2f33?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/7941796c-5fbb-45df-999f-4a8d9f618518/195d6601-5f8b-4520-9888-79da1505472a?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/19b31d7a-3756-4e69-9a81-75020783f71b/db7d266e-54a0-41a8-aa81-dafd42ac2f33?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/7941796c-5fbb-45df-999f-4a8d9f618518/195d6601-5f8b-4520-9888-79da1505472a?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC40</model>
@@ -2108,9 +2108,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/6626c4b2-aee1-4d18-9771-99f88b815ffc/0de85d7e-1506-4576-80ba-8bf6502a91f9?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/03b866d1-724e-49ed-bfb3-1a3b319f9a72/b8a39a70-9ffc-44d9-ae07-361f19d73e0f?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/6626c4b2-aee1-4d18-9771-99f88b815ffc/0de85d7e-1506-4576-80ba-8bf6502a91f9?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/03b866d1-724e-49ed-bfb3-1a3b319f9a72/b8a39a70-9ffc-44d9-ae07-361f19d73e0f?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>C40</model>
@@ -15438,50 +15438,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>df0ce1e2-1322-45f6-bee7-fe3b8668e377</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>df0ce1e2-1322-45f6-bee7-fe3b8668e377</vehicle_id>
-    <vehicle_registration_plate>GKR00E</vehicle_registration_plate>
-    <g:title>Volvo V90 Recharge T6 Ultimate Dark - HUD/360/DRAG!</g:title>
-    <title>Volvo V90 Recharge T6 Ultimate Dark - HUD/360/DRAG!</title>
-    <g:description>Recharge T6 Ultimate Dark - HUD/360/DRAG!. Från 6 275 kr/mån. Miltal: 9 789 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: GKR00E. Kontakta oss för mer information.</g:description>
-    <description>Recharge T6 Ultimate Dark - HUD/360/DRAG!. Från 6 275 kr/mån. Miltal: 9 789 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: GKR00E. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-v90-gkr00e</g:link>
-    <link>https://borasbil.se/bilar/volvo-v90-gkr00e</link>
-    <url>https://borasbil.se/bilar/volvo-v90-gkr00e</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/a511f604-3a22-4964-b4b2-b3ee16a8f971/aac66076-e3a7-424b-84e7-4d969fb0de3a?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/a511f604-3a22-4964-b4b2-b3ee16a8f971/aac66076-e3a7-424b-84e7-4d969fb0de3a?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V90</model>
-    <year>2023</year>
-    <mileage>
-      <value>97890</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>399000 SEK</g:price>
-    <price>399000 SEK</price>
-    <sale_price>399000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
