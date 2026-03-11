@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>9195ff1d-737d-4203-8063-0649ae423b67</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>9195ff1d-737d-4203-8063-0649ae423b67</vehicle_id>
+    <vehicle_registration_plate>JAP37B</vehicle_registration_plate>
+    <g:title>Volvo XC40 B4 FWD Bensin Core SE</g:title>
+    <title>Volvo XC40 B4 FWD Bensin Core SE</title>
+    <g:description>B4 FWD Bensin Core SE. Från 5 646 kr/mån. Miltal: 2 787 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Reg.nr: JAP37B. Kontakta oss för mer information.</g:description>
+    <description>B4 FWD Bensin Core SE. Från 5 646 kr/mån. Miltal: 2 787 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Reg.nr: JAP37B. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-xc40-jap37b</g:link>
+    <link>https://borasbil.se/bilar/volvo-xc40-jap37b</link>
+    <url>https://borasbil.se/bilar/volvo-xc40-jap37b</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/2195e35e-627b-43cb-856d-9ab9786fc606/1307050e-a99b-4d4d-b665-aa04d2ff42fb?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/2195e35e-627b-43cb-856d-9ab9786fc606/1307050e-a99b-4d4d-b665-aa04d2ff42fb?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC40</model>
+    <year>2024</year>
+    <mileage>
+      <value>27870</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>359000 SEK</g:price>
+    <price>359000 SEK</price>
+    <sale_price>359000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>c2257f63-af94-4fc1-80cd-9cb7230612be</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
