@@ -5,6 +5,94 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>84c86680-b84d-4d5a-9895-e6294e51c56d</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>84c86680-b84d-4d5a-9895-e6294e51c56d</vehicle_id>
+    <vehicle_registration_plate>AAB64Z</vehicle_registration_plate>
+    <g:title>Dacia Sandero TCe 90 Essential IV</g:title>
+    <title>Dacia Sandero TCe 90 Essential IV</title>
+    <g:description>TCe 90 Essential IV. Från 2 186 kr/mån. Miltal: 2 374 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: AAB64Z. Kontakta oss för mer information.</g:description>
+    <description>TCe 90 Essential IV. Från 2 186 kr/mån. Miltal: 2 374 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: AAB64Z. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/dacia-sandero-aab64z</g:link>
+    <link>https://borasbil.se/bilar/dacia-sandero-aab64z</link>
+    <url>https://borasbil.se/bilar/dacia-sandero-aab64z</url>
+    <g:brand>Dacia</g:brand>
+    <brand>Dacia</brand>
+    <make>Dacia</make>
+    <g:image_link>https://cdn.wayke.se/cfit/799be1a1-3fa2-48f8-a1f7-028ca9bc7f95/00ba8631-cd13-4c95-8388-36d7f285091d?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/799be1a1-3fa2-48f8-a1f7-028ca9bc7f95/00ba8631-cd13-4c95-8388-36d7f285091d?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>Sandero</model>
+    <year>2023</year>
+    <mileage>
+      <value>23740</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Manual</transmission>
+    <g:price>139000 SEK</g:price>
+    <price>139000 SEK</price>
+    <sale_price>139000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>626319e3-9da3-44d9-9689-e893246a96c4</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>626319e3-9da3-44d9-9689-e893246a96c4</vehicle_id>
+    <vehicle_registration_plate>JLJ00U</vehicle_registration_plate>
+    <g:title>Dacia Sandero TCe 90 Expression A</g:title>
+    <title>Dacia Sandero TCe 90 Expression A</title>
+    <g:description>TCe 90 Expression A. Från 2 501 kr/mån. Miltal: 1 953 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: JLJ00U. Kontakta oss för mer information.</g:description>
+    <description>TCe 90 Expression A. Från 2 501 kr/mån. Miltal: 1 953 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: JLJ00U. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/dacia-sandero-stepway-jlj00u</g:link>
+    <link>https://borasbil.se/bilar/dacia-sandero-stepway-jlj00u</link>
+    <url>https://borasbil.se/bilar/dacia-sandero-stepway-jlj00u</url>
+    <g:brand>Dacia</g:brand>
+    <brand>Dacia</brand>
+    <make>Dacia</make>
+    <g:image_link>https://cdn.wayke.se/cfit/f5d630c0-98a4-4611-8e42-ead8f9c4140d/24e99e2c-9647-4e3a-ac09-6278c2ca6689?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/f5d630c0-98a4-4611-8e42-ead8f9c4140d/24e99e2c-9647-4e3a-ac09-6278c2ca6689?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>Sandero</model>
+    <year>2023</year>
+    <mileage>
+      <value>19530</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>159000 SEK</g:price>
+    <price>159000 SEK</price>
+    <sale_price>159000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>384df450-d3af-44bf-8197-d4fb958a562c</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
