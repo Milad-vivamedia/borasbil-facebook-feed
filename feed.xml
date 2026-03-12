@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>758e3008-6904-4c2a-9420-d1c9b2e81c5e</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>758e3008-6904-4c2a-9420-d1c9b2e81c5e</vehicle_id>
+    <vehicle_registration_plate>WAE34Z</vehicle_registration_plate>
+    <g:title>Polestar 2 78kWh</g:title>
+    <title>Polestar 2 78kWh</title>
+    <g:description>78kWh. Från 5 489 kr/mån. Miltal: 8 396 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: WAE34Z. Kontakta oss för mer information.</g:description>
+    <description>78kWh. Från 5 489 kr/mån. Miltal: 8 396 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: WAE34Z. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-wae34z</g:link>
+    <link>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-wae34z</link>
+    <url>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-wae34z</url>
+    <g:brand>Polestar</g:brand>
+    <brand>Polestar</brand>
+    <make>Polestar</make>
+    <g:image_link>https://cdn.wayke.se/cfit/ebd0e2fa-5680-4f2f-9e12-f0bf0fd6611b/5abdfff5-8aa3-4fda-901e-30ca67c845ad?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/ebd0e2fa-5680-4f2f-9e12-f0bf0fd6611b/5abdfff5-8aa3-4fda-901e-30ca67c845ad?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>2</model>
+    <year>2023</year>
+    <mileage>
+      <value>83960</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>349000 SEK</g:price>
+    <price>349000 SEK</price>
+    <sale_price>349000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>62095f12-4d1f-4b6d-a12a-716192723e22</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -1408,9 +1452,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/c0a7c07b-f767-4ffd-a4a8-a8e928196f2b/644dffb9-5abe-4c13-9a81-e7a4374436a6?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/af3b25dd-3e65-4049-b0e0-088199d18a07/380cd7e2-7359-4159-a414-daf8fec9b3df?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/c0a7c07b-f767-4ffd-a4a8-a8e928196f2b/644dffb9-5abe-4c13-9a81-e7a4374436a6?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/af3b25dd-3e65-4049-b0e0-088199d18a07/380cd7e2-7359-4159-a414-daf8fec9b3df?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>C40</model>
