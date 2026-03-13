@@ -9477,50 +9477,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>421d540e-b5c3-4a8c-b7d1-3b97ad4c2353</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>421d540e-b5c3-4a8c-b7d1-3b97ad4c2353</vehicle_id>
-    <vehicle_registration_plate>FPG18L</vehicle_registration_plate>
-    <g:title>Volvo V60 Recharge T6 Plus Dark</g:title>
-    <title>Volvo V60 Recharge T6 Plus Dark</title>
-    <g:description>Recharge T6 Plus Dark. Från 5 804 kr/mån. Miltal: 11 320 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: FPG18L. Kontakta oss för mer information.</g:description>
-    <description>Recharge T6 Plus Dark. Från 5 804 kr/mån. Miltal: 11 320 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: FPG18L. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-v60-fpg18l</g:link>
-    <link>https://borasbil.se/bilar/volvo-v60-fpg18l</link>
-    <url>https://borasbil.se/bilar/volvo-v60-fpg18l</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/6fcf11b2-2872-4739-bcd6-deae8f114572/95d81d4a-21eb-4698-bfac-ed269cffe1ad?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/6fcf11b2-2872-4739-bcd6-deae8f114572/95d81d4a-21eb-4698-bfac-ed269cffe1ad?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V60</model>
-    <year>2023</year>
-    <mileage>
-      <value>113200</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>369000 SEK</g:price>
-    <price>369000 SEK</price>
-    <sale_price>369000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>5366dc18-7876-4202-9f06-8d41feb89338</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -10487,46 +10443,6 @@
     <g:price>275900 SEK</g:price>
     <price>275900 SEK</price>
     <sale_price>275900 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>46c4aa4d-e7ad-4418-a288-cc47909c82bc</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>46c4aa4d-e7ad-4418-a288-cc47909c82bc</vehicle_id>
-    <vehicle_registration_plate>DEG13L</vehicle_registration_plate>
-    <g:title>Citroën C3 Aircross MAX 145 A 7 SITS</g:title>
-    <title>Citroën C3 Aircross MAX 145 A 7 SITS</title>
-    <g:description>MAX 145 A 7 SITS. Från 4 865 kr/mån. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Reg.nr: DEG13L. Kontakta oss för mer information.</g:description>
-    <description>MAX 145 A 7 SITS. Från 4 865 kr/mån. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Reg.nr: DEG13L. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/citroen-c3-aircross-hybrid-136-deg13l</g:link>
-    <link>https://borasbil.se/bilar/citroen-c3-aircross-hybrid-136-deg13l</link>
-    <url>https://borasbil.se/bilar/citroen-c3-aircross-hybrid-136-deg13l</url>
-    <g:brand>Citroën</g:brand>
-    <brand>Citroën</brand>
-    <make>Citroën</make>
-    <g:image_link>https://cdn.wayke.se/cfit/e742c6d0-f5c9-4d84-9853-a851e599d4c1/46b28fdd-2dbb-44ac-adcb-a03e30515209?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/e742c6d0-f5c9-4d84-9853-a851e599d4c1/46b28fdd-2dbb-44ac-adcb-a03e30515209?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C3 Aircross</model>
-    <year>2025</year>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>309300 SEK</g:price>
-    <price>309300 SEK</price>
-    <sale_price>309300 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Borås Bil</component>
       <component name="country">SE</component>
