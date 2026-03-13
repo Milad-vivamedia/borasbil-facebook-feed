@@ -7857,50 +7857,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>a319bec6-2a3f-4d69-85af-a16f5c80cdb9</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>a319bec6-2a3f-4d69-85af-a16f5c80cdb9</vehicle_id>
-    <vehicle_registration_plate>UZM07X</vehicle_registration_plate>
-    <g:title>Volvo V60 T8 TE Inscription</g:title>
-    <title>Volvo V60 T8 TE Inscription</title>
-    <g:description>T8 TE Inscription. Från 5 017 kr/mån. Miltal: 10 401 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: UZM07X. Kontakta oss för mer information.</g:description>
-    <description>T8 TE Inscription. Från 5 017 kr/mån. Miltal: 10 401 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: UZM07X. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-v60-uzm07x</g:link>
-    <link>https://borasbil.se/bilar/volvo-v60-uzm07x</link>
-    <url>https://borasbil.se/bilar/volvo-v60-uzm07x</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/2f8dca97-c969-46b5-9b3c-33e1b1288d1c/f43206b5-d019-458c-bf7a-45117d2857f6?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/2f8dca97-c969-46b5-9b3c-33e1b1288d1c/f43206b5-d019-458c-bf7a-45117d2857f6?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V60</model>
-    <year>2020</year>
-    <mileage>
-      <value>104010</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>319000 SEK</g:price>
-    <price>319000 SEK</price>
-    <sale_price>319000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Bogesunds Bil Ulricehamn</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>1a86d1f5-c02b-416f-805f-0df0832a0a2f</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -10663,50 +10619,6 @@
     <g:price>275900 SEK</g:price>
     <price>275900 SEK</price>
     <sale_price>275900 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>255ef686-5a58-47eb-8b1d-75e32f7303e6</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>255ef686-5a58-47eb-8b1d-75e32f7303e6</vehicle_id>
-    <vehicle_registration_plate>UPE15F</vehicle_registration_plate>
-    <g:title>Volvo XC40 Core Edition - FRI HEMLEVERANS!</g:title>
-    <title>Volvo XC40 Core Edition - FRI HEMLEVERANS!</title>
-    <g:description>Core Edition - FRI HEMLEVERANS!. Från 4 545 kr/mån. Miltal: 4 111 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: UPE15F. Kontakta oss för mer information.</g:description>
-    <description>Core Edition - FRI HEMLEVERANS!. Från 4 545 kr/mån. Miltal: 4 111 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: UPE15F. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-upe15f</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-upe15f</link>
-    <url>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-upe15f</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/bc9521a0-8a5d-407a-a207-1015991d5d69/84ba4a4a-92f5-4850-a0f2-50c4343f2d0f?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/bc9521a0-8a5d-407a-a207-1015991d5d69/84ba4a4a-92f5-4850-a0f2-50c4343f2d0f?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2023</year>
-    <mileage>
-      <value>41110</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>289000 SEK</g:price>
-    <price>289000 SEK</price>
-    <sale_price>289000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Borås Bil</component>
       <component name="country">SE</component>
