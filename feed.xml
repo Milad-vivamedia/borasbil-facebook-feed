@@ -1192,8 +1192,8 @@
     <vehicle_registration_plate>DRU51E</vehicle_registration_plate>
     <g:title>Volvo V60 T6 Plus Dark Nordic Edition</g:title>
     <title>Volvo V60 T6 Plus Dark Nordic Edition</title>
-    <g:description>T6 Plus Dark Nordic Edition. Från 9 421 kr/mån. Miltal: 300 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: DRU51E. Kontakta oss för mer information.</g:description>
-    <description>T6 Plus Dark Nordic Edition. Från 9 421 kr/mån. Miltal: 300 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: DRU51E. Kontakta oss för mer information.</description>
+    <g:description>T6 Plus Dark Nordic Edition. Från 9 421 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: DRU51E. Kontakta oss för mer information.</g:description>
+    <description>T6 Plus Dark Nordic Edition. Från 9 421 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: DRU51E. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-v60-dru51e</g:link>
     <link>https://borasbil.se/bilar/volvo-v60-dru51e</link>
     <url>https://borasbil.se/bilar/volvo-v60-dru51e</url>
@@ -1207,10 +1207,6 @@
     </image>
     <model>V60</model>
     <year>2026</year>
-    <mileage>
-      <value>3000</value>
-      <unit>KM</unit>
-    </mileage>
     <body_style>Wagon</body_style>
     <fuel_type>Gasoline</fuel_type>
     <transmission>Automatic</transmission>
