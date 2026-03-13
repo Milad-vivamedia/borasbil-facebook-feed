@@ -5,6 +5,138 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>87ec3614-70f8-49a4-b7bf-ab1153fd5689</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>87ec3614-70f8-49a4-b7bf-ab1153fd5689</vehicle_id>
+    <vehicle_registration_plate>JYT52L</vehicle_registration_plate>
+    <g:title>Peugeot 2008 GT Electric 5-d SUV</g:title>
+    <title>Peugeot 2008 GT Electric 5-d SUV</title>
+    <g:description>GT Electric 5-d SUV. Från 3 287 kr/mån. Miltal: 5 005 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: JYT52L. Kontakta oss för mer information.</g:description>
+    <description>GT Electric 5-d SUV. Från 3 287 kr/mån. Miltal: 5 005 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: JYT52L. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/peugeot-e-2008-jyt52l</g:link>
+    <link>https://borasbil.se/bilar/peugeot-e-2008-jyt52l</link>
+    <url>https://borasbil.se/bilar/peugeot-e-2008-jyt52l</url>
+    <g:brand>Peugeot</g:brand>
+    <brand>Peugeot</brand>
+    <make>Peugeot</make>
+    <g:image_link>https://cdn.wayke.se/cfit/337eea78-2586-4a68-b09f-2b9a8a04d72a/05f3d45a-8b81-456a-b8aa-3d29250d2a22?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/337eea78-2586-4a68-b09f-2b9a8a04d72a/05f3d45a-8b81-456a-b8aa-3d29250d2a22?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>2008</model>
+    <year>2022</year>
+    <mileage>
+      <value>50050</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>209000 SEK</g:price>
+    <price>209000 SEK</price>
+    <sale_price>209000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>e9cc028c-0a3d-4679-bd0f-4188e4af872f</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>e9cc028c-0a3d-4679-bd0f-4188e4af872f</vehicle_id>
+    <vehicle_registration_plate>XYT95J</vehicle_registration_plate>
+    <g:title>Dacia Sandero TCe 90 Expression A</g:title>
+    <title>Dacia Sandero TCe 90 Expression A</title>
+    <g:description>TCe 90 Expression A. Från 2 343 kr/mån. Miltal: 1 108 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: XYT95J. Kontakta oss för mer information.</g:description>
+    <description>TCe 90 Expression A. Från 2 343 kr/mån. Miltal: 1 108 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: XYT95J. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/dacia-sandero-stepway-xyt95j</g:link>
+    <link>https://borasbil.se/bilar/dacia-sandero-stepway-xyt95j</link>
+    <url>https://borasbil.se/bilar/dacia-sandero-stepway-xyt95j</url>
+    <g:brand>Dacia</g:brand>
+    <brand>Dacia</brand>
+    <make>Dacia</make>
+    <g:image_link>https://cdn.wayke.se/cfit/a1b20530-16d6-4d36-b4ce-a757e2a1d696/49b97228-a60b-4104-8982-83046025feb8?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/a1b20530-16d6-4d36-b4ce-a757e2a1d696/49b97228-a60b-4104-8982-83046025feb8?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>Sandero</model>
+    <year>2023</year>
+    <mileage>
+      <value>11080</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>149000 SEK</g:price>
+    <price>149000 SEK</price>
+    <sale_price>149000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>33e0a116-fe84-43c6-8e97-9aa5c3f46103</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>33e0a116-fe84-43c6-8e97-9aa5c3f46103</vehicle_id>
+    <vehicle_registration_plate>DBT34C</vehicle_registration_plate>
+    <g:title>Dacia Sandero TCe 90 Essential IV</g:title>
+    <title>Dacia Sandero TCe 90 Essential IV</title>
+    <g:description>TCe 90 Essential IV. Från 1 714 kr/mån. Miltal: 2 685 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: DBT34C. Kontakta oss för mer information.</g:description>
+    <description>TCe 90 Essential IV. Från 1 714 kr/mån. Miltal: 2 685 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: DBT34C. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/dacia-sandero-dbt34c</g:link>
+    <link>https://borasbil.se/bilar/dacia-sandero-dbt34c</link>
+    <url>https://borasbil.se/bilar/dacia-sandero-dbt34c</url>
+    <g:brand>Dacia</g:brand>
+    <brand>Dacia</brand>
+    <make>Dacia</make>
+    <g:image_link>https://cdn.wayke.se/cfit/b1f33fa7-08a3-4c7e-9525-e914fe69059f/e3438c6b-6285-4493-a8d7-7abf3b24a16a?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/b1f33fa7-08a3-4c7e-9525-e914fe69059f/e3438c6b-6285-4493-a8d7-7abf3b24a16a?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>Sandero</model>
+    <year>2023</year>
+    <mileage>
+      <value>26850</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Manual</transmission>
+    <g:price>109000 SEK</g:price>
+    <price>109000 SEK</price>
+    <sale_price>109000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>d1a7e6b1-8c6e-4400-86db-fde32e9b8cd5</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -3314,6 +3446,50 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>96eedaf9-d0d0-4407-9660-57e6c57b92a5</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>96eedaf9-d0d0-4407-9660-57e6c57b92a5</vehicle_id>
+    <vehicle_registration_plate>UAS62X</vehicle_registration_plate>
+    <g:title>Peugeot 2008 GT Electric 5-d SUV</g:title>
+    <title>Peugeot 2008 GT Electric 5-d SUV</title>
+    <g:description>GT Electric 5-d SUV. Från 3 287 kr/mån. Miltal: 3 664 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: UAS62X. Kontakta oss för mer information.</g:description>
+    <description>GT Electric 5-d SUV. Från 3 287 kr/mån. Miltal: 3 664 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: UAS62X. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/peugeot-e-2008-uas62x</g:link>
+    <link>https://borasbil.se/bilar/peugeot-e-2008-uas62x</link>
+    <url>https://borasbil.se/bilar/peugeot-e-2008-uas62x</url>
+    <g:brand>Peugeot</g:brand>
+    <brand>Peugeot</brand>
+    <make>Peugeot</make>
+    <g:image_link>https://cdn.wayke.se/cfit/198594c7-a732-4757-a08d-a713bf69d6a4/6bb8de85-a916-4987-a744-fa10ae87efc8?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/198594c7-a732-4757-a08d-a713bf69d6a4/6bb8de85-a916-4987-a744-fa10ae87efc8?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>2008</model>
+    <year>2022</year>
+    <mileage>
+      <value>36640</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>209000 SEK</g:price>
+    <price>209000 SEK</price>
+    <sale_price>209000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
