@@ -5,6 +5,94 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>deb37066-81dd-433d-b309-772a2ee7f903</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>deb37066-81dd-433d-b309-772a2ee7f903</vehicle_id>
+    <vehicle_registration_plate>OJD240</vehicle_registration_plate>
+    <g:title>Volvo V40 Business Adv Summum - Navigation, dragkrok, Elman förarstol, 18-tum, Bränslevärmare</g:title>
+    <title>Volvo V40 Business Adv Summum - Navigation, dragkrok, Elman förarstol, 18-tum, Bränslevärmare</title>
+    <g:description>Business Adv Summum - Navigation, dragkrok, Elman förarstol, 18-tum, Bränslevärmare. Från 3 287 kr/mån. Miltal: 11 081 mil. Årsmodell: 2017. Växellåda: Automat. Bränsle: Diesel. Reg.nr: OJD240. Kontakta oss för mer information.</g:description>
+    <description>Business Adv Summum - Navigation, dragkrok, Elman förarstol, 18-tum, Bränslevärmare. Från 3 287 kr/mån. Miltal: 11 081 mil. Årsmodell: 2017. Växellåda: Automat. Bränsle: Diesel. Reg.nr: OJD240. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-v40-cross-country-d4-ojd240</g:link>
+    <link>https://borasbil.se/bilar/volvo-v40-cross-country-d4-ojd240</link>
+    <url>https://borasbil.se/bilar/volvo-v40-cross-country-d4-ojd240</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/ae1fda8a-c75c-4561-9d6e-4f4e18c67823/c12e4e3c-d0e4-463d-bfb6-bc31d81b72c6?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/ae1fda8a-c75c-4561-9d6e-4f4e18c67823/c12e4e3c-d0e4-463d-bfb6-bc31d81b72c6?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>V40</model>
+    <year>2017</year>
+    <mileage>
+      <value>110810</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>209000 SEK</g:price>
+    <price>209000 SEK</price>
+    <sale_price>209000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Bogesunds Bil Ulricehamn</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>2fbad4e0-a546-4040-b05a-48c4899474a1</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>2fbad4e0-a546-4040-b05a-48c4899474a1</vehicle_id>
+    <vehicle_registration_plate>JWA77D</vehicle_registration_plate>
+    <g:title>Volvo XC90 II T8 Ultra - Fullutrustad - Digital innerbackspegel, Dragkrok, Innertak Nubuckläder mm</g:title>
+    <title>Volvo XC90 II T8 Ultra - Fullutrustad - Digital innerbackspegel, Dragkrok, Innertak Nubuckläder mm</title>
+    <g:description>II T8 Ultra - Fullutrustad - Digital innerbackspegel, Dragkrok, Innertak Nubuckläder mm. Från 13 510 kr/mån. Miltal: 5 994 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Reg.nr: JWA77D. Kontakta oss för mer information.</g:description>
+    <description>II T8 Ultra - Fullutrustad - Digital innerbackspegel, Dragkrok, Innertak Nubuckläder mm. Från 13 510 kr/mån. Miltal: 5 994 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Reg.nr: JWA77D. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-xc90-7-saten-jwa77d</g:link>
+    <link>https://borasbil.se/bilar/volvo-xc90-7-saten-jwa77d</link>
+    <url>https://borasbil.se/bilar/volvo-xc90-7-saten-jwa77d</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/c646ecf0-9307-47f1-9531-857baba040ed/055b0e3a-ef61-40da-8d1e-65f58f965351?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/c646ecf0-9307-47f1-9531-857baba040ed/055b0e3a-ef61-40da-8d1e-65f58f965351?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC90</model>
+    <year>2025</year>
+    <mileage>
+      <value>59940</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>859000 SEK</g:price>
+    <price>859000 SEK</price>
+    <sale_price>859000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Bogesunds Bil Ulricehamn</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>87ec3614-70f8-49a4-b7bf-ab1153fd5689</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
