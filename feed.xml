@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>c3f69b86-ff63-4599-9ac6-a4594cd5caa8</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>c3f69b86-ff63-4599-9ac6-a4594cd5caa8</vehicle_id>
+    <vehicle_registration_plate>JXJ89P</vehicle_registration_plate>
+    <g:title>Polestar 2 78kWh</g:title>
+    <title>Polestar 2 78kWh</title>
+    <g:description>78kWh. Från 4 860 kr/mån. Miltal: 12 842 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: JXJ89P. Kontakta oss för mer information.</g:description>
+    <description>78kWh. Från 4 860 kr/mån. Miltal: 12 842 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: JXJ89P. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-jxj89p</g:link>
+    <link>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-jxj89p</link>
+    <url>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-jxj89p</url>
+    <g:brand>Polestar</g:brand>
+    <brand>Polestar</brand>
+    <make>Polestar</make>
+    <g:image_link>https://cdn.wayke.se/cfit/a1d7a5f7-fd47-4492-acb0-c28a0b18e3e4/360cac85-357d-435f-9ccd-5721f6b56b3a?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/a1d7a5f7-fd47-4492-acb0-c28a0b18e3e4/360cac85-357d-435f-9ccd-5721f6b56b3a?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>2</model>
+    <year>2023</year>
+    <mileage>
+      <value>128420</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>309000 SEK</g:price>
+    <price>309000 SEK</price>
+    <sale_price>309000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>deb37066-81dd-433d-b309-772a2ee7f903</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
