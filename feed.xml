@@ -8905,50 +8905,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>cbf64b21-dd25-4933-9ea1-ffe4c90d6d88</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>cbf64b21-dd25-4933-9ea1-ffe4c90d6d88</vehicle_id>
-    <vehicle_registration_plate>JER00E</vehicle_registration_plate>
-    <g:title>Volvo XC40 Recharge T4 Core Bright</g:title>
-    <title>Volvo XC40 Recharge T4 Core Bright</title>
-    <g:description>Recharge T4 Core Bright. Från 5 646 kr/mån. Miltal: 5 083 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: JER00E. Kontakta oss för mer information.</g:description>
-    <description>Recharge T4 Core Bright. Från 5 646 kr/mån. Miltal: 5 083 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: JER00E. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc40-jer00e</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc40-jer00e</link>
-    <url>https://borasbil.se/bilar/volvo-xc40-jer00e</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/111961b6-098f-43bb-b81c-1d0a51f8520c/262a654d-8705-45ef-81bc-3a7faea728b2?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/111961b6-098f-43bb-b81c-1d0a51f8520c/262a654d-8705-45ef-81bc-3a7faea728b2?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2023</year>
-    <mileage>
-      <value>50830</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>359000 SEK</g:price>
-    <price>359000 SEK</price>
-    <sale_price>359000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>525d2ec8-f544-4516-be7c-f27334e756d0</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
