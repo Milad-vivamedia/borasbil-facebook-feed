@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>add90077-e070-4668-a117-821fe350ddf2</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>add90077-e070-4668-a117-821fe350ddf2</vehicle_id>
+    <vehicle_registration_plate>SDJ40W</vehicle_registration_plate>
+    <g:title>Peugeot 208 GT Electric 5-d</g:title>
+    <title>Peugeot 208 GT Electric 5-d</title>
+    <g:description>GT Electric 5-d. Från 3 287 kr/mån. Miltal: 3 450 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: SDJ40W. Kontakta oss för mer information.</g:description>
+    <description>GT Electric 5-d. Från 3 287 kr/mån. Miltal: 3 450 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: SDJ40W. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/peugeot-e-208-sdj40w</g:link>
+    <link>https://borasbil.se/bilar/peugeot-e-208-sdj40w</link>
+    <url>https://borasbil.se/bilar/peugeot-e-208-sdj40w</url>
+    <g:brand>Peugeot</g:brand>
+    <brand>Peugeot</brand>
+    <make>Peugeot</make>
+    <g:image_link>https://cdn.wayke.se/cfit/758e784a-78d1-4bfd-9d5f-4157ca4cec25/5fc0d573-2303-4045-aa2a-837fb8800e0b?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/758e784a-78d1-4bfd-9d5f-4157ca4cec25/5fc0d573-2303-4045-aa2a-837fb8800e0b?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>208</model>
+    <year>2022</year>
+    <mileage>
+      <value>34500</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>209000 SEK</g:price>
+    <price>209000 SEK</price>
+    <sale_price>209000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>a49d82dc-0436-4ab3-91b2-e13fa525d703</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -584,8 +628,8 @@
     <vehicle_registration_plate>JWA77D</vehicle_registration_plate>
     <g:title>Volvo XC90 II T8 Ultra - Fullutrustad - Digital innerbackspegel, Dragkrok, Innertak Nubuckläder mm</g:title>
     <title>Volvo XC90 II T8 Ultra - Fullutrustad - Digital innerbackspegel, Dragkrok, Innertak Nubuckläder mm</title>
-    <g:description>II T8 Ultra - Fullutrustad - Digital innerbackspegel, Dragkrok, Innertak Nubuckläder mm. Från 13 510 kr/mån. Miltal: 5 994 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Reg.nr: JWA77D. Kontakta oss för mer information.</g:description>
-    <description>II T8 Ultra - Fullutrustad - Digital innerbackspegel, Dragkrok, Innertak Nubuckläder mm. Från 13 510 kr/mån. Miltal: 5 994 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Reg.nr: JWA77D. Kontakta oss för mer information.</description>
+    <g:description>II T8 Ultra - Fullutrustad - Digital innerbackspegel, Dragkrok, Innertak Nubuckläder mm. Från 13 510 kr/mån. Miltal: 5 954 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Reg.nr: JWA77D. Kontakta oss för mer information.</g:description>
+    <description>II T8 Ultra - Fullutrustad - Digital innerbackspegel, Dragkrok, Innertak Nubuckläder mm. Från 13 510 kr/mån. Miltal: 5 954 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Reg.nr: JWA77D. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc90-7-saten-jwa77d</g:link>
     <link>https://borasbil.se/bilar/volvo-xc90-7-saten-jwa77d</link>
     <url>https://borasbil.se/bilar/volvo-xc90-7-saten-jwa77d</url>
@@ -600,7 +644,7 @@
     <model>XC90</model>
     <year>2025</year>
     <mileage>
-      <value>59940</value>
+      <value>59540</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
