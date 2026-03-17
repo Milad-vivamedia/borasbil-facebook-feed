@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>a49d82dc-0436-4ab3-91b2-e13fa525d703</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>a49d82dc-0436-4ab3-91b2-e13fa525d703</vehicle_id>
+    <vehicle_registration_plate>UDA15M</vehicle_registration_plate>
+    <g:title>Polestar 2 78kWh</g:title>
+    <title>Polestar 2 78kWh</title>
+    <g:description>78kWh. Från 5 804 kr/mån. Miltal: 4 866 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: UDA15M. Kontakta oss för mer information.</g:description>
+    <description>78kWh. Från 5 804 kr/mån. Miltal: 4 866 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: UDA15M. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-uda15m</g:link>
+    <link>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-uda15m</link>
+    <url>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-uda15m</url>
+    <g:brand>Polestar</g:brand>
+    <brand>Polestar</brand>
+    <make>Polestar</make>
+    <g:image_link>https://cdn.wayke.se/cfit/216ab411-10bc-4d7d-835d-7ba1b8cffc07/516406f6-e589-4415-9eec-386f067379c3?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/216ab411-10bc-4d7d-835d-7ba1b8cffc07/516406f6-e589-4415-9eec-386f067379c3?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>2</model>
+    <year>2023</year>
+    <mileage>
+      <value>48660</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>369000 SEK</g:price>
+    <price>369000 SEK</price>
+    <sale_price>369000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>4934e517-0d62-402d-b0d7-e4d63acf3656</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -20,9 +64,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/ef257fa4-f57a-489a-a909-e1e50ac9351b/406bb25f-f233-4221-9681-f79af9ea174d?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/71113a64-e6b2-4445-b800-b0c6a141be73/5af65282-933d-4159-b54a-16acf5a7d896?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/ef257fa4-f57a-489a-a909-e1e50ac9351b/406bb25f-f233-4221-9681-f79af9ea174d?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/71113a64-e6b2-4445-b800-b0c6a141be73/5af65282-933d-4159-b54a-16acf5a7d896?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>V60</model>
@@ -108,9 +152,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/df57f646-f654-4040-a281-882a31916361/aeced952-5349-4acc-aa2f-08a117c117a5?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/7b62a686-c128-4cde-bccf-fda9962ce059/eb8884a2-4b5d-48c9-bebc-718b8899fe21?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/df57f646-f654-4040-a281-882a31916361/aeced952-5349-4acc-aa2f-08a117c117a5?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/7b62a686-c128-4cde-bccf-fda9962ce059/eb8884a2-4b5d-48c9-bebc-718b8899fe21?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>C40</model>
@@ -6761,50 +6805,6 @@
     <g:price>369000 SEK</g:price>
     <price>369000 SEK</price>
     <sale_price>369000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>0b68fb0f-7d38-4710-9e43-fb177120b41a</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>0b68fb0f-7d38-4710-9e43-fb177120b41a</vehicle_id>
-    <vehicle_registration_plate>LMS91N</vehicle_registration_plate>
-    <g:title>Peugeot 2008 GT Electric 5-d SUV</g:title>
-    <title>Peugeot 2008 GT Electric 5-d SUV</title>
-    <g:description>GT Electric 5-d SUV. Från 3 287 kr/mån. Miltal: 2 500 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: LMS91N. Kontakta oss för mer information.</g:description>
-    <description>GT Electric 5-d SUV. Från 3 287 kr/mån. Miltal: 2 500 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: LMS91N. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/peugeot-e-2008-lms91n</g:link>
-    <link>https://borasbil.se/bilar/peugeot-e-2008-lms91n</link>
-    <url>https://borasbil.se/bilar/peugeot-e-2008-lms91n</url>
-    <g:brand>Peugeot</g:brand>
-    <brand>Peugeot</brand>
-    <make>Peugeot</make>
-    <g:image_link>https://cdn.wayke.se/cfit/ec9a93dc-bb25-4ec1-922c-2bcb531b8629/38f8069a-fd62-4757-bf4f-f1189ed25c20?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/ec9a93dc-bb25-4ec1-922c-2bcb531b8629/38f8069a-fd62-4757-bf4f-f1189ed25c20?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>2008</model>
-    <year>2022</year>
-    <mileage>
-      <value>25000</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>209000 SEK</g:price>
-    <price>209000 SEK</price>
-    <sale_price>209000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Borås Bil</component>
       <component name="country">SE</component>
