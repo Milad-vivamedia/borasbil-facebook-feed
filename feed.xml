@@ -9959,50 +9959,6 @@
     <state_of_vehicle>NEW</state_of_vehicle>
     </item>
     <item>
-    <g:id>b489315c-321a-4bd0-b034-9c2a55d9e329</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>b489315c-321a-4bd0-b034-9c2a55d9e329</vehicle_id>
-    <vehicle_registration_plate>XFL48J</vehicle_registration_plate>
-    <g:title>Renault Clio TCe 90 Equilibre 5-d</g:title>
-    <title>Renault Clio TCe 90 Equilibre 5-d</title>
-    <g:description>TCe 90 Equilibre 5-d. Från 2 123 kr/mån. Miltal: 4 025 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: XFL48J. Kontakta oss för mer information.</g:description>
-    <description>TCe 90 Equilibre 5-d. Från 2 123 kr/mån. Miltal: 4 025 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: XFL48J. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/renault-clio-xfl48j</g:link>
-    <link>https://borasbil.se/bilar/renault-clio-xfl48j</link>
-    <url>https://borasbil.se/bilar/renault-clio-xfl48j</url>
-    <g:brand>Renault</g:brand>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <g:image_link>https://cdn.wayke.se/cfit/f8cc17be-dfa7-4ee3-b5ce-0694523f9863/28083ab4-ab87-4852-a6c6-28f86460c728?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/f8cc17be-dfa7-4ee3-b5ce-0694523f9863/28083ab4-ab87-4852-a6c6-28f86460c728?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Clio</model>
-    <year>2023</year>
-    <mileage>
-      <value>40250</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Manual</transmission>
-    <g:price>135000 SEK</g:price>
-    <price>135000 SEK</price>
-    <sale_price>135000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Bogesunds Bil Ulricehamn</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>1a7484d6-f095-49f8-9129-08927b36ea51</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -11289,50 +11245,6 @@
     <g:condition>new</g:condition>
     <condition>new</condition>
     <state_of_vehicle>NEW</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>35bbe23e-305c-47a2-a5dd-cf9b1551e2a2</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>35bbe23e-305c-47a2-a5dd-cf9b1551e2a2</vehicle_id>
-    <vehicle_registration_plate>KGC09N</vehicle_registration_plate>
-    <g:title>Renault ZOE PhII 52 kW Iconic batteriköp</g:title>
-    <title>Renault ZOE PhII 52 kW Iconic batteriköp</title>
-    <g:description>PhII 52 kW Iconic batteriköp. Från 2 815 kr/mån. Miltal: 4 500 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: KGC09N. Kontakta oss för mer information.</g:description>
-    <description>PhII 52 kW Iconic batteriköp. Från 2 815 kr/mån. Miltal: 4 500 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: KGC09N. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/renault-zoe-r135-kgc09n</g:link>
-    <link>https://borasbil.se/bilar/renault-zoe-r135-kgc09n</link>
-    <url>https://borasbil.se/bilar/renault-zoe-r135-kgc09n</url>
-    <g:brand>Renault</g:brand>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <g:image_link>https://cdn.wayke.se/cfit/3d5ea155-f09d-4702-b159-d764275bda9b/ea1d4a32-38e0-4c2f-8dd1-b9cba817ba82?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/3d5ea155-f09d-4702-b159-d764275bda9b/ea1d4a32-38e0-4c2f-8dd1-b9cba817ba82?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>ZOE</model>
-    <year>2023</year>
-    <mileage>
-      <value>45000</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>179000 SEK</g:price>
-    <price>179000 SEK</price>
-    <sale_price>179000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
     <g:id>24b570c0-3106-42bb-a6e9-9036290ae4f9</g:id>
