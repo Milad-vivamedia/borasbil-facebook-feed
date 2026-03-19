@@ -16530,8 +16530,8 @@
     <vehicle_registration_plate>NWA56Y</vehicle_registration_plate>
     <g:title>Peugeot Expert L3 75kWh 350km</g:title>
     <title>Peugeot Expert L3 75kWh 350km</title>
-    <g:description>L3 75kWh 350km. Från 6 747 kr/mån. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Reg.nr: NWA56Y. Kontakta oss för mer information.</g:description>
-    <description>L3 75kWh 350km. Från 6 747 kr/mån. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Reg.nr: NWA56Y. Kontakta oss för mer information.</description>
+    <g:description>L3 75kWh 350km. Från 6 747 kr/mån. Miltal: 380 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Reg.nr: NWA56Y. Kontakta oss för mer information.</g:description>
+    <description>L3 75kWh 350km. Från 6 747 kr/mån. Miltal: 380 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Reg.nr: NWA56Y. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/peugeot-e-expert-nwa56y</g:link>
     <link>https://borasbil.se/bilar/peugeot-e-expert-nwa56y</link>
     <url>https://borasbil.se/bilar/peugeot-e-expert-nwa56y</url>
@@ -16545,6 +16545,10 @@
     </image>
     <model>Expert</model>
     <year>2024</year>
+    <mileage>
+      <value>3800</value>
+      <unit>KM</unit>
+    </mileage>
     <body_style>Sedan</body_style>
     <fuel_type>Electric</fuel_type>
     <transmission>Automatic</transmission>
