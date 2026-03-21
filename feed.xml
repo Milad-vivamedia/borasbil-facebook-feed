@@ -877,50 +877,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>4934e517-0d62-402d-b0d7-e4d63acf3656</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>4934e517-0d62-402d-b0d7-e4d63acf3656</vehicle_id>
-    <vehicle_registration_plate>BSG92E</vehicle_registration_plate>
-    <g:title>Volvo V60 B4 Diesel Core</g:title>
-    <title>Volvo V60 B4 Diesel Core</title>
-    <g:description>B4 Diesel Core. Från 4 703 kr/mån. Miltal: 11 125 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Diesel. Reg.nr: BSG92E. Kontakta oss för mer information.</g:description>
-    <description>B4 Diesel Core. Från 4 703 kr/mån. Miltal: 11 125 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Diesel. Reg.nr: BSG92E. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-v60-bsg92e</g:link>
-    <link>https://borasbil.se/bilar/volvo-v60-bsg92e</link>
-    <url>https://borasbil.se/bilar/volvo-v60-bsg92e</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/71113a64-e6b2-4445-b800-b0c6a141be73/5af65282-933d-4159-b54a-16acf5a7d896?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/71113a64-e6b2-4445-b800-b0c6a141be73/5af65282-933d-4159-b54a-16acf5a7d896?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V60</model>
-    <year>2023</year>
-    <mileage>
-      <value>111250</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>299000 SEK</g:price>
-    <price>299000 SEK</price>
-    <sale_price>299000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>441fa7e9-f31c-453a-a55e-4c30f172f11a</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -7293,50 +7249,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>90af4d93-5377-4ddb-a3a2-8be1112d6bc0</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>90af4d93-5377-4ddb-a3a2-8be1112d6bc0</vehicle_id>
-    <vehicle_registration_plate>FBZ08X</vehicle_registration_plate>
-    <g:title>Volvo XC40 Ultimate</g:title>
-    <title>Volvo XC40 Ultimate</title>
-    <g:description>Ultimate. Från 6 275 kr/mån. Miltal: 4 700 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: FBZ08X. Kontakta oss för mer information.</g:description>
-    <description>Ultimate. Från 6 275 kr/mån. Miltal: 4 700 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: FBZ08X. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-fbz08x</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-fbz08x</link>
-    <url>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-fbz08x</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/598e7cd9-e20b-4e9d-adb1-f1183289a4d5/bb03dfda-fdd2-44be-a228-3cab14e20b9f?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/598e7cd9-e20b-4e9d-adb1-f1183289a4d5/bb03dfda-fdd2-44be-a228-3cab14e20b9f?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2023</year>
-    <mileage>
-      <value>47000</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>399000 SEK</g:price>
-    <price>399000 SEK</price>
-    <sale_price>399000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>8203b57b-a262-4c23-a798-9a6de571a97a</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -11030,8 +10942,8 @@
     <vehicle_registration_plate>WCP45Z</vehicle_registration_plate>
     <g:title>Volvo XC60 T6 Plus Dark Nordic Edition</g:title>
     <title>Volvo XC60 T6 Plus Dark Nordic Edition</title>
-    <g:description>T6 Plus Dark Nordic Edition. Från 10 050 kr/mån. Miltal: 171 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: WCP45Z. Kontakta oss för mer information.</g:description>
-    <description>T6 Plus Dark Nordic Edition. Från 10 050 kr/mån. Miltal: 171 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: WCP45Z. Kontakta oss för mer information.</description>
+    <g:description>T6 Plus Dark Nordic Edition. Från 10 050 kr/mån. Miltal: 1 712 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: WCP45Z. Kontakta oss för mer information.</g:description>
+    <description>T6 Plus Dark Nordic Edition. Från 10 050 kr/mån. Miltal: 1 712 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: WCP45Z. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc60-wcp45z</g:link>
     <link>https://borasbil.se/bilar/volvo-xc60-wcp45z</link>
     <url>https://borasbil.se/bilar/volvo-xc60-wcp45z</url>
@@ -11046,7 +10958,7 @@
     <model>XC60</model>
     <year>2026</year>
     <mileage>
-      <value>1710</value>
+      <value>17120</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
@@ -13243,50 +13155,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>85568934-41df-4930-8787-ada3d853c3a3</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>85568934-41df-4930-8787-ada3d853c3a3</vehicle_id>
-    <vehicle_registration_plate>JAA147</vehicle_registration_plate>
-    <g:title>Volvo C40 Plus - DRAG! - FRI HEMLEVERANS!</g:title>
-    <title>Volvo C40 Plus - DRAG! - FRI HEMLEVERANS!</title>
-    <g:description>Plus - DRAG! - FRI HEMLEVERANS!. Från 5 489 kr/mån. Miltal: 6 635 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: JAA147. Kontakta oss för mer information.</g:description>
-    <description>Plus - DRAG! - FRI HEMLEVERANS!. Från 5 489 kr/mån. Miltal: 6 635 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: JAA147. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-c40-recharge-twin-motor-jaa147</g:link>
-    <link>https://borasbil.se/bilar/volvo-c40-recharge-twin-motor-jaa147</link>
-    <url>https://borasbil.se/bilar/volvo-c40-recharge-twin-motor-jaa147</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/46700282-d7db-40c2-ba42-cb4837cca85c/c092fcb6-a791-4d52-945a-f53cfb091bd4?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/46700282-d7db-40c2-ba42-cb4837cca85c/c092fcb6-a791-4d52-945a-f53cfb091bd4?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C40</model>
-    <year>2023</year>
-    <mileage>
-      <value>66350</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>349000 SEK</g:price>
-    <price>349000 SEK</price>
-    <sale_price>349000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>3572cce8-64e6-472d-a0d2-3bdec32b84a9</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -15306,50 +15174,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>ee82e14d-abff-4acc-bd9e-c4a9a551f017</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>ee82e14d-abff-4acc-bd9e-c4a9a551f017</vehicle_id>
-    <vehicle_registration_plate>GRC47B</vehicle_registration_plate>
-    <g:title>BMW X3 Steptronic</g:title>
-    <title>BMW X3 Steptronic</title>
-    <g:description>Steptronic. Från 5 332 kr/mån. Miltal: 6 984 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: GRC47B. Kontakta oss för mer information.</g:description>
-    <description>Steptronic. Från 5 332 kr/mån. Miltal: 6 984 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: GRC47B. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/bmw-x3-xdrive30e-grc47b</g:link>
-    <link>https://borasbil.se/bilar/bmw-x3-xdrive30e-grc47b</link>
-    <url>https://borasbil.se/bilar/bmw-x3-xdrive30e-grc47b</url>
-    <g:brand>BMW</g:brand>
-    <brand>BMW</brand>
-    <make>BMW</make>
-    <g:image_link>https://cdn.wayke.se/cfit/81147abb-3f13-4cd8-80ad-de48992038bd/0932f2e4-4c5e-4357-b7de-b50bce53317b?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/81147abb-3f13-4cd8-80ad-de48992038bd/0932f2e4-4c5e-4357-b7de-b50bce53317b?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>X3</model>
-    <year>2020</year>
-    <mileage>
-      <value>69840</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>339000 SEK</g:price>
-    <price>339000 SEK</price>
-    <sale_price>339000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Bogesunds Bil Ulricehamn</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
