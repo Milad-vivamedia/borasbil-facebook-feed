@@ -5,6 +5,353 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>7c775951-2f80-4c6f-b73e-345181766f14</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>7c775951-2f80-4c6f-b73e-345181766f14</vehicle_id>
+    <vehicle_registration_plate>HUE84B</vehicle_registration_plate>
+    <g:title>Volvo XC40 Core</g:title>
+    <title>Volvo XC40 Core</title>
+    <g:description>Core. Från 4 388 kr/mån. Miltal: 8 578 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: HUE84B. Kontakta oss för mer information.</g:description>
+    <description>Core. Från 4 388 kr/mån. Miltal: 8 578 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: HUE84B. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-hue84b</g:link>
+    <link>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-hue84b</link>
+    <url>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-hue84b</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/db473b2f-fe41-4156-bff2-ac0aeff7de7f/254f2f0b-ebbc-4fe2-8d77-9be32484b1a2?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/db473b2f-fe41-4156-bff2-ac0aeff7de7f/254f2f0b-ebbc-4fe2-8d77-9be32484b1a2?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC40</model>
+    <year>2023</year>
+    <mileage>
+      <value>85780</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>279000 SEK</g:price>
+    <price>279000 SEK</price>
+    <sale_price>279000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>e9597089-17d7-4ace-b580-d06b8ba53c7d</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>e9597089-17d7-4ace-b580-d06b8ba53c7d</vehicle_id>
+    <vehicle_registration_plate>DHH413</vehicle_registration_plate>
+    <g:title>Volvo C40 Core</g:title>
+    <title>Volvo C40 Core</title>
+    <g:description>Core. Från 5 175 kr/mån. Miltal: 7 583 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: DHH413. Kontakta oss för mer information.</g:description>
+    <description>Core. Från 5 175 kr/mån. Miltal: 7 583 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: DHH413. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-c40-recharge-twin-motor-dhh413</g:link>
+    <link>https://borasbil.se/bilar/volvo-c40-recharge-twin-motor-dhh413</link>
+    <url>https://borasbil.se/bilar/volvo-c40-recharge-twin-motor-dhh413</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/3a4a8877-9b53-45d8-92e0-1d63f52c0716/4f76c94e-cb7f-4743-bb85-2b46043336a5?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/3a4a8877-9b53-45d8-92e0-1d63f52c0716/4f76c94e-cb7f-4743-bb85-2b46043336a5?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>C40</model>
+    <year>2023</year>
+    <mileage>
+      <value>75830</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>329000 SEK</g:price>
+    <price>329000 SEK</price>
+    <sale_price>329000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>bddf2c1a-8555-4317-b6ba-7c9affaaeb13</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>bddf2c1a-8555-4317-b6ba-7c9affaaeb13</vehicle_id>
+    <vehicle_registration_plate>FWR01C</vehicle_registration_plate>
+    <g:title>Volvo V90 Recharge T6 Core Edition</g:title>
+    <title>Volvo V90 Recharge T6 Core Edition</title>
+    <g:description>Recharge T6 Core Edition. Från 6 747 kr/mån. Miltal: 6 209 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Reg.nr: FWR01C. Kontakta oss för mer information.</g:description>
+    <description>Recharge T6 Core Edition. Från 6 747 kr/mån. Miltal: 6 209 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Reg.nr: FWR01C. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-v90-fwr01c</g:link>
+    <link>https://borasbil.se/bilar/volvo-v90-fwr01c</link>
+    <url>https://borasbil.se/bilar/volvo-v90-fwr01c</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <model>V90</model>
+    <year>2024</year>
+    <mileage>
+      <value>62090</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Wagon</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>429000 SEK</g:price>
+    <price>429000 SEK</price>
+    <sale_price>429000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>57dda7a2-6a3f-4729-87c6-65af58118e24</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>57dda7a2-6a3f-4729-87c6-65af58118e24</vehicle_id>
+    <vehicle_registration_plate>GFR00X</vehicle_registration_plate>
+    <g:title>Volvo C40 Core</g:title>
+    <title>Volvo C40 Core</title>
+    <g:description>Core. Från 4 860 kr/mån. Miltal: 6 478 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: GFR00X. Kontakta oss för mer information.</g:description>
+    <description>Core. Från 4 860 kr/mån. Miltal: 6 478 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: GFR00X. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-gfr00x</g:link>
+    <link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-gfr00x</link>
+    <url>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-gfr00x</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/ed657603-c4d2-440b-a333-0bf7050cce8e/b5ecb18a-a99e-4873-aa31-abd6f8a2e2a4?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/ed657603-c4d2-440b-a333-0bf7050cce8e/b5ecb18a-a99e-4873-aa31-abd6f8a2e2a4?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>C40</model>
+    <year>2023</year>
+    <mileage>
+      <value>64780</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>309000 SEK</g:price>
+    <price>309000 SEK</price>
+    <sale_price>309000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>1de7adff-1351-4931-8d4c-8b2e03f9b21b</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>1de7adff-1351-4931-8d4c-8b2e03f9b21b</vehicle_id>
+    <vehicle_registration_plate>MJA08D</vehicle_registration_plate>
+    <g:title>Volvo XC60 Recharge T6 Core Edition</g:title>
+    <title>Volvo XC60 Recharge T6 Core Edition</title>
+    <g:description>Recharge T6 Core Edition. Från 6 747 kr/mån. Miltal: 6 960 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: MJA08D. Kontakta oss för mer information.</g:description>
+    <description>Recharge T6 Core Edition. Från 6 747 kr/mån. Miltal: 6 960 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: MJA08D. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-xc60-mja08d</g:link>
+    <link>https://borasbil.se/bilar/volvo-xc60-mja08d</link>
+    <url>https://borasbil.se/bilar/volvo-xc60-mja08d</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/1a9f4719-4755-43d5-8cb6-08a2c858fa98/a336f190-6ff7-41ed-8e42-e2a62c4df933?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/1a9f4719-4755-43d5-8cb6-08a2c858fa98/a336f190-6ff7-41ed-8e42-e2a62c4df933?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC60</model>
+    <year>2023</year>
+    <mileage>
+      <value>69600</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>429000 SEK</g:price>
+    <price>429000 SEK</price>
+    <sale_price>429000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>5e9a4c48-d40a-4deb-9d34-2da5974f9fce</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>5e9a4c48-d40a-4deb-9d34-2da5974f9fce</vehicle_id>
+    <vehicle_registration_plate>FXT72B</vehicle_registration_plate>
+    <g:title>Volvo C40 Ultimate - FRI HEMLEVERANS!</g:title>
+    <title>Volvo C40 Ultimate - FRI HEMLEVERANS!</title>
+    <g:description>Ultimate - FRI HEMLEVERANS!. Från 5 646 kr/mån. Miltal: 8 630 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: FXT72B. Kontakta oss för mer information.</g:description>
+    <description>Ultimate - FRI HEMLEVERANS!. Från 5 646 kr/mån. Miltal: 8 630 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: FXT72B. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-c40-recharge-twin-motor-fxt72b</g:link>
+    <link>https://borasbil.se/bilar/volvo-c40-recharge-twin-motor-fxt72b</link>
+    <url>https://borasbil.se/bilar/volvo-c40-recharge-twin-motor-fxt72b</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/8a30cf05-e1f3-443d-acf4-c0fac835fd91/7fa33711-5ae3-4552-998e-8beef72e021d?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/8a30cf05-e1f3-443d-acf4-c0fac835fd91/7fa33711-5ae3-4552-998e-8beef72e021d?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>C40</model>
+    <year>2023</year>
+    <mileage>
+      <value>86300</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>359000 SEK</g:price>
+    <price>359000 SEK</price>
+    <sale_price>359000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>4a0863ae-4933-4ac4-bd2b-4c2b2963bdbd</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>4a0863ae-4933-4ac4-bd2b-4c2b2963bdbd</vehicle_id>
+    <vehicle_registration_plate>ZAR60Y</vehicle_registration_plate>
+    <g:title>Volvo C40 Core</g:title>
+    <title>Volvo C40 Core</title>
+    <g:description>Core. Från 5 017 kr/mån. Miltal: 4 400 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: ZAR60Y. Kontakta oss för mer information.</g:description>
+    <description>Core. Från 5 017 kr/mån. Miltal: 4 400 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: ZAR60Y. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-zar60y</g:link>
+    <link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-zar60y</link>
+    <url>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-zar60y</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/665eb156-e852-45d9-824b-fbb0de7ec589/b7aadcec-49e3-4d62-a271-b6c3454960d9?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/665eb156-e852-45d9-824b-fbb0de7ec589/b7aadcec-49e3-4d62-a271-b6c3454960d9?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>C40</model>
+    <year>2023</year>
+    <mileage>
+      <value>44000</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>319000 SEK</g:price>
+    <price>319000 SEK</price>
+    <sale_price>319000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>3bca3c27-9339-4694-8596-85d8660f3c9f</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>3bca3c27-9339-4694-8596-85d8660f3c9f</vehicle_id>
+    <vehicle_registration_plate>ANP81D</vehicle_registration_plate>
+    <g:title>Volvo XC60 Recharge T6 Core Edition</g:title>
+    <title>Volvo XC60 Recharge T6 Core Edition</title>
+    <g:description>Recharge T6 Core Edition. Från 5 961 kr/mån. Miltal: 10 593 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: ANP81D. Kontakta oss för mer information.</g:description>
+    <description>Recharge T6 Core Edition. Från 5 961 kr/mån. Miltal: 10 593 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: ANP81D. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-xc60-anp81d</g:link>
+    <link>https://borasbil.se/bilar/volvo-xc60-anp81d</link>
+    <url>https://borasbil.se/bilar/volvo-xc60-anp81d</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/ce60aa7b-9910-4c14-9128-7821cce57d67/ddb1c8ac-ac89-410d-bffd-02e79459d758?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/ce60aa7b-9910-4c14-9128-7821cce57d67/ddb1c8ac-ac89-410d-bffd-02e79459d758?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC60</model>
+    <year>2023</year>
+    <mileage>
+      <value>105930</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Plug-in Hybrid</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>379000 SEK</g:price>
+    <price>379000 SEK</price>
+    <sale_price>379000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>eff28f8d-016c-4bab-a08e-b8c6e60dfe53</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -5069,50 +5416,6 @@
     <state_of_vehicle>NEW</state_of_vehicle>
     </item>
     <item>
-    <g:id>9bd34a7d-9e86-4356-94ea-656ea19db0d8</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>9bd34a7d-9e86-4356-94ea-656ea19db0d8</vehicle_id>
-    <vehicle_registration_plate>KLR26Y</vehicle_registration_plate>
-    <g:title>Polestar 2 Plus</g:title>
-    <title>Polestar 2 Plus</title>
-    <g:description>Plus. Från 7 534 kr/mån. Miltal: 2 028 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: KLR26Y. Kontakta oss för mer information.</g:description>
-    <description>Plus. Från 7 534 kr/mån. Miltal: 2 028 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: KLR26Y. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/polestar-2-long-range-single-motor-klr26y</g:link>
-    <link>https://borasbil.se/bilar/polestar-2-long-range-single-motor-klr26y</link>
-    <url>https://borasbil.se/bilar/polestar-2-long-range-single-motor-klr26y</url>
-    <g:brand>Polestar</g:brand>
-    <brand>Polestar</brand>
-    <make>Polestar</make>
-    <g:image_link>https://cdn.wayke.se/cfit/6d960f07-a4a5-4646-b552-0e0a98f5a7c6/9a301f7c-ebc8-4045-8c2d-1ac96291888d?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/6d960f07-a4a5-4646-b552-0e0a98f5a7c6/9a301f7c-ebc8-4045-8c2d-1ac96291888d?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>2</model>
-    <year>2025</year>
-    <mileage>
-      <value>20280</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>479000 SEK</g:price>
-    <price>479000 SEK</price>
-    <sale_price>479000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>687b1191-4c7d-499a-bf42-d25e94269e98</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -8337,50 +8640,6 @@
     <state_of_vehicle>NEW</state_of_vehicle>
     </item>
     <item>
-    <g:id>1c5523a8-7aa7-407c-885b-0c0770050e22</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>1c5523a8-7aa7-407c-885b-0c0770050e22</vehicle_id>
-    <vehicle_registration_plate>ZAR60Y</vehicle_registration_plate>
-    <g:title>Volvo C40 Core</g:title>
-    <title>Volvo C40 Core</title>
-    <g:description>Core. Från 5 017 kr/mån. Miltal: 4 400 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: ZAR60Y. Kontakta oss för mer information.</g:description>
-    <description>Core. Från 5 017 kr/mån. Miltal: 4 400 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: ZAR60Y. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-zar60y</g:link>
-    <link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-zar60y</link>
-    <url>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-zar60y</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/2594c600-4edf-470b-83e9-f6f27eb6f22e/a4ad203f-4521-4654-8e36-ee127b9b1b26?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/2594c600-4edf-470b-83e9-f6f27eb6f22e/a4ad203f-4521-4654-8e36-ee127b9b1b26?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C40</model>
-    <year>2023</year>
-    <mileage>
-      <value>44000</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>319000 SEK</g:price>
-    <price>319000 SEK</price>
-    <sale_price>319000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>403c61d8-0539-4152-befa-42300df917be</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -9153,50 +9412,6 @@
     <g:price>319000 SEK</g:price>
     <price>319000 SEK</price>
     <sale_price>319000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>9326b059-f0c2-485a-aa9e-03bc5b9adb03</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>9326b059-f0c2-485a-aa9e-03bc5b9adb03</vehicle_id>
-    <vehicle_registration_plate>FXT72B</vehicle_registration_plate>
-    <g:title>Volvo C40 Ultimate - FRI HEMLEVERANS!</g:title>
-    <title>Volvo C40 Ultimate - FRI HEMLEVERANS!</title>
-    <g:description>Ultimate - FRI HEMLEVERANS!. Från 5 646 kr/mån. Miltal: 8 630 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: FXT72B. Kontakta oss för mer information.</g:description>
-    <description>Ultimate - FRI HEMLEVERANS!. Från 5 646 kr/mån. Miltal: 8 630 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: FXT72B. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-c40-recharge-twin-motor-fxt72b</g:link>
-    <link>https://borasbil.se/bilar/volvo-c40-recharge-twin-motor-fxt72b</link>
-    <url>https://borasbil.se/bilar/volvo-c40-recharge-twin-motor-fxt72b</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/a5a5343e-e638-4d0a-b0b4-1827715be249/aa3539b5-3b74-480b-8ffc-ab5b66161aac?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/a5a5343e-e638-4d0a-b0b4-1827715be249/aa3539b5-3b74-480b-8ffc-ab5b66161aac?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C40</model>
-    <year>2023</year>
-    <mileage>
-      <value>86300</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>359000 SEK</g:price>
-    <price>359000 SEK</price>
-    <sale_price>359000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Kinna Bil</component>
       <component name="country">SE</component>
@@ -10759,50 +10974,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>91e9b540-d24d-453f-93de-d3c40a2124af</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>91e9b540-d24d-453f-93de-d3c40a2124af</vehicle_id>
-    <vehicle_registration_plate>ANP81D</vehicle_registration_plate>
-    <g:title>Volvo XC60 Recharge T6 Core Edition</g:title>
-    <title>Volvo XC60 Recharge T6 Core Edition</title>
-    <g:description>Recharge T6 Core Edition. Från 5 961 kr/mån. Miltal: 10 593 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: ANP81D. Kontakta oss för mer information.</g:description>
-    <description>Recharge T6 Core Edition. Från 5 961 kr/mån. Miltal: 10 593 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: ANP81D. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc60-anp81d</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc60-anp81d</link>
-    <url>https://borasbil.se/bilar/volvo-xc60-anp81d</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/b84f7924-f97a-4c31-bde0-d3bca93a5c78/0f7bcca4-fea8-4015-ba2e-399e6ce07eac?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/b84f7924-f97a-4c31-bde0-d3bca93a5c78/0f7bcca4-fea8-4015-ba2e-399e6ce07eac?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2023</year>
-    <mileage>
-      <value>105930</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>379000 SEK</g:price>
-    <price>379000 SEK</price>
-    <sale_price>379000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>6c36c216-93fd-4db7-87f5-ac4e7d4412e1</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -11452,50 +11623,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>825bb5b7-c4ea-4ab2-89c5-b193c3aaeea1</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>825bb5b7-c4ea-4ab2-89c5-b193c3aaeea1</vehicle_id>
-    <vehicle_registration_plate>YOA92Z</vehicle_registration_plate>
-    <g:title>Volvo XC60 Recharge T6 Plus Bright</g:title>
-    <title>Volvo XC60 Recharge T6 Plus Bright</title>
-    <g:description>Recharge T6 Plus Bright. Från 6 905 kr/mån. Miltal: 8 332 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: YOA92Z. Kontakta oss för mer information.</g:description>
-    <description>Recharge T6 Plus Bright. Från 6 905 kr/mån. Miltal: 8 332 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: YOA92Z. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc60-yoa92z</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc60-yoa92z</link>
-    <url>https://borasbil.se/bilar/volvo-xc60-yoa92z</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/4c97383a-6772-4e52-8f41-5c3d69615b43/bb9ebe15-069e-4ce5-86bf-ddc8851a5c3e?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/4c97383a-6772-4e52-8f41-5c3d69615b43/bb9ebe15-069e-4ce5-86bf-ddc8851a5c3e?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2023</year>
-    <mileage>
-      <value>83320</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>439000 SEK</g:price>
-    <price>439000 SEK</price>
-    <sale_price>439000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Bogesunds Bil Ulricehamn</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
