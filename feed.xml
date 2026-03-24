@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>5935a7b9-2789-41d2-a8b9-d1b2a41c9729</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>5935a7b9-2789-41d2-a8b9-d1b2a41c9729</vehicle_id>
+    <vehicle_registration_plate>DBW97J</vehicle_registration_plate>
+    <g:title>Lynk &amp; Co 08</g:title>
+    <title>Lynk &amp; Co 08</title>
+    <g:description>Från 8 949 kr/mån. Miltal: 100 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Reg.nr: DBW97J. Kontakta oss för mer information.</g:description>
+    <description>Från 8 949 kr/mån. Miltal: 100 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Reg.nr: DBW97J. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/lynk-co-08-phev-dbw97j</g:link>
+    <link>https://borasbil.se/bilar/lynk-co-08-phev-dbw97j</link>
+    <url>https://borasbil.se/bilar/lynk-co-08-phev-dbw97j</url>
+    <g:brand>Lynk &amp; Co</g:brand>
+    <brand>Lynk &amp; Co</brand>
+    <make>Lynk &amp; Co</make>
+    <g:image_link>https://cdn.wayke.se/cfit/1227782d-867b-4f9a-afbd-813c22bd5f13/55aac48d-4f15-4f24-b86a-b89457f4aa9b?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/1227782d-867b-4f9a-afbd-813c22bd5f13/55aac48d-4f15-4f24-b86a-b89457f4aa9b?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>08</model>
+    <year>2025</year>
+    <mileage>
+      <value>1000</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>569000 SEK</g:price>
+    <price>569000 SEK</price>
+    <sale_price>569000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>95dc26b1-b839-4d4e-b94c-a1b7378787b9</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -5501,50 +5545,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>f1f85ea7-80c6-4234-ad5f-3463d5a983d7</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>f1f85ea7-80c6-4234-ad5f-3463d5a983d7</vehicle_id>
-    <vehicle_registration_plate>JAD25G</vehicle_registration_plate>
-    <g:title>Peugeot 2008 GT Electric 5-d SUV</g:title>
-    <title>Peugeot 2008 GT Electric 5-d SUV</title>
-    <g:description>GT Electric 5-d SUV. Från 3 287 kr/mån. Miltal: 2 433 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: JAD25G. Kontakta oss för mer information.</g:description>
-    <description>GT Electric 5-d SUV. Från 3 287 kr/mån. Miltal: 2 433 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: JAD25G. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/peugeot-e-2008-jad25g</g:link>
-    <link>https://borasbil.se/bilar/peugeot-e-2008-jad25g</link>
-    <url>https://borasbil.se/bilar/peugeot-e-2008-jad25g</url>
-    <g:brand>Peugeot</g:brand>
-    <brand>Peugeot</brand>
-    <make>Peugeot</make>
-    <g:image_link>https://cdn.wayke.se/cfit/106cb00e-f42e-4f98-ade2-bda5a29a313d/0a96c02b-d7d0-4c2b-821f-53ca77022204?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/106cb00e-f42e-4f98-ade2-bda5a29a313d/0a96c02b-d7d0-4c2b-821f-53ca77022204?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>2008</model>
-    <year>2022</year>
-    <mileage>
-      <value>24330</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>209000 SEK</g:price>
-    <price>209000 SEK</price>
-    <sale_price>209000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
