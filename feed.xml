@@ -269,50 +269,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>438dc30f-d73e-48a8-87b1-f1fa12f34ebc</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>438dc30f-d73e-48a8-87b1-f1fa12f34ebc</vehicle_id>
-    <vehicle_registration_plate>TJY51C</vehicle_registration_plate>
-    <g:title>Volvo EX30 M R Plus Edition</g:title>
-    <title>Volvo EX30 M R Plus Edition</title>
-    <g:description>M R Plus Edition. Från 5 646 kr/mån. Miltal: 1 301 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: TJY51C. Kontakta oss för mer information.</g:description>
-    <description>M R Plus Edition. Från 5 646 kr/mån. Miltal: 1 301 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: TJY51C. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-ex30-single-motor-extended-range-tjy51c</g:link>
-    <link>https://borasbil.se/bilar/volvo-ex30-single-motor-extended-range-tjy51c</link>
-    <url>https://borasbil.se/bilar/volvo-ex30-single-motor-extended-range-tjy51c</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/83fba9c4-b07a-4d07-9b16-58dc1290b0bf/44c21e59-1304-4540-9bf7-b76c4381bf2f?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/83fba9c4-b07a-4d07-9b16-58dc1290b0bf/44c21e59-1304-4540-9bf7-b76c4381bf2f?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>EX30</model>
-    <year>2025</year>
-    <mileage>
-      <value>13010</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>359000 SEK</g:price>
-    <price>359000 SEK</price>
-    <sale_price>359000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>a9f865be-e10a-4d59-919f-c79180ea12b5</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -10292,50 +10248,6 @@
     <state_of_vehicle>NEW</state_of_vehicle>
     </item>
     <item>
-    <g:id>60a4708a-1f3e-4ea0-be61-d3bbe90bdbb0</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>60a4708a-1f3e-4ea0-be61-d3bbe90bdbb0</vehicle_id>
-    <vehicle_registration_plate>PJA03U</vehicle_registration_plate>
-    <g:title>Renault Clio TCe 90 Zen 5-d</g:title>
-    <title>Renault Clio TCe 90 Zen 5-d</title>
-    <g:description>TCe 90 Zen 5-d. Från 2 123 kr/mån. Miltal: 2 669 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: PJA03U. Kontakta oss för mer information.</g:description>
-    <description>TCe 90 Zen 5-d. Från 2 123 kr/mån. Miltal: 2 669 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: PJA03U. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/renault-clio-pja03u</g:link>
-    <link>https://borasbil.se/bilar/renault-clio-pja03u</link>
-    <url>https://borasbil.se/bilar/renault-clio-pja03u</url>
-    <g:brand>Renault</g:brand>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <g:image_link>https://cdn.wayke.se/cfit/9539858b-7589-455d-9e3b-f35db2161a03/3ef079a9-dd82-47f2-9ba3-7f835a131d27?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/9539858b-7589-455d-9e3b-f35db2161a03/3ef079a9-dd82-47f2-9ba3-7f835a131d27?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Clio</model>
-    <year>2023</year>
-    <mileage>
-      <value>26690</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Manual</transmission>
-    <g:price>135000 SEK</g:price>
-    <price>135000 SEK</price>
-    <sale_price>135000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>f2746641-bdde-4bf9-b63c-f55e83c27672</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -10983,50 +10895,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>60f19c1c-9424-4d1d-b1da-1bec3b8a4d83</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>60f19c1c-9424-4d1d-b1da-1bec3b8a4d83</vehicle_id>
-    <vehicle_registration_plate>XUS31D</vehicle_registration_plate>
-    <g:title>Volvo C40 Plus</g:title>
-    <title>Volvo C40 Plus</title>
-    <g:description>Plus. Från 5 804 kr/mån. Miltal: 5 573 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: XUS31D. Kontakta oss för mer information.</g:description>
-    <description>Plus. Från 5 804 kr/mån. Miltal: 5 573 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: XUS31D. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-c40-recharge-twin-motor-xus31d</g:link>
-    <link>https://borasbil.se/bilar/volvo-c40-recharge-twin-motor-xus31d</link>
-    <url>https://borasbil.se/bilar/volvo-c40-recharge-twin-motor-xus31d</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/d7b7f2d6-72f2-46ae-9600-6256ef965ead/a79f6122-4141-4ba1-a640-86aea16f7bd1?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/d7b7f2d6-72f2-46ae-9600-6256ef965ead/a79f6122-4141-4ba1-a640-86aea16f7bd1?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C40</model>
-    <year>2023</year>
-    <mileage>
-      <value>55730</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>369000 SEK</g:price>
-    <price>369000 SEK</price>
-    <sale_price>369000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -14448,50 +14316,6 @@
     <g:condition>new</g:condition>
     <condition>new</condition>
     <state_of_vehicle>NEW</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>84f01389-e817-4743-9d2c-ec519db30d95</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>84f01389-e817-4743-9d2c-ec519db30d95</vehicle_id>
-    <vehicle_registration_plate>JTG89K</vehicle_registration_plate>
-    <g:title>Volvo V90 Recharge T6 Core Edition</g:title>
-    <title>Volvo V90 Recharge T6 Core Edition</title>
-    <g:description>Recharge T6 Core Edition. Från 5 017 kr/mån. Miltal: 11 781 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: JTG89K. Kontakta oss för mer information.</g:description>
-    <description>Recharge T6 Core Edition. Från 5 017 kr/mån. Miltal: 11 781 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: JTG89K. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-v90-jtg89k</g:link>
-    <link>https://borasbil.se/bilar/volvo-v90-jtg89k</link>
-    <url>https://borasbil.se/bilar/volvo-v90-jtg89k</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/b71ad10b-b02b-4b64-8b5f-57cfc0b337f7/c2f0e4a4-1bd5-4835-a6ff-44cac69267fe?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/b71ad10b-b02b-4b64-8b5f-57cfc0b337f7/c2f0e4a4-1bd5-4835-a6ff-44cac69267fe?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V90</model>
-    <year>2023</year>
-    <mileage>
-      <value>117810</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>319000 SEK</g:price>
-    <price>319000 SEK</price>
-    <sale_price>319000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
     <g:id>0220ee0b-2f81-4758-a49e-a6f0980ca684</g:id>
