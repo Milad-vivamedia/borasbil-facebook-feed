@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>64e1029a-6b04-488a-b468-633bacb474b2</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>64e1029a-6b04-488a-b468-633bacb474b2</vehicle_id>
+    <vehicle_registration_plate>YHL06K</vehicle_registration_plate>
+    <g:title>Citroën C3 Aircross SHINE Pure Tech 130 A</g:title>
+    <title>Citroën C3 Aircross SHINE Pure Tech 130 A</title>
+    <g:description>SHINE Pure Tech 130 A. Från 2 501 kr/mån. Miltal: 4 526 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Reg.nr: YHL06K. Kontakta oss för mer information.</g:description>
+    <description>SHINE Pure Tech 130 A. Från 2 501 kr/mån. Miltal: 4 526 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Reg.nr: YHL06K. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/citroen-c3-aircross-yhl06k</g:link>
+    <link>https://borasbil.se/bilar/citroen-c3-aircross-yhl06k</link>
+    <url>https://borasbil.se/bilar/citroen-c3-aircross-yhl06k</url>
+    <g:brand>Citroën</g:brand>
+    <brand>Citroën</brand>
+    <make>Citroën</make>
+    <g:image_link>https://cdn.wayke.se/cfit/1915a3e3-8c6e-4a9f-a816-2df8345c1b02/3feac565-43b0-481e-be50-98f990196a9b?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/1915a3e3-8c6e-4a9f-a816-2df8345c1b02/3feac565-43b0-481e-be50-98f990196a9b?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>C3 Aircross</model>
+    <year>2024</year>
+    <mileage>
+      <value>45260</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>159000 SEK</g:price>
+    <price>159000 SEK</price>
+    <sale_price>159000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>9ee05888-b0e4-4d71-9d87-4b64d7de2613</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -4564,50 +4608,6 @@
     <g:price>269000 SEK</g:price>
     <price>269000 SEK</price>
     <sale_price>269000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>8a3244ff-1de3-4400-9355-ded45b0de308</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>8a3244ff-1de3-4400-9355-ded45b0de308</vehicle_id>
-    <vehicle_registration_plate>KNY09F</vehicle_registration_plate>
-    <g:title>Volvo XC60 Recharge T6 Core Edition</g:title>
-    <title>Volvo XC60 Recharge T6 Core Edition</title>
-    <g:description>Recharge T6 Core Edition. Från 7 062 kr/mån. Miltal: 4 829 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: KNY09F. Kontakta oss för mer information.</g:description>
-    <description>Recharge T6 Core Edition. Från 7 062 kr/mån. Miltal: 4 829 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: KNY09F. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc60-kny09f</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc60-kny09f</link>
-    <url>https://borasbil.se/bilar/volvo-xc60-kny09f</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/b81eafcd-9d19-4b19-984c-65fd979cb4f8/8193c894-d97a-4e17-8628-b9ce16f9fedf?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/b81eafcd-9d19-4b19-984c-65fd979cb4f8/8193c894-d97a-4e17-8628-b9ce16f9fedf?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2023</year>
-    <mileage>
-      <value>48290</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>449000 SEK</g:price>
-    <price>449000 SEK</price>
-    <sale_price>449000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Kinna Bil</component>
       <component name="country">SE</component>
@@ -12446,50 +12446,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>32bbadb8-87dc-4b4f-8a63-93f911c73b03</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>32bbadb8-87dc-4b4f-8a63-93f911c73b03</vehicle_id>
-    <vehicle_registration_plate>AMJ21X</vehicle_registration_plate>
-    <g:title>Volvo XC60 Recharge T6 Inscription Expression</g:title>
-    <title>Volvo XC60 Recharge T6 Inscription Expression</title>
-    <g:description>Recharge T6 Inscription Expression. Från 6 118 kr/mån. Miltal: 7 339 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: AMJ21X. Kontakta oss för mer information.</g:description>
-    <description>Recharge T6 Inscription Expression. Från 6 118 kr/mån. Miltal: 7 339 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: AMJ21X. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc60-amj21x</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc60-amj21x</link>
-    <url>https://borasbil.se/bilar/volvo-xc60-amj21x</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/23cba661-e8b6-4a85-bac3-5524fa96a1e6/4d4392e7-fcee-4f68-90bd-d917aa68d335?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/23cba661-e8b6-4a85-bac3-5524fa96a1e6/4d4392e7-fcee-4f68-90bd-d917aa68d335?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2022</year>
-    <mileage>
-      <value>73390</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>389000 SEK</g:price>
-    <price>389000 SEK</price>
-    <sale_price>389000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>e481c430-04de-4b73-bbcc-358e29f4784d</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -12835,50 +12791,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>23ab6d8e-db35-4325-b444-950d6a005db6</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>23ab6d8e-db35-4325-b444-950d6a005db6</vehicle_id>
-    <vehicle_registration_plate>YHL06K</vehicle_registration_plate>
-    <g:title>Citroën C3 Aircross SHINE Pure Tech 130 A</g:title>
-    <title>Citroën C3 Aircross SHINE Pure Tech 130 A</title>
-    <g:description>SHINE Pure Tech 130 A. Från 2 501 kr/mån. Miltal: 4 526 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Reg.nr: YHL06K. Kontakta oss för mer information.</g:description>
-    <description>SHINE Pure Tech 130 A. Från 2 501 kr/mån. Miltal: 4 526 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Reg.nr: YHL06K. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/citroen-c3-aircross-yhl06k</g:link>
-    <link>https://borasbil.se/bilar/citroen-c3-aircross-yhl06k</link>
-    <url>https://borasbil.se/bilar/citroen-c3-aircross-yhl06k</url>
-    <g:brand>Citroën</g:brand>
-    <brand>Citroën</brand>
-    <make>Citroën</make>
-    <g:image_link>https://cdn.wayke.se/cfit/a97d2784-f12c-4668-a54a-329f22b66970/f26d73ab-049b-4aef-8ffd-32893a4f428e?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/a97d2784-f12c-4668-a54a-329f22b66970/f26d73ab-049b-4aef-8ffd-32893a4f428e?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C3 Aircross</model>
-    <year>2024</year>
-    <mileage>
-      <value>45260</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>159000 SEK</g:price>
-    <price>159000 SEK</price>
-    <sale_price>159000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
