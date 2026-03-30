@@ -5,6 +5,138 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>eab48a1e-a282-4dcd-a836-f6f0b3b2fefe</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>eab48a1e-a282-4dcd-a836-f6f0b3b2fefe</vehicle_id>
+    <vehicle_registration_plate>OFN24D</vehicle_registration_plate>
+    <g:title>Volvo V60 D3 R-Design</g:title>
+    <title>Volvo V60 D3 R-Design</title>
+    <g:description>D3 R-Design. Från 4 482 kr/mån. Miltal: 13 106 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Diesel. Reg.nr: OFN24D. Kontakta oss för mer information.</g:description>
+    <description>D3 R-Design. Från 4 482 kr/mån. Miltal: 13 106 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Diesel. Reg.nr: OFN24D. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-v60-ofn24d</g:link>
+    <link>https://borasbil.se/bilar/volvo-v60-ofn24d</link>
+    <url>https://borasbil.se/bilar/volvo-v60-ofn24d</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/55efd87a-7fa1-4950-b5a8-6e422147a683/24f757fa-e810-4886-a365-c09b22c936bc?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/55efd87a-7fa1-4950-b5a8-6e422147a683/24f757fa-e810-4886-a365-c09b22c936bc?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>V60</model>
+    <year>2020</year>
+    <mileage>
+      <value>131060</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Wagon</body_style>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>285000 SEK</g:price>
+    <price>285000 SEK</price>
+    <sale_price>285000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Bogesunds Bil Ulricehamn</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>f27648d9-c393-4d07-8b84-507d0049191e</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>f27648d9-c393-4d07-8b84-507d0049191e</vehicle_id>
+    <vehicle_registration_plate>CRP23C</vehicle_registration_plate>
+    <g:title>Lynk &amp; Co 01</g:title>
+    <title>Lynk &amp; Co 01</title>
+    <g:description>Från 5 017 kr/mån. Miltal: 4 275 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: CRP23C. Kontakta oss för mer information.</g:description>
+    <description>Från 5 017 kr/mån. Miltal: 4 275 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: CRP23C. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/lynk-co-01-phev-crp23c</g:link>
+    <link>https://borasbil.se/bilar/lynk-co-01-phev-crp23c</link>
+    <url>https://borasbil.se/bilar/lynk-co-01-phev-crp23c</url>
+    <g:brand>Lynk &amp; Co</g:brand>
+    <brand>Lynk &amp; Co</brand>
+    <make>Lynk &amp; Co</make>
+    <g:image_link>https://cdn.wayke.se/cfit/9b85aeb2-9007-49c5-b337-81c8c8d49768/5d05f1e6-e3a5-421c-a0c1-91365cd81db3?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/9b85aeb2-9007-49c5-b337-81c8c8d49768/5d05f1e6-e3a5-421c-a0c1-91365cd81db3?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>01</model>
+    <year>2024</year>
+    <mileage>
+      <value>42750</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Plug-in Hybrid</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>319000 SEK</g:price>
+    <price>319000 SEK</price>
+    <sale_price>319000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>fbee047b-bda7-45b7-a6b8-84eec80bd171</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>fbee047b-bda7-45b7-a6b8-84eec80bd171</vehicle_id>
+    <vehicle_registration_plate>SDE05U</vehicle_registration_plate>
+    <g:title>Volvo V90 T6 Plus Dark Nordic Edition</g:title>
+    <title>Volvo V90 T6 Plus Dark Nordic Edition</title>
+    <g:description>T6 Plus Dark Nordic Edition. Från 8 477 kr/mån. Miltal: 2 055 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: SDE05U. Kontakta oss för mer information.</g:description>
+    <description>T6 Plus Dark Nordic Edition. Från 8 477 kr/mån. Miltal: 2 055 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: SDE05U. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-v90-sde05u</g:link>
+    <link>https://borasbil.se/bilar/volvo-v90-sde05u</link>
+    <url>https://borasbil.se/bilar/volvo-v90-sde05u</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/c13a5b52-8c79-437d-9c08-477a4dd933cf/7459c57e-686b-4cf2-9470-43a480cc751d?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/c13a5b52-8c79-437d-9c08-477a4dd933cf/7459c57e-686b-4cf2-9470-43a480cc751d?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>V90</model>
+    <year>2026</year>
+    <mileage>
+      <value>20550</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Wagon</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>539000 SEK</g:price>
+    <price>539000 SEK</price>
+    <sale_price>539000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    </item>
+    <item>
     <g:id>a2246e05-6b28-4d54-a756-e5ee7b239800</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -37,50 +169,6 @@
     <g:price>109000 SEK</g:price>
     <price>109000 SEK</price>
     <sale_price>109000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Bogesunds Bil Ulricehamn</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>c883d4ac-7246-452d-9382-0c3a36dad996</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>c883d4ac-7246-452d-9382-0c3a36dad996</vehicle_id>
-    <vehicle_registration_plate>CRP23C</vehicle_registration_plate>
-    <g:title>Lynk &amp; Co 01</g:title>
-    <title>Lynk &amp; Co 01</title>
-    <g:description>Från 5 017 kr/mån. Miltal: 4 275 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: CRP23C. Kontakta oss för mer information.</g:description>
-    <description>Från 5 017 kr/mån. Miltal: 4 275 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: CRP23C. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/lynk-co-01-phev-crp23c</g:link>
-    <link>https://borasbil.se/bilar/lynk-co-01-phev-crp23c</link>
-    <url>https://borasbil.se/bilar/lynk-co-01-phev-crp23c</url>
-    <g:brand>Lynk &amp; Co</g:brand>
-    <brand>Lynk &amp; Co</brand>
-    <make>Lynk &amp; Co</make>
-    <g:image_link>https://cdn.wayke.se/cfit/f148f834-950a-4e60-ba59-8b2e72707800/f17136d5-344e-4ece-b487-42f6175f935a?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/f148f834-950a-4e60-ba59-8b2e72707800/f17136d5-344e-4ece-b487-42f6175f935a?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>01</model>
-    <year>2024</year>
-    <mileage>
-      <value>42750</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>319000 SEK</g:price>
-    <price>319000 SEK</price>
-    <sale_price>319000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Bogesunds Bil Ulricehamn</component>
       <component name="country">SE</component>
@@ -3385,50 +3473,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>a49d82dc-0436-4ab3-91b2-e13fa525d703</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>a49d82dc-0436-4ab3-91b2-e13fa525d703</vehicle_id>
-    <vehicle_registration_plate>UDA15M</vehicle_registration_plate>
-    <g:title>Polestar 2 78kWh</g:title>
-    <title>Polestar 2 78kWh</title>
-    <g:description>78kWh. Från 5 646 kr/mån. Miltal: 4 866 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: UDA15M. Kontakta oss för mer information.</g:description>
-    <description>78kWh. Från 5 646 kr/mån. Miltal: 4 866 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: UDA15M. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-uda15m</g:link>
-    <link>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-uda15m</link>
-    <url>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-uda15m</url>
-    <g:brand>Polestar</g:brand>
-    <brand>Polestar</brand>
-    <make>Polestar</make>
-    <g:image_link>https://cdn.wayke.se/cfit/216ab411-10bc-4d7d-835d-7ba1b8cffc07/516406f6-e589-4415-9eec-386f067379c3?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/216ab411-10bc-4d7d-835d-7ba1b8cffc07/516406f6-e589-4415-9eec-386f067379c3?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>2</model>
-    <year>2023</year>
-    <mileage>
-      <value>48660</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>359000 SEK</g:price>
-    <price>359000 SEK</price>
-    <sale_price>359000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -9277,46 +9321,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>new</g:condition>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>16af15c1-6158-4105-9106-9c643a7b4e03</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>16af15c1-6158-4105-9106-9c643a7b4e03</vehicle_id>
-    <vehicle_registration_plate>MFP86E</vehicle_registration_plate>
-    <g:title>Volvo XC60 T6 Plus Black Nordic Edition</g:title>
-    <title>Volvo XC60 T6 Plus Black Nordic Edition</title>
-    <g:description>T6 Plus Black Nordic Edition. Från 10 140 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: MFP86E. Kontakta oss för mer information.</g:description>
-    <description>T6 Plus Black Nordic Edition. Från 10 140 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: MFP86E. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc60-mfp86e</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc60-mfp86e</link>
-    <url>https://borasbil.se/bilar/volvo-xc60-mfp86e</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/4cc49a08-0cf8-4164-b8b3-ddce996a5c51/a2cc7913-eb10-4f30-bb94-09ec28bfddd5?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/4cc49a08-0cf8-4164-b8b3-ddce996a5c51/a2cc7913-eb10-4f30-bb94-09ec28bfddd5?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2026</year>
-    <body_style>SUV</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>644700 SEK</g:price>
-    <price>644700 SEK</price>
-    <sale_price>644700 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>new</g:condition>
