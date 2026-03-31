@@ -4895,8 +4895,8 @@
     <vehicle_registration_plate>AAB64Z</vehicle_registration_plate>
     <g:title>Dacia Sandero TCe 90 Essential IV</g:title>
     <title>Dacia Sandero TCe 90 Essential IV</title>
-    <g:description>TCe 90 Essential IV. Från 2 186 kr/mån. Miltal: 2 374 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: AAB64Z. Kontakta oss för mer information.</g:description>
-    <description>TCe 90 Essential IV. Från 2 186 kr/mån. Miltal: 2 374 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: AAB64Z. Kontakta oss för mer information.</description>
+    <g:description>TCe 90 Essential IV. Från 1 714 kr/mån. Miltal: 2 374 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: AAB64Z. Kontakta oss för mer information.</g:description>
+    <description>TCe 90 Essential IV. Från 1 714 kr/mån. Miltal: 2 374 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: AAB64Z. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/dacia-sandero-aab64z</g:link>
     <link>https://borasbil.se/bilar/dacia-sandero-aab64z</link>
     <url>https://borasbil.se/bilar/dacia-sandero-aab64z</url>
@@ -4917,9 +4917,9 @@
     <body_style>Sedan</body_style>
     <fuel_type>Gasoline</fuel_type>
     <transmission>Manual</transmission>
-    <g:price>139000 SEK</g:price>
-    <price>139000 SEK</price>
-    <sale_price>139000 SEK</sale_price>
+    <g:price>109000 SEK</g:price>
+    <price>109000 SEK</price>
+    <sale_price>109000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Borås Bil</component>
       <component name="country">SE</component>
@@ -16903,50 +16903,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>fd341329-0012-45de-ae04-53fe9b7a02ba</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>fd341329-0012-45de-ae04-53fe9b7a02ba</vehicle_id>
-    <vehicle_registration_plate>RBC19A</vehicle_registration_plate>
-    <g:title>Volvo XC40 Plus Edt</g:title>
-    <title>Volvo XC40 Plus Edt</title>
-    <g:description>Plus Edt. Från 6 905 kr/mån. Miltal: 3 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Reg.nr: RBC19A. Kontakta oss för mer information.</g:description>
-    <description>Plus Edt. Från 6 905 kr/mån. Miltal: 3 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Reg.nr: RBC19A. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-extended-range-rbc19a</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-extended-range-rbc19a</link>
-    <url>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-extended-range-rbc19a</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/eb1f4bf9-bd21-49c7-8e47-464afd53ab74/1da78e4a-f4c7-4d9b-92ba-81e79a21b87b?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/eb1f4bf9-bd21-49c7-8e47-464afd53ab74/1da78e4a-f4c7-4d9b-92ba-81e79a21b87b?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2024</year>
-    <mileage>
-      <value>30</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>439000 SEK</g:price>
-    <price>439000 SEK</price>
-    <sale_price>439000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
