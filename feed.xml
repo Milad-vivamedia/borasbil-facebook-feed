@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>d717a311-7379-4642-b429-fa4f0bea3cde</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>d717a311-7379-4642-b429-fa4f0bea3cde</vehicle_id>
+    <vehicle_registration_plate>JSY15R</vehicle_registration_plate>
+    <g:title>Volvo XC40 Recharge T4 Core Bright</g:title>
+    <title>Volvo XC40 Recharge T4 Core Bright</title>
+    <g:description>Recharge T4 Core Bright. Från 5 332 kr/mån. Miltal: 8 921 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: JSY15R. Kontakta oss för mer information.</g:description>
+    <description>Recharge T4 Core Bright. Från 5 332 kr/mån. Miltal: 8 921 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: JSY15R. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-xc40-jsy15r</g:link>
+    <link>https://borasbil.se/bilar/volvo-xc40-jsy15r</link>
+    <url>https://borasbil.se/bilar/volvo-xc40-jsy15r</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/e48e6527-3bd8-4c5a-acef-f84cabadced7/cfb6f934-3e99-4aaf-bace-8899f7d6297e?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/e48e6527-3bd8-4c5a-acef-f84cabadced7/cfb6f934-3e99-4aaf-bace-8899f7d6297e?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC40</model>
+    <year>2023</year>
+    <mileage>
+      <value>89210</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>339000 SEK</g:price>
+    <price>339000 SEK</price>
+    <sale_price>339000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>5902ac5f-503f-4746-9380-57ab21171375</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -3908,50 +3952,6 @@
     <g:price>479000 SEK</g:price>
     <price>479000 SEK</price>
     <sale_price>479000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>14d96487-2faf-46f1-9619-2e2bf4b7cdf4</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>14d96487-2faf-46f1-9619-2e2bf4b7cdf4</vehicle_id>
-    <vehicle_registration_plate>ANO680</vehicle_registration_plate>
-    <g:title>Volvo XC40 Core Edition</g:title>
-    <title>Volvo XC40 Core Edition</title>
-    <g:description>Core Edition. Från 4 388 kr/mån. Miltal: 7 605 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: ANO680. Kontakta oss för mer information.</g:description>
-    <description>Core Edition. Från 4 388 kr/mån. Miltal: 7 605 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: ANO680. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-ano680</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-ano680</link>
-    <url>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-ano680</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/5ac4f4f9-2024-4d07-b5fb-4d9bcb64faf1/11dd16e1-187a-4706-b1c3-304877f3e0e4?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/5ac4f4f9-2024-4d07-b5fb-4d9bcb64faf1/11dd16e1-187a-4706-b1c3-304877f3e0e4?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2023</year>
-    <mileage>
-      <value>76050</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>279000 SEK</g:price>
-    <price>279000 SEK</price>
-    <sale_price>279000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Borås Bil</component>
       <component name="country">SE</component>
