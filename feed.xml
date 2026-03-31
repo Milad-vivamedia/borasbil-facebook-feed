@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>200e7f03-f14b-424b-b414-c5c3befaf5a7</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>200e7f03-f14b-424b-b414-c5c3befaf5a7</vehicle_id>
+    <vehicle_registration_plate>WAA14D</vehicle_registration_plate>
+    <g:title>Volvo C40 Plus</g:title>
+    <title>Volvo C40 Plus</title>
+    <g:description>Plus. Från 4 545 kr/mån. Miltal: 8 652 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: WAA14D. Kontakta oss för mer information.</g:description>
+    <description>Plus. Från 4 545 kr/mån. Miltal: 8 652 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: WAA14D. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-waa14d</g:link>
+    <link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-waa14d</link>
+    <url>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-waa14d</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/86a98b1c-db0b-4831-be12-a0bfef232ef7/845729b1-2dd4-4e3e-88f4-6acaf929fe8e?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/86a98b1c-db0b-4831-be12-a0bfef232ef7/845729b1-2dd4-4e3e-88f4-6acaf929fe8e?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>C40</model>
+    <year>2023</year>
+    <mileage>
+      <value>86520</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>289000 SEK</g:price>
+    <price>289000 SEK</price>
+    <sale_price>289000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>12c2e3b3-f9e1-4768-ad28-d2eb097fd845</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
