@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>1c5c2ee6-b9c4-47cf-9082-0518d358a7c4</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>1c5c2ee6-b9c4-47cf-9082-0518d358a7c4</vehicle_id>
+    <vehicle_registration_plate>CAW01D</vehicle_registration_plate>
+    <g:title>Volvo V60 B4 Bensin Plus Dark</g:title>
+    <title>Volvo V60 B4 Bensin Plus Dark</title>
+    <g:description>B4 Bensin Plus Dark. Från 5 961 kr/mån. Miltal: 6 884 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: CAW01D. Kontakta oss för mer information.</g:description>
+    <description>B4 Bensin Plus Dark. Från 5 961 kr/mån. Miltal: 6 884 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: CAW01D. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-v60-caw01d</g:link>
+    <link>https://borasbil.se/bilar/volvo-v60-caw01d</link>
+    <url>https://borasbil.se/bilar/volvo-v60-caw01d</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/b92c0daf-3307-46ac-82fc-7e2c4ece65eb/1ad73411-ec2f-4f01-9358-08cdcf4237ff?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/b92c0daf-3307-46ac-82fc-7e2c4ece65eb/1ad73411-ec2f-4f01-9358-08cdcf4237ff?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>V60</model>
+    <year>2023</year>
+    <mileage>
+      <value>68840</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Wagon</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>379000 SEK</g:price>
+    <price>379000 SEK</price>
+    <sale_price>379000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>41abbc79-720c-43b7-9c3f-5d59ba683943</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -5101,50 +5145,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>84c86680-b84d-4d5a-9895-e6294e51c56d</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>84c86680-b84d-4d5a-9895-e6294e51c56d</vehicle_id>
-    <vehicle_registration_plate>AAB64Z</vehicle_registration_plate>
-    <g:title>Dacia Sandero TCe 90 Essential IV</g:title>
-    <title>Dacia Sandero TCe 90 Essential IV</title>
-    <g:description>TCe 90 Essential IV. Från 2 186 kr/mån. Miltal: 2 374 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: AAB64Z. Kontakta oss för mer information.</g:description>
-    <description>TCe 90 Essential IV. Från 2 186 kr/mån. Miltal: 2 374 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: AAB64Z. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/dacia-sandero-aab64z</g:link>
-    <link>https://borasbil.se/bilar/dacia-sandero-aab64z</link>
-    <url>https://borasbil.se/bilar/dacia-sandero-aab64z</url>
-    <g:brand>Dacia</g:brand>
-    <brand>Dacia</brand>
-    <make>Dacia</make>
-    <g:image_link>https://cdn.wayke.se/cfit/799be1a1-3fa2-48f8-a1f7-028ca9bc7f95/00ba8631-cd13-4c95-8388-36d7f285091d?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/799be1a1-3fa2-48f8-a1f7-028ca9bc7f95/00ba8631-cd13-4c95-8388-36d7f285091d?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Sandero</model>
-    <year>2023</year>
-    <mileage>
-      <value>23740</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Manual</transmission>
-    <g:price>139000 SEK</g:price>
-    <price>139000 SEK</price>
-    <sale_price>139000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -15830,50 +15830,6 @@
     </image>
     <model>e-Deliver 5</model>
     <year>2025</year>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>399000 SEK</g:price>
-    <price>399000 SEK</price>
-    <sale_price>399000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>8cd83163-07f2-42fc-84ad-b27418097364</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>8cd83163-07f2-42fc-84ad-b27418097364</vehicle_id>
-    <vehicle_registration_plate>MMF22D</vehicle_registration_plate>
-    <g:title>Lynk &amp; Co 02 EV BEV</g:title>
-    <title>Lynk &amp; Co 02 EV BEV</title>
-    <g:description>BEV. Från 6 275 kr/mån. Miltal: 249 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: MMF22D. Kontakta oss för mer information.</g:description>
-    <description>BEV. Från 6 275 kr/mån. Miltal: 249 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: MMF22D. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/lynk-co-02-ev-mmf22d</g:link>
-    <link>https://borasbil.se/bilar/lynk-co-02-ev-mmf22d</link>
-    <url>https://borasbil.se/bilar/lynk-co-02-ev-mmf22d</url>
-    <g:brand>Lynk &amp; Co</g:brand>
-    <brand>Lynk &amp; Co</brand>
-    <make>Lynk &amp; Co</make>
-    <g:image_link>https://cdn.wayke.se/cfit/1007a455-eb1b-4fe3-90b8-1132bddcb887/892b5f2b-8f4b-4c5c-afd6-cb2aec315dba?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/1007a455-eb1b-4fe3-90b8-1132bddcb887/892b5f2b-8f4b-4c5c-afd6-cb2aec315dba?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>02 EV</model>
-    <year>2025</year>
-    <mileage>
-      <value>2490</value>
-      <unit>KM</unit>
-    </mileage>
     <body_style>Sedan</body_style>
     <fuel_type>Electric</fuel_type>
     <transmission>Automatic</transmission>
