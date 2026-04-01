@@ -2028,8 +2028,8 @@
     <vehicle_registration_plate>MUG92G</vehicle_registration_plate>
     <g:title>Polestar 2 78kWh Perf Plus</g:title>
     <title>Polestar 2 78kWh Perf Plus</title>
-    <g:description>78kWh Perf Plus. Från 6 747 kr/mån. Miltal: 4 425 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: MUG92G. Kontakta oss för mer information.</g:description>
-    <description>78kWh Perf Plus. Från 6 747 kr/mån. Miltal: 4 425 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: MUG92G. Kontakta oss för mer information.</description>
+    <g:description>78kWh Perf Plus. Från 6 747 kr/mån. Miltal: 4 434 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: MUG92G. Kontakta oss för mer information.</g:description>
+    <description>78kWh Perf Plus. Från 6 747 kr/mån. Miltal: 4 434 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: MUG92G. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-performance-mug92g</g:link>
     <link>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-performance-mug92g</link>
     <url>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-performance-mug92g</url>
@@ -2044,7 +2044,7 @@
     <model>2</model>
     <year>2023</year>
     <mileage>
-      <value>44250</value>
+      <value>44340</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
@@ -5683,8 +5683,8 @@
     <vehicle_registration_plate>UHY52M</vehicle_registration_plate>
     <g:title>Volvo XC40 Ultimate/DRAG</g:title>
     <title>Volvo XC40 Ultimate/DRAG</title>
-    <g:description>Ultimate/DRAG. Från 5 646 kr/mån. Miltal: 8 609 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: UHY52M. Kontakta oss för mer information.</g:description>
-    <description>Ultimate/DRAG. Från 5 646 kr/mån. Miltal: 8 609 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: UHY52M. Kontakta oss för mer information.</description>
+    <g:description>Ultimate/DRAG. Från 5 646 kr/mån. Miltal: 8 909 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: UHY52M. Kontakta oss för mer information.</g:description>
+    <description>Ultimate/DRAG. Från 5 646 kr/mån. Miltal: 8 909 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: UHY52M. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-uhy52m</g:link>
     <link>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-uhy52m</link>
     <url>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-uhy52m</url>
@@ -5699,7 +5699,7 @@
     <model>XC40</model>
     <year>2023</year>
     <mileage>
-      <value>86090</value>
+      <value>89090</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
@@ -7163,8 +7163,8 @@
     <vehicle_registration_plate>KJB32G</vehicle_registration_plate>
     <g:title>Volvo XC90 T8 Ultra Dark</g:title>
     <title>Volvo XC90 T8 Ultra Dark</title>
-    <g:description>T8 Ultra Dark. Från 15 712 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: KJB32G. Kontakta oss för mer information.</g:description>
-    <description>T8 Ultra Dark. Från 15 712 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: KJB32G. Kontakta oss för mer information.</description>
+    <g:description>T8 Ultra Dark. Från 15 712 kr/mån. Miltal: 325 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: KJB32G. Kontakta oss för mer information.</g:description>
+    <description>T8 Ultra Dark. Från 15 712 kr/mån. Miltal: 325 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: KJB32G. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc90-kjb32g</g:link>
     <link>https://borasbil.se/bilar/volvo-xc90-kjb32g</link>
     <url>https://borasbil.se/bilar/volvo-xc90-kjb32g</url>
@@ -7178,6 +7178,10 @@
     </image>
     <model>XC90</model>
     <year>2026</year>
+    <mileage>
+      <value>3250</value>
+      <unit>KM</unit>
+    </mileage>
     <body_style>SUV</body_style>
     <fuel_type>Gasoline</fuel_type>
     <transmission>Automatic</transmission>
@@ -7995,8 +7999,8 @@
     <vehicle_registration_plate>MHP21L</vehicle_registration_plate>
     <g:title>Volvo XC90 Recharge T8 Ultimate Dark/DRAG</g:title>
     <title>Volvo XC90 Recharge T8 Ultimate Dark/DRAG</title>
-    <g:description>Recharge T8 Ultimate Dark/DRAG. Från 9 421 kr/mån. Miltal: 8 492 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: MHP21L. Kontakta oss för mer information.</g:description>
-    <description>Recharge T8 Ultimate Dark/DRAG. Från 9 421 kr/mån. Miltal: 8 492 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: MHP21L. Kontakta oss för mer information.</description>
+    <g:description>Recharge T8 Ultimate Dark/DRAG. Från 9 421 kr/mån. Miltal: 8 533 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: MHP21L. Kontakta oss för mer information.</g:description>
+    <description>Recharge T8 Ultimate Dark/DRAG. Från 9 421 kr/mån. Miltal: 8 533 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: MHP21L. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc90-7-saten-mhp21l</g:link>
     <link>https://borasbil.se/bilar/volvo-xc90-7-saten-mhp21l</link>
     <url>https://borasbil.se/bilar/volvo-xc90-7-saten-mhp21l</url>
@@ -8011,7 +8015,7 @@
     <model>XC90</model>
     <year>2023</year>
     <mileage>
-      <value>84920</value>
+      <value>85330</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
@@ -11481,8 +11485,8 @@
     <vehicle_registration_plate>ACJ65X</vehicle_registration_plate>
     <g:title>Volvo XC60 T8 Plus Bright Nordic Edition</g:title>
     <title>Volvo XC60 T8 Plus Bright Nordic Edition</title>
-    <g:description>T8 Plus Bright Nordic Edition. Från 12 567 kr/mån. Miltal: 55 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: ACJ65X. Kontakta oss för mer information.</g:description>
-    <description>T8 Plus Bright Nordic Edition. Från 12 567 kr/mån. Miltal: 55 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: ACJ65X. Kontakta oss för mer information.</description>
+    <g:description>T8 Plus Bright Nordic Edition. Från 12 567 kr/mån. Miltal: 872 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: ACJ65X. Kontakta oss för mer information.</g:description>
+    <description>T8 Plus Bright Nordic Edition. Från 12 567 kr/mån. Miltal: 872 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: ACJ65X. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc60-acj65x</g:link>
     <link>https://borasbil.se/bilar/volvo-xc60-acj65x</link>
     <url>https://borasbil.se/bilar/volvo-xc60-acj65x</url>
@@ -11497,7 +11501,7 @@
     <model>XC60</model>
     <year>2026</year>
     <mileage>
-      <value>550</value>
+      <value>8720</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
@@ -12729,8 +12733,8 @@
     <vehicle_registration_plate>MTG22F</vehicle_registration_plate>
     <g:title>Peugeot 2008 Style Edition 145 A</g:title>
     <title>Peugeot 2008 Style Edition 145 A</title>
-    <g:description>Style Edition 145 A. Från 4 325 kr/mån. Årsmodell: 2025. Växellåda: Automat. Bränsle: Elhybrid. Reg.nr: MTG22F. Kontakta oss för mer information.</g:description>
-    <description>Style Edition 145 A. Från 4 325 kr/mån. Årsmodell: 2025. Växellåda: Automat. Bränsle: Elhybrid. Reg.nr: MTG22F. Kontakta oss för mer information.</description>
+    <g:description>Style Edition 145 A. Från 4 325 kr/mån. Miltal: 122 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Elhybrid. Reg.nr: MTG22F. Kontakta oss för mer information.</g:description>
+    <description>Style Edition 145 A. Från 4 325 kr/mån. Miltal: 122 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Elhybrid. Reg.nr: MTG22F. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/peugeot-2008-hybrid-136-mtg22f</g:link>
     <link>https://borasbil.se/bilar/peugeot-2008-hybrid-136-mtg22f</link>
     <url>https://borasbil.se/bilar/peugeot-2008-hybrid-136-mtg22f</url>
@@ -12744,6 +12748,10 @@
     </image>
     <model>2008</model>
     <year>2025</year>
+    <mileage>
+      <value>1220</value>
+      <unit>KM</unit>
+    </mileage>
     <body_style>Sedan</body_style>
     <fuel_type>Hybrid</fuel_type>
     <transmission>Automatic</transmission>
@@ -13245,8 +13253,8 @@
     <vehicle_registration_plate>WLS84X</vehicle_registration_plate>
     <g:title>Volvo XC90 T8 Ultra Dark</g:title>
     <title>Volvo XC90 T8 Ultra Dark</title>
-    <g:description>T8 Ultra Dark. Från 14 454 kr/mån. Miltal: 743 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: WLS84X. Kontakta oss för mer information.</g:description>
-    <description>T8 Ultra Dark. Från 14 454 kr/mån. Miltal: 743 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: WLS84X. Kontakta oss för mer information.</description>
+    <g:description>T8 Ultra Dark. Från 14 454 kr/mån. Miltal: 744 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: WLS84X. Kontakta oss för mer information.</g:description>
+    <description>T8 Ultra Dark. Från 14 454 kr/mån. Miltal: 744 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: WLS84X. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc90-wls84x</g:link>
     <link>https://borasbil.se/bilar/volvo-xc90-wls84x</link>
     <url>https://borasbil.se/bilar/volvo-xc90-wls84x</url>
@@ -13261,7 +13269,7 @@
     <model>XC90</model>
     <year>2026</year>
     <mileage>
-      <value>7430</value>
+      <value>7440</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
@@ -15847,8 +15855,8 @@
     <vehicle_registration_plate>MJD22K</vehicle_registration_plate>
     <g:title>Citroën C4 FL MAX 130hk AUT</g:title>
     <title>Citroën C4 FL MAX 130hk AUT</title>
-    <g:description>FL MAX 130hk AUT. Från 4 074 kr/mån. Miltal: 286 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Reg.nr: MJD22K. Kontakta oss för mer information.</g:description>
-    <description>FL MAX 130hk AUT. Från 4 074 kr/mån. Miltal: 286 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Reg.nr: MJD22K. Kontakta oss för mer information.</description>
+    <g:description>FL MAX 130hk AUT. Från 4 074 kr/mån. Miltal: 690 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Reg.nr: MJD22K. Kontakta oss för mer information.</g:description>
+    <description>FL MAX 130hk AUT. Från 4 074 kr/mån. Miltal: 690 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Reg.nr: MJD22K. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/citroen-c4-mjd22k</g:link>
     <link>https://borasbil.se/bilar/citroen-c4-mjd22k</link>
     <url>https://borasbil.se/bilar/citroen-c4-mjd22k</url>
@@ -15863,7 +15871,7 @@
     <model>C4</model>
     <year>2025</year>
     <mileage>
-      <value>2860</value>
+      <value>6900</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
@@ -16449,8 +16457,8 @@
     <vehicle_registration_plate>UCH92A</vehicle_registration_plate>
     <g:title>Peugeot 408 GT PureTech 130 AUT</g:title>
     <title>Peugeot 408 GT PureTech 130 AUT</title>
-    <g:description>GT PureTech 130 AUT. Från 4 545 kr/mån. Miltal: 1 814 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Reg.nr: UCH92A. Kontakta oss för mer information.</g:description>
-    <description>GT PureTech 130 AUT. Från 4 545 kr/mån. Miltal: 1 814 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Reg.nr: UCH92A. Kontakta oss för mer information.</description>
+    <g:description>GT PureTech 130 AUT. Från 4 545 kr/mån. Miltal: 2 475 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Reg.nr: UCH92A. Kontakta oss för mer information.</g:description>
+    <description>GT PureTech 130 AUT. Från 4 545 kr/mån. Miltal: 2 475 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Reg.nr: UCH92A. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/peugeot-408-uch92a</g:link>
     <link>https://borasbil.se/bilar/peugeot-408-uch92a</link>
     <url>https://borasbil.se/bilar/peugeot-408-uch92a</url>
@@ -16465,7 +16473,7 @@
     <model>408</model>
     <year>2024</year>
     <mileage>
-      <value>18140</value>
+      <value>24750</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
@@ -16697,8 +16705,8 @@
     <vehicle_registration_plate>DWA53R</vehicle_registration_plate>
     <g:title>Peugeot 3008 GT Ultimate Electric 5-d SUV - Drag</g:title>
     <title>Peugeot 3008 GT Ultimate Electric 5-d SUV - Drag</title>
-    <g:description>GT Ultimate Electric 5-d SUV - Drag. Från 6 747 kr/mån. Miltal: 1 618 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Reg.nr: DWA53R. Kontakta oss för mer information.</g:description>
-    <description>GT Ultimate Electric 5-d SUV - Drag. Från 6 747 kr/mån. Miltal: 1 618 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Reg.nr: DWA53R. Kontakta oss för mer information.</description>
+    <g:description>GT Ultimate Electric 5-d SUV - Drag. Från 6 747 kr/mån. Miltal: 1 685 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Reg.nr: DWA53R. Kontakta oss för mer information.</g:description>
+    <description>GT Ultimate Electric 5-d SUV - Drag. Från 6 747 kr/mån. Miltal: 1 685 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Reg.nr: DWA53R. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/peugeot-e-3008-dwa53r</g:link>
     <link>https://borasbil.se/bilar/peugeot-e-3008-dwa53r</link>
     <url>https://borasbil.se/bilar/peugeot-e-3008-dwa53r</url>
@@ -16713,7 +16721,7 @@
     <model>3008</model>
     <year>2024</year>
     <mileage>
-      <value>16180</value>
+      <value>16850</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
