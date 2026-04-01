@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>c851059f-a702-47e0-9f44-c0752c32b0f9</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>c851059f-a702-47e0-9f44-c0752c32b0f9</vehicle_id>
+    <vehicle_registration_plate>TAJ37M</vehicle_registration_plate>
+    <g:title>Peugeot 2008 GT Electric 5-d SUV</g:title>
+    <title>Peugeot 2008 GT Electric 5-d SUV</title>
+    <g:description>GT Electric 5-d SUV. Från 3 287 kr/mån. Miltal: 3 486 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: TAJ37M. Kontakta oss för mer information.</g:description>
+    <description>GT Electric 5-d SUV. Från 3 287 kr/mån. Miltal: 3 486 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: TAJ37M. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/peugeot-e-2008-taj37m</g:link>
+    <link>https://borasbil.se/bilar/peugeot-e-2008-taj37m</link>
+    <url>https://borasbil.se/bilar/peugeot-e-2008-taj37m</url>
+    <g:brand>Peugeot</g:brand>
+    <brand>Peugeot</brand>
+    <make>Peugeot</make>
+    <g:image_link>https://cdn.wayke.se/cfit/35abf3c0-ad90-4819-b033-b3df19a86bc2/1de29a87-c88b-4ed5-94de-9b2859a9cb66?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/35abf3c0-ad90-4819-b033-b3df19a86bc2/1de29a87-c88b-4ed5-94de-9b2859a9cb66?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>2008</model>
+    <year>2022</year>
+    <mileage>
+      <value>34860</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>209000 SEK</g:price>
+    <price>209000 SEK</price>
+    <sale_price>209000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>d717a311-7379-4642-b429-fa4f0bea3cde</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
