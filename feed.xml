@@ -12122,50 +12122,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>4986be11-d270-423a-8fb2-52828c38bd9a</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>4986be11-d270-423a-8fb2-52828c38bd9a</vehicle_id>
-    <vehicle_registration_plate>LKD51H</vehicle_registration_plate>
-    <g:title>Citroën C4 SHINE Electric 50 kwh 5-d</g:title>
-    <title>Citroën C4 SHINE Electric 50 kwh 5-d</title>
-    <g:description>SHINE Electric 50 kwh 5-d. Från 2 973 kr/mån. Miltal: 3 358 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: LKD51H. Kontakta oss för mer information.</g:description>
-    <description>SHINE Electric 50 kwh 5-d. Från 2 973 kr/mån. Miltal: 3 358 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: LKD51H. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/citroen-e-c4-lkd51h</g:link>
-    <link>https://borasbil.se/bilar/citroen-e-c4-lkd51h</link>
-    <url>https://borasbil.se/bilar/citroen-e-c4-lkd51h</url>
-    <g:brand>Citroën</g:brand>
-    <brand>Citroën</brand>
-    <make>Citroën</make>
-    <g:image_link>https://cdn.wayke.se/cfit/af257e99-a2da-4815-88b5-d90ac63d14a3/0defc986-ef00-4533-9e24-5b34ded71667?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/af257e99-a2da-4815-88b5-d90ac63d14a3/0defc986-ef00-4533-9e24-5b34ded71667?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C4</model>
-    <year>2022</year>
-    <mileage>
-      <value>33580</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>189000 SEK</g:price>
-    <price>189000 SEK</price>
-    <sale_price>189000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>7359e0f9-94c2-4d18-bd54-c6878410dcd3</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
