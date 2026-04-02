@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>37bddbd9-6fd9-49ba-bcce-b64a2628de5c</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>37bddbd9-6fd9-49ba-bcce-b64a2628de5c</vehicle_id>
+    <vehicle_registration_plate>PXF17U</vehicle_registration_plate>
+    <g:title>Citroën C4 SHINE Electric 50 kwh 5-d</g:title>
+    <title>Citroën C4 SHINE Electric 50 kwh 5-d</title>
+    <g:description>SHINE Electric 50 kwh 5-d. Från 2 973 kr/mån. Miltal: 2 988 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: PXF17U. Kontakta oss för mer information.</g:description>
+    <description>SHINE Electric 50 kwh 5-d. Från 2 973 kr/mån. Miltal: 2 988 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: PXF17U. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/citroen-e-c4-pxf17u</g:link>
+    <link>https://borasbil.se/bilar/citroen-e-c4-pxf17u</link>
+    <url>https://borasbil.se/bilar/citroen-e-c4-pxf17u</url>
+    <g:brand>Citroën</g:brand>
+    <brand>Citroën</brand>
+    <make>Citroën</make>
+    <g:image_link>https://cdn.wayke.se/cfit/f4225714-14b0-4a9b-84ba-4a90e747e94c/a6e2cf11-28ee-48bb-b7f2-27950a7fb0a2?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/f4225714-14b0-4a9b-84ba-4a90e747e94c/a6e2cf11-28ee-48bb-b7f2-27950a7fb0a2?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>C4</model>
+    <year>2022</year>
+    <mileage>
+      <value>29880</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>189000 SEK</g:price>
+    <price>189000 SEK</price>
+    <sale_price>189000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>504b8620-c478-432e-bff1-d2587e734ec4</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -6363,8 +6407,8 @@
     <vehicle_registration_plate>DRU51E</vehicle_registration_plate>
     <g:title>Volvo V60 T6 Plus Dark Nordic Edition</g:title>
     <title>Volvo V60 T6 Plus Dark Nordic Edition</title>
-    <g:description>T6 Plus Dark Nordic Edition. Från 9 421 kr/mån. Miltal: 500 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: DRU51E. Kontakta oss för mer information.</g:description>
-    <description>T6 Plus Dark Nordic Edition. Från 9 421 kr/mån. Miltal: 500 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: DRU51E. Kontakta oss för mer information.</description>
+    <g:description>T6 Plus Dark Nordic Edition. Från 9 421 kr/mån. Miltal: 300 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: DRU51E. Kontakta oss för mer information.</g:description>
+    <description>T6 Plus Dark Nordic Edition. Från 9 421 kr/mån. Miltal: 300 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: DRU51E. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-v60-dru51e</g:link>
     <link>https://borasbil.se/bilar/volvo-v60-dru51e</link>
     <url>https://borasbil.se/bilar/volvo-v60-dru51e</url>
@@ -6379,7 +6423,7 @@
     <model>V60</model>
     <year>2026</year>
     <mileage>
-      <value>5000</value>
+      <value>3000</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Wagon</body_style>
