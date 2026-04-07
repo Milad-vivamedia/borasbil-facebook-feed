@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>06043dfa-7524-43e8-a8f9-016a859ad1f1</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>06043dfa-7524-43e8-a8f9-016a859ad1f1</vehicle_id>
+    <vehicle_registration_plate>YBK69L</vehicle_registration_plate>
+    <g:title>Citroën C4 SHINE Pure Tech 130 A 5-d</g:title>
+    <title>Citroën C4 SHINE Pure Tech 130 A 5-d</title>
+    <g:description>SHINE Pure Tech 130 A 5-d. Från 2 815 kr/mån. Miltal: 3 985 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin. Reg.nr: YBK69L. Kontakta oss för mer information.</g:description>
+    <description>SHINE Pure Tech 130 A 5-d. Från 2 815 kr/mån. Miltal: 3 985 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin. Reg.nr: YBK69L. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/citroen-c4-ybk69l</g:link>
+    <link>https://borasbil.se/bilar/citroen-c4-ybk69l</link>
+    <url>https://borasbil.se/bilar/citroen-c4-ybk69l</url>
+    <g:brand>Citroën</g:brand>
+    <brand>Citroën</brand>
+    <make>Citroën</make>
+    <g:image_link>https://cdn.wayke.se/cfit/2deab8e9-00be-4d31-9db0-a3da9cc054dd/693f3398-5ee5-45ae-a357-054369d61cb5?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/2deab8e9-00be-4d31-9db0-a3da9cc054dd/693f3398-5ee5-45ae-a357-054369d61cb5?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>C4</model>
+    <year>2022</year>
+    <mileage>
+      <value>39850</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>179000 SEK</g:price>
+    <price>179000 SEK</price>
+    <sale_price>179000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>37bddbd9-6fd9-49ba-bcce-b64a2628de5c</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
