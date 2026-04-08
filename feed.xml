@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>b51b50b8-a7da-47bd-8740-3ee9b73792d2</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>b51b50b8-a7da-47bd-8740-3ee9b73792d2</vehicle_id>
+    <vehicle_registration_plate>UBJ62P</vehicle_registration_plate>
+    <g:title>Peugeot 2008 GT Electric 5-d SUV</g:title>
+    <title>Peugeot 2008 GT Electric 5-d SUV</title>
+    <g:description>GT Electric 5-d SUV. Från 3 287 kr/mån. Miltal: 4 689 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: UBJ62P. Kontakta oss för mer information.</g:description>
+    <description>GT Electric 5-d SUV. Från 3 287 kr/mån. Miltal: 4 689 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: UBJ62P. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/peugeot-e-2008-ubj62p</g:link>
+    <link>https://borasbil.se/bilar/peugeot-e-2008-ubj62p</link>
+    <url>https://borasbil.se/bilar/peugeot-e-2008-ubj62p</url>
+    <g:brand>Peugeot</g:brand>
+    <brand>Peugeot</brand>
+    <make>Peugeot</make>
+    <g:image_link>https://cdn.wayke.se/cfit/e1b5aaa6-fcb6-42c2-901b-bdeaee73f016/90cd6bd9-f29f-4d00-bfdd-026dcb05e30c?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/e1b5aaa6-fcb6-42c2-901b-bdeaee73f016/90cd6bd9-f29f-4d00-bfdd-026dcb05e30c?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>2008</model>
+    <year>2022</year>
+    <mileage>
+      <value>46890</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>209000 SEK</g:price>
+    <price>209000 SEK</price>
+    <sale_price>209000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>6a6cc2ba-7ac9-4ceb-8878-a59ab39d0a27</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -49,50 +93,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>50e3bf64-95ee-4e09-aca0-361f9ebab74a</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>50e3bf64-95ee-4e09-aca0-361f9ebab74a</vehicle_id>
-    <vehicle_registration_plate>UBJ62P</vehicle_registration_plate>
-    <g:title>Peugeot 2008 GT Electric 5-d SUV</g:title>
-    <title>Peugeot 2008 GT Electric 5-d SUV</title>
-    <g:description>GT Electric 5-d SUV. Från 3 287 kr/mån. Miltal: 4 689 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: UBJ62P. Kontakta oss för mer information.</g:description>
-    <description>GT Electric 5-d SUV. Från 3 287 kr/mån. Miltal: 4 689 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: UBJ62P. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/peugeot-e-2008-ubj62p</g:link>
-    <link>https://borasbil.se/bilar/peugeot-e-2008-ubj62p</link>
-    <url>https://borasbil.se/bilar/peugeot-e-2008-ubj62p</url>
-    <g:brand>Peugeot</g:brand>
-    <brand>Peugeot</brand>
-    <make>Peugeot</make>
-    <g:image_link>https://cdn.wayke.se/cfit/c1be898b-6745-4383-b36a-25d715392588/b584e265-4d56-416f-99e9-55f68db74a9c?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/c1be898b-6745-4383-b36a-25d715392588/b584e265-4d56-416f-99e9-55f68db74a9c?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>2008</model>
-    <year>2022</year>
-    <mileage>
-      <value>46890</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>209000 SEK</g:price>
-    <price>209000 SEK</price>
-    <sale_price>209000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>512ef8cd-09aa-4f7f-aeb9-e3fe1b995847</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -100,8 +100,8 @@
     <vehicle_registration_plate>SCF488</vehicle_registration_plate>
     <g:title>Polestar 2 69kWh Plus</g:title>
     <title>Polestar 2 69kWh Plus</title>
-    <g:description>69kWh Plus. Från 4 545 kr/mån. Miltal: 8 874 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: SCF488. Kontakta oss för mer information.</g:description>
-    <description>69kWh Plus. Från 4 545 kr/mån. Miltal: 8 874 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: SCF488. Kontakta oss för mer information.</description>
+    <g:description>69kWh Plus. Från 4 545 kr/mån. Miltal: 8 875 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: SCF488. Kontakta oss för mer information.</g:description>
+    <description>69kWh Plus. Från 4 545 kr/mån. Miltal: 8 875 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: SCF488. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/polestar-2-standard-range-single-motor-scf488</g:link>
     <link>https://borasbil.se/bilar/polestar-2-standard-range-single-motor-scf488</link>
     <url>https://borasbil.se/bilar/polestar-2-standard-range-single-motor-scf488</url>
@@ -116,7 +116,7 @@
     <model>2</model>
     <year>2023</year>
     <mileage>
-      <value>88740</value>
+      <value>88750</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
@@ -3818,10 +3818,10 @@
     <g:fb_product_category>173</g:fb_product_category>
     <vehicle_id>465213ce-155f-43fe-949b-ea9b211bc52c</vehicle_id>
     <vehicle_registration_plate>BRW00Z</vehicle_registration_plate>
-    <g:title>Volvo XC60 Recharge T6 Core Edition</g:title>
-    <title>Volvo XC60 Recharge T6 Core Edition</title>
-    <g:description>Recharge T6 Core Edition. Från 7 376 kr/mån. Miltal: 6 151 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Reg.nr: BRW00Z. Kontakta oss för mer information.</g:description>
-    <description>Recharge T6 Core Edition. Från 7 376 kr/mån. Miltal: 6 151 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Reg.nr: BRW00Z. Kontakta oss för mer information.</description>
+    <g:title>Volvo XC60 Recharge T6 Core Edition - Pilot Assist</g:title>
+    <title>Volvo XC60 Recharge T6 Core Edition - Pilot Assist</title>
+    <g:description>Recharge T6 Core Edition - Pilot Assist. Från 7 376 kr/mån. Miltal: 6 151 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Reg.nr: BRW00Z. Kontakta oss för mer information.</g:description>
+    <description>Recharge T6 Core Edition - Pilot Assist. Från 7 376 kr/mån. Miltal: 6 151 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Reg.nr: BRW00Z. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc60-brw00z</g:link>
     <link>https://borasbil.se/bilar/volvo-xc60-brw00z</link>
     <url>https://borasbil.se/bilar/volvo-xc60-brw00z</url>
@@ -6441,10 +6441,10 @@
     <g:fb_product_category>173</g:fb_product_category>
     <vehicle_id>71e76252-4090-494c-baec-35baef615abd</vehicle_id>
     <vehicle_registration_plate>BSX92A</vehicle_registration_plate>
-    <g:title>Volvo C40 Ultimate</g:title>
-    <title>Volvo C40 Ultimate</title>
-    <g:description>Ultimate. Från 5 489 kr/mån. Miltal: 5 224 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: BSX92A. Kontakta oss för mer information.</g:description>
-    <description>Ultimate. Från 5 489 kr/mån. Miltal: 5 224 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: BSX92A. Kontakta oss för mer information.</description>
+    <g:title>Volvo C40 Ultimate - 20&quot;!</g:title>
+    <title>Volvo C40 Ultimate - 20&quot;!</title>
+    <g:description>Ultimate - 20&quot;!. Från 5 489 kr/mån. Miltal: 5 224 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: BSX92A. Kontakta oss för mer information.</g:description>
+    <description>Ultimate - 20&quot;!. Från 5 489 kr/mån. Miltal: 5 224 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: BSX92A. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-bsx92a</g:link>
     <link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-bsx92a</link>
     <url>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-bsx92a</url>
@@ -7525,10 +7525,10 @@
     <g:fb_product_category>173</g:fb_product_category>
     <vehicle_id>311939fc-550e-4e4f-8d0d-2e379015dac1</vehicle_id>
     <vehicle_registration_plate>BCE12J</vehicle_registration_plate>
-    <g:title>Volvo XC40 Core Edition</g:title>
-    <title>Volvo XC40 Core Edition</title>
-    <g:description>Core Edition. Från 4 545 kr/mån. Miltal: 8 461 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: BCE12J. Kontakta oss för mer information.</g:description>
-    <description>Core Edition. Från 4 545 kr/mån. Miltal: 8 461 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: BCE12J. Kontakta oss för mer information.</description>
+    <g:title>Volvo XC40 Core Edition - Tonade rutor</g:title>
+    <title>Volvo XC40 Core Edition - Tonade rutor</title>
+    <g:description>Core Edition - Tonade rutor. Från 4 545 kr/mån. Miltal: 8 461 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: BCE12J. Kontakta oss för mer information.</g:description>
+    <description>Core Edition - Tonade rutor. Från 4 545 kr/mån. Miltal: 8 461 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: BCE12J. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-bce12j</g:link>
     <link>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-bce12j</link>
     <url>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-bce12j</url>
@@ -8185,10 +8185,10 @@
     <g:fb_product_category>173</g:fb_product_category>
     <vehicle_id>8808dbe9-397e-4608-b531-0cfa55d5a55a</vehicle_id>
     <vehicle_registration_plate>BFN92C</vehicle_registration_plate>
-    <g:title>Polestar 2 69kWh Plus</g:title>
-    <title>Polestar 2 69kWh Plus</title>
-    <g:description>69kWh Plus. Från 5 017 kr/mån. Miltal: 4 919 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: BFN92C. Kontakta oss för mer information.</g:description>
-    <description>69kWh Plus. Från 5 017 kr/mån. Miltal: 4 919 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: BFN92C. Kontakta oss för mer information.</description>
+    <g:title>Polestar 2 69kWh Plus Pilot</g:title>
+    <title>Polestar 2 69kWh Plus Pilot</title>
+    <g:description>69kWh Plus Pilot. Från 5 017 kr/mån. Miltal: 4 919 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: BFN92C. Kontakta oss för mer information.</g:description>
+    <description>69kWh Plus Pilot. Från 5 017 kr/mån. Miltal: 4 919 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: BFN92C. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/polestar-2-standard-range-single-motor-bfn92c</g:link>
     <link>https://borasbil.se/bilar/polestar-2-standard-range-single-motor-bfn92c</link>
     <url>https://borasbil.se/bilar/polestar-2-standard-range-single-motor-bfn92c</url>
@@ -8977,10 +8977,10 @@
     <g:fb_product_category>173</g:fb_product_category>
     <vehicle_id>54914a02-7037-430b-9eea-ae4703dc9642</vehicle_id>
     <vehicle_registration_plate>AEJ29Z</vehicle_registration_plate>
-    <g:title>Volvo V90 T6 Plus Dark Nordic Edition</g:title>
-    <title>Volvo V90 T6 Plus Dark Nordic Edition</title>
-    <g:description>T6 Plus Dark Nordic Edition. Från 8 320 kr/mån. Miltal: 1 793 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: AEJ29Z. Kontakta oss för mer information.</g:description>
-    <description>T6 Plus Dark Nordic Edition. Från 8 320 kr/mån. Miltal: 1 793 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: AEJ29Z. Kontakta oss för mer information.</description>
+    <g:title>Volvo V90 T6 Plus Dark Nordic Edition - 360&amp;HarmanKardon</g:title>
+    <title>Volvo V90 T6 Plus Dark Nordic Edition - 360&amp;HarmanKardon</title>
+    <g:description>T6 Plus Dark Nordic Edition - 360&amp;HarmanKardon. Från 8 320 kr/mån. Miltal: 1 793 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: AEJ29Z. Kontakta oss för mer information.</g:description>
+    <description>T6 Plus Dark Nordic Edition - 360&amp;HarmanKardon. Från 8 320 kr/mån. Miltal: 1 793 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: AEJ29Z. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-v90-aej29z</g:link>
     <link>https://borasbil.se/bilar/volvo-v90-aej29z</link>
     <url>https://borasbil.se/bilar/volvo-v90-aej29z</url>
@@ -9633,10 +9633,10 @@
     <g:fb_product_category>173</g:fb_product_category>
     <vehicle_id>a1409a67-688b-4374-af97-ecdb93b5f259</vehicle_id>
     <vehicle_registration_plate>AKJ00T</vehicle_registration_plate>
-    <g:title>Volvo XC40 Ultimate</g:title>
-    <title>Volvo XC40 Ultimate</title>
-    <g:description>Ultimate. Från 5 646 kr/mån. Miltal: 5 133 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: AKJ00T. Kontakta oss för mer information.</g:description>
-    <description>Ultimate. Från 5 646 kr/mån. Miltal: 5 133 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: AKJ00T. Kontakta oss för mer information.</description>
+    <g:title>Volvo XC40 Ultimate - Dragkrok!</g:title>
+    <title>Volvo XC40 Ultimate - Dragkrok!</title>
+    <g:description>Ultimate - Dragkrok!. Från 5 646 kr/mån. Miltal: 5 133 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: AKJ00T. Kontakta oss för mer information.</g:description>
+    <description>Ultimate - Dragkrok!. Från 5 646 kr/mån. Miltal: 5 133 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: AKJ00T. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-akj00t</g:link>
     <link>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-akj00t</link>
     <url>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-akj00t</url>
@@ -15063,10 +15063,10 @@
     <g:fb_product_category>173</g:fb_product_category>
     <vehicle_id>09a00411-391e-42da-9c87-df660ef92543</vehicle_id>
     <vehicle_registration_plate>AOJ02Z</vehicle_registration_plate>
-    <g:title>Volvo V60 Recharge T6 Core Edition</g:title>
-    <title>Volvo V60 Recharge T6 Core Edition</title>
-    <g:description>Recharge T6 Core Edition. Från 5 489 kr/mån. Miltal: 8 023 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: AOJ02Z. Kontakta oss för mer information.</g:description>
-    <description>Recharge T6 Core Edition. Från 5 489 kr/mån. Miltal: 8 023 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: AOJ02Z. Kontakta oss för mer information.</description>
+    <g:title>Volvo V60 Recharge T6 Core Edition - Driver Awareness!</g:title>
+    <title>Volvo V60 Recharge T6 Core Edition - Driver Awareness!</title>
+    <g:description>Recharge T6 Core Edition - Driver Awareness!. Från 5 489 kr/mån. Miltal: 8 023 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: AOJ02Z. Kontakta oss för mer information.</g:description>
+    <description>Recharge T6 Core Edition - Driver Awareness!. Från 5 489 kr/mån. Miltal: 8 023 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: AOJ02Z. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-v60-aoj02z</g:link>
     <link>https://borasbil.se/bilar/volvo-v60-aoj02z</link>
     <url>https://borasbil.se/bilar/volvo-v60-aoj02z</url>
