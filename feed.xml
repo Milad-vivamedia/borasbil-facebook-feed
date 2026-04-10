@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>818f9252-a7c4-46f2-a8b1-c86ff62a2c3b</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>818f9252-a7c4-46f2-a8b1-c86ff62a2c3b</vehicle_id>
+    <vehicle_registration_plate>AAB64Z</vehicle_registration_plate>
+    <g:title>Dacia Sandero TCe 90 Essential IV</g:title>
+    <title>Dacia Sandero TCe 90 Essential IV</title>
+    <g:description>TCe 90 Essential IV. Från 1 714 kr/mån. Miltal: 2 374 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: AAB64Z. Kontakta oss för mer information.</g:description>
+    <description>TCe 90 Essential IV. Från 1 714 kr/mån. Miltal: 2 374 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: AAB64Z. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/dacia-sandero-aab64z</g:link>
+    <link>https://borasbil.se/bilar/dacia-sandero-aab64z</link>
+    <url>https://borasbil.se/bilar/dacia-sandero-aab64z</url>
+    <g:brand>Dacia</g:brand>
+    <brand>Dacia</brand>
+    <make>Dacia</make>
+    <g:image_link>https://cdn.wayke.se/cfit/d22b6fc0-e0c3-4be5-aa7a-11fa12441a05/96cbbe1e-867b-492a-a4f6-dcda304b6f28?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/d22b6fc0-e0c3-4be5-aa7a-11fa12441a05/96cbbe1e-867b-492a-a4f6-dcda304b6f28?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>Sandero</model>
+    <year>2023</year>
+    <mileage>
+      <value>23740</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Manual</transmission>
+    <g:price>109000 SEK</g:price>
+    <price>109000 SEK</price>
+    <sale_price>109000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>0bca5402-b2a3-40b3-8f46-6925c6f9f16b</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -5923,8 +5967,8 @@
     <vehicle_registration_plate>OJD240</vehicle_registration_plate>
     <g:title>Volvo V40 Business Adv Summum - Navigation, dragkrok, Elman förarstol, 18-tum, Bränslevärmare</g:title>
     <title>Volvo V40 Business Adv Summum - Navigation, dragkrok, Elman förarstol, 18-tum, Bränslevärmare</title>
-    <g:description>Business Adv Summum - Navigation, dragkrok, Elman förarstol, 18-tum, Bränslevärmare. Från 3 287 kr/mån. Miltal: 11 081 mil. Årsmodell: 2017. Växellåda: Automat. Bränsle: Diesel. Reg.nr: OJD240. Kontakta oss för mer information.</g:description>
-    <description>Business Adv Summum - Navigation, dragkrok, Elman förarstol, 18-tum, Bränslevärmare. Från 3 287 kr/mån. Miltal: 11 081 mil. Årsmodell: 2017. Växellåda: Automat. Bränsle: Diesel. Reg.nr: OJD240. Kontakta oss för mer information.</description>
+    <g:description>Business Adv Summum - Navigation, dragkrok, Elman förarstol, 18-tum, Bränslevärmare. Från 3 130 kr/mån. Miltal: 11 081 mil. Årsmodell: 2017. Växellåda: Automat. Bränsle: Diesel. Reg.nr: OJD240. Kontakta oss för mer information.</g:description>
+    <description>Business Adv Summum - Navigation, dragkrok, Elman förarstol, 18-tum, Bränslevärmare. Från 3 130 kr/mån. Miltal: 11 081 mil. Årsmodell: 2017. Växellåda: Automat. Bränsle: Diesel. Reg.nr: OJD240. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-v40-cross-country-d4-ojd240</g:link>
     <link>https://borasbil.se/bilar/volvo-v40-cross-country-d4-ojd240</link>
     <url>https://borasbil.se/bilar/volvo-v40-cross-country-d4-ojd240</url>
@@ -5945,9 +5989,9 @@
     <body_style>Sedan</body_style>
     <fuel_type>Diesel</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>209000 SEK</g:price>
-    <price>209000 SEK</price>
-    <sale_price>209000 SEK</sale_price>
+    <g:price>199000 SEK</g:price>
+    <price>199000 SEK</price>
+    <sale_price>199000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Bogesunds Bil Ulricehamn</component>
       <component name="country">SE</component>
@@ -7913,50 +7957,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>f590d664-401f-4c62-a979-f4e6e7767951</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>f590d664-401f-4c62-a979-f4e6e7767951</vehicle_id>
-    <vehicle_registration_plate>CMP03D</vehicle_registration_plate>
-    <g:title>Volvo C40 Core - Drag!</g:title>
-    <title>Volvo C40 Core - Drag!</title>
-    <g:description>Core - Drag!. Från 4 545 kr/mån. Miltal: 7 535 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: CMP03D. Kontakta oss för mer information.</g:description>
-    <description>Core - Drag!. Från 4 545 kr/mån. Miltal: 7 535 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: CMP03D. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-cmp03d</g:link>
-    <link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-cmp03d</link>
-    <url>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-cmp03d</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/06ec21c7-5858-4302-a7d0-691f3519a47b/6af838ea-b474-4cf5-9a3b-dfe5567c9619?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/06ec21c7-5858-4302-a7d0-691f3519a47b/6af838ea-b474-4cf5-9a3b-dfe5567c9619?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C40</model>
-    <year>2023</year>
-    <mileage>
-      <value>75350</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>289000 SEK</g:price>
-    <price>289000 SEK</price>
-    <sale_price>289000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
