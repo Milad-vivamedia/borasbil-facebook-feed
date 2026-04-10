@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>0bca5402-b2a3-40b3-8f46-6925c6f9f16b</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>0bca5402-b2a3-40b3-8f46-6925c6f9f16b</vehicle_id>
+    <vehicle_registration_plate>ROL77B</vehicle_registration_plate>
+    <g:title>Volvo V60 T6 Core Bright</g:title>
+    <title>Volvo V60 T6 Core Bright</title>
+    <g:description>T6 Core Bright. Från 6 275 kr/mån. Miltal: 5 245 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: ROL77B. Kontakta oss för mer information.</g:description>
+    <description>T6 Core Bright. Från 6 275 kr/mån. Miltal: 5 245 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: ROL77B. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-v60-rol77b</g:link>
+    <link>https://borasbil.se/bilar/volvo-v60-rol77b</link>
+    <url>https://borasbil.se/bilar/volvo-v60-rol77b</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/c7beb77e-351f-44c7-9ee3-6f8a411bb101/e1d74341-cc44-479e-bfbb-50ab0666599a?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/c7beb77e-351f-44c7-9ee3-6f8a411bb101/e1d74341-cc44-479e-bfbb-50ab0666599a?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>V60</model>
+    <year>2025</year>
+    <mileage>
+      <value>52450</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Wagon</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>399000 SEK</g:price>
+    <price>399000 SEK</price>
+    <sale_price>399000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>95a9789d-1738-4436-822c-ea41be1c9684</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -2184,9 +2228,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/d9def8d0-e364-4353-986b-97b23974ede7/44dc0bc7-b406-46c9-ac0d-8a6a5d4681b4?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/c141676d-6b58-4f34-ad27-2f072d8caf5e/2cc0918a-5569-48a2-b179-bdae58db607f?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/d9def8d0-e364-4353-986b-97b23974ede7/44dc0bc7-b406-46c9-ac0d-8a6a5d4681b4?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/c141676d-6b58-4f34-ad27-2f072d8caf5e/2cc0918a-5569-48a2-b179-bdae58db607f?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC60</model>
@@ -2448,9 +2492,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/b997f100-658b-4616-8aa8-75f45df16f12/387c935f-288b-4ce3-8cf8-255679383afe?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/ca95c671-f153-416a-b5f5-7d530a41989c/4006c98d-85bd-4480-a5d7-cd4f71c447bd?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/b997f100-658b-4616-8aa8-75f45df16f12/387c935f-288b-4ce3-8cf8-255679383afe?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/ca95c671-f153-416a-b5f5-7d530a41989c/4006c98d-85bd-4480-a5d7-cd4f71c447bd?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC60</model>
@@ -4443,9 +4487,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/ed657603-c4d2-440b-a333-0bf7050cce8e/b5ecb18a-a99e-4873-aa31-abd6f8a2e2a4?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/5efa4c58-c654-40b1-87ea-769ff4f2f9a0/a1cea38c-13cf-4107-a2c9-978a0dc2a1d4?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/ed657603-c4d2-440b-a333-0bf7050cce8e/b5ecb18a-a99e-4873-aa31-abd6f8a2e2a4?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/5efa4c58-c654-40b1-87ea-769ff4f2f9a0/a1cea38c-13cf-4107-a2c9-978a0dc2a1d4?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>C40</model>
@@ -8859,9 +8903,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/5c721fd7-9da6-414a-901f-e7c76fa65e4c/d5a65173-6057-460e-9f87-aa0f3e7dac76?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/3ab504ab-ff1d-4a1e-b318-407c3a66008a/c505fff8-5824-4d14-9410-d7c5bde33ae4?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/5c721fd7-9da6-414a-901f-e7c76fa65e4c/d5a65173-6057-460e-9f87-aa0f3e7dac76?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/3ab504ab-ff1d-4a1e-b318-407c3a66008a/c505fff8-5824-4d14-9410-d7c5bde33ae4?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>C40</model>
@@ -9911,9 +9955,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/5ca273c7-ab15-41bf-a142-96345e1fa68a/b1b62bd9-cca2-40da-9b71-c7652290ff88?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/8a173ada-f1b1-4a83-b1e1-63001cefd0c3/7f9b5aba-01bc-474b-b73d-959c0097196b?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/5ca273c7-ab15-41bf-a142-96345e1fa68a/b1b62bd9-cca2-40da-9b71-c7652290ff88?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/8a173ada-f1b1-4a83-b1e1-63001cefd0c3/7f9b5aba-01bc-474b-b73d-959c0097196b?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>C40</model>
