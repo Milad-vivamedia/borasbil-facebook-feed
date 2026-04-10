@@ -5,6 +5,138 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>adb2e236-db8a-415d-b6f8-abc76a68cd74</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>adb2e236-db8a-415d-b6f8-abc76a68cd74</vehicle_id>
+    <vehicle_registration_plate>PXF17U</vehicle_registration_plate>
+    <g:title>Citroën C4 SHINE Electric 50 kwh 5-d</g:title>
+    <title>Citroën C4 SHINE Electric 50 kwh 5-d</title>
+    <g:description>SHINE Electric 50 kwh 5-d. Från 2 973 kr/mån. Miltal: 2 989 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: PXF17U. Kontakta oss för mer information.</g:description>
+    <description>SHINE Electric 50 kwh 5-d. Från 2 973 kr/mån. Miltal: 2 989 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: PXF17U. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/citroen-e-c4-pxf17u</g:link>
+    <link>https://borasbil.se/bilar/citroen-e-c4-pxf17u</link>
+    <url>https://borasbil.se/bilar/citroen-e-c4-pxf17u</url>
+    <g:brand>Citroën</g:brand>
+    <brand>Citroën</brand>
+    <make>Citroën</make>
+    <g:image_link>https://cdn.wayke.se/cfit/b7acb986-7420-4788-aa40-e103daf7cba6/fd805ae4-a3e9-4c27-b4fc-84ec5de69b82?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/b7acb986-7420-4788-aa40-e103daf7cba6/fd805ae4-a3e9-4c27-b4fc-84ec5de69b82?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>C4</model>
+    <year>2022</year>
+    <mileage>
+      <value>29890</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>189000 SEK</g:price>
+    <price>189000 SEK</price>
+    <sale_price>189000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>ca185fb3-35ff-4f0a-927e-bcbc55664bcb</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>ca185fb3-35ff-4f0a-927e-bcbc55664bcb</vehicle_id>
+    <vehicle_registration_plate>WWA29D</vehicle_registration_plate>
+    <g:title>Renault Mégane E-TECH Equilibre 60kWh/220hk</g:title>
+    <title>Renault Mégane E-TECH Equilibre 60kWh/220hk</title>
+    <g:description>Equilibre 60kWh/220hk. Från 3 853 kr/mån. Miltal: 2 942 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: WWA29D. Kontakta oss för mer information.</g:description>
+    <description>Equilibre 60kWh/220hk. Från 3 853 kr/mån. Miltal: 2 942 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: WWA29D. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/renault-megane-e-tech-wwa29d</g:link>
+    <link>https://borasbil.se/bilar/renault-megane-e-tech-wwa29d</link>
+    <url>https://borasbil.se/bilar/renault-megane-e-tech-wwa29d</url>
+    <g:brand>Renault</g:brand>
+    <brand>Renault</brand>
+    <make>Renault</make>
+    <g:image_link>https://cdn.wayke.se/cfit/e61b973b-4119-475b-a43f-a78fbe5d5af7/da05d3d4-8350-4f13-a81d-1a11686b63da?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/e61b973b-4119-475b-a43f-a78fbe5d5af7/da05d3d4-8350-4f13-a81d-1a11686b63da?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>Mégane E-TECH</model>
+    <year>2023</year>
+    <mileage>
+      <value>29420</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>245000 SEK</g:price>
+    <price>245000 SEK</price>
+    <sale_price>245000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>6e74e8ca-93ac-44ad-8236-173faf394848</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>6e74e8ca-93ac-44ad-8236-173faf394848</vehicle_id>
+    <vehicle_registration_plate>WAH16R</vehicle_registration_plate>
+    <g:title>Renault Clio TCe 90 Equilibre 5-d</g:title>
+    <title>Renault Clio TCe 90 Equilibre 5-d</title>
+    <g:description>TCe 90 Equilibre 5-d. Från 2 249 kr/mån. Miltal: 3 648 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: WAH16R. Kontakta oss för mer information.</g:description>
+    <description>TCe 90 Equilibre 5-d. Från 2 249 kr/mån. Miltal: 3 648 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: WAH16R. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/renault-clio-wah16r</g:link>
+    <link>https://borasbil.se/bilar/renault-clio-wah16r</link>
+    <url>https://borasbil.se/bilar/renault-clio-wah16r</url>
+    <g:brand>Renault</g:brand>
+    <brand>Renault</brand>
+    <make>Renault</make>
+    <g:image_link>https://cdn.wayke.se/cfit/661f0023-6cb1-47f6-bab2-9207bb663a46/90100594-0bd8-4aca-b0f6-4bdfb6d30405?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/661f0023-6cb1-47f6-bab2-9207bb663a46/90100594-0bd8-4aca-b0f6-4bdfb6d30405?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>Clio</model>
+    <year>2023</year>
+    <mileage>
+      <value>36480</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Manual</transmission>
+    <g:price>143000 SEK</g:price>
+    <price>143000 SEK</price>
+    <sale_price>143000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>818f9252-a7c4-46f2-a8b1-c86ff62a2c3b</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -971,50 +1103,6 @@
     <g:condition>new</g:condition>
     <condition>new</condition>
     <state_of_vehicle>NEW</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>e094c74d-35b9-43de-ac77-69313d1cfbc4</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>e094c74d-35b9-43de-ac77-69313d1cfbc4</vehicle_id>
-    <vehicle_registration_plate>PXF17U</vehicle_registration_plate>
-    <g:title>Citroën C4 SHINE Electric 50 kwh 5-d</g:title>
-    <title>Citroën C4 SHINE Electric 50 kwh 5-d</title>
-    <g:description>SHINE Electric 50 kwh 5-d. Från 2 973 kr/mån. Miltal: 2 989 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: PXF17U. Kontakta oss för mer information.</g:description>
-    <description>SHINE Electric 50 kwh 5-d. Från 2 973 kr/mån. Miltal: 2 989 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: PXF17U. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/citroen-e-c4-pxf17u</g:link>
-    <link>https://borasbil.se/bilar/citroen-e-c4-pxf17u</link>
-    <url>https://borasbil.se/bilar/citroen-e-c4-pxf17u</url>
-    <g:brand>Citroën</g:brand>
-    <brand>Citroën</brand>
-    <make>Citroën</make>
-    <g:image_link>https://cdn.wayke.se/cfit/6115fd46-0a3e-47f5-9d7d-fd0abbfa7bd5/c718f72a-6762-47b6-a43e-c416b6b661e8?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/6115fd46-0a3e-47f5-9d7d-fd0abbfa7bd5/c718f72a-6762-47b6-a43e-c416b6b661e8?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C4</model>
-    <year>2022</year>
-    <mileage>
-      <value>29890</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>189000 SEK</g:price>
-    <price>189000 SEK</price>
-    <sale_price>189000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
     <g:id>726c3d5f-bd02-4b6d-a002-d0c8631a5f68</g:id>
@@ -4692,50 +4780,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>eff28f8d-016c-4bab-a08e-b8c6e60dfe53</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>eff28f8d-016c-4bab-a08e-b8c6e60dfe53</vehicle_id>
-    <vehicle_registration_plate>AHH54S</vehicle_registration_plate>
-    <g:title>Volvo XC40 Plus. Drag</g:title>
-    <title>Volvo XC40 Plus. Drag</title>
-    <g:description>Plus. Drag. Från 5 017 kr/mån. Miltal: 5 403 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: AHH54S. Kontakta oss för mer information.</g:description>
-    <description>Plus. Drag. Från 5 017 kr/mån. Miltal: 5 403 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: AHH54S. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-ahh54s</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-ahh54s</link>
-    <url>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-ahh54s</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/0c3fa4a4-d5a4-45c0-8895-bf09b1babf48/483623c1-8f0a-442f-a317-b69c30fb7bc4?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/0c3fa4a4-d5a4-45c0-8895-bf09b1babf48/483623c1-8f0a-442f-a317-b69c30fb7bc4?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2023</year>
-    <mileage>
-      <value>54030</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>319000 SEK</g:price>
-    <price>319000 SEK</price>
-    <sale_price>319000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Bogesunds Bil Ulricehamn</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>543161ac-0824-42ba-aed4-1fb7f64efe7f</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -6107,9 +6151,9 @@
     <g:brand>Peugeot</g:brand>
     <brand>Peugeot</brand>
     <make>Peugeot</make>
-    <g:image_link>https://cdn.wayke.se/cfit/c2145ffe-11c6-458a-adc2-38a835d55ec3/2ac4e437-09b4-4f24-82ea-9cc232f6edfe?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/78a328f3-02c5-402b-81f5-560f603ed1b0/e92a0e63-5fac-4991-b1fa-c56c4c64c625?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/c2145ffe-11c6-458a-adc2-38a835d55ec3/2ac4e437-09b4-4f24-82ea-9cc232f6edfe?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/78a328f3-02c5-402b-81f5-560f603ed1b0/e92a0e63-5fac-4991-b1fa-c56c4c64c625?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>2008</model>
@@ -14095,50 +14139,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>a8dc428c-d2ec-4a79-b480-add562f8e59e</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>a8dc428c-d2ec-4a79-b480-add562f8e59e</vehicle_id>
-    <vehicle_registration_plate>CWA06H</vehicle_registration_plate>
-    <g:title>Dacia Sandero TCe 90 Comfort II</g:title>
-    <title>Dacia Sandero TCe 90 Comfort II</title>
-    <g:description>TCe 90 Comfort II. Från 2 029 kr/mån. Miltal: 3 389 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: CWA06H. Kontakta oss för mer information.</g:description>
-    <description>TCe 90 Comfort II. Från 2 029 kr/mån. Miltal: 3 389 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: CWA06H. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/dacia-sandero-stepway-cwa06h</g:link>
-    <link>https://borasbil.se/bilar/dacia-sandero-stepway-cwa06h</link>
-    <url>https://borasbil.se/bilar/dacia-sandero-stepway-cwa06h</url>
-    <g:brand>Dacia</g:brand>
-    <brand>Dacia</brand>
-    <make>Dacia</make>
-    <g:image_link>https://cdn.wayke.se/cfit/d8987e7e-f50d-4bc1-8bb8-c486af9d9552/20780ec6-2efe-4ac5-8c14-5ccc6c7dd9e4?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/d8987e7e-f50d-4bc1-8bb8-c486af9d9552/20780ec6-2efe-4ac5-8c14-5ccc6c7dd9e4?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Sandero</model>
-    <year>2023</year>
-    <mileage>
-      <value>33890</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Manual</transmission>
-    <g:price>129000 SEK</g:price>
-    <price>129000 SEK</price>
-    <sale_price>129000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
