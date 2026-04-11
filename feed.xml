@@ -9423,8 +9423,8 @@
     <vehicle_registration_plate>PBU36M</vehicle_registration_plate>
     <g:title>Volvo EX40 ExtendedRange Plus SE</g:title>
     <title>Volvo EX40 ExtendedRange Plus SE</title>
-    <g:description>ExtendedRange Plus SE. Från 8 635 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: PBU36M. Kontakta oss för mer information.</g:description>
-    <description>ExtendedRange Plus SE. Från 8 635 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: PBU36M. Kontakta oss för mer information.</description>
+    <g:description>ExtendedRange Plus SE. Från 8 635 kr/mån. Miltal: 200 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: PBU36M. Kontakta oss för mer information.</g:description>
+    <description>ExtendedRange Plus SE. Från 8 635 kr/mån. Miltal: 200 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: PBU36M. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-pbu36m</g:link>
     <link>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-pbu36m</link>
     <url>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-pbu36m</url>
@@ -9438,6 +9438,10 @@
     </image>
     <model>EX40</model>
     <year>2026</year>
+    <mileage>
+      <value>2000</value>
+      <unit>KM</unit>
+    </mileage>
     <body_style>Sedan</body_style>
     <fuel_type>Electric</fuel_type>
     <transmission>Automatic</transmission>
