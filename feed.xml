@@ -665,50 +665,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>0287cc51-415b-4bac-a82d-7cfcd01facc6</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>0287cc51-415b-4bac-a82d-7cfcd01facc6</vehicle_id>
-    <vehicle_registration_plate>NHR33K</vehicle_registration_plate>
-    <g:title>Volvo EX40 Single Motor ExtendedRange Plus SE</g:title>
-    <title>Volvo EX40 Single Motor ExtendedRange Plus SE</title>
-    <g:description>Single Motor ExtendedRange Plus SE. Från 7 691 kr/mån. Miltal: 760 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: NHR33K. Kontakta oss för mer information.</g:description>
-    <description>Single Motor ExtendedRange Plus SE. Från 7 691 kr/mån. Miltal: 760 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: NHR33K. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-volvo-ex40-nhr33k</g:link>
-    <link>https://borasbil.se/bilar/volvo-volvo-ex40-nhr33k</link>
-    <url>https://borasbil.se/bilar/volvo-volvo-ex40-nhr33k</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/8890e13c-7363-42a8-8f31-e829bee8b22b/0fdbe674-4c2c-4823-b5b6-49bb50c7ab21?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/8890e13c-7363-42a8-8f31-e829bee8b22b/0fdbe674-4c2c-4823-b5b6-49bb50c7ab21?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>EX40</model>
-    <year>2026</year>
-    <mileage>
-      <value>7600</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>489000 SEK</g:price>
-    <price>489000 SEK</price>
-    <sale_price>489000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Bogesunds Bil Ulricehamn</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>new</g:condition>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    </item>
-    <item>
     <g:id>b753175f-3306-49dd-aacf-96989320b93c</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -11116,50 +11072,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>81df0431-6061-440a-a9ed-bf9591392bad</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>81df0431-6061-440a-a9ed-bf9591392bad</vehicle_id>
-    <vehicle_registration_plate>CDS49D</vehicle_registration_plate>
-    <g:title>Volvo XC90 Recharge T8 Ultimate Bright - 360&amp;HarmanKardon!</g:title>
-    <title>Volvo XC90 Recharge T8 Ultimate Bright - 360&amp;HarmanKardon!</title>
-    <g:description>Recharge T8 Ultimate Bright - 360&amp;HarmanKardon!. Från 9 264 kr/mån. Miltal: 8 573 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: CDS49D. Kontakta oss för mer information.</g:description>
-    <description>Recharge T8 Ultimate Bright - 360&amp;HarmanKardon!. Från 9 264 kr/mån. Miltal: 8 573 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: CDS49D. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc90-7-saten-cds49d</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc90-7-saten-cds49d</link>
-    <url>https://borasbil.se/bilar/volvo-xc90-7-saten-cds49d</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/00cdd0ef-81e7-4a37-833f-6b2ed2e2b077/a959e1e5-b539-42db-8226-657ce6514750?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/00cdd0ef-81e7-4a37-833f-6b2ed2e2b077/a959e1e5-b539-42db-8226-657ce6514750?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC90</model>
-    <year>2023</year>
-    <mileage>
-      <value>85730</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>589000 SEK</g:price>
-    <price>589000 SEK</price>
-    <sale_price>589000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>4bf08fe9-7134-499c-962d-c3fc5c11cf06</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -13100,50 +13012,6 @@
     <g:condition>new</g:condition>
     <condition>new</condition>
     <state_of_vehicle>NEW</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>24b570c0-3106-42bb-a6e9-9036290ae4f9</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>24b570c0-3106-42bb-a6e9-9036290ae4f9</vehicle_id>
-    <vehicle_registration_plate>FNN18J</vehicle_registration_plate>
-    <g:title>Renault Mégane E-TECH Equilibre 40kWh/130hk</g:title>
-    <title>Renault Mégane E-TECH Equilibre 40kWh/130hk</title>
-    <g:description>Equilibre 40kWh/130hk. Från 2 973 kr/mån. Miltal: 4 505 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: FNN18J. Kontakta oss för mer information.</g:description>
-    <description>Equilibre 40kWh/130hk. Från 2 973 kr/mån. Miltal: 4 505 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: FNN18J. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/renault-megane-e-tech-fnn18j</g:link>
-    <link>https://borasbil.se/bilar/renault-megane-e-tech-fnn18j</link>
-    <url>https://borasbil.se/bilar/renault-megane-e-tech-fnn18j</url>
-    <g:brand>Renault</g:brand>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <g:image_link>https://cdn.wayke.se/cfit/5bd6fbd9-8fc3-4eb2-a97b-b1f59a675aa7/f69e0ca4-7021-41a0-adc2-ea5a6b0a6e52?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/5bd6fbd9-8fc3-4eb2-a97b-b1f59a675aa7/f69e0ca4-7021-41a0-adc2-ea5a6b0a6e52?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Mégane E-TECH</model>
-    <year>2023</year>
-    <mileage>
-      <value>45050</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>189000 SEK</g:price>
-    <price>189000 SEK</price>
-    <sale_price>189000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
     <g:id>e4adafad-5da4-4df7-abb6-643f76cb3a59</g:id>
