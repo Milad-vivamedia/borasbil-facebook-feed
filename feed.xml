@@ -665,50 +665,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>0bc4acf4-c8cb-409f-859e-316cd57bdf28</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>0bc4acf4-c8cb-409f-859e-316cd57bdf28</vehicle_id>
-    <vehicle_registration_plate>LSU74U</vehicle_registration_plate>
-    <g:title>Volvo XC40 Plus</g:title>
-    <title>Volvo XC40 Plus</title>
-    <g:description>Plus. Från 4 545 kr/mån. Miltal: 8 129 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: LSU74U. Kontakta oss för mer information.</g:description>
-    <description>Plus. Från 4 545 kr/mån. Miltal: 8 129 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: LSU74U. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-lsu74u</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-lsu74u</link>
-    <url>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-lsu74u</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/081ea864-5ae1-410d-af69-8660b733f342/c94dec0a-6edd-4141-b2b4-e59a48100476?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/081ea864-5ae1-410d-af69-8660b733f342/c94dec0a-6edd-4141-b2b4-e59a48100476?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2023</year>
-    <mileage>
-      <value>81290</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>289000 SEK</g:price>
-    <price>289000 SEK</price>
-    <sale_price>289000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>7fe98826-de79-4d61-a0e8-b30e7fd3855a</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -11120,50 +11076,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>27eaa9df-986e-4b7d-ba85-8feb48f9f175</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>27eaa9df-986e-4b7d-ba85-8feb48f9f175</vehicle_id>
-    <vehicle_registration_plate>SWA77F</vehicle_registration_plate>
-    <g:title>Volvo C40 Ultimate</g:title>
-    <title>Volvo C40 Ultimate</title>
-    <g:description>Ultimate. Från 4 860 kr/mån. Miltal: 9 877 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: SWA77F. Kontakta oss för mer information.</g:description>
-    <description>Ultimate. Från 4 860 kr/mån. Miltal: 9 877 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: SWA77F. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-swa77f</g:link>
-    <link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-swa77f</link>
-    <url>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-swa77f</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/2c4f7298-3e00-479b-8a72-bcdf609e3ae7/db478e0c-dbb0-473f-9a3e-ad273f1ccf2f?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/2c4f7298-3e00-479b-8a72-bcdf609e3ae7/db478e0c-dbb0-473f-9a3e-ad273f1ccf2f?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C40</model>
-    <year>2023</year>
-    <mileage>
-      <value>98770</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>309000 SEK</g:price>
-    <price>309000 SEK</price>
-    <sale_price>309000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>3358c314-32bc-43a8-8be6-daba908c547d</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -13231,50 +13143,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>4dc4bc4f-c795-4362-910f-a6fdec26b667</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>4dc4bc4f-c795-4362-910f-a6fdec26b667</vehicle_id>
-    <vehicle_registration_plate>ODC50L</vehicle_registration_plate>
-    <g:title>Volvo XC40 Core Edition</g:title>
-    <title>Volvo XC40 Core Edition</title>
-    <g:description>Core Edition. Från 4 545 kr/mån. Miltal: 4 525 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: ODC50L. Kontakta oss för mer information.</g:description>
-    <description>Core Edition. Från 4 545 kr/mån. Miltal: 4 525 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: ODC50L. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-odc50l</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-odc50l</link>
-    <url>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-odc50l</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/028ea561-a576-4ee6-b18e-00428a3f9332/bf2272f8-2c16-46b9-81f5-754b0eb21bc9?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/028ea561-a576-4ee6-b18e-00428a3f9332/bf2272f8-2c16-46b9-81f5-754b0eb21bc9?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2023</year>
-    <mileage>
-      <value>45250</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>289000 SEK</g:price>
-    <price>289000 SEK</price>
-    <sale_price>289000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Bogesunds Bil Ulricehamn</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
