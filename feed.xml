@@ -5,6 +5,94 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>c39ea85e-ad3a-4806-828e-6bf0a73e325b</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>c39ea85e-ad3a-4806-828e-6bf0a73e325b</vehicle_id>
+    <vehicle_registration_plate>YJA87U</vehicle_registration_plate>
+    <g:title>Citroën C3 Aircross SHINE Pure Tech 130 A</g:title>
+    <title>Citroën C3 Aircross SHINE Pure Tech 130 A</title>
+    <g:description>SHINE Pure Tech 130 A. Från 2 658 kr/mån. Miltal: 1 233 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: YJA87U. Kontakta oss för mer information.</g:description>
+    <description>SHINE Pure Tech 130 A. Från 2 658 kr/mån. Miltal: 1 233 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: YJA87U. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/citroen-c3-aircross-yja87u</g:link>
+    <link>https://borasbil.se/bilar/citroen-c3-aircross-yja87u</link>
+    <url>https://borasbil.se/bilar/citroen-c3-aircross-yja87u</url>
+    <g:brand>Citroën</g:brand>
+    <brand>Citroën</brand>
+    <make>Citroën</make>
+    <g:image_link>https://cdn.wayke.se/cfit/c73b2cac-86c0-48e7-ae8e-c402c5dc97d4/cabf8c4e-7830-4aca-99ea-c00adec4d065?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/c73b2cac-86c0-48e7-ae8e-c402c5dc97d4/cabf8c4e-7830-4aca-99ea-c00adec4d065?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>C3 Aircross</model>
+    <year>2023</year>
+    <mileage>
+      <value>12330</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>169000 SEK</g:price>
+    <price>169000 SEK</price>
+    <sale_price>169000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Bogesunds Bil Ulricehamn</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>939ad56a-5ce8-41f5-bd7a-3cce821de4b7</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>939ad56a-5ce8-41f5-bd7a-3cce821de4b7</vehicle_id>
+    <vehicle_registration_plate>AAB64Z</vehicle_registration_plate>
+    <g:title>Dacia Sandero TCe 90 Essential IV</g:title>
+    <title>Dacia Sandero TCe 90 Essential IV</title>
+    <g:description>TCe 90 Essential IV. Från 1 714 kr/mån. Miltal: 2 374 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: AAB64Z. Kontakta oss för mer information.</g:description>
+    <description>TCe 90 Essential IV. Från 1 714 kr/mån. Miltal: 2 374 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: AAB64Z. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/dacia-sandero-aab64z</g:link>
+    <link>https://borasbil.se/bilar/dacia-sandero-aab64z</link>
+    <url>https://borasbil.se/bilar/dacia-sandero-aab64z</url>
+    <g:brand>Dacia</g:brand>
+    <brand>Dacia</brand>
+    <make>Dacia</make>
+    <g:image_link>https://cdn.wayke.se/cfit/25f0972c-d76b-44a2-8b04-ff9b9b2f6bcc/987561b7-810e-4050-8ed1-17767cb3ddb0?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/25f0972c-d76b-44a2-8b04-ff9b9b2f6bcc/987561b7-810e-4050-8ed1-17767cb3ddb0?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>Sandero</model>
+    <year>2023</year>
+    <mileage>
+      <value>23740</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Manual</transmission>
+    <g:price>109000 SEK</g:price>
+    <price>109000 SEK</price>
+    <sale_price>109000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>b717fc79-f204-4e47-b730-79f1248fd823</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -724,9 +812,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/25ad011f-e0cf-4e28-a56a-a7afbce48576/217bb408-dd53-40fb-aec1-c23990276c33?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/67fc8809-e606-4533-baf7-090c7d82c1c8/4a037c2f-b0b9-4af8-b218-085cee9e55f7?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/25ad011f-e0cf-4e28-a56a-a7afbce48576/217bb408-dd53-40fb-aec1-c23990276c33?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/67fc8809-e606-4533-baf7-090c7d82c1c8/4a037c2f-b0b9-4af8-b218-085cee9e55f7?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC60</model>
@@ -1017,50 +1105,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>95a9789d-1738-4436-822c-ea41be1c9684</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>95a9789d-1738-4436-822c-ea41be1c9684</vehicle_id>
-    <vehicle_registration_plate>HBC94F</vehicle_registration_plate>
-    <g:title>Peugeot 5008 Peugoet GT - 7-sits, Backkamera, Navigation</g:title>
-    <title>Peugeot 5008 Peugoet GT - 7-sits, Backkamera, Navigation</title>
-    <g:description>Peugoet GT - 7-sits, Backkamera, Navigation. Från 4 703 kr/mån. Miltal: 2 989 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Reg.nr: HBC94F. Kontakta oss för mer information.</g:description>
-    <description>Peugoet GT - 7-sits, Backkamera, Navigation. Från 4 703 kr/mån. Miltal: 2 989 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Reg.nr: HBC94F. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/peugeot-5008-hbc94f</g:link>
-    <link>https://borasbil.se/bilar/peugeot-5008-hbc94f</link>
-    <url>https://borasbil.se/bilar/peugeot-5008-hbc94f</url>
-    <g:brand>Peugeot</g:brand>
-    <brand>Peugeot</brand>
-    <make>Peugeot</make>
-    <g:image_link>https://cdn.wayke.se/cfit/05ad2ab6-74ec-4762-8bef-ebc30537a92f/cecef6d6-6cbd-489c-83a7-8f92d02e97f9?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/05ad2ab6-74ec-4762-8bef-ebc30537a92f/cecef6d6-6cbd-489c-83a7-8f92d02e97f9?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>5008</model>
-    <year>2024</year>
-    <mileage>
-      <value>29890</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>299000 SEK</g:price>
-    <price>299000 SEK</price>
-    <sale_price>299000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Bogesunds Bil Ulricehamn</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>a0db7087-7d60-460b-8e1a-d5540c403844</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -1164,9 +1208,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/27c73256-31e2-4a51-adbb-b84b0b17fcb9/d87c228a-acea-4b4a-863a-c7f97e1fa7a9?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/8324fdd7-2a5c-4211-9d9e-959188fdc970/36ee899d-5034-4c12-8d55-7ec93ac23aed?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/27c73256-31e2-4a51-adbb-b84b0b17fcb9/d87c228a-acea-4b4a-863a-c7f97e1fa7a9?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/8324fdd7-2a5c-4211-9d9e-959188fdc970/36ee899d-5034-4c12-8d55-7ec93ac23aed?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>C40</model>
@@ -1313,50 +1357,6 @@
     <g:price>189000 SEK</g:price>
     <price>189000 SEK</price>
     <sale_price>189000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>b0735eed-7934-4890-adb0-a63f9fe7cd4d</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>b0735eed-7934-4890-adb0-a63f9fe7cd4d</vehicle_id>
-    <vehicle_registration_plate>AOS64P</vehicle_registration_plate>
-    <g:title>Peugeot 208 GT Electric 5-d</g:title>
-    <title>Peugeot 208 GT Electric 5-d</title>
-    <g:description>GT Electric 5-d. Från 3 130 kr/mån. Miltal: 2 452 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: AOS64P. Kontakta oss för mer information.</g:description>
-    <description>GT Electric 5-d. Från 3 130 kr/mån. Miltal: 2 452 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: AOS64P. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/peugeot-e-208-aos64p</g:link>
-    <link>https://borasbil.se/bilar/peugeot-e-208-aos64p</link>
-    <url>https://borasbil.se/bilar/peugeot-e-208-aos64p</url>
-    <g:brand>Peugeot</g:brand>
-    <brand>Peugeot</brand>
-    <make>Peugeot</make>
-    <g:image_link>https://cdn.wayke.se/cfit/695308fa-0951-4fb1-a8f6-094f5290f15b/f1e3d934-240f-4d52-a472-6b6829bd9359?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/695308fa-0951-4fb1-a8f6-094f5290f15b/f1e3d934-240f-4d52-a472-6b6829bd9359?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>208</model>
-    <year>2022</year>
-    <mileage>
-      <value>24520</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>199000 SEK</g:price>
-    <price>199000 SEK</price>
-    <sale_price>199000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Borås Bil</component>
       <component name="country">SE</component>
@@ -3988,9 +3988,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/73d645b9-6d38-4f39-855c-b272f86b4b20/f816794c-cf3b-4d43-9614-026826fb3338?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/a0ecb661-64b4-4ea3-8c13-19ffdc33d692/460e82aa-ab7d-4f1a-a93a-6d2ca995e5a0?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/73d645b9-6d38-4f39-855c-b272f86b4b20/f816794c-cf3b-4d43-9614-026826fb3338?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/a0ecb661-64b4-4ea3-8c13-19ffdc33d692/460e82aa-ab7d-4f1a-a93a-6d2ca995e5a0?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>V90</model>
@@ -5375,9 +5375,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/665eb156-e852-45d9-824b-fbb0de7ec589/b7aadcec-49e3-4d62-a271-b6c3454960d9?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/6fd115fd-df4e-4f5b-a4b5-bdd2e38848bf/aa7827ff-7003-45eb-8de4-699b84dad02f?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/665eb156-e852-45d9-824b-fbb0de7ec589/b7aadcec-49e3-4d62-a271-b6c3454960d9?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/6fd115fd-df4e-4f5b-a4b5-bdd2e38848bf/aa7827ff-7003-45eb-8de4-699b84dad02f?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>C40</model>
@@ -11780,50 +11780,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>e1b3f051-c3c9-41ae-8a11-02a18a55a385</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>e1b3f051-c3c9-41ae-8a11-02a18a55a385</vehicle_id>
-    <vehicle_registration_plate>YJA87U</vehicle_registration_plate>
-    <g:title>Citroën C3 Aircross SHINE Pure Tech 130 A</g:title>
-    <title>Citroën C3 Aircross SHINE Pure Tech 130 A</title>
-    <g:description>SHINE Pure Tech 130 A. Från 2 658 kr/mån. Miltal: 1 233 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: YJA87U. Kontakta oss för mer information.</g:description>
-    <description>SHINE Pure Tech 130 A. Från 2 658 kr/mån. Miltal: 1 233 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: YJA87U. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/citroen-c3-aircross-yja87u</g:link>
-    <link>https://borasbil.se/bilar/citroen-c3-aircross-yja87u</link>
-    <url>https://borasbil.se/bilar/citroen-c3-aircross-yja87u</url>
-    <g:brand>Citroën</g:brand>
-    <brand>Citroën</brand>
-    <make>Citroën</make>
-    <g:image_link>https://cdn.wayke.se/cfit/ff4463c9-1cb4-41c0-8a18-5dfcb3522ecd/9476c2e0-a457-484a-85c8-395b9d9c058a?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/ff4463c9-1cb4-41c0-8a18-5dfcb3522ecd/9476c2e0-a457-484a-85c8-395b9d9c058a?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C3 Aircross</model>
-    <year>2023</year>
-    <mileage>
-      <value>12330</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>169000 SEK</g:price>
-    <price>169000 SEK</price>
-    <sale_price>169000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>3837d54e-5954-4fbc-884a-d982dacf2982</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -14290,50 +14246,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>fec94cbb-514e-4351-a692-9b13e62f39d8</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>fec94cbb-514e-4351-a692-9b13e62f39d8</vehicle_id>
-    <vehicle_registration_plate>JEL79W</vehicle_registration_plate>
-    <g:title>Lynk &amp; Co 01</g:title>
-    <title>Lynk &amp; Co 01</title>
-    <g:description>Från 4 860 kr/mån. Miltal: 1 651 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: JEL79W. Kontakta oss för mer information.</g:description>
-    <description>Från 4 860 kr/mån. Miltal: 1 651 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: JEL79W. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/lynk-co-01-phev-jel79w</g:link>
-    <link>https://borasbil.se/bilar/lynk-co-01-phev-jel79w</link>
-    <url>https://borasbil.se/bilar/lynk-co-01-phev-jel79w</url>
-    <g:brand>Lynk &amp; Co</g:brand>
-    <brand>Lynk &amp; Co</brand>
-    <make>Lynk &amp; Co</make>
-    <g:image_link>https://cdn.wayke.se/cfit/7fde6818-fc73-4d81-a9f9-1c60062b82a8/6c6ca5ef-7640-4fd8-b0e5-8749783475b7?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/7fde6818-fc73-4d81-a9f9-1c60062b82a8/6c6ca5ef-7640-4fd8-b0e5-8749783475b7?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>01</model>
-    <year>2024</year>
-    <mileage>
-      <value>16510</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>309000 SEK</g:price>
-    <price>309000 SEK</price>
-    <sale_price>309000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>1911b3d1-eb18-4304-83ee-01ae276b5074</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -15169,8 +15081,8 @@
     <vehicle_registration_plate>XDR03R</vehicle_registration_plate>
     <g:title>Lynk &amp; Co 01</g:title>
     <title>Lynk &amp; Co 01</title>
-    <g:description>Från 6 590 kr/mån. Miltal: 100 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: XDR03R. Kontakta oss för mer information.</g:description>
-    <description>Från 6 590 kr/mån. Miltal: 100 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: XDR03R. Kontakta oss för mer information.</description>
+    <g:description>Från 6 590 kr/mån. Miltal: 250 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: XDR03R. Kontakta oss för mer information.</g:description>
+    <description>Från 6 590 kr/mån. Miltal: 250 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: XDR03R. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/lynk-co-01-phev-xdr03r</g:link>
     <link>https://borasbil.se/bilar/lynk-co-01-phev-xdr03r</link>
     <url>https://borasbil.se/bilar/lynk-co-01-phev-xdr03r</url>
@@ -15185,7 +15097,7 @@
     <model>01</model>
     <year>2025</year>
     <mileage>
-      <value>1000</value>
+      <value>2500</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
