@@ -960,50 +960,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>b717fc79-f204-4e47-b730-79f1248fd823</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>b717fc79-f204-4e47-b730-79f1248fd823</vehicle_id>
-    <vehicle_registration_plate>BZR386</vehicle_registration_plate>
-    <g:title>Volvo XC40 Plus Edition</g:title>
-    <title>Volvo XC40 Plus Edition</title>
-    <g:description>Plus Edition. Från 4 860 kr/mån. Miltal: 5 200 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: BZR386. Kontakta oss för mer information.</g:description>
-    <description>Plus Edition. Från 4 860 kr/mån. Miltal: 5 200 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: BZR386. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-bzr386</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-bzr386</link>
-    <url>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-bzr386</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/929ab97a-fd8c-4731-b6a0-09acda27bbae/1b43294e-74a5-4661-916a-c779848ef88e?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/929ab97a-fd8c-4731-b6a0-09acda27bbae/1b43294e-74a5-4661-916a-c779848ef88e?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2023</year>
-    <mileage>
-      <value>52000</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>309000 SEK</g:price>
-    <price>309000 SEK</price>
-    <sale_price>309000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Bogesunds Bil Ulricehamn</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>0c603d6a-9b2b-42d2-b6a8-0cb47a757e29</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
