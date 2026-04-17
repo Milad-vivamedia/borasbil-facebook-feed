@@ -5,6 +5,86 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>73f93015-0959-44eb-813a-12724f816413</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>73f93015-0959-44eb-813a-12724f816413</vehicle_id>
+    <vehicle_registration_plate>WXF21S</vehicle_registration_plate>
+    <g:title>Peugeot Expert Skåp L3 150 AT8 PLUS 2.2L</g:title>
+    <title>Peugeot Expert Skåp L3 150 AT8 PLUS 2.2L</title>
+    <g:description>Skåp L3 150 AT8 PLUS 2.2L. Från 7 219 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: Diesel. Reg.nr: WXF21S. Kontakta oss för mer information.</g:description>
+    <description>Skåp L3 150 AT8 PLUS 2.2L. Från 7 219 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: Diesel. Reg.nr: WXF21S. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/peugeot-expert-wxf21s</g:link>
+    <link>https://borasbil.se/bilar/peugeot-expert-wxf21s</link>
+    <url>https://borasbil.se/bilar/peugeot-expert-wxf21s</url>
+    <g:brand>Peugeot</g:brand>
+    <brand>Peugeot</brand>
+    <make>Peugeot</make>
+    <g:image_link>https://cdn.wayke.se/cfit/78e0e5ab-c204-4ffe-b164-b81fd77fd54e/af558b7e-ee20-4f70-983f-2bb8c2e6c1c4?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/78e0e5ab-c204-4ffe-b164-b81fd77fd54e/af558b7e-ee20-4f70-983f-2bb8c2e6c1c4?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>Expert</model>
+    <year>2026</year>
+    <body_style>Sedan</body_style>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>459000 SEK</g:price>
+    <price>459000 SEK</price>
+    <sale_price>459000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>d3fb7386-d580-423f-a03c-b256a40f4afd</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>d3fb7386-d580-423f-a03c-b256a40f4afd</vehicle_id>
+    <vehicle_registration_plate>PGE71L</vehicle_registration_plate>
+    <g:title>Peugeot Boxer Crew Cab SNOEKS L3H2 BHDi 180 A FL</g:title>
+    <title>Peugeot Boxer Crew Cab SNOEKS L3H2 BHDi 180 A FL</title>
+    <g:description>Crew Cab SNOEKS L3H2 BHDi 180 A FL. Från 9 106 kr/mån. Årsmodell: 2025. Växellåda: Automat. Bränsle: Diesel. Reg.nr: PGE71L. Kontakta oss för mer information.</g:description>
+    <description>Crew Cab SNOEKS L3H2 BHDi 180 A FL. Från 9 106 kr/mån. Årsmodell: 2025. Växellåda: Automat. Bränsle: Diesel. Reg.nr: PGE71L. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/peugeot-boxer-skapbil-pge71l</g:link>
+    <link>https://borasbil.se/bilar/peugeot-boxer-skapbil-pge71l</link>
+    <url>https://borasbil.se/bilar/peugeot-boxer-skapbil-pge71l</url>
+    <g:brand>Peugeot</g:brand>
+    <brand>Peugeot</brand>
+    <make>Peugeot</make>
+    <g:image_link>https://cdn.wayke.se/cfit/efe63c70-4ec3-415e-ab33-1a243adf6201/3f6c0253-a80c-4a62-8d36-4ab4e9a1fd13?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/efe63c70-4ec3-415e-ab33-1a243adf6201/3f6c0253-a80c-4a62-8d36-4ab4e9a1fd13?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>Boxer</model>
+    <year>2025</year>
+    <body_style>Sedan</body_style>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>579000 SEK</g:price>
+    <price>579000 SEK</price>
+    <sale_price>579000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>ec4d4b99-dd1b-4696-a094-7d2a498e2f64</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
