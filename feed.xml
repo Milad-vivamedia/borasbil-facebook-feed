@@ -1224,50 +1224,6 @@
     <state_of_vehicle>NEW</state_of_vehicle>
     </item>
     <item>
-    <g:id>fd57cfa3-6cf3-41d0-91f5-d7ec8ddd7013</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>fd57cfa3-6cf3-41d0-91f5-d7ec8ddd7013</vehicle_id>
-    <vehicle_registration_plate>FBR72G</vehicle_registration_plate>
-    <g:title>Volvo EX90 Ultra 7-sätes - B&amp;W/Drag</g:title>
-    <title>Volvo EX90 Ultra 7-sätes - B&amp;W/Drag</title>
-    <g:description>Ultra 7-sätes - B&amp;W/Drag. Från 12 567 kr/mån. Miltal: 1 947 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: FBR72G. Kontakta oss för mer information.</g:description>
-    <description>Ultra 7-sätes - B&amp;W/Drag. Från 12 567 kr/mån. Miltal: 1 947 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: FBR72G. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-ex90-twin-motor-fbr72g</g:link>
-    <link>https://borasbil.se/bilar/volvo-ex90-twin-motor-fbr72g</link>
-    <url>https://borasbil.se/bilar/volvo-ex90-twin-motor-fbr72g</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/2f29cc81-ac08-4efb-bd2a-a96f6ebb5f0e/ee6668dc-4f43-4ed2-9e52-ca8b80795e42?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/2f29cc81-ac08-4efb-bd2a-a96f6ebb5f0e/ee6668dc-4f43-4ed2-9e52-ca8b80795e42?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>EX90</model>
-    <year>2025</year>
-    <mileage>
-      <value>19470</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>799000 SEK</g:price>
-    <price>799000 SEK</price>
-    <sale_price>799000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>e5eaef94-ad41-487e-a84e-5b67df2263aa</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -9153,50 +9109,6 @@
     <g:condition>new</g:condition>
     <condition>new</condition>
     <state_of_vehicle>NEW</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>b70cb65b-9970-4680-a3c4-8eaba461069f</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>b70cb65b-9970-4680-a3c4-8eaba461069f</vehicle_id>
-    <vehicle_registration_plate>SFA77F</vehicle_registration_plate>
-    <g:title>Volvo XC40 Plus Edition</g:title>
-    <title>Volvo XC40 Plus Edition</title>
-    <g:description>Plus Edition. Från 4 703 kr/mån. Miltal: 6 423 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: SFA77F. Kontakta oss för mer information.</g:description>
-    <description>Plus Edition. Från 4 703 kr/mån. Miltal: 6 423 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: SFA77F. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-sfa77f</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-sfa77f</link>
-    <url>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-sfa77f</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/01667c20-7d78-4dd6-863c-cc9328e94055/aa97dbc6-a348-4ec7-b792-f145d02e2d84?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/01667c20-7d78-4dd6-863c-cc9328e94055/aa97dbc6-a348-4ec7-b792-f145d02e2d84?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2023</year>
-    <mileage>
-      <value>64230</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>299000 SEK</g:price>
-    <price>299000 SEK</price>
-    <sale_price>299000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Bogesunds Bil Ulricehamn</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
     <g:id>687b1191-4c7d-499a-bf42-d25e94269e98</g:id>
