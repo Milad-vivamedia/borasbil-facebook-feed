@@ -1786,50 +1786,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>0a23f602-924e-4628-8262-cd8c71fabcbe</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>0a23f602-924e-4628-8262-cd8c71fabcbe</vehicle_id>
-    <vehicle_registration_plate>RHY93A</vehicle_registration_plate>
-    <g:title>Volvo XC40 Core</g:title>
-    <title>Volvo XC40 Core</title>
-    <g:description>Core. Från 4 388 kr/mån. Miltal: 6 921 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: RHY93A. Kontakta oss för mer information.</g:description>
-    <description>Core. Från 4 388 kr/mån. Miltal: 6 921 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: RHY93A. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-rhy93a</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-rhy93a</link>
-    <url>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-rhy93a</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/1999b9f5-a923-4ebb-b699-09042e344f8e/3aabebdc-7809-4967-9bb0-c18bb1caaedb?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/1999b9f5-a923-4ebb-b699-09042e344f8e/3aabebdc-7809-4967-9bb0-c18bb1caaedb?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2023</year>
-    <mileage>
-      <value>69210</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>279000 SEK</g:price>
-    <price>279000 SEK</price>
-    <sale_price>279000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>da0cc6a0-f13e-42b5-a658-9dc55a206a94</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -7413,50 +7369,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>bad73276-3bbe-4685-a7ef-340556f43988</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>bad73276-3bbe-4685-a7ef-340556f43988</vehicle_id>
-    <vehicle_registration_plate>JAC81G</vehicle_registration_plate>
-    <g:title>Volvo C40 Core</g:title>
-    <title>Volvo C40 Core</title>
-    <g:description>Core. Från 4 703 kr/mån. Miltal: 6 998 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: JAC81G. Kontakta oss för mer information.</g:description>
-    <description>Core. Från 4 703 kr/mån. Miltal: 6 998 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: JAC81G. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-jac81g</g:link>
-    <link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-jac81g</link>
-    <url>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-jac81g</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/34545a6c-5304-41d9-bf00-a206241b8928/f28ee44d-c579-4a97-ad8b-842601c7c380?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/34545a6c-5304-41d9-bf00-a206241b8928/f28ee44d-c579-4a97-ad8b-842601c7c380?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C40</model>
-    <year>2023</year>
-    <mileage>
-      <value>69980</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>299000 SEK</g:price>
-    <price>299000 SEK</price>
-    <sale_price>299000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>cefd924e-fc8d-4d8e-86e6-dd6b84f15fa7</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -8657,50 +8569,6 @@
     <g:price>929000 SEK</g:price>
     <price>929000 SEK</price>
     <sale_price>929000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>6f549c58-a260-4fd3-9a50-89de1490d1ba</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>6f549c58-a260-4fd3-9a50-89de1490d1ba</vehicle_id>
-    <vehicle_registration_plate>PUC07G</vehicle_registration_plate>
-    <g:title>Volvo C40 Plus Edition</g:title>
-    <title>Volvo C40 Plus Edition</title>
-    <g:description>Plus Edition. Från 5 175 kr/mån. Miltal: 4 491 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: PUC07G. Kontakta oss för mer information.</g:description>
-    <description>Plus Edition. Från 5 175 kr/mån. Miltal: 4 491 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: PUC07G. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-puc07g</g:link>
-    <link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-puc07g</link>
-    <url>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-puc07g</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/99edbcc3-9a2a-45b4-90d0-d3b651ca04de/7164abd1-27bc-4975-b584-3321fee27b27?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/99edbcc3-9a2a-45b4-90d0-d3b651ca04de/7164abd1-27bc-4975-b584-3321fee27b27?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C40</model>
-    <year>2023</year>
-    <mileage>
-      <value>44910</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>329000 SEK</g:price>
-    <price>329000 SEK</price>
-    <sale_price>329000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Borås Bil</component>
       <component name="country">SE</component>
