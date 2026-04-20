@@ -3386,50 +3386,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>41abbc79-720c-43b7-9c3f-5d59ba683943</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>41abbc79-720c-43b7-9c3f-5d59ba683943</vehicle_id>
-    <vehicle_registration_plate>CJJ01C</vehicle_registration_plate>
-    <g:title>Peugeot Partner Skåp PRO+ L2 BHDi 130 A</g:title>
-    <title>Peugeot Partner Skåp PRO+ L2 BHDi 130 A</title>
-    <g:description>Skåp PRO+ L2 BHDi 130 A. Från 3 916 kr/mån. Miltal: 5 350 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Diesel. Reg.nr: CJJ01C. Kontakta oss för mer information.</g:description>
-    <description>Skåp PRO+ L2 BHDi 130 A. Från 3 916 kr/mån. Miltal: 5 350 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Diesel. Reg.nr: CJJ01C. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/peugeot-partner-utokad-last-cjj01c</g:link>
-    <link>https://borasbil.se/bilar/peugeot-partner-utokad-last-cjj01c</link>
-    <url>https://borasbil.se/bilar/peugeot-partner-utokad-last-cjj01c</url>
-    <g:brand>Peugeot</g:brand>
-    <brand>Peugeot</brand>
-    <make>Peugeot</make>
-    <g:image_link>https://cdn.wayke.se/cfit/7b89f962-92a3-4749-a5ac-cc66c3e62a41/4ac79d7f-d4e5-4f77-8144-98eb541962b6?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/7b89f962-92a3-4749-a5ac-cc66c3e62a41/4ac79d7f-d4e5-4f77-8144-98eb541962b6?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Partner</model>
-    <year>2023</year>
-    <mileage>
-      <value>53500</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>249000 SEK</g:price>
-    <price>249000 SEK</price>
-    <sale_price>249000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>f91a6ad7-e74c-4015-a670-b1aafbfa8472</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
