@@ -1348,50 +1348,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>effde05a-815b-4d4c-ad12-9ac56615f89f</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>effde05a-815b-4d4c-ad12-9ac56615f89f</vehicle_id>
-    <vehicle_registration_plate>WPX49U</vehicle_registration_plate>
-    <g:title>Volvo XC40 Recharge T4 Inscription Expression</g:title>
-    <title>Volvo XC40 Recharge T4 Inscription Expression</title>
-    <g:description>Recharge T4 Inscription Expression. Från 5 017 kr/mån. Miltal: 4 757 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: WPX49U. Kontakta oss för mer information.</g:description>
-    <description>Recharge T4 Inscription Expression. Från 5 017 kr/mån. Miltal: 4 757 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: WPX49U. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc40-wpx49u</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc40-wpx49u</link>
-    <url>https://borasbil.se/bilar/volvo-xc40-wpx49u</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/662954d0-9a4e-4aa1-8ca2-86dbd11d3d1b/24bdba77-dbcc-4883-a7c2-777084db034f?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/662954d0-9a4e-4aa1-8ca2-86dbd11d3d1b/24bdba77-dbcc-4883-a7c2-777084db034f?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2021</year>
-    <mileage>
-      <value>47570</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>319000 SEK</g:price>
-    <price>319000 SEK</price>
-    <sale_price>319000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>34041dfb-61cb-4f1f-9e73-d151e283e8cf</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -2960,50 +2916,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>b54cca6d-b656-406c-93e2-ac43e863fe84</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>b54cca6d-b656-406c-93e2-ac43e863fe84</vehicle_id>
-    <vehicle_registration_plate>KFE90W</vehicle_registration_plate>
-    <g:title>Volvo C40 Ultimate</g:title>
-    <title>Volvo C40 Ultimate</title>
-    <g:description>Ultimate. Från 5 804 kr/mån. Miltal: 6 977 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: KFE90W. Kontakta oss för mer information.</g:description>
-    <description>Ultimate. Från 5 804 kr/mån. Miltal: 6 977 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: KFE90W. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-c40-recharge-twin-motor-kfe90w</g:link>
-    <link>https://borasbil.se/bilar/volvo-c40-recharge-twin-motor-kfe90w</link>
-    <url>https://borasbil.se/bilar/volvo-c40-recharge-twin-motor-kfe90w</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/0f459aa4-60d4-4afc-acb3-da6d9f615ef9/3d214cd5-f705-4b92-a706-94a71ebad1b8?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/0f459aa4-60d4-4afc-acb3-da6d9f615ef9/3d214cd5-f705-4b92-a706-94a71ebad1b8?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C40</model>
-    <year>2023</year>
-    <mileage>
-      <value>69770</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>369000 SEK</g:price>
-    <price>369000 SEK</price>
-    <sale_price>369000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -7430,50 +7342,6 @@
     <year>2022</year>
     <mileage>
       <value>50050</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>199000 SEK</g:price>
-    <price>199000 SEK</price>
-    <sale_price>199000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>16ff8e20-be2a-4f5f-b616-ccef9539fe58</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>16ff8e20-be2a-4f5f-b616-ccef9539fe58</vehicle_id>
-    <vehicle_registration_plate>RAE07E</vehicle_registration_plate>
-    <g:title>Peugeot 2008 GT Electric 5-d SUV</g:title>
-    <title>Peugeot 2008 GT Electric 5-d SUV</title>
-    <g:description>GT Electric 5-d SUV. Från 3 130 kr/mån. Miltal: 3 017 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: RAE07E. Kontakta oss för mer information.</g:description>
-    <description>GT Electric 5-d SUV. Från 3 130 kr/mån. Miltal: 3 017 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: RAE07E. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/peugeot-e-2008-rae07e</g:link>
-    <link>https://borasbil.se/bilar/peugeot-e-2008-rae07e</link>
-    <url>https://borasbil.se/bilar/peugeot-e-2008-rae07e</url>
-    <g:brand>Peugeot</g:brand>
-    <brand>Peugeot</brand>
-    <make>Peugeot</make>
-    <g:image_link>https://cdn.wayke.se/cfit/78a328f3-02c5-402b-81f5-560f603ed1b0/e92a0e63-5fac-4991-b1fa-c56c4c64c625?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/78a328f3-02c5-402b-81f5-560f603ed1b0/e92a0e63-5fac-4991-b1fa-c56c4c64c625?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>2008</model>
-    <year>2022</year>
-    <mileage>
-      <value>30170</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
@@ -14182,50 +14050,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>544cf2a5-855a-4656-a8bf-92c2ae352495</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>544cf2a5-855a-4656-a8bf-92c2ae352495</vehicle_id>
-    <vehicle_registration_plate>WAA78P</vehicle_registration_plate>
-    <g:title>Volvo XC40 Core Edition</g:title>
-    <title>Volvo XC40 Core Edition</title>
-    <g:description>Core Edition. Från 4 074 kr/mån. Miltal: 12 620 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: WAA78P. Kontakta oss för mer information.</g:description>
-    <description>Core Edition. Från 4 074 kr/mån. Miltal: 12 620 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: WAA78P. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-waa78p</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-waa78p</link>
-    <url>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-waa78p</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/97b4351e-6aca-4c7d-8f16-e04bf6718a2d/41331cf6-3763-4c87-bfc0-9dc0d89a3276?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/97b4351e-6aca-4c7d-8f16-e04bf6718a2d/41331cf6-3763-4c87-bfc0-9dc0d89a3276?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2023</year>
-    <mileage>
-      <value>126200</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>259000 SEK</g:price>
-    <price>259000 SEK</price>
-    <sale_price>259000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Bogesunds Bil Ulricehamn</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
