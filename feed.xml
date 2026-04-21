@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>aa0be853-b70e-43b9-8855-875fb0c6aa2c</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>aa0be853-b70e-43b9-8855-875fb0c6aa2c</vehicle_id>
+    <vehicle_registration_plate>RAE07C</vehicle_registration_plate>
+    <g:title>Peugeot 2008 GT Electric 5-d SUV</g:title>
+    <title>Peugeot 2008 GT Electric 5-d SUV</title>
+    <g:description>GT Electric 5-d SUV. Från 3 130 kr/mån. Miltal: 3 300 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: RAE07C. Kontakta oss för mer information.</g:description>
+    <description>GT Electric 5-d SUV. Från 3 130 kr/mån. Miltal: 3 300 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: RAE07C. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/peugeot-e-2008-rae07c</g:link>
+    <link>https://borasbil.se/bilar/peugeot-e-2008-rae07c</link>
+    <url>https://borasbil.se/bilar/peugeot-e-2008-rae07c</url>
+    <g:brand>Peugeot</g:brand>
+    <brand>Peugeot</brand>
+    <make>Peugeot</make>
+    <g:image_link>https://cdn.wayke.se/cfit/49840b30-c9b4-4faf-ba6d-eab3ac304252/3e60742f-4b2d-4880-adf3-a364f7767d5d?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/49840b30-c9b4-4faf-ba6d-eab3ac304252/3e60742f-4b2d-4880-adf3-a364f7767d5d?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>2008</model>
+    <year>2022</year>
+    <mileage>
+      <value>33000</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>199000 SEK</g:price>
+    <price>199000 SEK</price>
+    <sale_price>199000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>fbb7f22c-568a-4c8a-870d-bc2b4d84123b</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -2714,8 +2758,8 @@
     <vehicle_registration_plate>ESG24A</vehicle_registration_plate>
     <g:title>Citroën C4 SHINE Pure Tech 130 A 5-d</g:title>
     <title>Citroën C4 SHINE Pure Tech 130 A 5-d</title>
-    <g:description>SHINE Pure Tech 130 A 5-d. Från 2 973 kr/mån. Miltal: 3 950 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: ESG24A. Kontakta oss för mer information.</g:description>
-    <description>SHINE Pure Tech 130 A 5-d. Från 2 973 kr/mån. Miltal: 3 950 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: ESG24A. Kontakta oss för mer information.</description>
+    <g:description>SHINE Pure Tech 130 A 5-d. Från 2 973 kr/mån. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: ESG24A. Kontakta oss för mer information.</g:description>
+    <description>SHINE Pure Tech 130 A 5-d. Från 2 973 kr/mån. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: ESG24A. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/citroen-c4-esg24a</g:link>
     <link>https://borasbil.se/bilar/citroen-c4-esg24a</link>
     <url>https://borasbil.se/bilar/citroen-c4-esg24a</url>
@@ -2729,10 +2773,6 @@
     </image>
     <model>C4</model>
     <year>2023</year>
-    <mileage>
-      <value>39500</value>
-      <unit>KM</unit>
-    </mileage>
     <body_style>Sedan</body_style>
     <fuel_type>Gasoline</fuel_type>
     <transmission>Automatic</transmission>
@@ -4014,9 +4054,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/d2d06c42-f47b-4f3c-b516-de60511ebcb1/9b9d102c-a9da-49fa-abaf-c8ababbcac88?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/8f0cac3a-85f1-485c-89cf-d637fa74c301/22e95e76-8688-4c43-a1cf-e25b6146888d?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/d2d06c42-f47b-4f3c-b516-de60511ebcb1/9b9d102c-a9da-49fa-abaf-c8ababbcac88?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/8f0cac3a-85f1-485c-89cf-d637fa74c301/22e95e76-8688-4c43-a1cf-e25b6146888d?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>V60</model>
@@ -8238,50 +8278,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>3810fda5-1589-42f1-94eb-8d8377dd5bb7</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>3810fda5-1589-42f1-94eb-8d8377dd5bb7</vehicle_id>
-    <vehicle_registration_plate>RAE07C</vehicle_registration_plate>
-    <g:title>Peugeot 2008 GT Electric 5-d SUV</g:title>
-    <title>Peugeot 2008 GT Electric 5-d SUV</title>
-    <g:description>GT Electric 5-d SUV. Från 3 130 kr/mån. Miltal: 3 300 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: RAE07C. Kontakta oss för mer information.</g:description>
-    <description>GT Electric 5-d SUV. Från 3 130 kr/mån. Miltal: 3 300 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: RAE07C. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/peugeot-e-2008-rae07c</g:link>
-    <link>https://borasbil.se/bilar/peugeot-e-2008-rae07c</link>
-    <url>https://borasbil.se/bilar/peugeot-e-2008-rae07c</url>
-    <g:brand>Peugeot</g:brand>
-    <brand>Peugeot</brand>
-    <make>Peugeot</make>
-    <g:image_link>https://cdn.wayke.se/cfit/814958f6-4c82-4f5f-a927-3c31e3daa6ef/af721fc7-8158-4e70-bf4e-16e63d43c97c?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/814958f6-4c82-4f5f-a927-3c31e3daa6ef/af721fc7-8158-4e70-bf4e-16e63d43c97c?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>2008</model>
-    <year>2022</year>
-    <mileage>
-      <value>33000</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>199000 SEK</g:price>
-    <price>199000 SEK</price>
-    <sale_price>199000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>82e41c80-784f-43e6-81a7-601e0dc9fdb2</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -10028,50 +10024,6 @@
     <g:condition>new</g:condition>
     <condition>new</condition>
     <state_of_vehicle>NEW</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>544256a4-4474-4db6-aa3e-e0138c9334fc</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>544256a4-4474-4db6-aa3e-e0138c9334fc</vehicle_id>
-    <vehicle_registration_plate>XDD08S</vehicle_registration_plate>
-    <g:title>Peugeot 2008 GT Electric 5-d SUV</g:title>
-    <title>Peugeot 2008 GT Electric 5-d SUV</title>
-    <g:description>GT Electric 5-d SUV. Från 3 130 kr/mån. Miltal: 3 030 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: XDD08S. Kontakta oss för mer information.</g:description>
-    <description>GT Electric 5-d SUV. Från 3 130 kr/mån. Miltal: 3 030 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: XDD08S. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/peugeot-e-2008-xdd08s</g:link>
-    <link>https://borasbil.se/bilar/peugeot-e-2008-xdd08s</link>
-    <url>https://borasbil.se/bilar/peugeot-e-2008-xdd08s</url>
-    <g:brand>Peugeot</g:brand>
-    <brand>Peugeot</brand>
-    <make>Peugeot</make>
-    <g:image_link>https://cdn.wayke.se/cfit/62eb84be-2cc5-4cf1-aea2-ef551da01e68/50cfda64-a543-4daa-9d87-69ab5e88aa83?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/62eb84be-2cc5-4cf1-aea2-ef551da01e68/50cfda64-a543-4daa-9d87-69ab5e88aa83?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>2008</model>
-    <year>2022</year>
-    <mileage>
-      <value>30300</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>199000 SEK</g:price>
-    <price>199000 SEK</price>
-    <sale_price>199000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
     <g:id>c6d60398-610e-4418-a79a-af4d33fded65</g:id>
@@ -15706,8 +15658,8 @@
     <vehicle_registration_plate>LKE37U</vehicle_registration_plate>
     <g:title>Citroën C4 FL MAX PureTech 130 A</g:title>
     <title>Citroën C4 FL MAX PureTech 130 A</title>
-    <g:description>FL MAX PureTech 130 A. Från 4 074 kr/mån. Miltal: 1 300 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Reg.nr: LKE37U. Kontakta oss för mer information.</g:description>
-    <description>FL MAX PureTech 130 A. Från 4 074 kr/mån. Miltal: 1 300 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Reg.nr: LKE37U. Kontakta oss för mer information.</description>
+    <g:description>FL MAX PureTech 130 A. Från 4 074 kr/mån. Miltal: 2 000 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Reg.nr: LKE37U. Kontakta oss för mer information.</g:description>
+    <description>FL MAX PureTech 130 A. Från 4 074 kr/mån. Miltal: 2 000 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Reg.nr: LKE37U. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/citroen-c4-lke37u</g:link>
     <link>https://borasbil.se/bilar/citroen-c4-lke37u</link>
     <url>https://borasbil.se/bilar/citroen-c4-lke37u</url>
@@ -15722,7 +15674,7 @@
     <model>C4</model>
     <year>2025</year>
     <mileage>
-      <value>13000</value>
+      <value>20000</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
