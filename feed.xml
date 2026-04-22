@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>273e1bf7-85db-4b55-88c9-c973298baa67</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>273e1bf7-85db-4b55-88c9-c973298baa67</vehicle_id>
+    <vehicle_registration_plate>BFU32J</vehicle_registration_plate>
+    <g:title>Volvo XC40 T2 FWD Momentum</g:title>
+    <title>Volvo XC40 T2 FWD Momentum</title>
+    <g:description>T2 FWD Momentum. Från 4 388 kr/mån. Miltal: 6 830 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Bensin. Reg.nr: BFU32J. Kontakta oss för mer information.</g:description>
+    <description>T2 FWD Momentum. Från 4 388 kr/mån. Miltal: 6 830 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Bensin. Reg.nr: BFU32J. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-xc40-bfu32j</g:link>
+    <link>https://borasbil.se/bilar/volvo-xc40-bfu32j</link>
+    <url>https://borasbil.se/bilar/volvo-xc40-bfu32j</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/d4b7ffd7-e2ff-499e-86d9-d525d62e28c1/1df08b3f-b032-4ca4-ba89-f247259cf6d7?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/d4b7ffd7-e2ff-499e-86d9-d525d62e28c1/1df08b3f-b032-4ca4-ba89-f247259cf6d7?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC40</model>
+    <year>2021</year>
+    <mileage>
+      <value>68300</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>279000 SEK</g:price>
+    <price>279000 SEK</price>
+    <sale_price>279000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>f55a02f7-2621-4839-b5de-5d3d46222c98</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -196,9 +240,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/399c2eb2-6843-4c4c-b402-e51b3dc71700/581f3d42-aaba-4152-bd06-72384b392708?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/3f2a2d7a-1994-4b73-bd44-d626f46b92cd/6980095c-536d-417b-aecb-be08d13dcbe7?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/399c2eb2-6843-4c4c-b402-e51b3dc71700/581f3d42-aaba-4152-bd06-72384b392708?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/3f2a2d7a-1994-4b73-bd44-d626f46b92cd/6980095c-536d-417b-aecb-be08d13dcbe7?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC60</model>
