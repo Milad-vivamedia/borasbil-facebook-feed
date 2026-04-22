@@ -5,6 +5,85 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>46bf220a-d4ee-4f39-bc59-c94f42799211</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>46bf220a-d4ee-4f39-bc59-c94f42799211</vehicle_id>
+    <vehicle_registration_plate>JLZ113</vehicle_registration_plate>
+    <g:title>Volvo V40 D3 Ocean Race Business E</g:title>
+    <title>Volvo V40 D3 Ocean Race Business E</title>
+    <g:description>D3 Ocean Race Business E. Från 2 343 kr/mån. Miltal: 15 170 mil. Årsmodell: 2015. Växellåda: Automat. Bränsle: Diesel. Reg.nr: JLZ113. Kontakta oss för mer information.</g:description>
+    <description>D3 Ocean Race Business E. Från 2 343 kr/mån. Miltal: 15 170 mil. Årsmodell: 2015. Växellåda: Automat. Bränsle: Diesel. Reg.nr: JLZ113. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-v40-jlz113</g:link>
+    <link>https://borasbil.se/bilar/volvo-v40-jlz113</link>
+    <url>https://borasbil.se/bilar/volvo-v40-jlz113</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/7ad42c11-6129-4923-aaf4-0cc8563d2276/1001d737-1454-438e-8b1d-7f7318d12a42?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/7ad42c11-6129-4923-aaf4-0cc8563d2276/1001d737-1454-438e-8b1d-7f7318d12a42?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>V40</model>
+    <year>2015</year>
+    <mileage>
+      <value>151700</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>149000 SEK</g:price>
+    <price>149000 SEK</price>
+    <sale_price>149000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Bogesunds Bil Ulricehamn</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>e7b895d0-3171-41ef-8bae-e3d51fd6bd2b</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>e7b895d0-3171-41ef-8bae-e3d51fd6bd2b</vehicle_id>
+    <vehicle_registration_plate>WCW10Z</vehicle_registration_plate>
+    <g:title>Citroën Berlingo Skåp Busin L2 1.5 BHDi 130 A</g:title>
+    <title>Citroën Berlingo Skåp Busin L2 1.5 BHDi 130 A</title>
+    <g:description>Skåp Busin L2 1.5 BHDi 130 A. Från 5 878 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: Diesel. Reg.nr: WCW10Z. Kontakta oss för mer information.</g:description>
+    <description>Skåp Busin L2 1.5 BHDi 130 A. Från 5 878 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: Diesel. Reg.nr: WCW10Z. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/citroen-berlingo-crew-van-wcw10z</g:link>
+    <link>https://borasbil.se/bilar/citroen-berlingo-crew-van-wcw10z</link>
+    <url>https://borasbil.se/bilar/citroen-berlingo-crew-van-wcw10z</url>
+    <g:brand>Citroën</g:brand>
+    <brand>Citroën</brand>
+    <make>Citroën</make>
+    <model>Berlingo</model>
+    <year>2026</year>
+    <body_style>Sedan</body_style>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>373750 SEK</g:price>
+    <price>373750 SEK</price>
+    <sale_price>373750 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    </item>
+    <item>
     <g:id>273e1bf7-85db-4b55-88c9-c973298baa67</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -20,9 +99,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/d4b7ffd7-e2ff-499e-86d9-d525d62e28c1/1df08b3f-b032-4ca4-ba89-f247259cf6d7?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/2e91e67c-d1a8-4bdd-a864-d4d694f6281c/1dc2fb5b-3e63-46f1-bd05-a8419fc41a4f?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/d4b7ffd7-e2ff-499e-86d9-d525d62e28c1/1df08b3f-b032-4ca4-ba89-f247259cf6d7?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/2e91e67c-d1a8-4bdd-a864-d4d694f6281c/1dc2fb5b-3e63-46f1-bd05-a8419fc41a4f?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC40</model>
@@ -196,9 +275,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/9bd9940d-dfeb-4c7e-a798-295a3f5fb71b/0fc949da-29f3-4c9c-9c93-8c2626d04df0?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/a007fcfd-ab05-4235-9830-889107a6d2de/5eabaf6d-2e07-4b09-956b-76fd2d3fca03?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/9bd9940d-dfeb-4c7e-a798-295a3f5fb71b/0fc949da-29f3-4c9c-9c93-8c2626d04df0?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/a007fcfd-ab05-4235-9830-889107a6d2de/5eabaf6d-2e07-4b09-956b-76fd2d3fca03?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC60</model>
@@ -566,50 +645,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>aa0be853-b70e-43b9-8855-875fb0c6aa2c</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>aa0be853-b70e-43b9-8855-875fb0c6aa2c</vehicle_id>
-    <vehicle_registration_plate>RAE07C</vehicle_registration_plate>
-    <g:title>Peugeot 2008 GT Electric 5-d SUV</g:title>
-    <title>Peugeot 2008 GT Electric 5-d SUV</title>
-    <g:description>GT Electric 5-d SUV. Från 3 130 kr/mån. Miltal: 3 300 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: RAE07C. Kontakta oss för mer information.</g:description>
-    <description>GT Electric 5-d SUV. Från 3 130 kr/mån. Miltal: 3 300 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: RAE07C. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/peugeot-e-2008-rae07c</g:link>
-    <link>https://borasbil.se/bilar/peugeot-e-2008-rae07c</link>
-    <url>https://borasbil.se/bilar/peugeot-e-2008-rae07c</url>
-    <g:brand>Peugeot</g:brand>
-    <brand>Peugeot</brand>
-    <make>Peugeot</make>
-    <g:image_link>https://cdn.wayke.se/cfit/49840b30-c9b4-4faf-ba6d-eab3ac304252/3e60742f-4b2d-4880-adf3-a364f7767d5d?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/49840b30-c9b4-4faf-ba6d-eab3ac304252/3e60742f-4b2d-4880-adf3-a364f7767d5d?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>2008</model>
-    <year>2022</year>
-    <mileage>
-      <value>33000</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>199000 SEK</g:price>
-    <price>199000 SEK</price>
-    <sale_price>199000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -5259,50 +5294,6 @@
     <g:price>289000 SEK</g:price>
     <price>289000 SEK</price>
     <sale_price>289000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>146d7a9e-0db3-4bad-8686-b30078179c3c</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>146d7a9e-0db3-4bad-8686-b30078179c3c</vehicle_id>
-    <vehicle_registration_plate>HUF67D</vehicle_registration_plate>
-    <g:title>Volvo S90 Recharge T8 Ultimate Bright</g:title>
-    <title>Volvo S90 Recharge T8 Ultimate Bright</title>
-    <g:description>Recharge T8 Ultimate Bright. Från 7 376 kr/mån. Miltal: 2 229 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: HUF67D. Kontakta oss för mer information.</g:description>
-    <description>Recharge T8 Ultimate Bright. Från 7 376 kr/mån. Miltal: 2 229 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: HUF67D. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-s90-huf67d</g:link>
-    <link>https://borasbil.se/bilar/volvo-s90-huf67d</link>
-    <url>https://borasbil.se/bilar/volvo-s90-huf67d</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/eaebf9bf-e656-493b-bc41-7c6c05e30303/4467551a-3cad-48c0-a952-81975cd24510?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/eaebf9bf-e656-493b-bc41-7c6c05e30303/4467551a-3cad-48c0-a952-81975cd24510?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>S90</model>
-    <year>2023</year>
-    <mileage>
-      <value>22290</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>469000 SEK</g:price>
-    <price>469000 SEK</price>
-    <sale_price>469000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Kinna Bil</component>
       <component name="country">SE</component>
@@ -14370,10 +14361,10 @@
     <g:fb_product_category>173</g:fb_product_category>
     <vehicle_id>0220ee0b-2f81-4758-a49e-a6f0980ca684</vehicle_id>
     <vehicle_registration_plate>JBK63F</vehicle_registration_plate>
-    <g:title>Volvo EX90 Ultra 6sätes</g:title>
-    <title>Volvo EX90 Ultra 6sätes</title>
-    <g:description>Ultra 6sätes. Från 15 240 kr/mån. Miltal: 646 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: JBK63F. Kontakta oss för mer information.</g:description>
-    <description>Ultra 6sätes. Från 15 240 kr/mån. Miltal: 646 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: JBK63F. Kontakta oss för mer information.</description>
+    <g:title>Volvo EX90 Twin Motor Performance Ultra 6sätes</g:title>
+    <title>Volvo EX90 Twin Motor Performance Ultra 6sätes</title>
+    <g:description>Twin Motor Performance Ultra 6sätes. Från 15 240 kr/mån. Miltal: 646 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: JBK63F. Kontakta oss för mer information.</g:description>
+    <description>Twin Motor Performance Ultra 6sätes. Från 15 240 kr/mån. Miltal: 646 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: JBK63F. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-ex90-twin-motor-performance-jbk63f</g:link>
     <link>https://borasbil.se/bilar/volvo-ex90-twin-motor-performance-jbk63f</link>
     <url>https://borasbil.se/bilar/volvo-ex90-twin-motor-performance-jbk63f</url>
@@ -14969,10 +14960,10 @@
     <g:fb_product_category>173</g:fb_product_category>
     <vehicle_id>bdd9bd11-25a2-459a-bd33-e3539ea0480e</vehicle_id>
     <vehicle_registration_plate>JBF94E</vehicle_registration_plate>
-    <g:title>Volvo EX90 Ultra 7sätes</g:title>
-    <title>Volvo EX90 Ultra 7sätes</title>
-    <g:description>Ultra 7sätes. Från 15 240 kr/mån. Miltal: 1 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: JBF94E. Kontakta oss för mer information.</g:description>
-    <description>Ultra 7sätes. Från 15 240 kr/mån. Miltal: 1 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: JBF94E. Kontakta oss för mer information.</description>
+    <g:title>Volvo EX90 Twin Motor Performance Ultra 7sätes</g:title>
+    <title>Volvo EX90 Twin Motor Performance Ultra 7sätes</title>
+    <g:description>Twin Motor Performance Ultra 7sätes. Från 15 240 kr/mån. Miltal: 1 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: JBF94E. Kontakta oss för mer information.</g:description>
+    <description>Twin Motor Performance Ultra 7sätes. Från 15 240 kr/mån. Miltal: 1 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: JBF94E. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-ex90-twin-motor-performance-jbf94e</g:link>
     <link>https://borasbil.se/bilar/volvo-ex90-twin-motor-performance-jbf94e</link>
     <url>https://borasbil.se/bilar/volvo-ex90-twin-motor-performance-jbf94e</url>
