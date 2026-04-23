@@ -6310,50 +6310,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>43294721-dfb5-4798-b407-36a82187843f</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>43294721-dfb5-4798-b407-36a82187843f</vehicle_id>
-    <vehicle_registration_plate>LAJ27J</vehicle_registration_plate>
-    <g:title>Volvo XC40 Plus Edition</g:title>
-    <title>Volvo XC40 Plus Edition</title>
-    <g:description>Plus Edition. Från 4 860 kr/mån. Miltal: 5 138 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: LAJ27J. Kontakta oss för mer information.</g:description>
-    <description>Plus Edition. Från 4 860 kr/mån. Miltal: 5 138 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: LAJ27J. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-laj27j</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-laj27j</link>
-    <url>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-laj27j</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/07bd48f7-97a5-46e6-aff5-451b1412028c/bea590ec-3bc6-4bfa-b7dd-30b93a02a166?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/07bd48f7-97a5-46e6-aff5-451b1412028c/bea590ec-3bc6-4bfa-b7dd-30b93a02a166?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2023</year>
-    <mileage>
-      <value>51380</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>309000 SEK</g:price>
-    <price>309000 SEK</price>
-    <sale_price>309000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>bb6796a5-c2a3-4613-bc47-2bdb938afebd</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -14915,8 +14871,8 @@
     <vehicle_registration_plate>XLP06T</vehicle_registration_plate>
     <g:title>Volvo XC90 T8 Ultra Dark</g:title>
     <title>Volvo XC90 T8 Ultra Dark</title>
-    <g:description>T8 Ultra Dark. Från 15 240 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: XLP06T. Kontakta oss för mer information.</g:description>
-    <description>T8 Ultra Dark. Från 15 240 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: XLP06T. Kontakta oss för mer information.</description>
+    <g:description>T8 Ultra Dark. Från 15 240 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: XLP06T. Kontakta oss för mer information.</g:description>
+    <description>T8 Ultra Dark. Från 15 240 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: XLP06T. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc90-xlp06t</g:link>
     <link>https://borasbil.se/bilar/volvo-xc90-xlp06t</link>
     <url>https://borasbil.se/bilar/volvo-xc90-xlp06t</url>
@@ -14931,7 +14887,7 @@
     <model>XC90</model>
     <year>2026</year>
     <body_style>SUV</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
+    <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
     <g:price>969000 SEK</g:price>
     <price>969000 SEK</price>
