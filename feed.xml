@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>b7e33812-fc92-45d1-883c-2f231438443a</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>b7e33812-fc92-45d1-883c-2f231438443a</vehicle_id>
+    <vehicle_registration_plate>OFW23N</vehicle_registration_plate>
+    <g:title>Volvo EX90 Ultra 7sätes</g:title>
+    <title>Volvo EX90 Ultra 7sätes</title>
+    <g:description>Ultra 7sätes. Från 13 196 kr/mån. Miltal: 1 928 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: OFW23N. Kontakta oss för mer information.</g:description>
+    <description>Ultra 7sätes. Från 13 196 kr/mån. Miltal: 1 928 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: OFW23N. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-ex90-twin-motor-performance-7-seater-ofw23n</g:link>
+    <link>https://borasbil.se/bilar/volvo-ex90-twin-motor-performance-7-seater-ofw23n</link>
+    <url>https://borasbil.se/bilar/volvo-ex90-twin-motor-performance-7-seater-ofw23n</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/89dc311b-4809-4798-a420-975d70559e2a/34bfec30-531a-4241-930f-0ddf10fe6e62?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/89dc311b-4809-4798-a420-975d70559e2a/34bfec30-531a-4241-930f-0ddf10fe6e62?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>EX90</model>
+    <year>2025</year>
+    <mileage>
+      <value>19280</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>839000 SEK</g:price>
+    <price>839000 SEK</price>
+    <sale_price>839000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>30327d7f-d26a-4914-9c5a-e4f61a298975</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -2738,50 +2782,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>f2c32b39-d39c-43a9-9c3f-4a03c7ebea23</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>f2c32b39-d39c-43a9-9c3f-4a03c7ebea23</vehicle_id>
-    <vehicle_registration_plate>ONR33E</vehicle_registration_plate>
-    <g:title>Volvo XC40 Ultimate</g:title>
-    <title>Volvo XC40 Ultimate</title>
-    <g:description>Ultimate. Från 5 489 kr/mån. Miltal: 7 472 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: ONR33E. Kontakta oss för mer information.</g:description>
-    <description>Ultimate. Från 5 489 kr/mån. Miltal: 7 472 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: ONR33E. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-onr33e</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-onr33e</link>
-    <url>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-onr33e</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/2576b489-7a3e-49e6-a62f-7b664a82e45c/43e1b7e0-93d0-4151-8efe-425288e7c0ec?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/2576b489-7a3e-49e6-a62f-7b664a82e45c/43e1b7e0-93d0-4151-8efe-425288e7c0ec?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2023</year>
-    <mileage>
-      <value>74720</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>349000 SEK</g:price>
-    <price>349000 SEK</price>
-    <sale_price>349000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>7fe98826-de79-4d61-a0e8-b30e7fd3855a</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -3619,9 +3619,9 @@
     <title>Polestar 3 111kW Plus Pilot Nappa</title>
     <g:description>111kW Plus Pilot Nappa. Från 11 780 kr/mån. Miltal: 1 542 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: CST23F. Kontakta oss för mer information.</g:description>
     <description>111kW Plus Pilot Nappa. Från 11 780 kr/mån. Miltal: 1 542 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: CST23F. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/polestar-3-long-range-dual-motor-cst23f</g:link>
-    <link>https://borasbil.se/bilar/polestar-3-long-range-dual-motor-cst23f</link>
-    <url>https://borasbil.se/bilar/polestar-3-long-range-dual-motor-cst23f</url>
+    <g:link>https://borasbil.se/bilar/polestar-3-long-range-dual-motor-performance-cst23f</g:link>
+    <link>https://borasbil.se/bilar/polestar-3-long-range-dual-motor-performance-cst23f</link>
+    <url>https://borasbil.se/bilar/polestar-3-long-range-dual-motor-performance-cst23f</url>
     <g:brand>Polestar</g:brand>
     <brand>Polestar</brand>
     <make>Polestar</make>
@@ -7921,50 +7921,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>71e76252-4090-494c-baec-35baef615abd</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>71e76252-4090-494c-baec-35baef615abd</vehicle_id>
-    <vehicle_registration_plate>BSX92A</vehicle_registration_plate>
-    <g:title>Volvo C40 Ultimate - 20&quot;!</g:title>
-    <title>Volvo C40 Ultimate - 20&quot;!</title>
-    <g:description>Ultimate - 20&quot;!. Från 5 489 kr/mån. Miltal: 5 224 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: BSX92A. Kontakta oss för mer information.</g:description>
-    <description>Ultimate - 20&quot;!. Från 5 489 kr/mån. Miltal: 5 224 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: BSX92A. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-bsx92a</g:link>
-    <link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-bsx92a</link>
-    <url>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-bsx92a</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/1e8c06d6-36c2-49b0-8998-6343c99e6e17/a8e91921-2309-4aee-9354-9c298d2c9acb?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/1e8c06d6-36c2-49b0-8998-6343c99e6e17/a8e91921-2309-4aee-9354-9c298d2c9acb?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C40</model>
-    <year>2023</year>
-    <mileage>
-      <value>52240</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>349000 SEK</g:price>
-    <price>349000 SEK</price>
-    <sale_price>349000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>c2257f63-af94-4fc1-80cd-9cb7230612be</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -8580,8 +8536,8 @@
     <vehicle_registration_plate>NRR16L</vehicle_registration_plate>
     <g:title>Volvo XC90 T8 Ultra Dark</g:title>
     <title>Volvo XC90 T8 Ultra Dark</title>
-    <g:description>T8 Ultra Dark. Från 13 353 kr/mån. Miltal: 1 831 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: NRR16L. Kontakta oss för mer information.</g:description>
-    <description>T8 Ultra Dark. Från 13 353 kr/mån. Miltal: 1 831 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: NRR16L. Kontakta oss för mer information.</description>
+    <g:description>T8 Ultra Dark. Från 13 353 kr/mån. Miltal: 1 865 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: NRR16L. Kontakta oss för mer information.</g:description>
+    <description>T8 Ultra Dark. Från 13 353 kr/mån. Miltal: 1 865 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: NRR16L. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc90-nrr16l</g:link>
     <link>https://borasbil.se/bilar/volvo-xc90-nrr16l</link>
     <url>https://borasbil.se/bilar/volvo-xc90-nrr16l</url>
@@ -8596,11 +8552,11 @@
     <model>XC90</model>
     <year>2026</year>
     <mileage>
-      <value>18310</value>
+      <value>18650</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
-    <fuel_type>Gasoline</fuel_type>
+    <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
     <g:price>849000 SEK</g:price>
     <price>849000 SEK</price>
@@ -14912,10 +14868,10 @@
     <g:fb_product_category>173</g:fb_product_category>
     <vehicle_id>e9f847cc-6312-4cc5-a030-3d0f3c6bc3d2</vehicle_id>
     <vehicle_registration_plate>ROF47C</vehicle_registration_plate>
-    <g:title>Volvo EX90 Ultra 7sätes</g:title>
-    <title>Volvo EX90 Ultra 7sätes</title>
-    <g:description>Ultra 7sätes. Från 13 353 kr/mån. Miltal: 920 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: ROF47C. Kontakta oss för mer information.</g:description>
-    <description>Ultra 7sätes. Från 13 353 kr/mån. Miltal: 920 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: ROF47C. Kontakta oss för mer information.</description>
+    <g:title>Volvo EX90 Twin Motor Performance Ultra 7sätes</g:title>
+    <title>Volvo EX90 Twin Motor Performance Ultra 7sätes</title>
+    <g:description>Twin Motor Performance Ultra 7sätes. Från 13 353 kr/mån. Miltal: 920 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: ROF47C. Kontakta oss för mer information.</g:description>
+    <description>Twin Motor Performance Ultra 7sätes. Från 13 353 kr/mån. Miltal: 920 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: ROF47C. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-ex90-twin-motor-performance-rof47c</g:link>
     <link>https://borasbil.se/bilar/volvo-ex90-twin-motor-performance-rof47c</link>
     <url>https://borasbil.se/bilar/volvo-ex90-twin-motor-performance-rof47c</url>
