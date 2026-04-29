@@ -5,6 +5,138 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>5920fa71-289d-4895-b541-d1da394a5ff8</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>5920fa71-289d-4895-b541-d1da394a5ff8</vehicle_id>
+    <vehicle_registration_plate>PEG354</vehicle_registration_plate>
+    <g:title>Peugeot 208 GT Electric 5-d</g:title>
+    <title>Peugeot 208 GT Electric 5-d</title>
+    <g:description>GT Electric 5-d. Från 3 287 kr/mån. Miltal: 2 962 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: PEG354. Kontakta oss för mer information.</g:description>
+    <description>GT Electric 5-d. Från 3 287 kr/mån. Miltal: 2 962 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: PEG354. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/peugeot-e-208-peg354</g:link>
+    <link>https://borasbil.se/bilar/peugeot-e-208-peg354</link>
+    <url>https://borasbil.se/bilar/peugeot-e-208-peg354</url>
+    <g:brand>Peugeot</g:brand>
+    <brand>Peugeot</brand>
+    <make>Peugeot</make>
+    <g:image_link>https://cdn.wayke.se/cfit/35d75a92-5309-4398-b2f2-7a21360ee7fc/f14617b1-8630-4614-9243-bd67930ba11b?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/35d75a92-5309-4398-b2f2-7a21360ee7fc/f14617b1-8630-4614-9243-bd67930ba11b?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>208</model>
+    <year>2022</year>
+    <mileage>
+      <value>29620</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>209000 SEK</g:price>
+    <price>209000 SEK</price>
+    <sale_price>209000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>c2bc3062-479b-4534-8d14-577d863ffe5d</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>c2bc3062-479b-4534-8d14-577d863ffe5d</vehicle_id>
+    <vehicle_registration_plate>MHU92T</vehicle_registration_plate>
+    <g:title>Peugeot 2008 GT Electric 5-d SUV</g:title>
+    <title>Peugeot 2008 GT Electric 5-d SUV</title>
+    <g:description>GT Electric 5-d SUV. Från 3 287 kr/mån. Miltal: 3 200 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: MHU92T. Kontakta oss för mer information.</g:description>
+    <description>GT Electric 5-d SUV. Från 3 287 kr/mån. Miltal: 3 200 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: MHU92T. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/peugeot-e-2008-mhu92t</g:link>
+    <link>https://borasbil.se/bilar/peugeot-e-2008-mhu92t</link>
+    <url>https://borasbil.se/bilar/peugeot-e-2008-mhu92t</url>
+    <g:brand>Peugeot</g:brand>
+    <brand>Peugeot</brand>
+    <make>Peugeot</make>
+    <g:image_link>https://cdn.wayke.se/cfit/3b4db25d-06aa-4b43-8a1d-0578b487bfdf/8146cc2d-187b-49c3-a635-b7d5d91e4921?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/3b4db25d-06aa-4b43-8a1d-0578b487bfdf/8146cc2d-187b-49c3-a635-b7d5d91e4921?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>2008</model>
+    <year>2022</year>
+    <mileage>
+      <value>32000</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>209000 SEK</g:price>
+    <price>209000 SEK</price>
+    <sale_price>209000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>456c5e56-710c-4c42-8307-f24e29f409bb</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>456c5e56-710c-4c42-8307-f24e29f409bb</vehicle_id>
+    <vehicle_registration_plate>JAP07D</vehicle_registration_plate>
+    <g:title>Polestar 2</g:title>
+    <title>Polestar 2</title>
+    <g:description>Från 6 275 kr/mån. Miltal: 4 943 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Reg.nr: JAP07D. Kontakta oss för mer information.</g:description>
+    <description>Från 6 275 kr/mån. Miltal: 4 943 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Reg.nr: JAP07D. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/polestar-2-long-range-single-motor-jap07d</g:link>
+    <link>https://borasbil.se/bilar/polestar-2-long-range-single-motor-jap07d</link>
+    <url>https://borasbil.se/bilar/polestar-2-long-range-single-motor-jap07d</url>
+    <g:brand>Polestar</g:brand>
+    <brand>Polestar</brand>
+    <make>Polestar</make>
+    <g:image_link>https://cdn.wayke.se/cfit/8f4d1892-e920-4585-89a6-4284d3ce1c35/a2091b8d-a8f0-4929-8c9a-2510feadf47b?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/8f4d1892-e920-4585-89a6-4284d3ce1c35/a2091b8d-a8f0-4929-8c9a-2510feadf47b?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>2</model>
+    <year>2024</year>
+    <mileage>
+      <value>49430</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>399000 SEK</g:price>
+    <price>399000 SEK</price>
+    <sale_price>399000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>f7945e8c-c656-4015-ac62-9afac6c81111</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -4638,8 +4770,8 @@
     <vehicle_registration_plate>UBJ62P</vehicle_registration_plate>
     <g:title>Peugeot 2008 GT Electric 5-d SUV</g:title>
     <title>Peugeot 2008 GT Electric 5-d SUV</title>
-    <g:description>GT Electric 5-d SUV. Från 3 287 kr/mån. Miltal: 4 689 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: UBJ62P. Kontakta oss för mer information.</g:description>
-    <description>GT Electric 5-d SUV. Från 3 287 kr/mån. Miltal: 4 689 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: UBJ62P. Kontakta oss för mer information.</description>
+    <g:description>GT Electric 5-d SUV. Från 3 287 kr/mån. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: UBJ62P. Kontakta oss för mer information.</g:description>
+    <description>GT Electric 5-d SUV. Från 3 287 kr/mån. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: UBJ62P. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/peugeot-e-2008-ubj62p</g:link>
     <link>https://borasbil.se/bilar/peugeot-e-2008-ubj62p</link>
     <url>https://borasbil.se/bilar/peugeot-e-2008-ubj62p</url>
@@ -4653,10 +4785,6 @@
     </image>
     <model>2008</model>
     <year>2022</year>
-    <mileage>
-      <value>46890</value>
-      <unit>KM</unit>
-    </mileage>
     <body_style>Sedan</body_style>
     <fuel_type>Electric</fuel_type>
     <transmission>Automatic</transmission>
@@ -8015,50 +8143,6 @@
     <g:price>339000 SEK</g:price>
     <price>339000 SEK</price>
     <sale_price>339000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Bogesunds Bil Ulricehamn</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>95772ef6-c16e-40ea-84cc-c46914d62864</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>95772ef6-c16e-40ea-84cc-c46914d62864</vehicle_id>
-    <vehicle_registration_plate>SWT77F</vehicle_registration_plate>
-    <g:title>Volvo C40 Ultimate</g:title>
-    <title>Volvo C40 Ultimate</title>
-    <g:description>Ultimate. Från 5 646 kr/mån. Miltal: 5 088 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: SWT77F. Kontakta oss för mer information.</g:description>
-    <description>Ultimate. Från 5 646 kr/mån. Miltal: 5 088 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: SWT77F. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-swt77f</g:link>
-    <link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-swt77f</link>
-    <url>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-swt77f</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/aca3374b-541d-4e4e-b1a5-f8014bb65a19/5ae2aa22-1ca2-4249-917b-513096be8063?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/aca3374b-541d-4e4e-b1a5-f8014bb65a19/5ae2aa22-1ca2-4249-917b-513096be8063?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C40</model>
-    <year>2023</year>
-    <mileage>
-      <value>50880</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>359000 SEK</g:price>
-    <price>359000 SEK</price>
-    <sale_price>359000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Bogesunds Bil Ulricehamn</component>
       <component name="country">SE</component>
