@@ -4367,50 +4367,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>6e74e8ca-93ac-44ad-8236-173faf394848</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>6e74e8ca-93ac-44ad-8236-173faf394848</vehicle_id>
-    <vehicle_registration_plate>WAH16R</vehicle_registration_plate>
-    <g:title>Renault Clio TCe 90 Equilibre 5-d</g:title>
-    <title>Renault Clio TCe 90 Equilibre 5-d</title>
-    <g:description>TCe 90 Equilibre 5-d. Från 2 249 kr/mån. Miltal: 3 648 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: WAH16R. Kontakta oss för mer information.</g:description>
-    <description>TCe 90 Equilibre 5-d. Från 2 249 kr/mån. Miltal: 3 648 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: WAH16R. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/renault-clio-wah16r</g:link>
-    <link>https://borasbil.se/bilar/renault-clio-wah16r</link>
-    <url>https://borasbil.se/bilar/renault-clio-wah16r</url>
-    <g:brand>Renault</g:brand>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <g:image_link>https://cdn.wayke.se/cfit/1d16e5cb-7856-4624-8958-92c6db7fd97b/b5906f65-fc66-403b-908a-d81282944ce3?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/1d16e5cb-7856-4624-8958-92c6db7fd97b/b5906f65-fc66-403b-908a-d81282944ce3?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Clio</model>
-    <year>2023</year>
-    <mileage>
-      <value>36480</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Manual</transmission>
-    <g:price>143000 SEK</g:price>
-    <price>143000 SEK</price>
-    <sale_price>143000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>0bca5402-b2a3-40b3-8f46-6925c6f9f16b</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
