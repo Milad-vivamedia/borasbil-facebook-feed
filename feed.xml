@@ -5,6 +5,46 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>ef011483-1e08-4273-9153-1f0c78f8696d</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>ef011483-1e08-4273-9153-1f0c78f8696d</vehicle_id>
+    <vehicle_registration_plate>JBX68N</vehicle_registration_plate>
+    <g:title>Volvo EX90 Ultra 7sätes</g:title>
+    <title>Volvo EX90 Ultra 7sätes</title>
+    <g:description>Ultra 7sätes. Från 19 487 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: JBX68N. Kontakta oss för mer information.</g:description>
+    <description>Ultra 7sätes. Från 19 487 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: JBX68N. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-ex90-twin-motor-performance-7-seater-jbx68n</g:link>
+    <link>https://borasbil.se/bilar/volvo-ex90-twin-motor-performance-7-seater-jbx68n</link>
+    <url>https://borasbil.se/bilar/volvo-ex90-twin-motor-performance-7-seater-jbx68n</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/1e07462c-aa96-44e1-8364-90e8ace59355/9a62308d-5e8c-4472-abd5-cbb21204923c?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/1e07462c-aa96-44e1-8364-90e8ace59355/9a62308d-5e8c-4472-abd5-cbb21204923c?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>EX90</model>
+    <year>2026</year>
+    <body_style>SUV</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>1239000 SEK</g:price>
+    <price>1239000 SEK</price>
+    <sale_price>1239000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    </item>
+    <item>
     <g:id>30e7044c-10f0-45fa-aae4-33b711e2ea08</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -3242,9 +3282,9 @@
     <g:brand>Polestar</g:brand>
     <brand>Polestar</brand>
     <make>Polestar</make>
-    <g:image_link>https://cdn.wayke.se/cfit/dbb2b772-6b2c-40a7-b5f8-b3f30cf89e1a/4fa3bb9a-a785-4a93-9aa3-98d775b627d8?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/723759de-9c30-4b8e-a38a-bc96eb11ad68/39e8093f-24d9-4ed4-a3c6-2ef56e33c121?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/dbb2b772-6b2c-40a7-b5f8-b3f30cf89e1a/4fa3bb9a-a785-4a93-9aa3-98d775b627d8?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/723759de-9c30-4b8e-a38a-bc96eb11ad68/39e8093f-24d9-4ed4-a3c6-2ef56e33c121?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>4</model>
@@ -7800,50 +7840,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>3e048979-a7a7-49db-8a63-868805299ac7</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>3e048979-a7a7-49db-8a63-868805299ac7</vehicle_id>
-    <vehicle_registration_plate>PFS07R</vehicle_registration_plate>
-    <g:title>Volvo C40 Core</g:title>
-    <title>Volvo C40 Core</title>
-    <g:description>Core. Från 5 017 kr/mån. Miltal: 6 419 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: PFS07R. Kontakta oss för mer information.</g:description>
-    <description>Core. Från 5 017 kr/mån. Miltal: 6 419 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: PFS07R. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-pfs07r</g:link>
-    <link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-pfs07r</link>
-    <url>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-pfs07r</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/21788dbf-36e1-40a6-b3ba-eb6c71b25b36/9c3b38ab-1238-4937-a62f-6cb3ec3f79c6?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/21788dbf-36e1-40a6-b3ba-eb6c71b25b36/9c3b38ab-1238-4937-a62f-6cb3ec3f79c6?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C40</model>
-    <year>2023</year>
-    <mileage>
-      <value>64190</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>319000 SEK</g:price>
-    <price>319000 SEK</price>
-    <sale_price>319000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
