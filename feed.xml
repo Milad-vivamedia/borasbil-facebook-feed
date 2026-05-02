@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>572ca92d-5bdb-496b-ade5-2f216ac36f0c</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>572ca92d-5bdb-496b-ade5-2f216ac36f0c</vehicle_id>
+    <vehicle_registration_plate>DTL98C</vehicle_registration_plate>
+    <g:title>Volvo EX30 SM Plus Black Edt</g:title>
+    <title>Volvo EX30 SM Plus Black Edt</title>
+    <g:description>SM Plus Black Edt. Från 7 376 kr/mån. Miltal: 1 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: DTL98C. Kontakta oss för mer information.</g:description>
+    <description>SM Plus Black Edt. Från 7 376 kr/mån. Miltal: 1 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: DTL98C. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-ex30-single-motor-extended-range-dtl98c</g:link>
+    <link>https://borasbil.se/bilar/volvo-ex30-single-motor-extended-range-dtl98c</link>
+    <url>https://borasbil.se/bilar/volvo-ex30-single-motor-extended-range-dtl98c</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/6d9b950b-672d-4f61-8c83-0f590249c2b7/55e27ea3-1f96-4b23-bd57-e41e5c70c8b9?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/6d9b950b-672d-4f61-8c83-0f590249c2b7/55e27ea3-1f96-4b23-bd57-e41e5c70c8b9?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>EX30</model>
+    <year>2026</year>
+    <mileage>
+      <value>10</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>469000 SEK</g:price>
+    <price>469000 SEK</price>
+    <sale_price>469000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Bogesunds Bil Ulricehamn</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    </item>
+    <item>
     <g:id>ef011483-1e08-4273-9153-1f0c78f8696d</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -1702,50 +1746,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>196dd07e-93c8-4fd5-8de0-28e180b90016</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>196dd07e-93c8-4fd5-8de0-28e180b90016</vehicle_id>
-    <vehicle_registration_plate>NGX59A</vehicle_registration_plate>
-    <g:title>Volvo C40 Core</g:title>
-    <title>Volvo C40 Core</title>
-    <g:description>Core. Från 4 545 kr/mån. Miltal: 14 255 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: NGX59A. Kontakta oss för mer information.</g:description>
-    <description>Core. Från 4 545 kr/mån. Miltal: 14 255 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: NGX59A. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-c40-recharge-twin-motor-ngx59a</g:link>
-    <link>https://borasbil.se/bilar/volvo-c40-recharge-twin-motor-ngx59a</link>
-    <url>https://borasbil.se/bilar/volvo-c40-recharge-twin-motor-ngx59a</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/3d326f44-8d6d-486c-9f8a-da533877cf95/d034b3db-2661-4fd3-8e59-ba3ad96332b0?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/3d326f44-8d6d-486c-9f8a-da533877cf95/d034b3db-2661-4fd3-8e59-ba3ad96332b0?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C40</model>
-    <year>2023</year>
-    <mileage>
-      <value>142550</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>289000 SEK</g:price>
-    <price>289000 SEK</price>
-    <sale_price>289000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Bogesunds Bil Ulricehamn</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -3955,50 +3955,6 @@
     <g:price>369000 SEK</g:price>
     <price>369000 SEK</price>
     <sale_price>369000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>f889181d-bd9c-4e48-a31d-69fb5554f3d9</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>f889181d-bd9c-4e48-a31d-69fb5554f3d9</vehicle_id>
-    <vehicle_registration_plate>BTO509</vehicle_registration_plate>
-    <g:title>Polestar 2 69kWh Plus</g:title>
-    <title>Polestar 2 69kWh Plus</title>
-    <g:description>69kWh Plus. Från 4 860 kr/mån. Miltal: 4 443 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: BTO509. Kontakta oss för mer information.</g:description>
-    <description>69kWh Plus. Från 4 860 kr/mån. Miltal: 4 443 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: BTO509. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/polestar-2-standard-range-single-motor-bto509</g:link>
-    <link>https://borasbil.se/bilar/polestar-2-standard-range-single-motor-bto509</link>
-    <url>https://borasbil.se/bilar/polestar-2-standard-range-single-motor-bto509</url>
-    <g:brand>Polestar</g:brand>
-    <brand>Polestar</brand>
-    <make>Polestar</make>
-    <g:image_link>https://cdn.wayke.se/cfit/61d248b3-f74a-487c-af53-2b5d5774fbf4/39501592-f222-49c5-80e2-2a3f20d3b8ee?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/61d248b3-f74a-487c-af53-2b5d5774fbf4/39501592-f222-49c5-80e2-2a3f20d3b8ee?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>2</model>
-    <year>2022</year>
-    <mileage>
-      <value>44430</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>309000 SEK</g:price>
-    <price>309000 SEK</price>
-    <sale_price>309000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Kinna Bil</component>
       <component name="country">SE</component>
@@ -7338,9 +7294,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/6ccf5239-97b5-4b33-8cf9-7e1140138517/cc0d14ce-d25a-4405-8f7d-1cedc7495105?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/95bf94bb-f894-4717-851d-b93711513e40/76817963-3e30-4bcc-adcd-8045f525fdce?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/6ccf5239-97b5-4b33-8cf9-7e1140138517/cc0d14ce-d25a-4405-8f7d-1cedc7495105?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/95bf94bb-f894-4717-851d-b93711513e40/76817963-3e30-4bcc-adcd-8045f525fdce?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>V40</model>
@@ -9091,50 +9047,6 @@
     <g:price>519000 SEK</g:price>
     <price>519000 SEK</price>
     <sale_price>519000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>b45d2c40-37dc-4b1e-8a51-75b180227087</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>b45d2c40-37dc-4b1e-8a51-75b180227087</vehicle_id>
-    <vehicle_registration_plate>REY56S</vehicle_registration_plate>
-    <g:title>Volvo XC40 Ultimate</g:title>
-    <title>Volvo XC40 Ultimate</title>
-    <g:description>Ultimate. Från 6 118 kr/mån. Miltal: 7 086 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: REY56S. Kontakta oss för mer information.</g:description>
-    <description>Ultimate. Från 6 118 kr/mån. Miltal: 7 086 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: REY56S. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-rey56s</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-rey56s</link>
-    <url>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-rey56s</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/0ab3fabf-5e01-4165-9ec6-0181d119e1cd/08e9cc13-a8f5-46fb-be42-1641a0318575?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/0ab3fabf-5e01-4165-9ec6-0181d119e1cd/08e9cc13-a8f5-46fb-be42-1641a0318575?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2023</year>
-    <mileage>
-      <value>70860</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>389000 SEK</g:price>
-    <price>389000 SEK</price>
-    <sale_price>389000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Kinna Bil</component>
       <component name="country">SE</component>
