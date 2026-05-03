@@ -11329,8 +11329,8 @@
     <vehicle_registration_plate>PGJ18S</vehicle_registration_plate>
     <g:title>Volvo XC60 T6 Ultra Black Edition</g:title>
     <title>Volvo XC60 T6 Ultra Black Edition</title>
-    <g:description>T6 Ultra Black Edition. Från 12 252 kr/mån. Miltal: 456 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: PGJ18S. Kontakta oss för mer information.</g:description>
-    <description>T6 Ultra Black Edition. Från 12 252 kr/mån. Miltal: 456 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: PGJ18S. Kontakta oss för mer information.</description>
+    <g:description>T6 Ultra Black Edition. Från 12 252 kr/mån. Miltal: 741 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: PGJ18S. Kontakta oss för mer information.</g:description>
+    <description>T6 Ultra Black Edition. Från 12 252 kr/mån. Miltal: 741 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: PGJ18S. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc60-pgj18s</g:link>
     <link>https://borasbil.se/bilar/volvo-xc60-pgj18s</link>
     <url>https://borasbil.se/bilar/volvo-xc60-pgj18s</url>
@@ -11345,7 +11345,7 @@
     <model>XC60</model>
     <year>2026</year>
     <mileage>
-      <value>4560</value>
+      <value>7410</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
@@ -14094,10 +14094,10 @@
     <g:fb_product_category>173</g:fb_product_category>
     <vehicle_id>65fa1520-3825-4cbe-ae02-4742df1b3c0b</vehicle_id>
     <vehicle_registration_plate>JZC99P</vehicle_registration_plate>
-    <g:title>Peugeot 3008 GT 145 A 5-d SUV</g:title>
-    <title>Peugeot 3008 GT 145 A 5-d SUV</title>
-    <g:description>GT 145 A 5-d SUV. Från 5 409 kr/mån. Miltal: 952 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Elhybrid. Reg.nr: JZC99P. Kontakta oss för mer information.</g:description>
-    <description>GT 145 A 5-d SUV. Från 5 409 kr/mån. Miltal: 952 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Elhybrid. Reg.nr: JZC99P. Kontakta oss för mer information.</description>
+    <g:title>Peugeot 3008 GT A 5-d SUV</g:title>
+    <title>Peugeot 3008 GT A 5-d SUV</title>
+    <g:description>GT A 5-d SUV. Från 5 409 kr/mån. Miltal: 1 280 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: JZC99P. Kontakta oss för mer information.</g:description>
+    <description>GT A 5-d SUV. Från 5 409 kr/mån. Miltal: 1 280 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: JZC99P. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/peugeot-3008-hybrid-136-jzc99p</g:link>
     <link>https://borasbil.se/bilar/peugeot-3008-hybrid-136-jzc99p</link>
     <url>https://borasbil.se/bilar/peugeot-3008-hybrid-136-jzc99p</url>
@@ -14112,11 +14112,11 @@
     <model>3008</model>
     <year>2025</year>
     <mileage>
-      <value>9520</value>
+      <value>12800</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
-    <fuel_type>Hybrid</fuel_type>
+    <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
     <g:price>343900 SEK</g:price>
     <price>343900 SEK</price>
