@@ -3106,9 +3106,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/f44eba4f-672a-4cf0-ac2d-8a1b862ecc3c/a57d8b82-0a11-41e9-ab0a-7f622ab1ae3f?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/2be3d6e9-15b1-42d3-984c-be01418f4421/8e45d638-5cf1-43a4-987e-098bfa169651?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/f44eba4f-672a-4cf0-ac2d-8a1b862ecc3c/a57d8b82-0a11-41e9-ab0a-7f622ab1ae3f?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/2be3d6e9-15b1-42d3-984c-be01418f4421/8e45d638-5cf1-43a4-987e-098bfa169651?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC60</model>
@@ -3586,9 +3586,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/007293ea-0276-422e-98a2-fccb58d988a0/4989b7be-b24b-42bb-bb75-73e96cb64e4e?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/a7dea1a6-9974-45e0-8f42-faebbd62daff/d1091603-92b7-4ac7-a85a-a788414d3573?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/007293ea-0276-422e-98a2-fccb58d988a0/4989b7be-b24b-42bb-bb75-73e96cb64e4e?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/a7dea1a6-9974-45e0-8f42-faebbd62daff/d1091603-92b7-4ac7-a85a-a788414d3573?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC40</model>
@@ -6150,17 +6150,17 @@
     <vehicle_registration_plate>EGF98E</vehicle_registration_plate>
     <g:title>Volvo XC60 Recharge T6 Core Edition - Drag!</g:title>
     <title>Volvo XC60 Recharge T6 Core Edition - Drag!</title>
-    <g:description>Recharge T6 Core Edition - Drag!. Från 6 590 kr/mån. Miltal: 8 514 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: EGF98E. Kontakta oss för mer information.</g:description>
-    <description>Recharge T6 Core Edition - Drag!. Från 6 590 kr/mån. Miltal: 8 514 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: EGF98E. Kontakta oss för mer information.</description>
+    <g:description>Recharge T6 Core Edition - Drag!. Från 6 590 kr/mån. Miltal: 8 514 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: EGF98E. Kontakta oss för mer information.</g:description>
+    <description>Recharge T6 Core Edition - Drag!. Från 6 590 kr/mån. Miltal: 8 514 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: EGF98E. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc60-egf98e</g:link>
     <link>https://borasbil.se/bilar/volvo-xc60-egf98e</link>
     <url>https://borasbil.se/bilar/volvo-xc60-egf98e</url>
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/daaea82c-5729-4e39-8f76-7932e468626e/01a2480a-5b2c-48bf-9d3e-9999423e7867?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/feb18c67-9e5d-426b-91e1-5a4791ceb42f/ed973316-f0ce-476b-b807-4d66b0417d71?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/daaea82c-5729-4e39-8f76-7932e468626e/01a2480a-5b2c-48bf-9d3e-9999423e7867?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/feb18c67-9e5d-426b-91e1-5a4791ceb42f/ed973316-f0ce-476b-b807-4d66b0417d71?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC60</model>
@@ -6170,7 +6170,7 @@
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
-    <fuel_type>Gasoline</fuel_type>
+    <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
     <g:price>419000 SEK</g:price>
     <price>419000 SEK</price>
