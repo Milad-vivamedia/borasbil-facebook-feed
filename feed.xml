@@ -5,6 +5,138 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>020e08ac-20cd-4326-a2f1-d7b700d5cb7a</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>020e08ac-20cd-4326-a2f1-d7b700d5cb7a</vehicle_id>
+    <vehicle_registration_plate>LLK75R</vehicle_registration_plate>
+    <g:title>Renault Trafic Passeng PhII dCi 150 L2H1 A</g:title>
+    <title>Renault Trafic Passeng PhII dCi 150 L2H1 A</title>
+    <g:description>Passeng PhII dCi 150 L2H1 A. Från 5 898 kr/mån. Miltal: 5 210 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Diesel. Reg.nr: LLK75R. Kontakta oss för mer information.</g:description>
+    <description>Passeng PhII dCi 150 L2H1 A. Från 5 898 kr/mån. Miltal: 5 210 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Diesel. Reg.nr: LLK75R. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/renault-trafic-passenger-l2-llk75r</g:link>
+    <link>https://borasbil.se/bilar/renault-trafic-passenger-l2-llk75r</link>
+    <url>https://borasbil.se/bilar/renault-trafic-passenger-l2-llk75r</url>
+    <g:brand>Renault</g:brand>
+    <brand>Renault</brand>
+    <make>Renault</make>
+    <g:image_link>https://cdn.wayke.se/cfit/41411498-7022-4e9f-9e5a-f52c0d1047bd/50684554-b7db-4103-9fee-796d7631eeee?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/41411498-7022-4e9f-9e5a-f52c0d1047bd/50684554-b7db-4103-9fee-796d7631eeee?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>Trafic</model>
+    <year>2024</year>
+    <mileage>
+      <value>52100</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>375000 SEK</g:price>
+    <price>375000 SEK</price>
+    <sale_price>375000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>f00ef921-213d-42f5-8e41-ca9065e875f0</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>f00ef921-213d-42f5-8e41-ca9065e875f0</vehicle_id>
+    <vehicle_registration_plate>JBN85Y</vehicle_registration_plate>
+    <g:title>Lynk &amp; Co 08</g:title>
+    <title>Lynk &amp; Co 08</title>
+    <g:description>Från 8 792 kr/mån. Miltal: 1 101 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: JBN85Y. Kontakta oss för mer information.</g:description>
+    <description>Från 8 792 kr/mån. Miltal: 1 101 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: JBN85Y. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/lynk-co-08-phev-jbn85y</g:link>
+    <link>https://borasbil.se/bilar/lynk-co-08-phev-jbn85y</link>
+    <url>https://borasbil.se/bilar/lynk-co-08-phev-jbn85y</url>
+    <g:brand>Lynk &amp; Co</g:brand>
+    <brand>Lynk &amp; Co</brand>
+    <make>Lynk &amp; Co</make>
+    <g:image_link>https://cdn.wayke.se/cfit/2d14bd0a-9729-4a79-ad8b-8b765dce53fa/139bf9cf-0070-48f9-aa1e-363424b8556f?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/2d14bd0a-9729-4a79-ad8b-8b765dce53fa/139bf9cf-0070-48f9-aa1e-363424b8556f?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>08</model>
+    <year>2025</year>
+    <mileage>
+      <value>11010</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>559000 SEK</g:price>
+    <price>559000 SEK</price>
+    <sale_price>559000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>ecceec63-a61b-416f-9310-486e85b38e7b</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>ecceec63-a61b-416f-9310-486e85b38e7b</vehicle_id>
+    <vehicle_registration_plate>BEM74D</vehicle_registration_plate>
+    <g:title>Volvo XC90 B5 AWD Diesel Plus Dark</g:title>
+    <title>Volvo XC90 B5 AWD Diesel Plus Dark</title>
+    <g:description>B5 AWD Diesel Plus Dark. Från 8 949 kr/mån. Miltal: 8 681 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Diesel. Reg.nr: BEM74D. Kontakta oss för mer information.</g:description>
+    <description>B5 AWD Diesel Plus Dark. Från 8 949 kr/mån. Miltal: 8 681 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Diesel. Reg.nr: BEM74D. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-xc90-7-saten-bem74d</g:link>
+    <link>https://borasbil.se/bilar/volvo-xc90-7-saten-bem74d</link>
+    <url>https://borasbil.se/bilar/volvo-xc90-7-saten-bem74d</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/1787566c-80f9-4ca3-9302-31442eacb518/bc770481-4ab1-4f51-8323-9a2ee160bcb7?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/1787566c-80f9-4ca3-9302-31442eacb518/bc770481-4ab1-4f51-8323-9a2ee160bcb7?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC90</model>
+    <year>2023</year>
+    <mileage>
+      <value>86810</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>569000 SEK</g:price>
+    <price>569000 SEK</price>
+    <sale_price>569000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>427fa1b9-2a50-4f2d-a410-f83e54d5650e</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -6714,17 +6846,17 @@
     <vehicle_registration_plate>EFJ00N</vehicle_registration_plate>
     <g:title>Volvo XC60 Recharge T6 Core Edition - Drag!</g:title>
     <title>Volvo XC60 Recharge T6 Core Edition - Drag!</title>
-    <g:description>Recharge T6 Core Edition - Drag!. Från 6 275 kr/mån. Miltal: 9 319 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: EFJ00N. Kontakta oss för mer information.</g:description>
-    <description>Recharge T6 Core Edition - Drag!. Från 6 275 kr/mån. Miltal: 9 319 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: EFJ00N. Kontakta oss för mer information.</description>
+    <g:description>Recharge T6 Core Edition - Drag!. Från 6 275 kr/mån. Miltal: 9 319 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: EFJ00N. Kontakta oss för mer information.</g:description>
+    <description>Recharge T6 Core Edition - Drag!. Från 6 275 kr/mån. Miltal: 9 319 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: EFJ00N. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc60-efj00n</g:link>
     <link>https://borasbil.se/bilar/volvo-xc60-efj00n</link>
     <url>https://borasbil.se/bilar/volvo-xc60-efj00n</url>
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/a6300f1a-6e18-47d1-99dd-18a7e828cf5a/606ba650-53d1-4311-9d3a-c930ddf8374f?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/254644ea-ea46-4e7f-abab-abd660ed9acf/3550a873-b8ab-42c9-b791-cc07db5aa9a2?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/a6300f1a-6e18-47d1-99dd-18a7e828cf5a/606ba650-53d1-4311-9d3a-c930ddf8374f?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/254644ea-ea46-4e7f-abab-abd660ed9acf/3550a873-b8ab-42c9-b791-cc07db5aa9a2?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC60</model>
@@ -6734,7 +6866,7 @@
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
-    <fuel_type>Gasoline</fuel_type>
+    <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
     <g:price>399000 SEK</g:price>
     <price>399000 SEK</price>
@@ -9184,50 +9316,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>24af1a13-d539-455a-8fad-1043c2d8959b</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>24af1a13-d539-455a-8fad-1043c2d8959b</vehicle_id>
-    <vehicle_registration_plate>GHU19C</vehicle_registration_plate>
-    <g:title>Peugeot 2008 GT Electric 5-d SUV</g:title>
-    <title>Peugeot 2008 GT Electric 5-d SUV</title>
-    <g:description>GT Electric 5-d SUV. Från 3 287 kr/mån. Miltal: 2 604 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: GHU19C. Kontakta oss för mer information.</g:description>
-    <description>GT Electric 5-d SUV. Från 3 287 kr/mån. Miltal: 2 604 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: GHU19C. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/peugeot-e-2008-ghu19c</g:link>
-    <link>https://borasbil.se/bilar/peugeot-e-2008-ghu19c</link>
-    <url>https://borasbil.se/bilar/peugeot-e-2008-ghu19c</url>
-    <g:brand>Peugeot</g:brand>
-    <brand>Peugeot</brand>
-    <make>Peugeot</make>
-    <g:image_link>https://cdn.wayke.se/cfit/9af0a42f-2c7b-4886-8da4-361125c0b177/a7bab3c0-38cb-47f6-9856-0f0e59f7b923?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/9af0a42f-2c7b-4886-8da4-361125c0b177/a7bab3c0-38cb-47f6-9856-0f0e59f7b923?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>2008</model>
-    <year>2022</year>
-    <mileage>
-      <value>26040</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>209000 SEK</g:price>
-    <price>209000 SEK</price>
-    <sale_price>209000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
