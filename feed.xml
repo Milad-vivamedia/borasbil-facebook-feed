@@ -12365,8 +12365,8 @@
     <vehicle_registration_plate>LGJ37Z</vehicle_registration_plate>
     <g:title>Volvo XC90 T8 Ultra Dark</g:title>
     <title>Volvo XC90 T8 Ultra Dark</title>
-    <g:description>T8 Ultra Dark. Från 15 555 kr/mån. Miltal: 1 125 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: LGJ37Z. Kontakta oss för mer information.</g:description>
-    <description>T8 Ultra Dark. Från 15 555 kr/mån. Miltal: 1 125 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: LGJ37Z. Kontakta oss för mer information.</description>
+    <g:description>T8 Ultra Dark. Från 13 825 kr/mån. Miltal: 1 537 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: LGJ37Z. Kontakta oss för mer information.</g:description>
+    <description>T8 Ultra Dark. Från 13 825 kr/mån. Miltal: 1 537 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: LGJ37Z. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc90-lgj37z</g:link>
     <link>https://borasbil.se/bilar/volvo-xc90-lgj37z</link>
     <url>https://borasbil.se/bilar/volvo-xc90-lgj37z</url>
@@ -12381,15 +12381,15 @@
     <model>XC90</model>
     <year>2026</year>
     <mileage>
-      <value>11250</value>
+      <value>15370</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
     <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>989000 SEK</g:price>
-    <price>989000 SEK</price>
-    <sale_price>989000 SEK</sale_price>
+    <g:price>879000 SEK</g:price>
+    <price>879000 SEK</price>
+    <sale_price>879000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Borås Bil</component>
       <component name="country">SE</component>
