@@ -181,50 +181,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>e34673bc-7894-4427-9ae5-baba14dda619</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>e34673bc-7894-4427-9ae5-baba14dda619</vehicle_id>
-    <vehicle_registration_plate>KWA07J</vehicle_registration_plate>
-    <g:title>Volvo C40 Ultimate</g:title>
-    <title>Volvo C40 Ultimate</title>
-    <g:description>Ultimate. Från 5 804 kr/mån. Miltal: 4 832 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: KWA07J. Kontakta oss för mer information.</g:description>
-    <description>Ultimate. Från 5 804 kr/mån. Miltal: 4 832 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: KWA07J. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-kwa07j</g:link>
-    <link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-kwa07j</link>
-    <url>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-kwa07j</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/96fc3124-0ae3-4f29-9183-21c2364946d5/8bb88265-5e8f-4210-9f7e-0b82bc3300bf?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/96fc3124-0ae3-4f29-9183-21c2364946d5/8bb88265-5e8f-4210-9f7e-0b82bc3300bf?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C40</model>
-    <year>2023</year>
-    <mileage>
-      <value>48320</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>369000 SEK</g:price>
-    <price>369000 SEK</price>
-    <sale_price>369000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Bogesunds Bil Ulricehamn</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>567b5c85-deb3-4bb1-9871-57f5c894396b</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -7575,50 +7531,6 @@
     <g:price>359000 SEK</g:price>
     <price>359000 SEK</price>
     <sale_price>359000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>543161ac-0824-42ba-aed4-1fb7f64efe7f</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>543161ac-0824-42ba-aed4-1fb7f64efe7f</vehicle_id>
-    <vehicle_registration_plate>YUP05E</vehicle_registration_plate>
-    <g:title>Volvo XC40 Plus</g:title>
-    <title>Volvo XC40 Plus</title>
-    <g:description>Plus. Från 5 961 kr/mån. Miltal: 8 105 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Reg.nr: YUP05E. Kontakta oss för mer information.</g:description>
-    <description>Plus. Från 5 961 kr/mån. Miltal: 8 105 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Reg.nr: YUP05E. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-yup05e</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-yup05e</link>
-    <url>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-yup05e</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/668561a0-139f-46ed-bd8e-d6664e904f08/d51853bf-7e8c-4428-a8ec-5c86a3790748?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/668561a0-139f-46ed-bd8e-d6664e904f08/d51853bf-7e8c-4428-a8ec-5c86a3790748?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2024</year>
-    <mileage>
-      <value>81050</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>379000 SEK</g:price>
-    <price>379000 SEK</price>
-    <sale_price>379000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Borås Bil</component>
       <component name="country">SE</component>
