@@ -973,50 +973,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>752d4811-f66f-4257-aad0-d7231405746e</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>752d4811-f66f-4257-aad0-d7231405746e</vehicle_id>
-    <vehicle_registration_plate>WAU08D</vehicle_registration_plate>
-    <g:title>Volvo XC40 Ultimate/DRAG</g:title>
-    <title>Volvo XC40 Ultimate/DRAG</title>
-    <g:description>Ultimate/DRAG. Från 7 534 kr/mån. Miltal: 3 596 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Reg.nr: WAU08D. Kontakta oss för mer information.</g:description>
-    <description>Ultimate/DRAG. Från 7 534 kr/mån. Miltal: 3 596 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Reg.nr: WAU08D. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-wau08d</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-wau08d</link>
-    <url>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-wau08d</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/5a93ab60-bb15-4938-81fb-14405a9aac22/696af90a-a6dd-455a-bbf1-c364f76e00c8?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/5a93ab60-bb15-4938-81fb-14405a9aac22/696af90a-a6dd-455a-bbf1-c364f76e00c8?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2024</year>
-    <mileage>
-      <value>35960</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>479000 SEK</g:price>
-    <price>479000 SEK</price>
-    <sale_price>479000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>cecd6ef7-fc3a-4fc3-8b5b-eabad02dca5c</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -6267,50 +6223,6 @@
     <g:price>199000 SEK</g:price>
     <price>199000 SEK</price>
     <sale_price>199000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>e6ac91d4-c49d-484c-b778-357e6965b705</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>e6ac91d4-c49d-484c-b778-357e6965b705</vehicle_id>
-    <vehicle_registration_plate>UXK48T</vehicle_registration_plate>
-    <g:title>Volvo XC40 T2 FWD Momentum</g:title>
-    <title>Volvo XC40 T2 FWD Momentum</title>
-    <g:description>T2 FWD Momentum. Från 4 860 kr/mån. Miltal: 4 148 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin. Reg.nr: UXK48T. Kontakta oss för mer information.</g:description>
-    <description>T2 FWD Momentum. Från 4 860 kr/mån. Miltal: 4 148 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin. Reg.nr: UXK48T. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc40-uxk48t</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc40-uxk48t</link>
-    <url>https://borasbil.se/bilar/volvo-xc40-uxk48t</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/bc1211d4-e041-4fb8-a226-91260ee4371d/f8dfe2de-33c6-4ce9-9278-4d81c95d912c?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/bc1211d4-e041-4fb8-a226-91260ee4371d/f8dfe2de-33c6-4ce9-9278-4d81c95d912c?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2022</year>
-    <mileage>
-      <value>41480</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>309000 SEK</g:price>
-    <price>309000 SEK</price>
-    <sale_price>309000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Borås Bil</component>
       <component name="country">SE</component>
