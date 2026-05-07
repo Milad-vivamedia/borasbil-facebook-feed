@@ -5159,50 +5159,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>0ce0aaa6-d5bd-483b-b6b9-5812d3d0673d</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>0ce0aaa6-d5bd-483b-b6b9-5812d3d0673d</vehicle_id>
-    <vehicle_registration_plate>TWA12C</vehicle_registration_plate>
-    <g:title>Volvo C40 Core</g:title>
-    <title>Volvo C40 Core</title>
-    <g:description>Core. Från 4 703 kr/mån. Miltal: 8 001 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: TWA12C. Kontakta oss för mer information.</g:description>
-    <description>Core. Från 4 703 kr/mån. Miltal: 8 001 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: TWA12C. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-twa12c</g:link>
-    <link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-twa12c</link>
-    <url>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-twa12c</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/8324fdd7-2a5c-4211-9d9e-959188fdc970/36ee899d-5034-4c12-8d55-7ec93ac23aed?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/8324fdd7-2a5c-4211-9d9e-959188fdc970/36ee899d-5034-4c12-8d55-7ec93ac23aed?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C40</model>
-    <year>2023</year>
-    <mileage>
-      <value>80010</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>299000 SEK</g:price>
-    <price>299000 SEK</price>
-    <sale_price>299000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Bogesunds Bil Ulricehamn</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>e17c16f1-b0f4-4c59-a5d1-2d8f49178b67</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -5597,50 +5553,6 @@
     <g:condition>new</g:condition>
     <condition>new</condition>
     <state_of_vehicle>NEW</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>726c3d5f-bd02-4b6d-a002-d0c8631a5f68</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>726c3d5f-bd02-4b6d-a002-d0c8631a5f68</vehicle_id>
-    <vehicle_registration_plate>KLW26X</vehicle_registration_plate>
-    <g:title>Volvo XC40 Ultimate</g:title>
-    <title>Volvo XC40 Ultimate</title>
-    <g:description>Ultimate. Från 6 118 kr/mån. Miltal: 7 007 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: KLW26X. Kontakta oss för mer information.</g:description>
-    <description>Ultimate. Från 6 118 kr/mån. Miltal: 7 007 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: KLW26X. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-klw26x</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-klw26x</link>
-    <url>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-klw26x</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/51a1c0a8-9c5c-4526-a6b3-80604075bfd2/8e306aa4-d51b-46c6-b71b-039ad6122e0a?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/51a1c0a8-9c5c-4526-a6b3-80604075bfd2/8e306aa4-d51b-46c6-b71b-039ad6122e0a?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2023</year>
-    <mileage>
-      <value>70070</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>389000 SEK</g:price>
-    <price>389000 SEK</price>
-    <sale_price>389000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
     <g:id>5499b82e-e0af-41bc-825a-4112732747cd</g:id>
@@ -6047,50 +5959,6 @@
     <g:price>209000 SEK</g:price>
     <price>209000 SEK</price>
     <sale_price>209000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>7676088c-aa9d-4099-9df6-c70149e4fd81</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>7676088c-aa9d-4099-9df6-c70149e4fd81</vehicle_id>
-    <vehicle_registration_plate>CGT13B</vehicle_registration_plate>
-    <g:title>Peugeot 2008 GT Electric 5-d SUV</g:title>
-    <title>Peugeot 2008 GT Electric 5-d SUV</title>
-    <g:description>GT Electric 5-d SUV. Från 3 130 kr/mån. Miltal: 3 995 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: CGT13B. Kontakta oss för mer information.</g:description>
-    <description>GT Electric 5-d SUV. Från 3 130 kr/mån. Miltal: 3 995 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: CGT13B. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/peugeot-e-2008-cgt13b</g:link>
-    <link>https://borasbil.se/bilar/peugeot-e-2008-cgt13b</link>
-    <url>https://borasbil.se/bilar/peugeot-e-2008-cgt13b</url>
-    <g:brand>Peugeot</g:brand>
-    <brand>Peugeot</brand>
-    <make>Peugeot</make>
-    <g:image_link>https://cdn.wayke.se/cfit/a4ed0f29-629a-4728-8cb8-213293e7d690/f37ad5f2-0f88-4137-b79f-681424c047f6?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/a4ed0f29-629a-4728-8cb8-213293e7d690/f37ad5f2-0f88-4137-b79f-681424c047f6?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>2008</model>
-    <year>2022</year>
-    <mileage>
-      <value>39950</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>199000 SEK</g:price>
-    <price>199000 SEK</price>
-    <sale_price>199000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Borås Bil</component>
       <component name="country">SE</component>
