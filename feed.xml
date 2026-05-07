@@ -1017,50 +1017,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>cecd6ef7-fc3a-4fc3-8b5b-eabad02dca5c</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>cecd6ef7-fc3a-4fc3-8b5b-eabad02dca5c</vehicle_id>
-    <vehicle_registration_plate>NDN02X</vehicle_registration_plate>
-    <g:title>Renault Clio TCe 90 Equilibre 5-d</g:title>
-    <title>Renault Clio TCe 90 Equilibre 5-d</title>
-    <g:description>TCe 90 Equilibre 5-d. Från 2 186 kr/mån. Miltal: 2 149 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: NDN02X. Kontakta oss för mer information.</g:description>
-    <description>TCe 90 Equilibre 5-d. Från 2 186 kr/mån. Miltal: 2 149 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: NDN02X. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/renault-clio-ndn02x</g:link>
-    <link>https://borasbil.se/bilar/renault-clio-ndn02x</link>
-    <url>https://borasbil.se/bilar/renault-clio-ndn02x</url>
-    <g:brand>Renault</g:brand>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <g:image_link>https://cdn.wayke.se/cfit/4dd64a7b-147a-4c09-aede-267894038d18/326d2fa3-d57d-4ee3-a9cd-9c50a551b980?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/4dd64a7b-147a-4c09-aede-267894038d18/326d2fa3-d57d-4ee3-a9cd-9c50a551b980?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Clio</model>
-    <year>2023</year>
-    <mileage>
-      <value>21490</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Manual</transmission>
-    <g:price>139000 SEK</g:price>
-    <price>139000 SEK</price>
-    <sale_price>139000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>572ca92d-5bdb-496b-ade5-2f216ac36f0c</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -4851,50 +4807,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>939ad56a-5ce8-41f5-bd7a-3cce821de4b7</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>939ad56a-5ce8-41f5-bd7a-3cce821de4b7</vehicle_id>
-    <vehicle_registration_plate>AAB64Z</vehicle_registration_plate>
-    <g:title>Dacia Sandero TCe 90 Essential IV</g:title>
-    <title>Dacia Sandero TCe 90 Essential IV</title>
-    <g:description>TCe 90 Essential IV. Från 1 714 kr/mån. Miltal: 2 374 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: AAB64Z. Kontakta oss för mer information.</g:description>
-    <description>TCe 90 Essential IV. Från 1 714 kr/mån. Miltal: 2 374 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: AAB64Z. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/dacia-sandero-aab64z</g:link>
-    <link>https://borasbil.se/bilar/dacia-sandero-aab64z</link>
-    <url>https://borasbil.se/bilar/dacia-sandero-aab64z</url>
-    <g:brand>Dacia</g:brand>
-    <brand>Dacia</brand>
-    <make>Dacia</make>
-    <g:image_link>https://cdn.wayke.se/cfit/25f0972c-d76b-44a2-8b04-ff9b9b2f6bcc/987561b7-810e-4050-8ed1-17767cb3ddb0?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/25f0972c-d76b-44a2-8b04-ff9b9b2f6bcc/987561b7-810e-4050-8ed1-17767cb3ddb0?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Sandero</model>
-    <year>2023</year>
-    <mileage>
-      <value>23740</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Manual</transmission>
-    <g:price>109000 SEK</g:price>
-    <price>109000 SEK</price>
-    <sale_price>109000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>0c603d6a-9b2b-42d2-b6a8-0cb47a757e29</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -6355,50 +6267,6 @@
     <g:price>329000 SEK</g:price>
     <price>329000 SEK</price>
     <sale_price>329000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>200e7f03-f14b-424b-b414-c5c3befaf5a7</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>200e7f03-f14b-424b-b414-c5c3befaf5a7</vehicle_id>
-    <vehicle_registration_plate>WAA14D</vehicle_registration_plate>
-    <g:title>Volvo C40 Plus</g:title>
-    <title>Volvo C40 Plus</title>
-    <g:description>Plus. Från 4 703 kr/mån. Miltal: 8 653 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: WAA14D. Kontakta oss för mer information.</g:description>
-    <description>Plus. Från 4 703 kr/mån. Miltal: 8 653 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: WAA14D. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-waa14d</g:link>
-    <link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-waa14d</link>
-    <url>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-waa14d</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/15325510-2f8c-41e0-8c6c-e68d89cc6d88/056fb96c-acb8-4d95-abce-18df2cf8854a?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/15325510-2f8c-41e0-8c6c-e68d89cc6d88/056fb96c-acb8-4d95-abce-18df2cf8854a?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C40</model>
-    <year>2023</year>
-    <mileage>
-      <value>86530</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>299000 SEK</g:price>
-    <price>299000 SEK</price>
-    <sale_price>299000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Borås Bil</component>
       <component name="country">SE</component>
