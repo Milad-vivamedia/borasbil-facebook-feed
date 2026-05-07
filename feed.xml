@@ -313,50 +313,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>9c1f8a5b-1e27-4df0-ad35-609e69143988</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>9c1f8a5b-1e27-4df0-ad35-609e69143988</vehicle_id>
-    <vehicle_registration_plate>RKM75Y</vehicle_registration_plate>
-    <g:title>Polestar 2 69kWh Plus</g:title>
-    <title>Polestar 2 69kWh Plus</title>
-    <g:description>69kWh Plus. Från 4 860 kr/mån. Miltal: 4 828 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: RKM75Y. Kontakta oss för mer information.</g:description>
-    <description>69kWh Plus. Från 4 860 kr/mån. Miltal: 4 828 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: RKM75Y. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/polestar-2-standard-range-single-motor-rkm75y</g:link>
-    <link>https://borasbil.se/bilar/polestar-2-standard-range-single-motor-rkm75y</link>
-    <url>https://borasbil.se/bilar/polestar-2-standard-range-single-motor-rkm75y</url>
-    <g:brand>Polestar</g:brand>
-    <brand>Polestar</brand>
-    <make>Polestar</make>
-    <g:image_link>https://cdn.wayke.se/cfit/4caa010a-9b8e-493c-aecc-4721ba1794cc/d540fb43-b2e9-48d1-86e8-802d721ffadd?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/4caa010a-9b8e-493c-aecc-4721ba1794cc/d540fb43-b2e9-48d1-86e8-802d721ffadd?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>2</model>
-    <year>2022</year>
-    <mileage>
-      <value>48280</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>309000 SEK</g:price>
-    <price>309000 SEK</price>
-    <sale_price>309000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>a43d386c-88b6-4778-937b-61dc65225786</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -1552,8 +1508,8 @@
     <vehicle_registration_plate>FXJ72W</vehicle_registration_plate>
     <g:title>Volvo XC60 T6 Plus Dark Nordic Edition</g:title>
     <title>Volvo XC60 T6 Plus Dark Nordic Edition</title>
-    <g:description>T6 Plus Dark Nordic Edition. Från 9 421 kr/mån. Miltal: 1 884 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: FXJ72W. Kontakta oss för mer information.</g:description>
-    <description>T6 Plus Dark Nordic Edition. Från 9 421 kr/mån. Miltal: 1 884 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: FXJ72W. Kontakta oss för mer information.</description>
+    <g:description>T6 Plus Dark Nordic Edition. Från 9 421 kr/mån. Miltal: 1 885 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: FXJ72W. Kontakta oss för mer information.</g:description>
+    <description>T6 Plus Dark Nordic Edition. Från 9 421 kr/mån. Miltal: 1 885 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: FXJ72W. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc60-fxj72w</g:link>
     <link>https://borasbil.se/bilar/volvo-xc60-fxj72w</link>
     <url>https://borasbil.se/bilar/volvo-xc60-fxj72w</url>
@@ -1568,7 +1524,7 @@
     <model>XC60</model>
     <year>2026</year>
     <mileage>
-      <value>18840</value>
+      <value>18850</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
@@ -2556,8 +2512,8 @@
     <vehicle_registration_plate>HEY57G</vehicle_registration_plate>
     <g:title>Volvo C40 Core</g:title>
     <title>Volvo C40 Core</title>
-    <g:description>Core. Från 5 646 kr/mån. Miltal: 5 413 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: HEY57G. Kontakta oss för mer information.</g:description>
-    <description>Core. Från 5 646 kr/mån. Miltal: 5 413 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: HEY57G. Kontakta oss för mer information.</description>
+    <g:description>Core. Från 5 646 kr/mån. Miltal: 5 430 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: HEY57G. Kontakta oss för mer information.</g:description>
+    <description>Core. Från 5 646 kr/mån. Miltal: 5 430 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: HEY57G. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-c40-recharge-twin-motor-hey57g</g:link>
     <link>https://borasbil.se/bilar/volvo-c40-recharge-twin-motor-hey57g</link>
     <url>https://borasbil.se/bilar/volvo-c40-recharge-twin-motor-hey57g</url>
@@ -2572,7 +2528,7 @@
     <model>C40</model>
     <year>2023</year>
     <mileage>
-      <value>54130</value>
+      <value>54300</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
@@ -11690,8 +11646,8 @@
     <vehicle_registration_plate>RCK17N</vehicle_registration_plate>
     <g:title>Volvo EX30 SM Plus Black Edt</g:title>
     <title>Volvo EX30 SM Plus Black Edt</title>
-    <g:description>SM Plus Black Edt. Från 7 534 kr/mån. Miltal: 228 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: RCK17N. Kontakta oss för mer information.</g:description>
-    <description>SM Plus Black Edt. Från 7 534 kr/mån. Miltal: 228 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: RCK17N. Kontakta oss för mer information.</description>
+    <g:description>SM Plus Black Edt. Från 7 534 kr/mån. Miltal: 254 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: RCK17N. Kontakta oss för mer information.</g:description>
+    <description>SM Plus Black Edt. Från 7 534 kr/mån. Miltal: 254 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: RCK17N. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-ex30-single-motor-extended-range-rck17n</g:link>
     <link>https://borasbil.se/bilar/volvo-ex30-single-motor-extended-range-rck17n</link>
     <url>https://borasbil.se/bilar/volvo-ex30-single-motor-extended-range-rck17n</url>
@@ -11706,7 +11662,7 @@
     <model>EX30</model>
     <year>2026</year>
     <mileage>
-      <value>2280</value>
+      <value>2540</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
