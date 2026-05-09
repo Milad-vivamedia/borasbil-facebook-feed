@@ -3121,50 +3121,6 @@
     <state_of_vehicle>NEW</state_of_vehicle>
     </item>
     <item>
-    <g:id>fba9acef-ae22-4368-af02-95c81e963d26</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>fba9acef-ae22-4368-af02-95c81e963d26</vehicle_id>
-    <vehicle_registration_plate>OJS462</vehicle_registration_plate>
-    <g:title>Volkswagen Golf 1,2 TSI</g:title>
-    <title>Volkswagen Golf 1,2 TSI</title>
-    <g:description>1,2 TSI. Från 1 872 kr/mån. Miltal: 11 517 mil. Årsmodell: 2017. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: OJS462. Kontakta oss för mer information.</g:description>
-    <description>1,2 TSI. Från 1 872 kr/mån. Miltal: 11 517 mil. Årsmodell: 2017. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: OJS462. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volkswagen-golf-ojs462</g:link>
-    <link>https://borasbil.se/bilar/volkswagen-golf-ojs462</link>
-    <url>https://borasbil.se/bilar/volkswagen-golf-ojs462</url>
-    <g:brand>Volkswagen</g:brand>
-    <brand>Volkswagen</brand>
-    <make>Volkswagen</make>
-    <g:image_link>https://cdn.wayke.se/cfit/55c26064-86e2-49b4-9d4e-8fb460bc828c/dfc3f23c-78bf-41fc-b2f5-e47d93d62de4?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/55c26064-86e2-49b4-9d4e-8fb460bc828c/dfc3f23c-78bf-41fc-b2f5-e47d93d62de4?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Golf</model>
-    <year>2017</year>
-    <mileage>
-      <value>115170</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Manual</transmission>
-    <g:price>119000 SEK</g:price>
-    <price>119000 SEK</price>
-    <sale_price>119000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Bogesunds Bil Ulricehamn</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>b7e33812-fc92-45d1-883c-2f231438443a</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -5015,50 +4971,6 @@
     <g:price>419000 SEK</g:price>
     <price>419000 SEK</price>
     <sale_price>419000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>9933d12a-206c-4ec4-9aa2-e55088daf944</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>9933d12a-206c-4ec4-9aa2-e55088daf944</vehicle_id>
-    <vehicle_registration_plate>DGC87G</vehicle_registration_plate>
-    <g:title>Polestar 2</g:title>
-    <title>Polestar 2</title>
-    <g:description>Från 5 804 kr/mån. Miltal: 3 788 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Reg.nr: DGC87G. Kontakta oss för mer information.</g:description>
-    <description>Från 5 804 kr/mån. Miltal: 3 788 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Reg.nr: DGC87G. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/polestar-2-standard-range-single-motor-dgc87g</g:link>
-    <link>https://borasbil.se/bilar/polestar-2-standard-range-single-motor-dgc87g</link>
-    <url>https://borasbil.se/bilar/polestar-2-standard-range-single-motor-dgc87g</url>
-    <g:brand>Polestar</g:brand>
-    <brand>Polestar</brand>
-    <make>Polestar</make>
-    <g:image_link>https://cdn.wayke.se/cfit/19a628e2-7384-40cb-92c8-9ceeda970dbc/8b1d0f26-e160-4715-be2c-7be366905adf?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/19a628e2-7384-40cb-92c8-9ceeda970dbc/8b1d0f26-e160-4715-be2c-7be366905adf?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>2</model>
-    <year>2024</year>
-    <mileage>
-      <value>37880</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>369000 SEK</g:price>
-    <price>369000 SEK</price>
-    <sale_price>369000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Kinna Bil</component>
       <component name="country">SE</component>
@@ -9333,50 +9245,6 @@
     <g:condition>new</g:condition>
     <condition>new</condition>
     <state_of_vehicle>NEW</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>ad2957be-fe2a-48de-82dd-18075f6d40e7</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>ad2957be-fe2a-48de-82dd-18075f6d40e7</vehicle_id>
-    <vehicle_registration_plate>URC69S</vehicle_registration_plate>
-    <g:title>Volvo XC40 Core</g:title>
-    <title>Volvo XC40 Core</title>
-    <g:description>Core. Från 5 489 kr/mån. Miltal: 6 966 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: URC69S. Kontakta oss för mer information.</g:description>
-    <description>Core. Från 5 489 kr/mån. Miltal: 6 966 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: URC69S. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-urc69s</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-urc69s</link>
-    <url>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-urc69s</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/f6e961fb-f8cb-4a37-93b3-e875bd239250/2663fcf3-ef23-48cf-92e4-a6165bc7d4f7?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/f6e961fb-f8cb-4a37-93b3-e875bd239250/2663fcf3-ef23-48cf-92e4-a6165bc7d4f7?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2023</year>
-    <mileage>
-      <value>69660</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>349000 SEK</g:price>
-    <price>349000 SEK</price>
-    <sale_price>349000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
     <g:id>7fb7e8a6-a413-43e0-bae0-bf6456e683d3</g:id>
