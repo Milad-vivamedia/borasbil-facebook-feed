@@ -1540,8 +1540,8 @@
     <vehicle_registration_plate>JBX68N</vehicle_registration_plate>
     <g:title>Volvo EX90 Ultra 7sätes</g:title>
     <title>Volvo EX90 Ultra 7sätes</title>
-    <g:description>Ultra 7sätes. Från 19 487 kr/mån. Miltal: 10 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: JBX68N. Kontakta oss för mer information.</g:description>
-    <description>Ultra 7sätes. Från 19 487 kr/mån. Miltal: 10 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: JBX68N. Kontakta oss för mer information.</description>
+    <g:description>Ultra 7sätes. Från 19 487 kr/mån. Miltal: 100 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: JBX68N. Kontakta oss för mer information.</g:description>
+    <description>Ultra 7sätes. Från 19 487 kr/mån. Miltal: 100 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: JBX68N. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-ex90-twin-motor-performance-7-seater-jbx68n</g:link>
     <link>https://borasbil.se/bilar/volvo-ex90-twin-motor-performance-7-seater-jbx68n</link>
     <url>https://borasbil.se/bilar/volvo-ex90-twin-motor-performance-7-seater-jbx68n</url>
@@ -1556,7 +1556,7 @@
     <model>EX90</model>
     <year>2026</year>
     <mileage>
-      <value>100</value>
+      <value>1000</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
@@ -9847,50 +9847,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>bc3d9be4-2dda-414f-8be9-70d7bf3e8140</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>bc3d9be4-2dda-414f-8be9-70d7bf3e8140</vehicle_id>
-    <vehicle_registration_plate>RAE02N</vehicle_registration_plate>
-    <g:title>Peugeot 2008 GT Electric 5-d SUV</g:title>
-    <title>Peugeot 2008 GT Electric 5-d SUV</title>
-    <g:description>GT Electric 5-d SUV. Från 3 130 kr/mån. Miltal: 3 270 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: RAE02N. Kontakta oss för mer information.</g:description>
-    <description>GT Electric 5-d SUV. Från 3 130 kr/mån. Miltal: 3 270 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: RAE02N. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/peugeot-e-2008-rae02n</g:link>
-    <link>https://borasbil.se/bilar/peugeot-e-2008-rae02n</link>
-    <url>https://borasbil.se/bilar/peugeot-e-2008-rae02n</url>
-    <g:brand>Peugeot</g:brand>
-    <brand>Peugeot</brand>
-    <make>Peugeot</make>
-    <g:image_link>https://cdn.wayke.se/cfit/7b16e1da-c628-4520-8c23-e7b9c906b1ef/c00da626-cf29-4351-9cc7-3363e46988ee?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/7b16e1da-c628-4520-8c23-e7b9c906b1ef/c00da626-cf29-4351-9cc7-3363e46988ee?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>2008</model>
-    <year>2022</year>
-    <mileage>
-      <value>32700</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>199000 SEK</g:price>
-    <price>199000 SEK</price>
-    <sale_price>199000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>e27cf7a6-a6df-4cd3-abf2-c4445592868f</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -12038,50 +11994,6 @@
     <g:price>325000 SEK</g:price>
     <price>325000 SEK</price>
     <sale_price>325000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>6f30bf3b-32e7-4621-973f-b160da4e0160</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>6f30bf3b-32e7-4621-973f-b160da4e0160</vehicle_id>
-    <vehicle_registration_plate>CHZ86W</vehicle_registration_plate>
-    <g:title>Lynk &amp; Co 01</g:title>
-    <title>Lynk &amp; Co 01</title>
-    <g:description>Från 4 231 kr/mån. Miltal: 2 413 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: CHZ86W. Kontakta oss för mer information.</g:description>
-    <description>Från 4 231 kr/mån. Miltal: 2 413 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: CHZ86W. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/lynk-co-01-phev-chz86w</g:link>
-    <link>https://borasbil.se/bilar/lynk-co-01-phev-chz86w</link>
-    <url>https://borasbil.se/bilar/lynk-co-01-phev-chz86w</url>
-    <g:brand>Lynk &amp; Co</g:brand>
-    <brand>Lynk &amp; Co</brand>
-    <make>Lynk &amp; Co</make>
-    <g:image_link>https://cdn.wayke.se/cfit/0897fc07-c965-41b9-90f9-63b7fa7e70ee/99348e1c-dfd0-40ce-b9a1-1337d90d4d74?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/0897fc07-c965-41b9-90f9-63b7fa7e70ee/99348e1c-dfd0-40ce-b9a1-1337d90d4d74?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>01</model>
-    <year>2022</year>
-    <mileage>
-      <value>24130</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>269000 SEK</g:price>
-    <price>269000 SEK</price>
-    <sale_price>269000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Borås Bil</component>
       <component name="country">SE</component>
