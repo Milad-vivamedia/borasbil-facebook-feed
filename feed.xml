@@ -6699,50 +6699,6 @@
     <state_of_vehicle>NEW</state_of_vehicle>
     </item>
     <item>
-    <g:id>16bd247c-9c8e-439e-9cab-8db49cc3a0e2</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>16bd247c-9c8e-439e-9cab-8db49cc3a0e2</vehicle_id>
-    <vehicle_registration_plate>RBC38W</vehicle_registration_plate>
-    <g:title>Peugeot Expert Skåp Plus L3 75kWh</g:title>
-    <title>Peugeot Expert Skåp Plus L3 75kWh</title>
-    <g:description>Skåp Plus L3 75kWh. Från 6 433 kr/mån. Miltal: 97 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Reg.nr: RBC38W. Kontakta oss för mer information.</g:description>
-    <description>Skåp Plus L3 75kWh. Från 6 433 kr/mån. Miltal: 97 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Reg.nr: RBC38W. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/peugeot-e-expert-rbc38w</g:link>
-    <link>https://borasbil.se/bilar/peugeot-e-expert-rbc38w</link>
-    <url>https://borasbil.se/bilar/peugeot-e-expert-rbc38w</url>
-    <g:brand>Peugeot</g:brand>
-    <brand>Peugeot</brand>
-    <make>Peugeot</make>
-    <g:image_link>https://cdn.wayke.se/cfit/cc29c96d-bf53-40a0-a017-fcee6b735aa2/2e356c8d-d31f-4f89-8c19-e4bca1217368?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/cc29c96d-bf53-40a0-a017-fcee6b735aa2/2e356c8d-d31f-4f89-8c19-e4bca1217368?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Expert</model>
-    <year>2024</year>
-    <mileage>
-      <value>970</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>409000 SEK</g:price>
-    <price>409000 SEK</price>
-    <sale_price>409000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>898b5223-fe43-44d1-987a-ebdc51109797</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
