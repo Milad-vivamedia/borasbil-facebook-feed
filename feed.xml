@@ -5,6 +5,134 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>83e83010-380f-4415-a497-88f28e953501</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>83e83010-380f-4415-a497-88f28e953501</vehicle_id>
+    <vehicle_registration_plate>PEF24R</vehicle_registration_plate>
+    <g:title>Volvo XC40 Core</g:title>
+    <title>Volvo XC40 Core</title>
+    <g:description>Core. Från 5 489 kr/mån. Miltal: 6 785 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: PEF24R. Kontakta oss för mer information.</g:description>
+    <description>Core. Från 5 489 kr/mån. Miltal: 6 785 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: PEF24R. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-pef24r</g:link>
+    <link>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-pef24r</link>
+    <url>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-pef24r</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/cf9f0d5870f141d89d0b4c564d9e3ad9/2fd6e8dbcc074fefb07dc92d125711f0?format=jpeg&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/cf9f0d5870f141d89d0b4c564d9e3ad9/2fd6e8dbcc074fefb07dc92d125711f0?format=jpeg&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC40</model>
+    <year>2023</year>
+    <mileage>
+      <value>67850</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>349000 SEK</g:price>
+    <price>349000 SEK</price>
+    <sale_price>349000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Bogesunds Bil Ulricehamn</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>eb503001-3d08-49ec-9bf5-8f5aea41de7b</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>eb503001-3d08-49ec-9bf5-8f5aea41de7b</vehicle_id>
+    <vehicle_registration_plate>FFJ08W</vehicle_registration_plate>
+    <g:title>Volvo EX90 M Ultra Pro Edt 7s</g:title>
+    <title>Volvo EX90 M Ultra Pro Edt 7s</title>
+    <g:description>M Ultra Pro Edt 7s. Från 16 813 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: FFJ08W. Kontakta oss för mer information.</g:description>
+    <description>M Ultra Pro Edt 7s. Från 16 813 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: FFJ08W. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-ex90-twin-motor-performance-7-seater-ffj08w</g:link>
+    <link>https://borasbil.se/bilar/volvo-ex90-twin-motor-performance-7-seater-ffj08w</link>
+    <url>https://borasbil.se/bilar/volvo-ex90-twin-motor-performance-7-seater-ffj08w</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/ce021d3d-573b-4558-9cf6-e997b3da3f51/98a79b9a-5d46-47bb-9fde-f35105a14c49?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/ce021d3d-573b-4558-9cf6-e997b3da3f51/98a79b9a-5d46-47bb-9fde-f35105a14c49?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>EX90</model>
+    <year>2026</year>
+    <body_style>SUV</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>1069000 SEK</g:price>
+    <price>1069000 SEK</price>
+    <sale_price>1069000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Bogesunds Bil Ulricehamn</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>d4fcb02b-980a-45eb-a36f-c92acc69b0ff</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>d4fcb02b-980a-45eb-a36f-c92acc69b0ff</vehicle_id>
+    <vehicle_registration_plate>TDY147</vehicle_registration_plate>
+    <g:title>Volvo XC40 Ultimate</g:title>
+    <title>Volvo XC40 Ultimate</title>
+    <g:description>Ultimate. Från 6 118 kr/mån. Miltal: 2 247 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: TDY147. Kontakta oss för mer information.</g:description>
+    <description>Ultimate. Från 6 118 kr/mån. Miltal: 2 247 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: TDY147. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-tdy147</g:link>
+    <link>https://borasbil.se/bilar/volvo-xc40-recharge-tdy147</link>
+    <url>https://borasbil.se/bilar/volvo-xc40-recharge-tdy147</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/defb1b40-de27-4052-b651-7ce9f60ff8e8/a73c4175-b192-4598-b375-057f4af43810?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/defb1b40-de27-4052-b651-7ce9f60ff8e8/a73c4175-b192-4598-b375-057f4af43810?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC40</model>
+    <year>2023</year>
+    <mileage>
+      <value>22470</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>389000 SEK</g:price>
+    <price>389000 SEK</price>
+    <sale_price>389000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>6370628f-8950-4995-9a34-9ce1725e240b</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -1188,8 +1316,8 @@
     <vehicle_registration_plate>JAW97W</vehicle_registration_plate>
     <g:title>Volvo XC60 T6 Ultra Black Edition</g:title>
     <title>Volvo XC60 T6 Ultra Black Edition</title>
-    <g:description>T6 Ultra Black Edition. Från 9 421 kr/mån. Miltal: 3 993 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: JAW97W. Kontakta oss för mer information.</g:description>
-    <description>T6 Ultra Black Edition. Från 9 421 kr/mån. Miltal: 3 993 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: JAW97W. Kontakta oss för mer information.</description>
+    <g:description>T6 Ultra Black Edition. Från 9 421 kr/mån. Miltal: 3 996 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: JAW97W. Kontakta oss för mer information.</g:description>
+    <description>T6 Ultra Black Edition. Från 9 421 kr/mån. Miltal: 3 996 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: JAW97W. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc60-jaw97w</g:link>
     <link>https://borasbil.se/bilar/volvo-xc60-jaw97w</link>
     <url>https://borasbil.se/bilar/volvo-xc60-jaw97w</url>
@@ -1204,7 +1332,7 @@
     <model>XC60</model>
     <year>2025</year>
     <mileage>
-      <value>39930</value>
+      <value>39960</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
@@ -1284,9 +1412,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/eb9d0ff5-b15b-4b92-88f0-3b020acb80a9/c998467b-fc8d-46d2-929f-0c0bdffb09a4?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/06f4bc2b-8033-4571-8c5f-852409597834/04d3babc-8eb2-4296-a92a-875d1d861ba6?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/eb9d0ff5-b15b-4b92-88f0-3b020acb80a9/c998467b-fc8d-46d2-929f-0c0bdffb09a4?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/06f4bc2b-8033-4571-8c5f-852409597834/04d3babc-8eb2-4296-a92a-875d1d861ba6?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC40</model>
@@ -1540,8 +1668,8 @@
     <vehicle_registration_plate>JBX68N</vehicle_registration_plate>
     <g:title>Volvo EX90 Ultra 7sätes</g:title>
     <title>Volvo EX90 Ultra 7sätes</title>
-    <g:description>Ultra 7sätes. Från 19 487 kr/mån. Miltal: 100 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: JBX68N. Kontakta oss för mer information.</g:description>
-    <description>Ultra 7sätes. Från 19 487 kr/mån. Miltal: 100 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: JBX68N. Kontakta oss för mer information.</description>
+    <g:description>Ultra 7sätes. Från 19 487 kr/mån. Miltal: 61 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: JBX68N. Kontakta oss för mer information.</g:description>
+    <description>Ultra 7sätes. Från 19 487 kr/mån. Miltal: 61 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: JBX68N. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-ex90-twin-motor-performance-7-seater-jbx68n</g:link>
     <link>https://borasbil.se/bilar/volvo-ex90-twin-motor-performance-7-seater-jbx68n</link>
     <url>https://borasbil.se/bilar/volvo-ex90-twin-motor-performance-7-seater-jbx68n</url>
@@ -1556,7 +1684,7 @@
     <model>EX90</model>
     <year>2026</year>
     <mileage>
-      <value>1000</value>
+      <value>610</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
@@ -2420,8 +2548,8 @@
     <vehicle_registration_plate>PCW04H</vehicle_registration_plate>
     <g:title>Volvo XC60 T6 Plus Dark Nordic Edition</g:title>
     <title>Volvo XC60 T6 Plus Dark Nordic Edition</title>
-    <g:description>T6 Plus Dark Nordic Edition. Från 9 421 kr/mån. Miltal: 1 801 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: PCW04H. Kontakta oss för mer information.</g:description>
-    <description>T6 Plus Dark Nordic Edition. Från 9 421 kr/mån. Miltal: 1 801 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: PCW04H. Kontakta oss för mer information.</description>
+    <g:description>T6 Plus Dark Nordic Edition. Från 9 421 kr/mån. Miltal: 1 808 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: PCW04H. Kontakta oss för mer information.</g:description>
+    <description>T6 Plus Dark Nordic Edition. Från 9 421 kr/mån. Miltal: 1 808 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: PCW04H. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc60-pcw04h</g:link>
     <link>https://borasbil.se/bilar/volvo-xc60-pcw04h</link>
     <url>https://borasbil.se/bilar/volvo-xc60-pcw04h</url>
@@ -2436,7 +2564,7 @@
     <model>XC60</model>
     <year>2026</year>
     <mileage>
-      <value>18010</value>
+      <value>18080</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
@@ -6626,8 +6754,8 @@
     <vehicle_registration_plate>WSS20X</vehicle_registration_plate>
     <g:title>Volvo XC60 Recharge T6 Plus Dark</g:title>
     <title>Volvo XC60 Recharge T6 Plus Dark</title>
-    <g:description>Recharge T6 Plus Dark. Från 7 062 kr/mån. Miltal: 9 952 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: WSS20X. Kontakta oss för mer information.</g:description>
-    <description>Recharge T6 Plus Dark. Från 7 062 kr/mån. Miltal: 9 952 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: WSS20X. Kontakta oss för mer information.</description>
+    <g:description>Recharge T6 Plus Dark. Från 7 062 kr/mån. Miltal: 9 957 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: WSS20X. Kontakta oss för mer information.</g:description>
+    <description>Recharge T6 Plus Dark. Från 7 062 kr/mån. Miltal: 9 957 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: WSS20X. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc60-wss20x</g:link>
     <link>https://borasbil.se/bilar/volvo-xc60-wss20x</link>
     <url>https://borasbil.se/bilar/volvo-xc60-wss20x</url>
@@ -6642,7 +6770,7 @@
     <model>XC60</model>
     <year>2023</year>
     <mileage>
-      <value>99520</value>
+      <value>99570</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
@@ -12141,8 +12269,8 @@
     <vehicle_registration_plate>LGJ37Z</vehicle_registration_plate>
     <g:title>Volvo XC90 T8 Ultra Dark</g:title>
     <title>Volvo XC90 T8 Ultra Dark</title>
-    <g:description>T8 Ultra Dark. Från 13 825 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: LGJ37Z. Kontakta oss för mer information.</g:description>
-    <description>T8 Ultra Dark. Från 13 825 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: LGJ37Z. Kontakta oss för mer information.</description>
+    <g:description>T8 Ultra Dark. Från 13 825 kr/mån. Miltal: 1 537 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: LGJ37Z. Kontakta oss för mer information.</g:description>
+    <description>T8 Ultra Dark. Från 13 825 kr/mån. Miltal: 1 537 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: LGJ37Z. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc90-lgj37z</g:link>
     <link>https://borasbil.se/bilar/volvo-xc90-lgj37z</link>
     <url>https://borasbil.se/bilar/volvo-xc90-lgj37z</url>
@@ -12156,6 +12284,10 @@
     </image>
     <model>XC90</model>
     <year>2026</year>
+    <mileage>
+      <value>15370</value>
+      <unit>KM</unit>
+    </mileage>
     <body_style>SUV</body_style>
     <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
@@ -13009,8 +13141,8 @@
     <vehicle_registration_plate>UPM79S</vehicle_registration_plate>
     <g:title>Volvo XC90 Recharge T8 Ultimate Dark - Pano/Drag!</g:title>
     <title>Volvo XC90 Recharge T8 Ultimate Dark - Pano/Drag!</title>
-    <g:description>Recharge T8 Ultimate Dark - Pano/Drag!. Från 9 264 kr/mån. Miltal: 10 198 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: UPM79S. Kontakta oss för mer information.</g:description>
-    <description>Recharge T8 Ultimate Dark - Pano/Drag!. Från 9 264 kr/mån. Miltal: 10 198 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Laddhybrid. Reg.nr: UPM79S. Kontakta oss för mer information.</description>
+    <g:description>Recharge T8 Ultimate Dark - Pano/Drag!. Från 9 264 kr/mån. Miltal: 10 200 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: UPM79S. Kontakta oss för mer information.</g:description>
+    <description>Recharge T8 Ultimate Dark - Pano/Drag!. Från 9 264 kr/mån. Miltal: 10 200 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: UPM79S. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc90-7-saten-upm79s</g:link>
     <link>https://borasbil.se/bilar/volvo-xc90-7-saten-upm79s</link>
     <url>https://borasbil.se/bilar/volvo-xc90-7-saten-upm79s</url>
@@ -13025,11 +13157,11 @@
     <model>XC90</model>
     <year>2023</year>
     <mileage>
-      <value>101980</value>
+      <value>102000</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
-    <fuel_type>Plug-in Hybrid</fuel_type>
+    <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
     <g:price>589000 SEK</g:price>
     <price>589000 SEK</price>
@@ -13577,11 +13709,11 @@
     <vehicle_registration_plate>SOG04C</vehicle_registration_plate>
     <g:title>Peugeot 3008 GT A 5-d SUV</g:title>
     <title>Peugeot 3008 GT A 5-d SUV</title>
-    <g:description>GT A 5-d SUV. Från 5 646 kr/mån. Miltal: 500 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: SOG04C. Kontakta oss för mer information.</g:description>
-    <description>GT A 5-d SUV. Från 5 646 kr/mån. Miltal: 500 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: SOG04C. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/peugeot-3008-hybrid-136-sog04c</g:link>
-    <link>https://borasbil.se/bilar/peugeot-3008-hybrid-136-sog04c</link>
-    <url>https://borasbil.se/bilar/peugeot-3008-hybrid-136-sog04c</url>
+    <g:description>GT A 5-d SUV. Från 5 646 kr/mån. Miltal: 744 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: SOG04C. Kontakta oss för mer information.</g:description>
+    <description>GT A 5-d SUV. Från 5 646 kr/mån. Miltal: 744 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: SOG04C. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/peugeot-3008-hybrid-145-sog04c</g:link>
+    <link>https://borasbil.se/bilar/peugeot-3008-hybrid-145-sog04c</link>
+    <url>https://borasbil.se/bilar/peugeot-3008-hybrid-145-sog04c</url>
     <g:brand>Peugeot</g:brand>
     <brand>Peugeot</brand>
     <make>Peugeot</make>
@@ -13593,7 +13725,7 @@
     <model>3008</model>
     <year>2025</year>
     <mileage>
-      <value>5000</value>
+      <value>7440</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
