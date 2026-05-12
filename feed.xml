@@ -5,6 +5,46 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>8cf8f0c1-58ed-4afa-87a3-492b3f8c5387</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>8cf8f0c1-58ed-4afa-87a3-492b3f8c5387</vehicle_id>
+    <vehicle_registration_plate>XJD21E</vehicle_registration_plate>
+    <g:title>Peugeot 3008 GT 5-d SUV</g:title>
+    <title>Peugeot 3008 GT 5-d SUV</title>
+    <g:description>GT 5-d SUV. Från 6 464 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: XJD21E. Kontakta oss för mer information.</g:description>
+    <description>GT 5-d SUV. Från 6 464 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: XJD21E. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/peugeot-3008-hybrid-145-xjd21e</g:link>
+    <link>https://borasbil.se/bilar/peugeot-3008-hybrid-145-xjd21e</link>
+    <url>https://borasbil.se/bilar/peugeot-3008-hybrid-145-xjd21e</url>
+    <g:brand>Peugeot</g:brand>
+    <brand>Peugeot</brand>
+    <make>Peugeot</make>
+    <g:image_link>https://cdn.wayke.se/cfit/5f7efa72-9e1e-4428-b1a1-53f586ca843e/a7ef94f0-c7df-4eb0-b784-5c9fb0a98b47?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/5f7efa72-9e1e-4428-b1a1-53f586ca843e/a7ef94f0-c7df-4eb0-b784-5c9fb0a98b47?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>3008</model>
+    <year>2026</year>
+    <body_style>SUV</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>411000 SEK</g:price>
+    <price>411000 SEK</price>
+    <sale_price>411000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Bogesunds Bil Ulricehamn</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    </item>
+    <item>
     <g:id>83e83010-380f-4415-a497-88f28e953501</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
