@@ -5,6 +5,46 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>e0f134bb-cf9e-4f49-98f3-ad892dc708cc</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>e0f134bb-cf9e-4f49-98f3-ad892dc708cc</vehicle_id>
+    <vehicle_registration_plate>MFJ49R</vehicle_registration_plate>
+    <g:title>Peugeot 2008 GT A</g:title>
+    <title>Peugeot 2008 GT A</title>
+    <g:description>GT A. Från 5 615 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: MFJ49R. Kontakta oss för mer information.</g:description>
+    <description>GT A. Från 5 615 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: MFJ49R. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/peugeot-2008-hybrid-145-mfj49r</g:link>
+    <link>https://borasbil.se/bilar/peugeot-2008-hybrid-145-mfj49r</link>
+    <url>https://borasbil.se/bilar/peugeot-2008-hybrid-145-mfj49r</url>
+    <g:brand>Peugeot</g:brand>
+    <brand>Peugeot</brand>
+    <make>Peugeot</make>
+    <g:image_link>https://cdn.wayke.se/cfit/856196e9-f773-4727-8698-a7b664328f42/d19bbe9d-4954-4bee-b0ed-0a06b574bc28?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/856196e9-f773-4727-8698-a7b664328f42/d19bbe9d-4954-4bee-b0ed-0a06b574bc28?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>2008</model>
+    <year>2026</year>
+    <body_style>Sedan</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>357000 SEK</g:price>
+    <price>357000 SEK</price>
+    <sale_price>357000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Bogesunds Bil Ulricehamn</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    </item>
+    <item>
     <g:id>1ed02bd4-c478-40e4-baa6-ac256a690a5c</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -6754,9 +6794,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/c13a5b52-8c79-437d-9c08-477a4dd933cf/7459c57e-686b-4cf2-9470-43a480cc751d?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/d30cb0ca-d0e6-4e43-ac4d-4588c15ec77a/10680a63-8daf-4863-b243-d5093b96bc6f?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/c13a5b52-8c79-437d-9c08-477a4dd933cf/7459c57e-686b-4cf2-9470-43a480cc751d?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/d30cb0ca-d0e6-4e43-ac4d-4588c15ec77a/10680a63-8daf-4863-b243-d5093b96bc6f?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>V90</model>
