@@ -5575,50 +5575,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>d2d82ba4-9103-4c2b-a292-ff48b8006ab4</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>d2d82ba4-9103-4c2b-a292-ff48b8006ab4</vehicle_id>
-    <vehicle_registration_plate>ESG24A</vehicle_registration_plate>
-    <g:title>Citroën C4 SHINE Pure Tech 130 A 5-d</g:title>
-    <title>Citroën C4 SHINE Pure Tech 130 A 5-d</title>
-    <g:description>SHINE Pure Tech 130 A 5-d. Från 2 973 kr/mån. Miltal: 3 947 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: ESG24A. Kontakta oss för mer information.</g:description>
-    <description>SHINE Pure Tech 130 A 5-d. Från 2 973 kr/mån. Miltal: 3 947 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: ESG24A. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/citroen-c4-esg24a</g:link>
-    <link>https://borasbil.se/bilar/citroen-c4-esg24a</link>
-    <url>https://borasbil.se/bilar/citroen-c4-esg24a</url>
-    <g:brand>Citroën</g:brand>
-    <brand>Citroën</brand>
-    <make>Citroën</make>
-    <g:image_link>https://cdn.wayke.se/cfit/c3a92da8-608d-45df-b4fa-1989cfeb3afe/6b765913-0f65-4cf5-90ee-4a202cfea2a6?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/c3a92da8-608d-45df-b4fa-1989cfeb3afe/6b765913-0f65-4cf5-90ee-4a202cfea2a6?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C4</model>
-    <year>2023</year>
-    <mileage>
-      <value>39470</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>189000 SEK</g:price>
-    <price>189000 SEK</price>
-    <sale_price>189000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>9e0521bb-ba27-4777-b4d3-6065c5dd1fa9</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -12772,50 +12728,6 @@
     <g:condition>new</g:condition>
     <condition>new</condition>
     <state_of_vehicle>NEW</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>09a00411-391e-42da-9c87-df660ef92543</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>09a00411-391e-42da-9c87-df660ef92543</vehicle_id>
-    <vehicle_registration_plate>AOJ02Z</vehicle_registration_plate>
-    <g:title>Volvo V60 Recharge T6 Core Edition - Driver Awareness!</g:title>
-    <title>Volvo V60 Recharge T6 Core Edition - Driver Awareness!</title>
-    <g:description>Recharge T6 Core Edition - Driver Awareness!. Från 5 489 kr/mån. Miltal: 8 023 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: AOJ02Z. Kontakta oss för mer information.</g:description>
-    <description>Recharge T6 Core Edition - Driver Awareness!. Från 5 489 kr/mån. Miltal: 8 023 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: AOJ02Z. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-v60-aoj02z</g:link>
-    <link>https://borasbil.se/bilar/volvo-v60-aoj02z</link>
-    <url>https://borasbil.se/bilar/volvo-v60-aoj02z</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/7a83852c-a157-4ad5-91b7-8cf08670b3c5/396b80d0-a25b-4922-a929-d75f8f598aa3?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/7a83852c-a157-4ad5-91b7-8cf08670b3c5/396b80d0-a25b-4922-a929-d75f8f598aa3?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V60</model>
-    <year>2024</year>
-    <mileage>
-      <value>80230</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>349000 SEK</g:price>
-    <price>349000 SEK</price>
-    <sale_price>349000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
     <g:id>eeb161b8-8d80-403f-bb7d-6290228be5c1</g:id>
