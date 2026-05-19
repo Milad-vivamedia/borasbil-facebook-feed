@@ -8557,50 +8557,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>e40ecc95-61c6-4d90-b2bd-f7d7350c534b</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>e40ecc95-61c6-4d90-b2bd-f7d7350c534b</vehicle_id>
-    <vehicle_registration_plate>CMY54A</vehicle_registration_plate>
-    <g:title>Volvo V90 B4 AWD Diesel Adv Edt</g:title>
-    <title>Volvo V90 B4 AWD Diesel Adv Edt</title>
-    <g:description>B4 AWD Diesel Adv Edt. Från 6 275 kr/mån. Miltal: 10 327 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Diesel. Reg.nr: CMY54A. Kontakta oss för mer information.</g:description>
-    <description>B4 AWD Diesel Adv Edt. Från 6 275 kr/mån. Miltal: 10 327 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Diesel. Reg.nr: CMY54A. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-v90-cross-country-cmy54a</g:link>
-    <link>https://borasbil.se/bilar/volvo-v90-cross-country-cmy54a</link>
-    <url>https://borasbil.se/bilar/volvo-v90-cross-country-cmy54a</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/e860762d-b41b-4abe-8250-037e58fef153/b9b31be6-3434-4f81-9b1d-085e78b8faff?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/e860762d-b41b-4abe-8250-037e58fef153/b9b31be6-3434-4f81-9b1d-085e78b8faff?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V90</model>
-    <year>2022</year>
-    <mileage>
-      <value>103270</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>399000 SEK</g:price>
-    <price>399000 SEK</price>
-    <sale_price>399000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>7fac6e1e-85c9-4bf1-951f-0aa3b7cc9c77</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
