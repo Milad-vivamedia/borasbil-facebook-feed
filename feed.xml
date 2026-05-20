@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>b3b148be-e52b-47f2-9195-614f4e85bbb5</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>b3b148be-e52b-47f2-9195-614f4e85bbb5</vehicle_id>
+    <vehicle_registration_plate>SBW05H</vehicle_registration_plate>
+    <g:title>Volvo XC90 T8 Ultra Dark</g:title>
+    <title>Volvo XC90 T8 Ultra Dark</title>
+    <g:description>T8 Ultra Dark. Från 14 139 kr/mån. Miltal: 2 627 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: SBW05H. Kontakta oss för mer information.</g:description>
+    <description>T8 Ultra Dark. Från 14 139 kr/mån. Miltal: 2 627 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: SBW05H. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-xc90-sbw05h</g:link>
+    <link>https://borasbil.se/bilar/volvo-xc90-sbw05h</link>
+    <url>https://borasbil.se/bilar/volvo-xc90-sbw05h</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/c1c6b40982284b17b8f59681702a47b7/f4ba6bfa160944dd87afaf211d3223ee?format=jpeg&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/c1c6b40982284b17b8f59681702a47b7/f4ba6bfa160944dd87afaf211d3223ee?format=jpeg&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC90</model>
+    <year>2026</year>
+    <mileage>
+      <value>26270</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>899000 SEK</g:price>
+    <price>899000 SEK</price>
+    <sale_price>899000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    </item>
+    <item>
     <g:id>c7683421-0810-4dcd-acd7-2b9e8f6c8a51</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -5690,50 +5734,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>331bcb32-48c6-425c-9b28-604b19a556a4</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>331bcb32-48c6-425c-9b28-604b19a556a4</vehicle_id>
-    <vehicle_registration_plate>TGP783</vehicle_registration_plate>
-    <g:title>Volvo XC60 Recharge T6 Core Edition</g:title>
-    <title>Volvo XC60 Recharge T6 Core Edition</title>
-    <g:description>Recharge T6 Core Edition. Från 5 646 kr/mån. Miltal: 12 642 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: TGP783. Kontakta oss för mer information.</g:description>
-    <description>Recharge T6 Core Edition. Från 5 646 kr/mån. Miltal: 12 642 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: TGP783. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc60-tgp783</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc60-tgp783</link>
-    <url>https://borasbil.se/bilar/volvo-xc60-tgp783</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/93e3ee84-6a00-4536-8a3f-38bb08c41d62/013ec3a0-d693-4f36-894a-9b928c4941a7?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/93e3ee84-6a00-4536-8a3f-38bb08c41d62/013ec3a0-d693-4f36-894a-9b928c4941a7?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2023</year>
-    <mileage>
-      <value>126420</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>359000 SEK</g:price>
-    <price>359000 SEK</price>
-    <sale_price>359000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>6d5f5817-3faa-4035-a689-b36eb908db56</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -7385,46 +7385,6 @@
     <state_of_vehicle>NEW</state_of_vehicle>
     </item>
     <item>
-    <g:id>a47bf5c8-44d0-4112-8a7e-03f6d798f2b7</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>a47bf5c8-44d0-4112-8a7e-03f6d798f2b7</vehicle_id>
-    <vehicle_registration_plate>EFD45T</vehicle_registration_plate>
-    <g:title>Maxus T60 Max Luxury 2.0 215 hk A</g:title>
-    <title>Maxus T60 Max Luxury 2.0 215 hk A</title>
-    <g:description>Luxury 2.0 215 hk A. Från 7 665 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: Diesel. Reg.nr: EFD45T. Kontakta oss för mer information.</g:description>
-    <description>Luxury 2.0 215 hk A. Från 7 665 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: Diesel. Reg.nr: EFD45T. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/maxus-t60-max-efd45t</g:link>
-    <link>https://borasbil.se/bilar/maxus-t60-max-efd45t</link>
-    <url>https://borasbil.se/bilar/maxus-t60-max-efd45t</url>
-    <g:brand>Maxus</g:brand>
-    <brand>Maxus</brand>
-    <make>Maxus</make>
-    <g:image_link>https://cdn.wayke.se/cfit/22d73d91-05b0-4967-a5b5-e302b46b874d/0ad1a253-5076-414d-a0ef-a0b6f4cf4782?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/22d73d91-05b0-4967-a5b5-e302b46b874d/0ad1a253-5076-414d-a0ef-a0b6f4cf4782?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>T60 Max</model>
-    <year>2026</year>
-    <body_style>Sedan</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>487375 SEK</g:price>
-    <price>487375 SEK</price>
-    <sale_price>487375 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>new</g:condition>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    </item>
-    <item>
     <g:id>e832cd1f-2334-4c49-bed3-527e5f616b64</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -8990,50 +8950,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>dd0b285a-79fc-4b84-aab6-adaa7df0df08</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>dd0b285a-79fc-4b84-aab6-adaa7df0df08</vehicle_id>
-    <vehicle_registration_plate>YRT400</vehicle_registration_plate>
-    <g:title>Volvo V40 T3 Business</g:title>
-    <title>Volvo V40 T3 Business</title>
-    <g:description>T3 Business. Från 2 343 kr/mån. Miltal: 12 556 mil. Årsmodell: 2018. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: YRT400. Kontakta oss för mer information.</g:description>
-    <description>T3 Business. Från 2 343 kr/mån. Miltal: 12 556 mil. Årsmodell: 2018. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: YRT400. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-v40-yrt400</g:link>
-    <link>https://borasbil.se/bilar/volvo-v40-yrt400</link>
-    <url>https://borasbil.se/bilar/volvo-v40-yrt400</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/95bf94bb-f894-4717-851d-b93711513e40/76817963-3e30-4bcc-adcd-8045f525fdce?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/95bf94bb-f894-4717-851d-b93711513e40/76817963-3e30-4bcc-adcd-8045f525fdce?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V40</model>
-    <year>2018</year>
-    <mileage>
-      <value>125560</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Manual</transmission>
-    <g:price>149000 SEK</g:price>
-    <price>149000 SEK</price>
-    <sale_price>149000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Bogesunds Bil Ulricehamn</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -12175,9 +12091,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/de23758f-87fb-4ba3-bdb1-7758e277f32e/d33e783b-bc35-42d9-8492-841d84d5564f?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/6a624000-4e6b-42c5-8165-a5981994e20b/671814e5-e927-4f18-a869-c64f5456de20?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/de23758f-87fb-4ba3-bdb1-7758e277f32e/d33e783b-bc35-42d9-8492-841d84d5564f?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/6a624000-4e6b-42c5-8165-a5981994e20b/671814e5-e927-4f18-a869-c64f5456de20?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC60</model>
@@ -12626,50 +12542,6 @@
     <g:condition>used</g:condition>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>dec2b004-867f-4da4-beac-54aca0cefe76</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>dec2b004-867f-4da4-beac-54aca0cefe76</vehicle_id>
-    <vehicle_registration_plate>SBW05H</vehicle_registration_plate>
-    <g:title>Volvo XC90 T8 Ultra Dark</g:title>
-    <title>Volvo XC90 T8 Ultra Dark</title>
-    <g:description>T8 Ultra Dark. Från 14 139 kr/mån. Miltal: 2 700 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: SBW05H. Kontakta oss för mer information.</g:description>
-    <description>T8 Ultra Dark. Från 14 139 kr/mån. Miltal: 2 700 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: SBW05H. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc90-sbw05h</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc90-sbw05h</link>
-    <url>https://borasbil.se/bilar/volvo-xc90-sbw05h</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/f475b01d-c4be-4d56-a83e-73f1ef67934b/8301a928-8cec-4862-adb7-fec5d11bc0af?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/f475b01d-c4be-4d56-a83e-73f1ef67934b/8301a928-8cec-4862-adb7-fec5d11bc0af?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC90</model>
-    <year>2026</year>
-    <mileage>
-      <value>27000</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>899000 SEK</g:price>
-    <price>899000 SEK</price>
-    <sale_price>899000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>new</g:condition>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
     </item>
     <item>
     <g:id>d989840c-8fea-4793-a778-0ca57c056581</g:id>
