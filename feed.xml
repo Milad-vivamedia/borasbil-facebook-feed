@@ -5,6 +5,402 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>90714ee3-91dd-4e1a-8e7d-63417960de21</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>90714ee3-91dd-4e1a-8e7d-63417960de21</vehicle_id>
+    <vehicle_registration_plate>NWT952</vehicle_registration_plate>
+    <g:title>Volvo V90 Momentum Advanced SE</g:title>
+    <title>Volvo V90 Momentum Advanced SE</title>
+    <g:description>Momentum Advanced SE. Från 4 074 kr/mån. Miltal: 9 592 mil. Årsmodell: 2019. Växellåda: Automat. Bränsle: Bensin. Reg.nr: NWT952. Kontakta oss för mer information.</g:description>
+    <description>Momentum Advanced SE. Från 4 074 kr/mån. Miltal: 9 592 mil. Årsmodell: 2019. Växellåda: Automat. Bränsle: Bensin. Reg.nr: NWT952. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-v90-t4-nwt952</g:link>
+    <link>https://borasbil.se/bilar/volvo-v90-t4-nwt952</link>
+    <url>https://borasbil.se/bilar/volvo-v90-t4-nwt952</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/bff44d66-eaf9-4047-973b-efeec7da5c9e/8d581644-733b-48bd-89f0-89fe56731cbf?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/bff44d66-eaf9-4047-973b-efeec7da5c9e/8d581644-733b-48bd-89f0-89fe56731cbf?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>V90</model>
+    <year>2019</year>
+    <mileage>
+      <value>95920</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Wagon</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>259000 SEK</g:price>
+    <price>259000 SEK</price>
+    <sale_price>259000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>adabfd4c-d1a0-4a46-bf03-8c47780ed7b0</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>adabfd4c-d1a0-4a46-bf03-8c47780ed7b0</vehicle_id>
+    <vehicle_registration_plate>PNP54H</vehicle_registration_plate>
+    <g:title>Lynk &amp; Co 01</g:title>
+    <title>Lynk &amp; Co 01</title>
+    <g:description>Från 4 545 kr/mån. Miltal: 2 937 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: PNP54H. Kontakta oss för mer information.</g:description>
+    <description>Från 4 545 kr/mån. Miltal: 2 937 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: PNP54H. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/lynk-co-01-phev-pnp54h</g:link>
+    <link>https://borasbil.se/bilar/lynk-co-01-phev-pnp54h</link>
+    <url>https://borasbil.se/bilar/lynk-co-01-phev-pnp54h</url>
+    <g:brand>Lynk &amp; Co</g:brand>
+    <brand>Lynk &amp; Co</brand>
+    <make>Lynk &amp; Co</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/2bc17b8c8e774bc6baad857ab4ecb9e8/ae7eabf81c1c428a964bd989bee522c5?format=jpeg&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/2bc17b8c8e774bc6baad857ab4ecb9e8/ae7eabf81c1c428a964bd989bee522c5?format=jpeg&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>01</model>
+    <year>2023</year>
+    <mileage>
+      <value>29370</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>289000 SEK</g:price>
+    <price>289000 SEK</price>
+    <sale_price>289000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Bogesunds Bil Ulricehamn</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>231d919b-9237-4bbb-a450-fbc040184eed</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>231d919b-9237-4bbb-a450-fbc040184eed</vehicle_id>
+    <vehicle_registration_plate>ZHJ01C</vehicle_registration_plate>
+    <g:title>Lynk &amp; Co 01</g:title>
+    <title>Lynk &amp; Co 01</title>
+    <g:description>Från 4 545 kr/mån. Miltal: 2 022 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: ZHJ01C. Kontakta oss för mer information.</g:description>
+    <description>Från 4 545 kr/mån. Miltal: 2 022 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: ZHJ01C. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/lynk-co-01-phev-zhj01c</g:link>
+    <link>https://borasbil.se/bilar/lynk-co-01-phev-zhj01c</link>
+    <url>https://borasbil.se/bilar/lynk-co-01-phev-zhj01c</url>
+    <g:brand>Lynk &amp; Co</g:brand>
+    <brand>Lynk &amp; Co</brand>
+    <make>Lynk &amp; Co</make>
+    <g:image_link>https://cdn.wayke.se/cfit/0b9e8cee-3a11-4a4c-8cf2-53df789239a0/c8d81e2b-e4ad-4ec2-9d88-c4f24da5c9d6?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/0b9e8cee-3a11-4a4c-8cf2-53df789239a0/c8d81e2b-e4ad-4ec2-9d88-c4f24da5c9d6?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>01</model>
+    <year>2023</year>
+    <mileage>
+      <value>20220</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>289000 SEK</g:price>
+    <price>289000 SEK</price>
+    <sale_price>289000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Bogesunds Bil Ulricehamn</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>5441c57c-5d7e-411a-8e33-0e9af682c01a</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>5441c57c-5d7e-411a-8e33-0e9af682c01a</vehicle_id>
+    <vehicle_registration_plate>LYW74U</vehicle_registration_plate>
+    <g:title>Lynk &amp; Co 08</g:title>
+    <title>Lynk &amp; Co 08</title>
+    <g:description>Från 9 437 kr/mån. Miltal: 4 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: LYW74U. Kontakta oss för mer information.</g:description>
+    <description>Från 9 437 kr/mån. Miltal: 4 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: LYW74U. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/lynk-co-08-phev-lyw74u</g:link>
+    <link>https://borasbil.se/bilar/lynk-co-08-phev-lyw74u</link>
+    <url>https://borasbil.se/bilar/lynk-co-08-phev-lyw74u</url>
+    <g:brand>Lynk &amp; Co</g:brand>
+    <brand>Lynk &amp; Co</brand>
+    <make>Lynk &amp; Co</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/1ea86660fa8b4959b7bb16f35cf5074d/5f5b1c0a38ae4f8b8295d3f5f3748475?format=jpeg&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/1ea86660fa8b4959b7bb16f35cf5074d/5f5b1c0a38ae4f8b8295d3f5f3748475?format=jpeg&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>08</model>
+    <year>2025</year>
+    <mileage>
+      <value>40</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>599995 SEK</g:price>
+    <price>599995 SEK</price>
+    <sale_price>599995 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Bogesunds Bil Ulricehamn</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>8409b256-bf8b-44d4-b362-b30da234c45f</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>8409b256-bf8b-44d4-b362-b30da234c45f</vehicle_id>
+    <vehicle_registration_plate>JAK96U</vehicle_registration_plate>
+    <g:title>Lynk &amp; Co 01</g:title>
+    <title>Lynk &amp; Co 01</title>
+    <g:description>Från 4 545 kr/mån. Miltal: 3 296 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: JAK96U. Kontakta oss för mer information.</g:description>
+    <description>Från 4 545 kr/mån. Miltal: 3 296 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: JAK96U. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/lynk-co-01-phev-jak96u</g:link>
+    <link>https://borasbil.se/bilar/lynk-co-01-phev-jak96u</link>
+    <url>https://borasbil.se/bilar/lynk-co-01-phev-jak96u</url>
+    <g:brand>Lynk &amp; Co</g:brand>
+    <brand>Lynk &amp; Co</brand>
+    <make>Lynk &amp; Co</make>
+    <g:image_link>https://cdn.wayke.se/cfit/77d5df7f-1743-460b-b1bd-42139d3ea267/37ad9397-9a55-42d9-966c-a63909de2628?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/77d5df7f-1743-460b-b1bd-42139d3ea267/37ad9397-9a55-42d9-966c-a63909de2628?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>01</model>
+    <year>2023</year>
+    <mileage>
+      <value>32960</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>289000 SEK</g:price>
+    <price>289000 SEK</price>
+    <sale_price>289000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>769f4235-852b-48f5-ae73-52ae24b5b522</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>769f4235-852b-48f5-ae73-52ae24b5b522</vehicle_id>
+    <vehicle_registration_plate>ECE98B</vehicle_registration_plate>
+    <g:title>Lynk &amp; Co 01</g:title>
+    <title>Lynk &amp; Co 01</title>
+    <g:description>Från 4 545 kr/mån. Miltal: 2 906 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: ECE98B. Kontakta oss för mer information.</g:description>
+    <description>Från 4 545 kr/mån. Miltal: 2 906 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: ECE98B. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/lynk-co-01-phev-ece98b</g:link>
+    <link>https://borasbil.se/bilar/lynk-co-01-phev-ece98b</link>
+    <url>https://borasbil.se/bilar/lynk-co-01-phev-ece98b</url>
+    <g:brand>Lynk &amp; Co</g:brand>
+    <brand>Lynk &amp; Co</brand>
+    <make>Lynk &amp; Co</make>
+    <g:image_link>https://cdn.wayke.se/cfit/93d9f31a-45b8-4211-be4a-4a7939fe1324/28aa0ce1-6094-45ae-afed-28bc5cfe049c?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/93d9f31a-45b8-4211-be4a-4a7939fe1324/28aa0ce1-6094-45ae-afed-28bc5cfe049c?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>01</model>
+    <year>2023</year>
+    <mileage>
+      <value>29060</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>289000 SEK</g:price>
+    <price>289000 SEK</price>
+    <sale_price>289000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>53da2738-3897-4b95-aa15-4fb7c18aaf49</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>53da2738-3897-4b95-aa15-4fb7c18aaf49</vehicle_id>
+    <vehicle_registration_plate>JAP04C</vehicle_registration_plate>
+    <g:title>Lynk &amp; Co 01</g:title>
+    <title>Lynk &amp; Co 01</title>
+    <g:description>Från 4 545 kr/mån. Miltal: 2 094 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: JAP04C. Kontakta oss för mer information.</g:description>
+    <description>Från 4 545 kr/mån. Miltal: 2 094 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: JAP04C. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/lynk-co-01-phev-jap04c</g:link>
+    <link>https://borasbil.se/bilar/lynk-co-01-phev-jap04c</link>
+    <url>https://borasbil.se/bilar/lynk-co-01-phev-jap04c</url>
+    <g:brand>Lynk &amp; Co</g:brand>
+    <brand>Lynk &amp; Co</brand>
+    <make>Lynk &amp; Co</make>
+    <g:image_link>https://cdn.wayke.se/cfit/b74ec14a-f3d0-4dd1-8a16-7663ef993fea/b2e10449-de49-4b99-b8b7-e6ca394cc476?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/b74ec14a-f3d0-4dd1-8a16-7663ef993fea/b2e10449-de49-4b99-b8b7-e6ca394cc476?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>01</model>
+    <year>2023</year>
+    <mileage>
+      <value>20940</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>289000 SEK</g:price>
+    <price>289000 SEK</price>
+    <sale_price>289000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>01207a79-f269-4da7-82e9-b38aa335ea38</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>01207a79-f269-4da7-82e9-b38aa335ea38</vehicle_id>
+    <vehicle_registration_plate>PRA99C</vehicle_registration_plate>
+    <g:title>Volvo XC40 B4 FWD Bensin Plus Dark</g:title>
+    <title>Volvo XC40 B4 FWD Bensin Plus Dark</title>
+    <g:description>B4 FWD Bensin Plus Dark. Från 7 219 kr/mån. Miltal: 1 485 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: PRA99C. Kontakta oss för mer information.</g:description>
+    <description>B4 FWD Bensin Plus Dark. Från 7 219 kr/mån. Miltal: 1 485 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: PRA99C. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-xc40-pra99c</g:link>
+    <link>https://borasbil.se/bilar/volvo-xc40-pra99c</link>
+    <url>https://borasbil.se/bilar/volvo-xc40-pra99c</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/9ef6e9ff-81b8-4229-b303-cd8993210076/1171973b-3fe8-42c4-9f43-31294f0d58dd?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/9ef6e9ff-81b8-4229-b303-cd8993210076/1171973b-3fe8-42c4-9f43-31294f0d58dd?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC40</model>
+    <year>2026</year>
+    <mileage>
+      <value>14850</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>459000 SEK</g:price>
+    <price>459000 SEK</price>
+    <sale_price>459000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>cc179d22-6cd5-4cf4-afd2-47f42c702cdd</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>cc179d22-6cd5-4cf4-afd2-47f42c702cdd</vehicle_id>
+    <vehicle_registration_plate>XYX58X</vehicle_registration_plate>
+    <g:title>Volvo XC40 Ultimate</g:title>
+    <title>Volvo XC40 Ultimate</title>
+    <g:description>Ultimate. Från 5 646 kr/mån. Miltal: 6 065 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: XYX58X. Kontakta oss för mer information.</g:description>
+    <description>Ultimate. Från 5 646 kr/mån. Miltal: 6 065 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: XYX58X. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-xyx58x</g:link>
+    <link>https://borasbil.se/bilar/volvo-xc40-recharge-xyx58x</link>
+    <url>https://borasbil.se/bilar/volvo-xc40-recharge-xyx58x</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/9f433c5e-ba82-44dc-8850-0a8595024398/6dd4a66d-84cb-4202-a67f-b261fb8a28fa?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/9f433c5e-ba82-44dc-8850-0a8595024398/6dd4a66d-84cb-4202-a67f-b261fb8a28fa?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC40</model>
+    <year>2023</year>
+    <mileage>
+      <value>60650</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>359000 SEK</g:price>
+    <price>359000 SEK</price>
+    <sale_price>359000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>4a56dbd2-7fe4-46f3-80d1-c6f9a18dd978</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -1380,9 +1776,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/fc72181d-629c-4de9-8ab9-51b7f206fb88/c67204e9-bc1f-443e-8823-03d7cc527087?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/fd113f28-b496-42f1-95d6-c77424cf7a35/829714f7-1de8-4421-bec6-af64a4f62f33?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/fc72181d-629c-4de9-8ab9-51b7f206fb88/c67204e9-bc1f-443e-8823-03d7cc527087?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/fd113f28-b496-42f1-95d6-c77424cf7a35/829714f7-1de8-4421-bec6-af64a4f62f33?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC60</model>
@@ -1433,94 +1829,6 @@
     <year>2023</year>
     <mileage>
       <value>21500</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>289000 SEK</g:price>
-    <price>289000 SEK</price>
-    <sale_price>289000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>23dbb2c4-e251-4726-88a7-369b990e19e0</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>23dbb2c4-e251-4726-88a7-369b990e19e0</vehicle_id>
-    <vehicle_registration_plate>ZHJ01C</vehicle_registration_plate>
-    <g:title>Lynk &amp; Co 01</g:title>
-    <title>Lynk &amp; Co 01</title>
-    <g:description>Från 4 545 kr/mån. Miltal: 2 022 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: ZHJ01C. Kontakta oss för mer information.</g:description>
-    <description>Från 4 545 kr/mån. Miltal: 2 022 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: ZHJ01C. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/lynk-co-01-phev-zhj01c</g:link>
-    <link>https://borasbil.se/bilar/lynk-co-01-phev-zhj01c</link>
-    <url>https://borasbil.se/bilar/lynk-co-01-phev-zhj01c</url>
-    <g:brand>Lynk &amp; Co</g:brand>
-    <brand>Lynk &amp; Co</brand>
-    <make>Lynk &amp; Co</make>
-    <g:image_link>https://cdn.wayke.se/cfit/4a74402f-eac6-493d-a37e-9170b9568130/1d50506d-7d9c-4027-a15d-654ec1766fec?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/4a74402f-eac6-493d-a37e-9170b9568130/1d50506d-7d9c-4027-a15d-654ec1766fec?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>01</model>
-    <year>2023</year>
-    <mileage>
-      <value>20220</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>289000 SEK</g:price>
-    <price>289000 SEK</price>
-    <sale_price>289000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>07386b2c-aa58-4089-bd1c-470b255c21d9</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>07386b2c-aa58-4089-bd1c-470b255c21d9</vehicle_id>
-    <vehicle_registration_plate>PNP54H</vehicle_registration_plate>
-    <g:title>Lynk &amp; Co 01</g:title>
-    <title>Lynk &amp; Co 01</title>
-    <g:description>Från 4 545 kr/mån. Miltal: 2 937 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: PNP54H. Kontakta oss för mer information.</g:description>
-    <description>Från 4 545 kr/mån. Miltal: 2 937 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: PNP54H. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/lynk-co-01-phev-pnp54h</g:link>
-    <link>https://borasbil.se/bilar/lynk-co-01-phev-pnp54h</link>
-    <url>https://borasbil.se/bilar/lynk-co-01-phev-pnp54h</url>
-    <g:brand>Lynk &amp; Co</g:brand>
-    <brand>Lynk &amp; Co</brand>
-    <make>Lynk &amp; Co</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/98e4e7d41b8948308ad40f9cc7ae5611/ced20fc03f67492b9bb38953a2b6532d?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/98e4e7d41b8948308ad40f9cc7ae5611/ced20fc03f67492b9bb38953a2b6532d?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>01</model>
-    <year>2023</year>
-    <mileage>
-      <value>29370</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
@@ -1914,8 +2222,8 @@
     <vehicle_registration_plate>RFP393</vehicle_registration_plate>
     <g:title>Volvo V60 D4 Classic Summum</g:title>
     <title>Volvo V60 D4 Classic Summum</title>
-    <g:description>D4 Classic Summum. Från 2 973 kr/mån. Miltal: 12 250 mil. Årsmodell: 2018. Växellåda: Manuell. Bränsle: Diesel. Reg.nr: RFP393. Kontakta oss för mer information.</g:description>
-    <description>D4 Classic Summum. Från 2 973 kr/mån. Miltal: 12 250 mil. Årsmodell: 2018. Växellåda: Manuell. Bränsle: Diesel. Reg.nr: RFP393. Kontakta oss för mer information.</description>
+    <g:description>D4 Classic Summum. Från 2 973 kr/mån. Miltal: 12 198 mil. Årsmodell: 2018. Växellåda: Manuell. Bränsle: Diesel. Reg.nr: RFP393. Kontakta oss för mer information.</g:description>
+    <description>D4 Classic Summum. Från 2 973 kr/mån. Miltal: 12 198 mil. Årsmodell: 2018. Växellåda: Manuell. Bränsle: Diesel. Reg.nr: RFP393. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-v60-rfp393</g:link>
     <link>https://borasbil.se/bilar/volvo-v60-rfp393</link>
     <url>https://borasbil.se/bilar/volvo-v60-rfp393</url>
@@ -1930,7 +2238,7 @@
     <model>V60</model>
     <year>2018</year>
     <mileage>
-      <value>122500</value>
+      <value>121980</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Wagon</body_style>
@@ -3601,50 +3909,6 @@
     <g:condition>new</g:condition>
     <condition>new</condition>
     <state_of_vehicle>NEW</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>30e7044c-10f0-45fa-aae4-33b711e2ea08</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>30e7044c-10f0-45fa-aae4-33b711e2ea08</vehicle_id>
-    <vehicle_registration_plate>DBR01E</vehicle_registration_plate>
-    <g:title>Renault Captur Techno</g:title>
-    <title>Renault Captur Techno</title>
-    <g:description>Techno. Från 3 287 kr/mån. Miltal: 3 091 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: DBR01E. Kontakta oss för mer information.</g:description>
-    <description>Techno. Från 3 287 kr/mån. Miltal: 3 091 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: DBR01E. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/renault-captur-e-tech-plugin-hybrid-160-dbr01e</g:link>
-    <link>https://borasbil.se/bilar/renault-captur-e-tech-plugin-hybrid-160-dbr01e</link>
-    <url>https://borasbil.se/bilar/renault-captur-e-tech-plugin-hybrid-160-dbr01e</url>
-    <g:brand>Renault</g:brand>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <g:image_link>https://cdn.wayke.se/cfit/ff19260c-9fce-4f3b-bb0d-b4b81300f4bd/e95a14ff-de1f-4b00-bc01-328204ad1608?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/ff19260c-9fce-4f3b-bb0d-b4b81300f4bd/e95a14ff-de1f-4b00-bc01-328204ad1608?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Captur</model>
-    <year>2023</year>
-    <mileage>
-      <value>30910</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>209000 SEK</g:price>
-    <price>209000 SEK</price>
-    <sale_price>209000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
     <g:id>a3117381-2b92-43a9-95d1-a547f523dde8</g:id>
@@ -7174,50 +7438,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>b51b50b8-a7da-47bd-8740-3ee9b73792d2</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>b51b50b8-a7da-47bd-8740-3ee9b73792d2</vehicle_id>
-    <vehicle_registration_plate>UBJ62P</vehicle_registration_plate>
-    <g:title>Peugeot 2008 GT Electric 5-d SUV</g:title>
-    <title>Peugeot 2008 GT Electric 5-d SUV</title>
-    <g:description>GT Electric 5-d SUV. Från 3 287 kr/mån. Miltal: 4 689 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: UBJ62P. Kontakta oss för mer information.</g:description>
-    <description>GT Electric 5-d SUV. Från 3 287 kr/mån. Miltal: 4 689 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: UBJ62P. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/peugeot-e-2008-ubj62p</g:link>
-    <link>https://borasbil.se/bilar/peugeot-e-2008-ubj62p</link>
-    <url>https://borasbil.se/bilar/peugeot-e-2008-ubj62p</url>
-    <g:brand>Peugeot</g:brand>
-    <brand>Peugeot</brand>
-    <make>Peugeot</make>
-    <g:image_link>https://cdn.wayke.se/cfit/e1b5aaa6-fcb6-42c2-901b-bdeaee73f016/90cd6bd9-f29f-4d00-bfdd-026dcb05e30c?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/e1b5aaa6-fcb6-42c2-901b-bdeaee73f016/90cd6bd9-f29f-4d00-bfdd-026dcb05e30c?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>2008</model>
-    <year>2022</year>
-    <mileage>
-      <value>46890</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>209000 SEK</g:price>
-    <price>209000 SEK</price>
-    <sale_price>209000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -13722,50 +13942,6 @@
     <g:condition>new</g:condition>
     <condition>new</condition>
     <state_of_vehicle>NEW</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>0220ee0b-2f81-4758-a49e-a6f0980ca684</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>0220ee0b-2f81-4758-a49e-a6f0980ca684</vehicle_id>
-    <vehicle_registration_plate>JBK63F</vehicle_registration_plate>
-    <g:title>Volvo EX90 Twin Motor Performance Ultra 6sätes</g:title>
-    <title>Volvo EX90 Twin Motor Performance Ultra 6sätes</title>
-    <g:description>Twin Motor Performance Ultra 6sätes. Från 13 668 kr/mån. Miltal: 646 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: JBK63F. Kontakta oss för mer information.</g:description>
-    <description>Twin Motor Performance Ultra 6sätes. Från 13 668 kr/mån. Miltal: 646 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: JBK63F. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-ex90-jbk63f</g:link>
-    <link>https://borasbil.se/bilar/volvo-ex90-jbk63f</link>
-    <url>https://borasbil.se/bilar/volvo-ex90-jbk63f</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/0611ce31-4512-4465-b399-1f2b540591fa/8c6c893d-225d-4172-95f5-58e72ca38026?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/0611ce31-4512-4465-b399-1f2b540591fa/8c6c893d-225d-4172-95f5-58e72ca38026?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>EX90</model>
-    <year>2025</year>
-    <mileage>
-      <value>6460</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>869000 SEK</g:price>
-    <price>869000 SEK</price>
-    <sale_price>869000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Bogesunds Bil Ulricehamn</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
     <g:id>cebfe05a-7ef8-4f12-9616-48bdc141a6af</g:id>
