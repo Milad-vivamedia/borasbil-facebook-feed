@@ -6011,10 +6011,10 @@
     <g:fb_product_category>173</g:fb_product_category>
     <vehicle_id>1ac8ef2b-b788-48a6-8b29-58c81baf4165</vehicle_id>
     <vehicle_registration_plate>ESG34G</vehicle_registration_plate>
-    <g:title>Volvo EX40 ExtendedRange Plus SE</g:title>
-    <title>Volvo EX40 ExtendedRange Plus SE</title>
-    <g:description>ExtendedRange Plus SE. Från 8 871 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: ESG34G. Kontakta oss för mer information.</g:description>
-    <description>ExtendedRange Plus SE. Från 8 871 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: ESG34G. Kontakta oss för mer information.</description>
+    <g:title>Volvo EX40 Single Motor ExtendedRange Plus SE</g:title>
+    <title>Volvo EX40 Single Motor ExtendedRange Plus SE</title>
+    <g:description>Single Motor ExtendedRange Plus SE. Från 8 871 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: ESG34G. Kontakta oss för mer information.</g:description>
+    <description>Single Motor ExtendedRange Plus SE. Från 8 871 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: ESG34G. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-esg34g</g:link>
     <link>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-esg34g</link>
     <url>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-esg34g</url>
@@ -8878,10 +8878,10 @@
     <g:fb_product_category>173</g:fb_product_category>
     <vehicle_id>5935a7b9-2789-41d2-a8b9-d1b2a41c9729</vehicle_id>
     <vehicle_registration_plate>DBW97J</vehicle_registration_plate>
-    <g:title>Lynk &amp; Co 08</g:title>
-    <title>Lynk &amp; Co 08</title>
-    <g:description>Från 8 949 kr/mån. Miltal: 53 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: DBW97J. Kontakta oss för mer information.</g:description>
-    <description>Från 8 949 kr/mån. Miltal: 53 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: DBW97J. Kontakta oss för mer information.</description>
+    <g:title>Lynk &amp; Co 08 - 200km räckvidd på el</g:title>
+    <title>Lynk &amp; Co 08 - 200km räckvidd på el</title>
+    <g:description>- 200km räckvidd på el. Från 8 949 kr/mån. Miltal: 53 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: DBW97J. Kontakta oss för mer information.</g:description>
+    <description>- 200km räckvidd på el. Från 8 949 kr/mån. Miltal: 53 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: DBW97J. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/lynk-co-08-phev-dbw97j</g:link>
     <link>https://borasbil.se/bilar/lynk-co-08-phev-dbw97j</link>
     <url>https://borasbil.se/bilar/lynk-co-08-phev-dbw97j</url>
@@ -12266,25 +12266,22 @@
     <g:fb_product_category>173</g:fb_product_category>
     <vehicle_id>5366dc18-7876-4202-9f06-8d41feb89338</vehicle_id>
     <vehicle_registration_plate>5366dc18</vehicle_registration_plate>
-    <g:title>Volvo EX60 - Beställ idag!</g:title>
-    <title>Volvo EX60 - Beställ idag!</title>
-    <g:description>- Beställ idag!. Från 11 544 kr/mån. Årsmodell: 2026. Växellåda: Automat. Reg.nr: 5366dc18. Kontakta oss för mer information.</g:description>
-    <description>- Beställ idag!. Från 11 544 kr/mån. Årsmodell: 2026. Växellåda: Automat. Reg.nr: 5366dc18. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-ex60-p10-awd-5366dc18</g:link>
-    <link>https://borasbil.se/bilar/volvo-ex60-p10-awd-5366dc18</link>
-    <url>https://borasbil.se/bilar/volvo-ex60-p10-awd-5366dc18</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
+    <g:title>Unknown - Beställ idag!</g:title>
+    <title>Unknown - Beställ idag!</title>
+    <g:description>- Beställ idag!. Från 11 544 kr/mån. Reg.nr: 5366dc18. Kontakta oss för mer information.</g:description>
+    <description>- Beställ idag!. Från 11 544 kr/mån. Reg.nr: 5366dc18. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/unknown-5366dc18</g:link>
+    <link>https://borasbil.se/bilar/unknown-5366dc18</link>
+    <url>https://borasbil.se/bilar/unknown-5366dc18</url>
+    <g:brand>Unknown</g:brand>
+    <brand>Unknown</brand>
+    <make>Unknown</make>
     <g:image_link>https://cdn.wayke.se/cfit/eafb89fa-2d58-44ab-9421-5e07219108a9/4aab1cf5-2c75-4598-910b-e3537694752f?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
       <url>https://cdn.wayke.se/cfit/eafb89fa-2d58-44ab-9421-5e07219108a9/4aab1cf5-2c75-4598-910b-e3537694752f?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
-    <model>EX60</model>
-    <year>2026</year>
     <body_style>Sedan</body_style>
-    <transmission>Automatic</transmission>
     <g:price>734000 SEK</g:price>
     <price>734000 SEK</price>
     <sale_price>734000 SEK</sale_price>
@@ -12295,9 +12292,9 @@
     <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
-    <g:condition>new</g:condition>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
     <g:id>00de1b7c-024a-4d87-bda9-f7ce5f720002</g:id>
