@@ -445,50 +445,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>adabfd4c-d1a0-4a46-bf03-8c47780ed7b0</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>adabfd4c-d1a0-4a46-bf03-8c47780ed7b0</vehicle_id>
-    <vehicle_registration_plate>PNP54H</vehicle_registration_plate>
-    <g:title>Lynk &amp; Co 01</g:title>
-    <title>Lynk &amp; Co 01</title>
-    <g:description>Från 4 545 kr/mån. Miltal: 2 937 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: PNP54H. Kontakta oss för mer information.</g:description>
-    <description>Från 4 545 kr/mån. Miltal: 2 937 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: PNP54H. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/lynk-co-01-phev-pnp54h</g:link>
-    <link>https://borasbil.se/bilar/lynk-co-01-phev-pnp54h</link>
-    <url>https://borasbil.se/bilar/lynk-co-01-phev-pnp54h</url>
-    <g:brand>Lynk &amp; Co</g:brand>
-    <brand>Lynk &amp; Co</brand>
-    <make>Lynk &amp; Co</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/2bc17b8c8e774bc6baad857ab4ecb9e8/ae7eabf81c1c428a964bd989bee522c5?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/2bc17b8c8e774bc6baad857ab4ecb9e8/ae7eabf81c1c428a964bd989bee522c5?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>01</model>
-    <year>2023</year>
-    <mileage>
-      <value>29370</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>289000 SEK</g:price>
-    <price>289000 SEK</price>
-    <sale_price>289000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Bogesunds Bil Ulricehamn</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>231d919b-9237-4bbb-a450-fbc040184eed</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -14542,50 +14498,6 @@
     <g:condition>new</g:condition>
     <condition>new</condition>
     <state_of_vehicle>NEW</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>2697fa0c-27c0-4788-ab68-f8d2246c5ca2</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>2697fa0c-27c0-4788-ab68-f8d2246c5ca2</vehicle_id>
-    <vehicle_registration_plate>RZT40G</vehicle_registration_plate>
-    <g:title>Polestar 3 111kW Plus Pilot Perf Nappa</g:title>
-    <title>Polestar 3 111kW Plus Pilot Perf Nappa</title>
-    <g:description>111kW Plus Pilot Perf Nappa. Från 11 466 kr/mån. Miltal: 1 277 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: RZT40G. Kontakta oss för mer information.</g:description>
-    <description>111kW Plus Pilot Perf Nappa. Från 11 466 kr/mån. Miltal: 1 277 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: RZT40G. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/polestar-3-long-range-dual-motor-performance-rzt40g</g:link>
-    <link>https://borasbil.se/bilar/polestar-3-long-range-dual-motor-performance-rzt40g</link>
-    <url>https://borasbil.se/bilar/polestar-3-long-range-dual-motor-performance-rzt40g</url>
-    <g:brand>Polestar</g:brand>
-    <brand>Polestar</brand>
-    <make>Polestar</make>
-    <g:image_link>https://cdn.wayke.se/cfit/46128c57-d7fd-4c8a-96e1-f4134999c4cb/ee5f4fbf-e093-46e6-bddd-46e9df3be00d?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/46128c57-d7fd-4c8a-96e1-f4134999c4cb/ee5f4fbf-e093-46e6-bddd-46e9df3be00d?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>3</model>
-    <year>2025</year>
-    <mileage>
-      <value>12770</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>729000 SEK</g:price>
-    <price>729000 SEK</price>
-    <sale_price>729000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
     <g:id>bec3c915-d1c9-43f4-a89f-ca06c3aae51c</g:id>
