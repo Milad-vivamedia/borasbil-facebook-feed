@@ -1149,90 +1149,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>97b9deec-d823-4d1f-a06a-cdafd884f759</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>97b9deec-d823-4d1f-a06a-cdafd884f759</vehicle_id>
-    <vehicle_registration_plate>ESW266</vehicle_registration_plate>
-    <g:title>Volvo V60 D4 Momentum Advanced Edition - Backkamera, Navigation, Panoramaglastak</g:title>
-    <title>Volvo V60 D4 Momentum Advanced Edition - Backkamera, Navigation, Panoramaglastak</title>
-    <g:description>D4 Momentum Advanced Edition - Backkamera, Navigation, Panoramaglastak. Från 3 759 kr/mån. Miltal: 13 648 mil. Årsmodell: 2019. Växellåda: Automat. Bränsle: Diesel. Reg.nr: ESW266. Kontakta oss för mer information.</g:description>
-    <description>D4 Momentum Advanced Edition - Backkamera, Navigation, Panoramaglastak. Från 3 759 kr/mån. Miltal: 13 648 mil. Årsmodell: 2019. Växellåda: Automat. Bränsle: Diesel. Reg.nr: ESW266. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-v60-esw266</g:link>
-    <link>https://borasbil.se/bilar/volvo-v60-esw266</link>
-    <url>https://borasbil.se/bilar/volvo-v60-esw266</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/abbce34d-e54b-4d08-ba8d-4a27bf55bd9f/035d2de6-5a24-4aa3-99e8-d40284d5c133?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/abbce34d-e54b-4d08-ba8d-4a27bf55bd9f/035d2de6-5a24-4aa3-99e8-d40284d5c133?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V60</model>
-    <year>2019</year>
-    <mileage>
-      <value>136480</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>239000 SEK</g:price>
-    <price>239000 SEK</price>
-    <sale_price>239000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Bogesunds Bil Ulricehamn</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>22c9d7c8-0138-4aba-ae92-4c4bae136cdb</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>22c9d7c8-0138-4aba-ae92-4c4bae136cdb</vehicle_id>
-    <vehicle_registration_plate>JBP90K</vehicle_registration_plate>
-    <g:title>Lynk &amp; Co 02 EV Core BEV</g:title>
-    <title>Lynk &amp; Co 02 EV Core BEV</title>
-    <g:description>Core BEV. Från 6 763 kr/mån. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: JBP90K. Kontakta oss för mer information.</g:description>
-    <description>Core BEV. Från 6 763 kr/mån. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: JBP90K. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/lynk-co-02-ev-jbp90k</g:link>
-    <link>https://borasbil.se/bilar/lynk-co-02-ev-jbp90k</link>
-    <url>https://borasbil.se/bilar/lynk-co-02-ev-jbp90k</url>
-    <g:brand>Lynk &amp; Co</g:brand>
-    <brand>Lynk &amp; Co</brand>
-    <make>Lynk &amp; Co</make>
-    <g:image_link>https://cdn.wayke.se/cfit/21a4e873-d9b4-4e0f-9f7e-774b4326674f/35402c70-a2aa-48ae-99d8-be2b825f93d2?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/21a4e873-d9b4-4e0f-9f7e-774b4326674f/35402c70-a2aa-48ae-99d8-be2b825f93d2?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>02 EV</model>
-    <year>2025</year>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>429995 SEK</g:price>
-    <price>429995 SEK</price>
-    <sale_price>429995 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>a774729d-5f5b-4407-8f0a-745aa0578a43</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -2595,50 +2511,6 @@
     <g:price>189000 SEK</g:price>
     <price>189000 SEK</price>
     <sale_price>189000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>37a6e36a-1dc5-4989-b732-8dc2e73812e8</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>37a6e36a-1dc5-4989-b732-8dc2e73812e8</vehicle_id>
-    <vehicle_registration_plate>AES65X</vehicle_registration_plate>
-    <g:title>Volvo EC40 Plus</g:title>
-    <title>Volvo EC40 Plus</title>
-    <g:description>Plus. Från 6 905 kr/mån. Miltal: 3 406 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: AES65X. Kontakta oss för mer information.</g:description>
-    <description>Plus. Från 6 905 kr/mån. Miltal: 3 406 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: AES65X. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-ec40-single-motor-extended-range-aes65x</g:link>
-    <link>https://borasbil.se/bilar/volvo-ec40-single-motor-extended-range-aes65x</link>
-    <url>https://borasbil.se/bilar/volvo-ec40-single-motor-extended-range-aes65x</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/d533cf1e-3c2d-4f01-ac98-d742cb2a5180/205fb825-a443-47c8-9e03-c03ee66696e4?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/d533cf1e-3c2d-4f01-ac98-d742cb2a5180/205fb825-a443-47c8-9e03-c03ee66696e4?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>EC40</model>
-    <year>2025</year>
-    <mileage>
-      <value>34060</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>439000 SEK</g:price>
-    <price>439000 SEK</price>
-    <sale_price>439000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Borås Bil</component>
       <component name="country">SE</component>
@@ -9793,50 +9665,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>add90077-e070-4668-a117-821fe350ddf2</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>add90077-e070-4668-a117-821fe350ddf2</vehicle_id>
-    <vehicle_registration_plate>SDJ40W</vehicle_registration_plate>
-    <g:title>Peugeot 208 GT Electric 5-d</g:title>
-    <title>Peugeot 208 GT Electric 5-d</title>
-    <g:description>GT Electric 5-d. Från 3 130 kr/mån. Miltal: 3 359 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: SDJ40W. Kontakta oss för mer information.</g:description>
-    <description>GT Electric 5-d. Från 3 130 kr/mån. Miltal: 3 359 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: SDJ40W. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/peugeot-e-208-sdj40w</g:link>
-    <link>https://borasbil.se/bilar/peugeot-e-208-sdj40w</link>
-    <url>https://borasbil.se/bilar/peugeot-e-208-sdj40w</url>
-    <g:brand>Peugeot</g:brand>
-    <brand>Peugeot</brand>
-    <make>Peugeot</make>
-    <g:image_link>https://cdn.wayke.se/cfit/52ee35b0-ac3d-422d-bfa7-8e18598a1657/4279b88d-7646-4d71-94dc-32a152657fb1?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/52ee35b0-ac3d-422d-bfa7-8e18598a1657/4279b88d-7646-4d71-94dc-32a152657fb1?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>208</model>
-    <year>2022</year>
-    <mileage>
-      <value>33590</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>199000 SEK</g:price>
-    <price>199000 SEK</price>
-    <sale_price>199000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>441fa7e9-f31c-453a-a55e-4c30f172f11a</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -10045,50 +9873,6 @@
     <g:price>199000 SEK</g:price>
     <price>199000 SEK</price>
     <sale_price>199000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>cefd924e-fc8d-4d8e-86e6-dd6b84f15fa7</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>cefd924e-fc8d-4d8e-86e6-dd6b84f15fa7</vehicle_id>
-    <vehicle_registration_plate>GJG203</vehicle_registration_plate>
-    <g:title>Polestar 2 78kWh Plus</g:title>
-    <title>Polestar 2 78kWh Plus</title>
-    <g:description>78kWh Plus. Från 6 118 kr/mån. Miltal: 4 373 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: GJG203. Kontakta oss för mer information.</g:description>
-    <description>78kWh Plus. Från 6 118 kr/mån. Miltal: 4 373 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: GJG203. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-gjg203</g:link>
-    <link>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-gjg203</link>
-    <url>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-gjg203</url>
-    <g:brand>Polestar</g:brand>
-    <brand>Polestar</brand>
-    <make>Polestar</make>
-    <g:image_link>https://cdn.wayke.se/cfit/856cb246-15e8-4fe8-b360-a808908e19f9/3280a2fc-79c2-401f-ae02-c66013c11d40?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/856cb246-15e8-4fe8-b360-a808908e19f9/3280a2fc-79c2-401f-ae02-c66013c11d40?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>2</model>
-    <year>2023</year>
-    <mileage>
-      <value>43730</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>389000 SEK</g:price>
-    <price>389000 SEK</price>
-    <sale_price>389000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Borås Bil</component>
       <component name="country">SE</component>
@@ -11394,46 +11178,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>424e9377-a06b-4eb1-ba20-4ce2e05a57a9</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>424e9377-a06b-4eb1-ba20-4ce2e05a57a9</vehicle_id>
-    <vehicle_registration_plate>USB10T</vehicle_registration_plate>
-    <g:title>Lynk &amp; Co 01 Core - 75km räckvidd el</g:title>
-    <title>Lynk &amp; Co 01 Core - 75km räckvidd el</title>
-    <g:description>Core - 75km räckvidd el. Från 7 078 kr/mån. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: USB10T. Kontakta oss för mer information.</g:description>
-    <description>Core - 75km räckvidd el. Från 7 078 kr/mån. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: USB10T. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/lynk-co-01-phev-usb10t</g:link>
-    <link>https://borasbil.se/bilar/lynk-co-01-phev-usb10t</link>
-    <url>https://borasbil.se/bilar/lynk-co-01-phev-usb10t</url>
-    <g:brand>Lynk &amp; Co</g:brand>
-    <brand>Lynk &amp; Co</brand>
-    <make>Lynk &amp; Co</make>
-    <g:image_link>https://cdn.wayke.se/cfit/76108f65-2563-41ff-8713-a69af0fb5039/5f73a13a-fe03-42bc-a1e4-319e490d94ee?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/76108f65-2563-41ff-8713-a69af0fb5039/5f73a13a-fe03-42bc-a1e4-319e490d94ee?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>01</model>
-    <year>2025</year>
-    <body_style>Sedan</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>449995 SEK</g:price>
-    <price>449995 SEK</price>
-    <sale_price>449995 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
