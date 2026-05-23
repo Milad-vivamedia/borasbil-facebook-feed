@@ -3035,50 +3035,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>db039d3b-f842-4e55-a7dd-8e3b59f6a766</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>db039d3b-f842-4e55-a7dd-8e3b59f6a766</vehicle_id>
-    <vehicle_registration_plate>KCC26P</vehicle_registration_plate>
-    <g:title>Peugeot 208 FL Allure Edition Plus PureTech 100</g:title>
-    <title>Peugeot 208 FL Allure Edition Plus PureTech 100</title>
-    <g:description>FL Allure Edition Plus PureTech 100. Från 2 973 kr/mån. Miltal: 10 mil. Årsmodell: 2024. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: KCC26P. Kontakta oss för mer information.</g:description>
-    <description>FL Allure Edition Plus PureTech 100. Från 2 973 kr/mån. Miltal: 10 mil. Årsmodell: 2024. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: KCC26P. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/peugeot-208-kcc26p</g:link>
-    <link>https://borasbil.se/bilar/peugeot-208-kcc26p</link>
-    <url>https://borasbil.se/bilar/peugeot-208-kcc26p</url>
-    <g:brand>Peugeot</g:brand>
-    <brand>Peugeot</brand>
-    <make>Peugeot</make>
-    <g:image_link>https://cdn.wayke.se/cfit/ba053ed7-34be-4439-9fa6-a8f3c158353c/93b26671-b86d-4ef9-994f-be559d106909?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/ba053ed7-34be-4439-9fa6-a8f3c158353c/93b26671-b86d-4ef9-994f-be559d106909?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>208</model>
-    <year>2024</year>
-    <mileage>
-      <value>100</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Manual</transmission>
-    <g:price>189000 SEK</g:price>
-    <price>189000 SEK</price>
-    <sale_price>189000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>471efc96-6e88-4446-a857-a5205bf35a5d</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
