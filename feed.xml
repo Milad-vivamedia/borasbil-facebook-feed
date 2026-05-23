@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>45203309-0188-4157-9db6-fa736f198523</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>45203309-0188-4157-9db6-fa736f198523</vehicle_id>
+    <vehicle_registration_plate>HGT69B</vehicle_registration_plate>
+    <g:title>Volvo XC60 B4 AWD Diesel R-Design/DRAG/LUFTFJÄDRING</g:title>
+    <title>Volvo XC60 B4 AWD Diesel R-Design/DRAG/LUFTFJÄDRING</title>
+    <g:description>B4 AWD Diesel R-Design/DRAG/LUFTFJÄDRING. Från 6 747 kr/mån. Miltal: 6 167 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Diesel. Reg.nr: HGT69B. Kontakta oss för mer information.</g:description>
+    <description>B4 AWD Diesel R-Design/DRAG/LUFTFJÄDRING. Från 6 747 kr/mån. Miltal: 6 167 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Diesel. Reg.nr: HGT69B. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-xc60-hgt69b</g:link>
+    <link>https://borasbil.se/bilar/volvo-xc60-hgt69b</link>
+    <url>https://borasbil.se/bilar/volvo-xc60-hgt69b</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/08eaaddb-1f1a-4917-9630-33a31a205c8f/fa23023d-0f96-481f-9723-a94602b77692?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/08eaaddb-1f1a-4917-9630-33a31a205c8f/fa23023d-0f96-481f-9723-a94602b77692?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC60</model>
+    <year>2020</year>
+    <mileage>
+      <value>61670</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>429000 SEK</g:price>
+    <price>429000 SEK</price>
+    <sale_price>429000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>480a3aea-2c9a-42c4-b316-a2d34a6333f6</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -372,9 +416,9 @@
     <g:brand>Citroën</g:brand>
     <brand>Citroën</brand>
     <make>Citroën</make>
-    <g:image_link>https://cdn.wayke.se/cfit/bba16390-2869-4db8-81c9-cad5fc69272c/a0a9ee9f-7065-4b83-838a-0ff61dc2c276?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/2f9c8020-43de-4aa1-a17f-b91f78ee3ac3/cc07c1ce-08ca-41ea-8488-6cddd7f16307?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/bba16390-2869-4db8-81c9-cad5fc69272c/a0a9ee9f-7065-4b83-838a-0ff61dc2c276?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/2f9c8020-43de-4aa1-a17f-b91f78ee3ac3/cc07c1ce-08ca-41ea-8488-6cddd7f16307?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>C4</model>
