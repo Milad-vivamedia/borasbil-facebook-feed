@@ -2205,50 +2205,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>3e8ba6c7-191c-4dfb-99de-f2dab0d4d241</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>3e8ba6c7-191c-4dfb-99de-f2dab0d4d241</vehicle_id>
-    <vehicle_registration_plate>UGD08S</vehicle_registration_plate>
-    <g:title>Citroën C3 SHINE Pure Tech 110 A 5-d</g:title>
-    <title>Citroën C3 SHINE Pure Tech 110 A 5-d</title>
-    <g:description>SHINE Pure Tech 110 A 5-d. Från 2 186 kr/mån. Miltal: 4 362 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Reg.nr: UGD08S. Kontakta oss för mer information.</g:description>
-    <description>SHINE Pure Tech 110 A 5-d. Från 2 186 kr/mån. Miltal: 4 362 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Reg.nr: UGD08S. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/citroen-c3-ugd08s</g:link>
-    <link>https://borasbil.se/bilar/citroen-c3-ugd08s</link>
-    <url>https://borasbil.se/bilar/citroen-c3-ugd08s</url>
-    <g:brand>Citroën</g:brand>
-    <brand>Citroën</brand>
-    <make>Citroën</make>
-    <g:image_link>https://cdn.wayke.se/cfit/14585de5-2ba4-4c12-af33-353996f595b7/742a26fd-4667-491a-8d0c-f2ab00c1a0a9?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/14585de5-2ba4-4c12-af33-353996f595b7/742a26fd-4667-491a-8d0c-f2ab00c1a0a9?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C3</model>
-    <year>2024</year>
-    <mileage>
-      <value>43620</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>139000 SEK</g:price>
-    <price>139000 SEK</price>
-    <sale_price>139000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Bogesunds Bil Ulricehamn</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>ba90e7db-d2c7-435e-b50b-0970b9ddbf7d</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
