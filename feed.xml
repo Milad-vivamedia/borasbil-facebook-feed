@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>1607212b-3f9e-415b-b5b6-339a7564e3e5</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>1607212b-3f9e-415b-b5b6-339a7564e3e5</vehicle_id>
+    <vehicle_registration_plate>ORP97E</vehicle_registration_plate>
+    <g:title>Volvo XC40 Core Edition</g:title>
+    <title>Volvo XC40 Core Edition</title>
+    <g:description>Core Edition. Från 5 017 kr/mån. Miltal: 5 478 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: ORP97E. Kontakta oss för mer information.</g:description>
+    <description>Core Edition. Från 5 017 kr/mån. Miltal: 5 478 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: ORP97E. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-orp97e</g:link>
+    <link>https://borasbil.se/bilar/volvo-xc40-recharge-orp97e</link>
+    <url>https://borasbil.se/bilar/volvo-xc40-recharge-orp97e</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/036dad35-a7e3-45ed-81b8-a33966f0e8fc/2402f747-9f62-43d8-846f-daf636fa0c08?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/036dad35-a7e3-45ed-81b8-a33966f0e8fc/2402f747-9f62-43d8-846f-daf636fa0c08?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC40</model>
+    <year>2023</year>
+    <mileage>
+      <value>54780</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>319000 SEK</g:price>
+    <price>319000 SEK</price>
+    <sale_price>319000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>81380522-7506-443c-a440-066953b3a760</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -64,9 +108,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/c0f26e0d-ab9d-45c1-8ef0-658856b4ec03/7d4c51af-0950-438a-97c9-5c0e81c3fc48?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/0d96577e-419d-4ba6-a2a3-3562e0ab3c01/fef01d9d-fab3-4a7f-806b-b6024ece5511?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/c0f26e0d-ab9d-45c1-8ef0-658856b4ec03/7d4c51af-0950-438a-97c9-5c0e81c3fc48?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/0d96577e-419d-4ba6-a2a3-3562e0ab3c01/fef01d9d-fab3-4a7f-806b-b6024ece5511?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>V90</model>
@@ -1548,50 +1592,6 @@
     <g:price>309000 SEK</g:price>
     <price>309000 SEK</price>
     <sale_price>309000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>9421f495-59a2-4778-9001-0884ea047bda</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>9421f495-59a2-4778-9001-0884ea047bda</vehicle_id>
-    <vehicle_registration_plate>WAF26S</vehicle_registration_plate>
-    <g:title>Volvo XC40 Plus Edition</g:title>
-    <title>Volvo XC40 Plus Edition</title>
-    <g:description>Plus Edition. Från 5 489 kr/mån. Miltal: 5 086 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: WAF26S. Kontakta oss för mer information.</g:description>
-    <description>Plus Edition. Från 5 489 kr/mån. Miltal: 5 086 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: WAF26S. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-waf26s</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc40-recharge-waf26s</link>
-    <url>https://borasbil.se/bilar/volvo-xc40-recharge-waf26s</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/8fea2cc0-9c9c-4488-8c13-a1c68b4d481d/41dca7c0-d1e2-470b-b33d-ecd79435f0bb?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/8fea2cc0-9c9c-4488-8c13-a1c68b4d481d/41dca7c0-d1e2-470b-b33d-ecd79435f0bb?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2023</year>
-    <mileage>
-      <value>50860</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>349000 SEK</g:price>
-    <price>349000 SEK</price>
-    <sale_price>349000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Kinna Bil</component>
       <component name="country">SE</component>
@@ -4802,50 +4802,6 @@
     <g:price>349000 SEK</g:price>
     <price>349000 SEK</price>
     <sale_price>349000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>567b5c85-deb3-4bb1-9871-57f5c894396b</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>567b5c85-deb3-4bb1-9871-57f5c894396b</vehicle_id>
-    <vehicle_registration_plate>ORP97E</vehicle_registration_plate>
-    <g:title>Volvo XC40 Core Edition</g:title>
-    <title>Volvo XC40 Core Edition</title>
-    <g:description>Core Edition. Från 5 017 kr/mån. Miltal: 5 478 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: ORP97E. Kontakta oss för mer information.</g:description>
-    <description>Core Edition. Från 5 017 kr/mån. Miltal: 5 478 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: ORP97E. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-orp97e</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc40-recharge-orp97e</link>
-    <url>https://borasbil.se/bilar/volvo-xc40-recharge-orp97e</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/06f4bc2b-8033-4571-8c5f-852409597834/04d3babc-8eb2-4296-a92a-875d1d861ba6?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/06f4bc2b-8033-4571-8c5f-852409597834/04d3babc-8eb2-4296-a92a-875d1d861ba6?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2023</year>
-    <mileage>
-      <value>54780</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>319000 SEK</g:price>
-    <price>319000 SEK</price>
-    <sale_price>319000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Kinna Bil</component>
       <component name="country">SE</component>
@@ -8884,50 +8840,6 @@
     <g:price>599000 SEK</g:price>
     <price>599000 SEK</price>
     <sale_price>599000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>new</g:condition>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>1c2d7e1a-0752-47ce-9619-1c672fbcdc1c</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>1c2d7e1a-0752-47ce-9619-1c672fbcdc1c</vehicle_id>
-    <vehicle_registration_plate>KEY10J</vehicle_registration_plate>
-    <g:title>Volvo EX40 ExtendedRange Plus SE</g:title>
-    <title>Volvo EX40 ExtendedRange Plus SE</title>
-    <g:description>ExtendedRange Plus SE. Från 7 376 kr/mån. Miltal: 1 614 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: KEY10J. Kontakta oss för mer information.</g:description>
-    <description>ExtendedRange Plus SE. Från 7 376 kr/mån. Miltal: 1 614 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: KEY10J. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-key10j</g:link>
-    <link>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-key10j</link>
-    <url>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-key10j</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/e76ac2f6-647f-4885-ad00-ee8136968759/6ae7db28-12c8-4fbc-8c33-78e44139a252?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/e76ac2f6-647f-4885-ad00-ee8136968759/6ae7db28-12c8-4fbc-8c33-78e44139a252?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>EX40</model>
-    <year>2026</year>
-    <mileage>
-      <value>16140</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>469000 SEK</g:price>
-    <price>469000 SEK</price>
-    <sale_price>469000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Kinna Bil</component>
       <component name="country">SE</component>
