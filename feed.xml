@@ -1252,50 +1252,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>eeaaec1b-75f1-4d36-91cb-d2924f39b05e</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>eeaaec1b-75f1-4d36-91cb-d2924f39b05e</vehicle_id>
-    <vehicle_registration_plate>WAH53U</vehicle_registration_plate>
-    <g:title>Volvo XC40 Plus Edition</g:title>
-    <title>Volvo XC40 Plus Edition</title>
-    <g:description>Plus Edition. Från 4 860 kr/mån. Miltal: 9 668 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: WAH53U. Kontakta oss för mer information.</g:description>
-    <description>Plus Edition. Från 4 860 kr/mån. Miltal: 9 668 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: WAH53U. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-wah53u</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc40-recharge-wah53u</link>
-    <url>https://borasbil.se/bilar/volvo-xc40-recharge-wah53u</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/e56b6c06-054b-46c5-b780-23d793b2b9cf/b9e061e1-1038-4c7c-804f-2a32855861ed?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/e56b6c06-054b-46c5-b780-23d793b2b9cf/b9e061e1-1038-4c7c-804f-2a32855861ed?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2023</year>
-    <mileage>
-      <value>96680</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>309000 SEK</g:price>
-    <price>309000 SEK</price>
-    <sale_price>309000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>45203309-0188-4157-9db6-fa736f198523</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -5727,50 +5683,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>164dc1cc-a164-4577-b15a-e2d605eda39c</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>164dc1cc-a164-4577-b15a-e2d605eda39c</vehicle_id>
-    <vehicle_registration_plate>USG52C</vehicle_registration_plate>
-    <g:title>Polestar 2</g:title>
-    <title>Polestar 2</title>
-    <g:description>Från 5 804 kr/mån. Miltal: 4 988 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Reg.nr: USG52C. Kontakta oss för mer information.</g:description>
-    <description>Från 5 804 kr/mån. Miltal: 4 988 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Reg.nr: USG52C. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/polestar-2-standard-range-single-motor-usg52c</g:link>
-    <link>https://borasbil.se/bilar/polestar-2-standard-range-single-motor-usg52c</link>
-    <url>https://borasbil.se/bilar/polestar-2-standard-range-single-motor-usg52c</url>
-    <g:brand>Polestar</g:brand>
-    <brand>Polestar</brand>
-    <make>Polestar</make>
-    <g:image_link>https://cdn.wayke.se/cfit/02cc0d4a-ddb5-4c19-9b7b-e20bbbaa6a8e/1465c263-baf8-428e-aa9b-786aca3e0008?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/02cc0d4a-ddb5-4c19-9b7b-e20bbbaa6a8e/1465c263-baf8-428e-aa9b-786aca3e0008?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>2</model>
-    <year>2024</year>
-    <mileage>
-      <value>49880</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>369000 SEK</g:price>
-    <price>369000 SEK</price>
-    <sale_price>369000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -11022,50 +10934,6 @@
     <g:condition>new</g:condition>
     <condition>new</condition>
     <state_of_vehicle>NEW</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>687b1191-4c7d-499a-bf42-d25e94269e98</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>687b1191-4c7d-499a-bf42-d25e94269e98</vehicle_id>
-    <vehicle_registration_plate>WAB76R</vehicle_registration_plate>
-    <g:title>Volvo XC40 Core</g:title>
-    <title>Volvo XC40 Core</title>
-    <g:description>Core. Från 5 017 kr/mån. Miltal: 9 006 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: WAB76R. Kontakta oss för mer information.</g:description>
-    <description>Core. Från 5 017 kr/mån. Miltal: 9 006 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: WAB76R. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-wab76r</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-wab76r</link>
-    <url>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-wab76r</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/cbb62f59-4fa1-4dd0-943d-197f0874eeed/97319981-4b29-4fe1-b3e8-4d842ecf366d?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/cbb62f59-4fa1-4dd0-943d-197f0874eeed/97319981-4b29-4fe1-b3e8-4d842ecf366d?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2023</year>
-    <mileage>
-      <value>90060</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>319000 SEK</g:price>
-    <price>319000 SEK</price>
-    <sale_price>319000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
     <g:id>e4d04d44-b053-4ab8-b604-9bf0db8995b6</g:id>
