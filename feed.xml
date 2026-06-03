@@ -5,6 +5,134 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>11513754-21d4-441f-8a09-28efaed0be2a</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>11513754-21d4-441f-8a09-28efaed0be2a</vehicle_id>
+    <vehicle_registration_plate>PPR00E</vehicle_registration_plate>
+    <g:title>Citroën C4 SHINE Pure Tech 130 A 5-d</g:title>
+    <title>Citroën C4 SHINE Pure Tech 130 A 5-d</title>
+    <g:description>SHINE Pure Tech 130 A 5-d. Från 2 973 kr/mån. Miltal: 4 575 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin. Reg.nr: PPR00E. Kontakta oss för mer information.</g:description>
+    <description>SHINE Pure Tech 130 A 5-d. Från 2 973 kr/mån. Miltal: 4 575 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin. Reg.nr: PPR00E. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/citroen-c4-ppr00e</g:link>
+    <link>https://borasbil.se/bilar/citroen-c4-ppr00e</link>
+    <url>https://borasbil.se/bilar/citroen-c4-ppr00e</url>
+    <g:brand>Citroën</g:brand>
+    <brand>Citroën</brand>
+    <make>Citroën</make>
+    <g:image_link>https://cdn.wayke.se/cfit/4e08dfca-92a8-40fa-8da6-68b388e6d104/5f445d63-c122-4584-baa4-8928228306db?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/4e08dfca-92a8-40fa-8da6-68b388e6d104/5f445d63-c122-4584-baa4-8928228306db?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>C4</model>
+    <year>2022</year>
+    <mileage>
+      <value>45750</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>189000 SEK</g:price>
+    <price>189000 SEK</price>
+    <sale_price>189000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>639a515c-a63e-4c72-adc8-74d7b42275ca</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>639a515c-a63e-4c72-adc8-74d7b42275ca</vehicle_id>
+    <vehicle_registration_plate>BBX93A</vehicle_registration_plate>
+    <g:title>Volvo XC60 T6 Plus Dark Nordic Edition</g:title>
+    <title>Volvo XC60 T6 Plus Dark Nordic Edition</title>
+    <g:description>T6 Plus Dark Nordic Edition. Från 10 483 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: BBX93A. Kontakta oss för mer information.</g:description>
+    <description>T6 Plus Dark Nordic Edition. Från 10 483 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: BBX93A. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-xc60-bbx93a</g:link>
+    <link>https://borasbil.se/bilar/volvo-xc60-bbx93a</link>
+    <url>https://borasbil.se/bilar/volvo-xc60-bbx93a</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/dda8eb50ffc544249f4fc43348de16cf/6ffef7cf51e9488188fc9683edac2e18?format=jpeg&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/dda8eb50ffc544249f4fc43348de16cf/6ffef7cf51e9488188fc9683edac2e18?format=jpeg&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC60</model>
+    <year>2027</year>
+    <body_style>SUV</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>666500 SEK</g:price>
+    <price>666500 SEK</price>
+    <sale_price>666500 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>6eeb6f5f-4d5a-4da2-8614-da7a9d3114f9</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>6eeb6f5f-4d5a-4da2-8614-da7a9d3114f9</vehicle_id>
+    <vehicle_registration_plate>RCS55G</vehicle_registration_plate>
+    <g:title>Volvo XC60 T6 Plus Black Nordic Edition</g:title>
+    <title>Volvo XC60 T6 Plus Black Nordic Edition</title>
+    <g:description>T6 Plus Black Nordic Edition. Från 12 095 kr/mån. Miltal: 500 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: RCS55G. Kontakta oss för mer information.</g:description>
+    <description>T6 Plus Black Nordic Edition. Från 12 095 kr/mån. Miltal: 500 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: RCS55G. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-xc60-rcs55g</g:link>
+    <link>https://borasbil.se/bilar/volvo-xc60-rcs55g</link>
+    <url>https://borasbil.se/bilar/volvo-xc60-rcs55g</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/03e9e4b1-c800-462f-ba19-769ea4f8f65c/40f73de7-244e-4971-924a-d4bf59377264?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/03e9e4b1-c800-462f-ba19-769ea4f8f65c/40f73de7-244e-4971-924a-d4bf59377264?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC60</model>
+    <year>2027</year>
+    <mileage>
+      <value>5000</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>769000 SEK</g:price>
+    <price>769000 SEK</price>
+    <sale_price>769000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    </item>
+    <item>
     <g:id>f7eeb772-9707-4efc-8c9a-7b43d40f84f4</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -940,9 +1068,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/0d96577e-419d-4ba6-a2a3-3562e0ab3c01/fef01d9d-fab3-4a7f-806b-b6024ece5511?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/160e917624eb44809a82a0aad1336b1c/bcc522a0ed034f92bd68d5dbb6fe4e94?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/0d96577e-419d-4ba6-a2a3-3562e0ab3c01/fef01d9d-fab3-4a7f-806b-b6024ece5511?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/160e917624eb44809a82a0aad1336b1c/bcc522a0ed034f92bd68d5dbb6fe4e94?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>V90</model>
@@ -4133,9 +4261,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/dea6acc4d4d74d24a3caf8ca5ab7e78f/2321c4d75ee94dfe906bfc20253037d6?format=jpeg&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/0a96d18c-0a36-43bb-9d34-173181f29fbd/8900535b-e54a-4226-a05e-ca042931e304?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/v3/dea6acc4d4d74d24a3caf8ca5ab7e78f/2321c4d75ee94dfe906bfc20253037d6?format=jpeg&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/0a96d18c-0a36-43bb-9d34-173181f29fbd/8900535b-e54a-4226-a05e-ca042931e304?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC40</model>
@@ -5577,9 +5705,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/80fc2e3a-9309-43f6-8229-0b6a9885901d/03b2caf7-f0c4-474b-b4cb-35fcf59698b4?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/480d5d6e-9b89-4db1-8b3c-a1b943c62288/8816eccc-20ac-48c8-bb12-bbe9b94b65af?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/80fc2e3a-9309-43f6-8229-0b6a9885901d/03b2caf7-f0c4-474b-b4cb-35fcf59698b4?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/480d5d6e-9b89-4db1-8b3c-a1b943c62288/8816eccc-20ac-48c8-bb12-bbe9b94b65af?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>V60</model>
@@ -14485,50 +14613,6 @@
     <g:condition>new</g:condition>
     <condition>new</condition>
     <state_of_vehicle>NEW</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>d043a3da-fff0-4384-848b-9583dbe8307d</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>d043a3da-fff0-4384-848b-9583dbe8307d</vehicle_id>
-    <vehicle_registration_plate>MRA70C</vehicle_registration_plate>
-    <g:title>Polestar 2 Plus - Pilot pack</g:title>
-    <title>Polestar 2 Plus - Pilot pack</title>
-    <g:description>Plus - Pilot pack. Från 7 062 kr/mån. Miltal: 2 199 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: MRA70C. Kontakta oss för mer information.</g:description>
-    <description>Plus - Pilot pack. Från 7 062 kr/mån. Miltal: 2 199 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: MRA70C. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/polestar-2-long-range-single-motor-mra70c</g:link>
-    <link>https://borasbil.se/bilar/polestar-2-long-range-single-motor-mra70c</link>
-    <url>https://borasbil.se/bilar/polestar-2-long-range-single-motor-mra70c</url>
-    <g:brand>Polestar</g:brand>
-    <brand>Polestar</brand>
-    <make>Polestar</make>
-    <g:image_link>https://cdn.wayke.se/cfit/d961fbc4-e00e-492f-aec0-1f70c2eb4395/0b593cb1-1c42-41f1-b9db-f56d93bd2959?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/d961fbc4-e00e-492f-aec0-1f70c2eb4395/0b593cb1-1c42-41f1-b9db-f56d93bd2959?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>2</model>
-    <year>2025</year>
-    <mileage>
-      <value>21990</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>449000 SEK</g:price>
-    <price>449000 SEK</price>
-    <sale_price>449000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
     <g:id>6d4e59f7-3950-447f-8256-30b7caf20a55</g:id>
