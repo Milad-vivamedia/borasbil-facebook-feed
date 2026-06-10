@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>af7cdf3a-94b9-423c-b403-bc61d985c1c5</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>af7cdf3a-94b9-423c-b403-bc61d985c1c5</vehicle_id>
+    <vehicle_registration_plate>YPZ291</vehicle_registration_plate>
+    <g:title>Ford EcoSport 1.0 125 ST-Line</g:title>
+    <title>Ford EcoSport 1.0 125 ST-Line</title>
+    <g:description>1.0 125 ST-Line. Från 1 966 kr/mån. Miltal: 6 307 mil. Årsmodell: 2018. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: YPZ291. Kontakta oss för mer information.</g:description>
+    <description>1.0 125 ST-Line. Från 1 966 kr/mån. Miltal: 6 307 mil. Årsmodell: 2018. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: YPZ291. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/ford-ecosport-ypz291</g:link>
+    <link>https://borasbil.se/bilar/ford-ecosport-ypz291</link>
+    <url>https://borasbil.se/bilar/ford-ecosport-ypz291</url>
+    <g:brand>Ford</g:brand>
+    <brand>Ford</brand>
+    <make>Ford</make>
+    <g:image_link>https://cdn.wayke.se/cfit/e3688f92-2fa1-461b-b3d4-2f1e053fd65b/605f853b-6e84-4785-91af-e04f454eae07?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/e3688f92-2fa1-461b-b3d4-2f1e053fd65b/605f853b-6e84-4785-91af-e04f454eae07?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>EcoSport</model>
+    <year>2018</year>
+    <mileage>
+      <value>63070</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Manual</transmission>
+    <g:price>125000 SEK</g:price>
+    <price>125000 SEK</price>
+    <sale_price>125000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Bogesunds Bil Ulricehamn</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>a9488c90-284b-4250-819d-bdd3edf356e5</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -496,8 +540,8 @@
     <vehicle_registration_plate>CAD39L</vehicle_registration_plate>
     <g:title>Lynk &amp; Co 08</g:title>
     <title>Lynk &amp; Co 08</title>
-    <g:description>Från 8 792 kr/mån. Miltal: 1 148 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: CAD39L. Kontakta oss för mer information.</g:description>
-    <description>Från 8 792 kr/mån. Miltal: 1 148 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: CAD39L. Kontakta oss för mer information.</description>
+    <g:description>Från 8 792 kr/mån. Miltal: 1 216 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: CAD39L. Kontakta oss för mer information.</g:description>
+    <description>Från 8 792 kr/mån. Miltal: 1 216 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: CAD39L. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/lynk-co-08-phev-cad39l</g:link>
     <link>https://borasbil.se/bilar/lynk-co-08-phev-cad39l</link>
     <url>https://borasbil.se/bilar/lynk-co-08-phev-cad39l</url>
@@ -512,7 +556,7 @@
     <model>08</model>
     <year>2025</year>
     <mileage>
-      <value>11480</value>
+      <value>12160</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
@@ -1392,8 +1436,8 @@
     <vehicle_registration_plate>WBM49K</vehicle_registration_plate>
     <g:title>Volvo EX40 R Plus Edt</g:title>
     <title>Volvo EX40 R Plus Edt</title>
-    <g:description>R Plus Edt. Från 6 275 kr/mån. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: WBM49K. Kontakta oss för mer information.</g:description>
-    <description>R Plus Edt. Från 6 275 kr/mån. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: WBM49K. Kontakta oss för mer information.</description>
+    <g:description>R Plus Edt. Från 6 275 kr/mån. Miltal: 8 724 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: WBM49K. Kontakta oss för mer information.</g:description>
+    <description>R Plus Edt. Från 6 275 kr/mån. Miltal: 8 724 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: WBM49K. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-wbm49k</g:link>
     <link>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-wbm49k</link>
     <url>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-wbm49k</url>
@@ -1407,6 +1451,10 @@
     </image>
     <model>EX40</model>
     <year>2025</year>
+    <mileage>
+      <value>87240</value>
+      <unit>KM</unit>
+    </mileage>
     <body_style>Sedan</body_style>
     <fuel_type>Electric</fuel_type>
     <transmission>Automatic</transmission>
@@ -4467,8 +4515,8 @@
     <vehicle_registration_plate>RAH929</vehicle_registration_plate>
     <g:title>Volvo XC40 Core</g:title>
     <title>Volvo XC40 Core</title>
-    <g:description>Core. Från 5 017 kr/mån. Miltal: 4 311 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: RAH929. Kontakta oss för mer information.</g:description>
-    <description>Core. Från 5 017 kr/mån. Miltal: 4 311 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: RAH929. Kontakta oss för mer information.</description>
+    <g:description>Core. Från 5 017 kr/mån. Miltal: 4 314 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: RAH929. Kontakta oss för mer information.</g:description>
+    <description>Core. Från 5 017 kr/mån. Miltal: 4 314 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: RAH929. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-rah929</g:link>
     <link>https://borasbil.se/bilar/volvo-xc40-recharge-rah929</link>
     <url>https://borasbil.se/bilar/volvo-xc40-recharge-rah929</url>
@@ -4483,7 +4531,7 @@
     <model>XC40</model>
     <year>2023</year>
     <mileage>
-      <value>43110</value>
+      <value>43140</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
@@ -6417,9 +6465,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/bc4f83a7-66cc-461f-b45f-ed8f1737735d/aa05d8fe-5dc1-40ba-8ec0-d2e3c3c77fc5?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/a8e3770c427c4de385994ff1629b97cf/dd3ce9de3a2b4023a4bd317705455f89?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/bc4f83a7-66cc-461f-b45f-ed8f1737735d/aa05d8fe-5dc1-40ba-8ec0-d2e3c3c77fc5?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/a8e3770c427c4de385994ff1629b97cf/dd3ce9de3a2b4023a4bd317705455f89?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC60</model>
@@ -11619,8 +11667,8 @@
     <vehicle_registration_plate>NRR16L</vehicle_registration_plate>
     <g:title>Volvo XC90 T8 Ultra Dark</g:title>
     <title>Volvo XC90 T8 Ultra Dark</title>
-    <g:description>T8 Ultra Dark. Från 13 353 kr/mån. Miltal: 2 064 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: NRR16L. Kontakta oss för mer information.</g:description>
-    <description>T8 Ultra Dark. Från 13 353 kr/mån. Miltal: 2 064 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: NRR16L. Kontakta oss för mer information.</description>
+    <g:description>T8 Ultra Dark. Från 13 353 kr/mån. Miltal: 2 133 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: NRR16L. Kontakta oss för mer information.</g:description>
+    <description>T8 Ultra Dark. Från 13 353 kr/mån. Miltal: 2 133 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: NRR16L. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc90-nrr16l</g:link>
     <link>https://borasbil.se/bilar/volvo-xc90-nrr16l</link>
     <url>https://borasbil.se/bilar/volvo-xc90-nrr16l</url>
@@ -11635,7 +11683,7 @@
     <model>XC90</model>
     <year>2026</year>
     <mileage>
-      <value>20640</value>
+      <value>21330</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
@@ -11711,9 +11759,9 @@
     <g:brand>Polestar</g:brand>
     <brand>Polestar</brand>
     <make>Polestar</make>
-    <g:image_link>https://cdn.wayke.se/cfit/3d4d742c-fe14-4564-b7ea-3c9ad2ebf723/915ba1f4-2cee-4344-9577-8312cab8699a?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/821fdade0e5d4c4ea8717b3193e38961/d574b5e935fa4063adfbd27d97d525d9?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/3d4d742c-fe14-4564-b7ea-3c9ad2ebf723/915ba1f4-2cee-4344-9577-8312cab8699a?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/821fdade0e5d4c4ea8717b3193e38961/d574b5e935fa4063adfbd27d97d525d9?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>2</model>
@@ -12655,8 +12703,8 @@
     <vehicle_registration_plate>YYB275</vehicle_registration_plate>
     <g:title>Volvo XC60 T8 TE R-Design</g:title>
     <title>Volvo XC60 T8 TE R-Design</title>
-    <g:description>T8 TE R-Design. Från 4 860 kr/mån. Miltal: 14 652 mil. Årsmodell: 2019. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: YYB275. Kontakta oss för mer information.</g:description>
-    <description>T8 TE R-Design. Från 4 860 kr/mån. Miltal: 14 652 mil. Årsmodell: 2019. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: YYB275. Kontakta oss för mer information.</description>
+    <g:description>T8 TE R-Design. Från 4 860 kr/mån. Miltal: 14 653 mil. Årsmodell: 2019. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: YYB275. Kontakta oss för mer information.</g:description>
+    <description>T8 TE R-Design. Från 4 860 kr/mån. Miltal: 14 653 mil. Årsmodell: 2019. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: YYB275. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc60-yyb275</g:link>
     <link>https://borasbil.se/bilar/volvo-xc60-yyb275</link>
     <url>https://borasbil.se/bilar/volvo-xc60-yyb275</url>
@@ -12671,7 +12719,7 @@
     <model>XC60</model>
     <year>2019</year>
     <mileage>
-      <value>146520</value>
+      <value>146530</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
@@ -12839,9 +12887,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/b1422549-0311-4ad4-af08-ed68a1583bf1/d81bb330-12c0-4aad-9398-1c2d29f71aaf?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/8c7b81a6-7394-487c-a917-8249a28021cc/c54214a7-f9ff-42e2-8b0e-e2c8cf3f8e51?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/b1422549-0311-4ad4-af08-ed68a1583bf1/d81bb330-12c0-4aad-9398-1c2d29f71aaf?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/8c7b81a6-7394-487c-a917-8249a28021cc/c54214a7-f9ff-42e2-8b0e-e2c8cf3f8e51?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>EX30</model>
@@ -14374,50 +14422,6 @@
     <g:condition>used</g:condition>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>1bb38250-95bb-45a0-91a8-29ac473ff145</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>1bb38250-95bb-45a0-91a8-29ac473ff145</vehicle_id>
-    <vehicle_registration_plate>BDR06X</vehicle_registration_plate>
-    <g:title>Volvo EX40 ExtendedRange Ultra SE</g:title>
-    <title>Volvo EX40 ExtendedRange Ultra SE</title>
-    <g:description>ExtendedRange Ultra SE. Från 7 534 kr/mån. Miltal: 1 267 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: BDR06X. Kontakta oss för mer information.</g:description>
-    <description>ExtendedRange Ultra SE. Från 7 534 kr/mån. Miltal: 1 267 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: BDR06X. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-bdr06x</g:link>
-    <link>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-bdr06x</link>
-    <url>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-bdr06x</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/acdd16f6-5d1f-460c-ab65-9bd609a61ea6/a6f27051-07e0-4d72-b074-8fcce8227185?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/acdd16f6-5d1f-460c-ab65-9bd609a61ea6/a6f27051-07e0-4d72-b074-8fcce8227185?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>EX40</model>
-    <year>2026</year>
-    <mileage>
-      <value>12670</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>479000 SEK</g:price>
-    <price>479000 SEK</price>
-    <sale_price>479000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>new</g:condition>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
     </item>
     <item>
     <g:id>41246d3e-4cec-4822-8aa8-719575ac6c43</g:id>
