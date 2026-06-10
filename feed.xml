@@ -11704,46 +11704,6 @@
     <state_of_vehicle>NEW</state_of_vehicle>
     </item>
     <item>
-    <g:id>5e35e1f2-85ce-4c95-906a-4a0839981f46</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>5e35e1f2-85ce-4c95-906a-4a0839981f46</vehicle_id>
-    <vehicle_registration_plate>MGS22E</vehicle_registration_plate>
-    <g:title>Volvo XC90 T8 Ultra Black Edition</g:title>
-    <title>Volvo XC90 T8 Ultra Black Edition</title>
-    <g:description>T8 Ultra Black Edition. Från 16 735 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: MGS22E. Kontakta oss för mer information.</g:description>
-    <description>T8 Ultra Black Edition. Från 16 735 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: MGS22E. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc90-mgs22e</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc90-mgs22e</link>
-    <url>https://borasbil.se/bilar/volvo-xc90-mgs22e</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/9c1def54-0776-4878-822d-77ad672c4700/520e5a33-b7ba-4c16-8277-82cd537cbcbd?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/9c1def54-0776-4878-822d-77ad672c4700/520e5a33-b7ba-4c16-8277-82cd537cbcbd?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC90</model>
-    <year>2026</year>
-    <body_style>SUV</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>1064000 SEK</g:price>
-    <price>1064000 SEK</price>
-    <sale_price>1064000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>new</g:condition>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    </item>
-    <item>
     <g:id>5ba86380-82d1-443f-b9aa-f52e33ec211b</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
