@@ -3513,50 +3513,6 @@
     <state_of_vehicle>NEW</state_of_vehicle>
     </item>
     <item>
-    <g:id>a2983f7f-7863-4c7c-aebd-96e28f594f35</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>a2983f7f-7863-4c7c-aebd-96e28f594f35</vehicle_id>
-    <vehicle_registration_plate>NAX59A</vehicle_registration_plate>
-    <g:title>Volvo XC40 Ultimate/DRAG</g:title>
-    <title>Volvo XC40 Ultimate/DRAG</title>
-    <g:description>Ultimate/DRAG. Från 5 961 kr/mån. Miltal: 7 365 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: NAX59A. Kontakta oss för mer information.</g:description>
-    <description>Ultimate/DRAG. Från 5 961 kr/mån. Miltal: 7 365 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: NAX59A. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-twin-nax59a</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc40-recharge-twin-nax59a</link>
-    <url>https://borasbil.se/bilar/volvo-xc40-recharge-twin-nax59a</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/075b5b4d-2444-4d28-a393-8fc837a8916b/a7a2f6a4-631a-4f51-9802-7f736cf0ef10?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/075b5b4d-2444-4d28-a393-8fc837a8916b/a7a2f6a4-631a-4f51-9802-7f736cf0ef10?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2023</year>
-    <mileage>
-      <value>73650</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>379000 SEK</g:price>
-    <price>379000 SEK</price>
-    <sale_price>379000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>d9438e23-a34c-41df-beab-45b2dae7730d</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -5514,50 +5470,6 @@
     <g:condition>new</g:condition>
     <condition>new</condition>
     <state_of_vehicle>NEW</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>3a78c8d5-8698-4c75-abd9-62f596baf9af</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>3a78c8d5-8698-4c75-abd9-62f596baf9af</vehicle_id>
-    <vehicle_registration_plate>FEN56D</vehicle_registration_plate>
-    <g:title>Polestar 2 64kWh</g:title>
-    <title>Polestar 2 64kWh</title>
-    <g:description>64kWh. Från 4 231 kr/mån. Miltal: 10 752 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: FEN56D. Kontakta oss för mer information.</g:description>
-    <description>64kWh. Från 4 231 kr/mån. Miltal: 10 752 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: FEN56D. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/polestar-2-standard-range-single-motor-fen56d</g:link>
-    <link>https://borasbil.se/bilar/polestar-2-standard-range-single-motor-fen56d</link>
-    <url>https://borasbil.se/bilar/polestar-2-standard-range-single-motor-fen56d</url>
-    <g:brand>Polestar</g:brand>
-    <brand>Polestar</brand>
-    <make>Polestar</make>
-    <g:image_link>https://cdn.wayke.se/cfit/35f9e4ef-3311-4e39-b126-a21fa292b7bd/88bff896-f0a4-47ed-aaee-f2d46845ff6c?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/35f9e4ef-3311-4e39-b126-a21fa292b7bd/88bff896-f0a4-47ed-aaee-f2d46845ff6c?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>2</model>
-    <year>2022</year>
-    <mileage>
-      <value>107520</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>269000 SEK</g:price>
-    <price>269000 SEK</price>
-    <sale_price>269000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
     <g:id>d8755672-0185-459c-8b34-28e0c8ef57c0</g:id>
@@ -11265,50 +11177,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>c2257f63-af94-4fc1-80cd-9cb7230612be</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>c2257f63-af94-4fc1-80cd-9cb7230612be</vehicle_id>
-    <vehicle_registration_plate>UHY52M</vehicle_registration_plate>
-    <g:title>Volvo XC40 Ultimate/DRAG</g:title>
-    <title>Volvo XC40 Ultimate/DRAG</title>
-    <g:description>Ultimate/DRAG. Från 5 646 kr/mån. Miltal: 8 909 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: UHY52M. Kontakta oss för mer information.</g:description>
-    <description>Ultimate/DRAG. Från 5 646 kr/mån. Miltal: 8 909 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: UHY52M. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-uhy52m</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-uhy52m</link>
-    <url>https://borasbil.se/bilar/volvo-xc40-recharge-twin-motor-uhy52m</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/7c722cb5-2adf-4b0f-8151-cc80b724b307/748b03e8-f6e4-4033-810b-a20755c1107b?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/7c722cb5-2adf-4b0f-8151-cc80b724b307/748b03e8-f6e4-4033-810b-a20755c1107b?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2023</year>
-    <mileage>
-      <value>89090</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>359000 SEK</g:price>
-    <price>359000 SEK</price>
-    <sale_price>359000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
