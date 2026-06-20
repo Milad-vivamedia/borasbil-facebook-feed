@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>f3331cf6-0cf3-485a-bd9a-d9e3b0d560e3</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>f3331cf6-0cf3-485a-bd9a-d9e3b0d560e3</vehicle_id>
+    <vehicle_registration_plate>CYR23X</vehicle_registration_plate>
+    <g:title>Volvo EX90 Ultra 7sätes</g:title>
+    <title>Volvo EX90 Ultra 7sätes</title>
+    <g:description>Ultra 7sätes. Från 12 724 kr/mån. Miltal: 2 259 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: CYR23X. Kontakta oss för mer information.</g:description>
+    <description>Ultra 7sätes. Från 12 724 kr/mån. Miltal: 2 259 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: CYR23X. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-ex90-twin-motor-performance-7-seater-cyr23x</g:link>
+    <link>https://borasbil.se/bilar/volvo-ex90-twin-motor-performance-7-seater-cyr23x</link>
+    <url>https://borasbil.se/bilar/volvo-ex90-twin-motor-performance-7-seater-cyr23x</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/8faf3976-b5b3-49b2-87ad-5521a8332830/259b1644-3459-4f07-a598-244ee7888905?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/8faf3976-b5b3-49b2-87ad-5521a8332830/259b1644-3459-4f07-a598-244ee7888905?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>EX90</model>
+    <year>2025</year>
+    <mileage>
+      <value>22590</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>809000 SEK</g:price>
+    <price>809000 SEK</price>
+    <sale_price>809000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Bogesunds Bil Ulricehamn</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>6e76f6ec-5e7b-4b1f-b769-23ef02f687a2</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
