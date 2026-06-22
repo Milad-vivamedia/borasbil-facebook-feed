@@ -5,6 +5,138 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>e6b92300-8de2-4a45-a849-d13724bd76f1</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>e6b92300-8de2-4a45-a849-d13724bd76f1</vehicle_id>
+    <vehicle_registration_plate>CBR06Y</vehicle_registration_plate>
+    <g:title>Volvo EX40 ExtendedRange Plus SE</g:title>
+    <title>Volvo EX40 ExtendedRange Plus SE</title>
+    <g:description>ExtendedRange Plus SE. Från 7 062 kr/mån. Miltal: 3 178 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: CBR06Y. Kontakta oss för mer information.</g:description>
+    <description>ExtendedRange Plus SE. Från 7 062 kr/mån. Miltal: 3 178 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: CBR06Y. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-cbr06y</g:link>
+    <link>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-cbr06y</link>
+    <url>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-cbr06y</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/ebbf80f3-d114-478d-9003-fd80a4fa7554/bc242f17-35b4-432c-8f1d-0134481abb4e?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/ebbf80f3-d114-478d-9003-fd80a4fa7554/bc242f17-35b4-432c-8f1d-0134481abb4e?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>EX40</model>
+    <year>2025</year>
+    <mileage>
+      <value>31780</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>449000 SEK</g:price>
+    <price>449000 SEK</price>
+    <sale_price>449000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>1c1cdcfb-0156-48b1-8aa4-80dc6d22b43d</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>1c1cdcfb-0156-48b1-8aa4-80dc6d22b43d</vehicle_id>
+    <vehicle_registration_plate>OER04H</vehicle_registration_plate>
+    <g:title>Volvo EX40 ExtendedRange Plus SE</g:title>
+    <title>Volvo EX40 ExtendedRange Plus SE</title>
+    <g:description>ExtendedRange Plus SE. Från 7 062 kr/mån. Miltal: 3 046 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: OER04H. Kontakta oss för mer information.</g:description>
+    <description>ExtendedRange Plus SE. Från 7 062 kr/mån. Miltal: 3 046 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: OER04H. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-oer04h</g:link>
+    <link>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-oer04h</link>
+    <url>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-oer04h</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/db4e4e19-f57d-4bbf-ab26-ca4257475d9c/1c618a0a-51a4-4a58-bb1e-1b4756c1c31b?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/db4e4e19-f57d-4bbf-ab26-ca4257475d9c/1c618a0a-51a4-4a58-bb1e-1b4756c1c31b?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>EX40</model>
+    <year>2025</year>
+    <mileage>
+      <value>30460</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>449000 SEK</g:price>
+    <price>449000 SEK</price>
+    <sale_price>449000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>6928ef50-9686-4dfc-b1bd-3260c38de268</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>6928ef50-9686-4dfc-b1bd-3260c38de268</vehicle_id>
+    <vehicle_registration_plate>EZT07K</vehicle_registration_plate>
+    <g:title>Volvo EX40 R Plus Edt</g:title>
+    <title>Volvo EX40 R Plus Edt</title>
+    <g:description>R Plus Edt. Från 7 062 kr/mån. Miltal: 3 655 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: EZT07K. Kontakta oss för mer information.</g:description>
+    <description>R Plus Edt. Från 7 062 kr/mån. Miltal: 3 655 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: EZT07K. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-ezt07k</g:link>
+    <link>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-ezt07k</link>
+    <url>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-ezt07k</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/e0164030-ea4a-4ac7-9779-c1abccf3b28c/56550bc8-2416-4c0b-adc0-f5c7439c351e?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/e0164030-ea4a-4ac7-9779-c1abccf3b28c/56550bc8-2416-4c0b-adc0-f5c7439c351e?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>EX40</model>
+    <year>2025</year>
+    <mileage>
+      <value>36550</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>449000 SEK</g:price>
+    <price>449000 SEK</price>
+    <sale_price>449000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>f3331cf6-0cf3-485a-bd9a-d9e3b0d560e3</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
