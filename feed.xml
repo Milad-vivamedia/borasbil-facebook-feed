@@ -841,50 +841,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>b31cfeb3-b8fe-4f47-9d8b-f8f74dbc06e8</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>b31cfeb3-b8fe-4f47-9d8b-f8f74dbc06e8</vehicle_id>
-    <vehicle_registration_plate>MRA71R</vehicle_registration_plate>
-    <g:title>Volvo V90 T6 Plus Dark Edition</g:title>
-    <title>Volvo V90 T6 Plus Dark Edition</title>
-    <g:description>T6 Plus Dark Edition. Från 7 534 kr/mån. Miltal: 4 549 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: MRA71R. Kontakta oss för mer information.</g:description>
-    <description>T6 Plus Dark Edition. Från 7 534 kr/mån. Miltal: 4 549 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: MRA71R. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-v90-mra71r</g:link>
-    <link>https://borasbil.se/bilar/volvo-v90-mra71r</link>
-    <url>https://borasbil.se/bilar/volvo-v90-mra71r</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/8bd30996-7b9d-4714-a8af-3b77c0d8a3e7/85fcc76f-a668-40f6-a8f4-0cd8c360658c?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/8bd30996-7b9d-4714-a8af-3b77c0d8a3e7/85fcc76f-a668-40f6-a8f4-0cd8c360658c?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V90</model>
-    <year>2025</year>
-    <mileage>
-      <value>45490</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>479000 SEK</g:price>
-    <price>479000 SEK</price>
-    <sale_price>479000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>2a79969e-d38a-4641-81b1-4fec95c53bf6</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -5087,50 +5043,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>5f21c96d-2900-435e-ae5f-8d7beaec5cd4</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>5f21c96d-2900-435e-ae5f-8d7beaec5cd4</vehicle_id>
-    <vehicle_registration_plate>CRP23C</vehicle_registration_plate>
-    <g:title>Lynk &amp; Co 01</g:title>
-    <title>Lynk &amp; Co 01</title>
-    <g:description>Från 4 545 kr/mån. Miltal: 4 275 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: CRP23C. Kontakta oss för mer information.</g:description>
-    <description>Från 4 545 kr/mån. Miltal: 4 275 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: CRP23C. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/lynk-co-01-phev-crp23c</g:link>
-    <link>https://borasbil.se/bilar/lynk-co-01-phev-crp23c</link>
-    <url>https://borasbil.se/bilar/lynk-co-01-phev-crp23c</url>
-    <g:brand>Lynk &amp; Co</g:brand>
-    <brand>Lynk &amp; Co</brand>
-    <make>Lynk &amp; Co</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/3bad87297b614446aadc38bd9cb62481/af4ccac48d87458ab5d09c46794a0001?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/3bad87297b614446aadc38bd9cb62481/af4ccac48d87458ab5d09c46794a0001?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>01</model>
-    <year>2024</year>
-    <mileage>
-      <value>42750</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>289000 SEK</g:price>
-    <price>289000 SEK</price>
-    <sale_price>289000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Bogesunds Bil Ulricehamn</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>f2229844-33be-414d-b8a0-fcfc51edb185</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -8071,50 +7983,6 @@
     <g:condition>new</g:condition>
     <condition>new</condition>
     <state_of_vehicle>NEW</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>5bac9194-1614-4302-8c4b-f2768baf4530</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>5bac9194-1614-4302-8c4b-f2768baf4530</vehicle_id>
-    <vehicle_registration_plate>NMR52L</vehicle_registration_plate>
-    <g:title>Volvo C40 Core</g:title>
-    <title>Volvo C40 Core</title>
-    <g:description>Core. Från 5 017 kr/mån. Miltal: 5 640 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: NMR52L. Kontakta oss för mer information.</g:description>
-    <description>Core. Från 5 017 kr/mån. Miltal: 5 640 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: NMR52L. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-nmr52l</g:link>
-    <link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-nmr52l</link>
-    <url>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-nmr52l</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/cffab6ff21214281890f1f43f28b21c9/163a35df936f46debbb2657514bd39d4?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/cffab6ff21214281890f1f43f28b21c9/163a35df936f46debbb2657514bd39d4?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C40</model>
-    <year>2023</year>
-    <mileage>
-      <value>56400</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>319000 SEK</g:price>
-    <price>319000 SEK</price>
-    <sale_price>319000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
     <g:id>c2586ae4-4b0f-48d1-92e3-af658c193b82</g:id>
