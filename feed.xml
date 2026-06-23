@@ -5097,8 +5097,8 @@
     <vehicle_registration_plate>RCS55G</vehicle_registration_plate>
     <g:title>Volvo XC60 T6 Plus Black Nordic Edition</g:title>
     <title>Volvo XC60 T6 Plus Black Nordic Edition</title>
-    <g:description>T6 Plus Black Nordic Edition. Från 12 095 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: RCS55G. Kontakta oss för mer information.</g:description>
-    <description>T6 Plus Black Nordic Edition. Från 12 095 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: RCS55G. Kontakta oss för mer information.</description>
+    <g:description>T6 Plus Black Nordic Edition. Från 12 095 kr/mån. Miltal: 500 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: RCS55G. Kontakta oss för mer information.</g:description>
+    <description>T6 Plus Black Nordic Edition. Från 12 095 kr/mån. Miltal: 500 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: RCS55G. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc60-rcs55g</g:link>
     <link>https://borasbil.se/bilar/volvo-xc60-rcs55g</link>
     <url>https://borasbil.se/bilar/volvo-xc60-rcs55g</url>
@@ -5112,6 +5112,10 @@
     </image>
     <model>XC60</model>
     <year>2027</year>
+    <mileage>
+      <value>5000</value>
+      <unit>KM</unit>
+    </mileage>
     <body_style>SUV</body_style>
     <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
@@ -5206,50 +5210,6 @@
     <g:price>229000 SEK</g:price>
     <price>229000 SEK</price>
     <sale_price>229000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>23a72e69-dc81-44cb-962a-9a21baaa74f6</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>23a72e69-dc81-44cb-962a-9a21baaa74f6</vehicle_id>
-    <vehicle_registration_plate>TFP98P</vehicle_registration_plate>
-    <g:title>Peugeot 208 GT Electric 5-d</g:title>
-    <title>Peugeot 208 GT Electric 5-d</title>
-    <g:description>GT Electric 5-d. Från 3 287 kr/mån. Miltal: 3 660 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: TFP98P. Kontakta oss för mer information.</g:description>
-    <description>GT Electric 5-d. Från 3 287 kr/mån. Miltal: 3 660 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: TFP98P. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/peugeot-e-208-tfp98p</g:link>
-    <link>https://borasbil.se/bilar/peugeot-e-208-tfp98p</link>
-    <url>https://borasbil.se/bilar/peugeot-e-208-tfp98p</url>
-    <g:brand>Peugeot</g:brand>
-    <brand>Peugeot</brand>
-    <make>Peugeot</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/a14000e5233344349201461642d3f11f/4f7e843a9aaf4b8a8dc255962dccb08a?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/a14000e5233344349201461642d3f11f/4f7e843a9aaf4b8a8dc255962dccb08a?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>208</model>
-    <year>2022</year>
-    <mileage>
-      <value>36600</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>209000 SEK</g:price>
-    <price>209000 SEK</price>
-    <sale_price>209000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Borås Bil</component>
       <component name="country">SE</component>
@@ -6968,9 +6928,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/cc1186de-7b63-4edd-9a68-fd5a0aec5da0/39380717-3e00-4310-af27-35ca08b649de?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/c4fb3e4ccbdb41589691651f9f25db30/433261b0d2ef4989aba6a622a4edcf0c?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/cc1186de-7b63-4edd-9a68-fd5a0aec5da0/39380717-3e00-4310-af27-35ca08b649de?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/c4fb3e4ccbdb41589691651f9f25db30/433261b0d2ef4989aba6a622a4edcf0c?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC90</model>
