@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>9115e13a-61a8-447e-a19d-f2c41c7f5691</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>9115e13a-61a8-447e-a19d-f2c41c7f5691</vehicle_id>
+    <vehicle_registration_plate>GSG29N</vehicle_registration_plate>
+    <g:title>Peugeot 208 GT Electric 5-d</g:title>
+    <title>Peugeot 208 GT Electric 5-d</title>
+    <g:description>GT Electric 5-d. Från 3 130 kr/mån. Miltal: 3 221 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: GSG29N. Kontakta oss för mer information.</g:description>
+    <description>GT Electric 5-d. Från 3 130 kr/mån. Miltal: 3 221 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: GSG29N. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/peugeot-e-208-gsg29n</g:link>
+    <link>https://borasbil.se/bilar/peugeot-e-208-gsg29n</link>
+    <url>https://borasbil.se/bilar/peugeot-e-208-gsg29n</url>
+    <g:brand>Peugeot</g:brand>
+    <brand>Peugeot</brand>
+    <make>Peugeot</make>
+    <g:image_link>https://cdn.wayke.se/cfit/5f7ac1bf-6b34-47ee-a7a9-bf780111826b/95935959-dc86-43cc-9725-d0a6574f2cf0?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/5f7ac1bf-6b34-47ee-a7a9-bf780111826b/95935959-dc86-43cc-9725-d0a6574f2cf0?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>208</model>
+    <year>2023</year>
+    <mileage>
+      <value>32210</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>199000 SEK</g:price>
+    <price>199000 SEK</price>
+    <sale_price>199000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>2c2b392e-c73e-42dc-8cef-fbdfce71c1b3</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -257,6 +301,50 @@
     <g:price>589000 SEK</g:price>
     <price>589000 SEK</price>
     <sale_price>589000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>393e78df-4318-46c0-aaa3-429fa23f1f0d</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>393e78df-4318-46c0-aaa3-429fa23f1f0d</vehicle_id>
+    <vehicle_registration_plate>ZEE019</vehicle_registration_plate>
+    <g:title>Volvo V90 T4 Business Advanced/DRAG/LÅGMILARE!</g:title>
+    <title>Volvo V90 T4 Business Advanced/DRAG/LÅGMILARE!</title>
+    <g:description>T4 Business Advanced/DRAG/LÅGMILARE!. Från 4 545 kr/mån. Miltal: 4 955 mil. Årsmodell: 2018. Växellåda: Automat. Bränsle: Bensin. Reg.nr: ZEE019. Kontakta oss för mer information.</g:description>
+    <description>T4 Business Advanced/DRAG/LÅGMILARE!. Från 4 545 kr/mån. Miltal: 4 955 mil. Årsmodell: 2018. Växellåda: Automat. Bränsle: Bensin. Reg.nr: ZEE019. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-v90-zee019</g:link>
+    <link>https://borasbil.se/bilar/volvo-v90-zee019</link>
+    <url>https://borasbil.se/bilar/volvo-v90-zee019</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/7d0cddd9-c440-4f69-abe4-ed17a4bf2c4b/5603dcd7-0f38-4391-a692-b3c452be7805?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/7d0cddd9-c440-4f69-abe4-ed17a4bf2c4b/5603dcd7-0f38-4391-a692-b3c452be7805?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>V90</model>
+    <year>2018</year>
+    <mileage>
+      <value>49550</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Wagon</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>289000 SEK</g:price>
+    <price>289000 SEK</price>
+    <sale_price>289000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Borås Bil</component>
       <component name="country">SE</component>
@@ -7193,8 +7281,8 @@
     <vehicle_registration_plate>SBW05H</vehicle_registration_plate>
     <g:title>Volvo XC90 T8 Ultra Dark B&amp;W/Luftfjädring</g:title>
     <title>Volvo XC90 T8 Ultra Dark B&amp;W/Luftfjädring</title>
-    <g:description>T8 Ultra Dark B&amp;W/Luftfjädring. Från 13 668 kr/mån. Miltal: 2 627 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: SBW05H. Kontakta oss för mer information.</g:description>
-    <description>T8 Ultra Dark B&amp;W/Luftfjädring. Från 13 668 kr/mån. Miltal: 2 627 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: SBW05H. Kontakta oss för mer information.</description>
+    <g:description>T8 Ultra Dark B&amp;W/Luftfjädring. Från 13 353 kr/mån. Miltal: 2 627 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: SBW05H. Kontakta oss för mer information.</g:description>
+    <description>T8 Ultra Dark B&amp;W/Luftfjädring. Från 13 353 kr/mån. Miltal: 2 627 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: SBW05H. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc90-sbw05h</g:link>
     <link>https://borasbil.se/bilar/volvo-xc90-sbw05h</link>
     <url>https://borasbil.se/bilar/volvo-xc90-sbw05h</url>
@@ -7215,9 +7303,9 @@
     <body_style>SUV</body_style>
     <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>869000 SEK</g:price>
-    <price>869000 SEK</price>
-    <sale_price>869000 SEK</sale_price>
+    <g:price>849000 SEK</g:price>
+    <price>849000 SEK</price>
+    <sale_price>849000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Kinna Bil</component>
       <component name="country">SE</component>
