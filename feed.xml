@@ -5,6 +5,94 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>bbc73856-be72-4bce-b676-c00fc8f0dd68</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>bbc73856-be72-4bce-b676-c00fc8f0dd68</vehicle_id>
+    <vehicle_registration_plate>MWK93N</vehicle_registration_plate>
+    <g:title>Volvo V60 D4 AWD Advanced SE II</g:title>
+    <title>Volvo V60 D4 AWD Advanced SE II</title>
+    <g:description>D4 AWD Advanced SE II. Från 4 231 kr/mån. Miltal: 14 082 mil. Årsmodell: 2019. Växellåda: Automat. Bränsle: Diesel. Reg.nr: MWK93N. Kontakta oss för mer information.</g:description>
+    <description>D4 AWD Advanced SE II. Från 4 231 kr/mån. Miltal: 14 082 mil. Årsmodell: 2019. Växellåda: Automat. Bränsle: Diesel. Reg.nr: MWK93N. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-v60-cross-country-mwk93n</g:link>
+    <link>https://borasbil.se/bilar/volvo-v60-cross-country-mwk93n</link>
+    <url>https://borasbil.se/bilar/volvo-v60-cross-country-mwk93n</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/556c23a1-3258-4379-a01b-592e56a39a6d/486da378-adaa-48f8-965b-83f5d3c07aa9?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/556c23a1-3258-4379-a01b-592e56a39a6d/486da378-adaa-48f8-965b-83f5d3c07aa9?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>V60</model>
+    <year>2019</year>
+    <mileage>
+      <value>140820</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Wagon</body_style>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>269000 SEK</g:price>
+    <price>269000 SEK</price>
+    <sale_price>269000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Bogesunds Bil Ulricehamn</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>da8b5455-41bd-4a49-bdfc-b09c8dfd4aba</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>da8b5455-41bd-4a49-bdfc-b09c8dfd4aba</vehicle_id>
+    <vehicle_registration_plate>ZZK71C</vehicle_registration_plate>
+    <g:title>Volvo XC60 Recharge T6 II Core Edition</g:title>
+    <title>Volvo XC60 Recharge T6 II Core Edition</title>
+    <g:description>Recharge T6 II Core Edition. Från 6 747 kr/mån. Miltal: 10 800 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: ZZK71C. Kontakta oss för mer information.</g:description>
+    <description>Recharge T6 II Core Edition. Från 6 747 kr/mån. Miltal: 10 800 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: ZZK71C. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-xc60-zzk71c</g:link>
+    <link>https://borasbil.se/bilar/volvo-xc60-zzk71c</link>
+    <url>https://borasbil.se/bilar/volvo-xc60-zzk71c</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/b8701d19-0e4a-474f-b67e-3598e544cdc5/770d1dd4-44bc-4be6-a564-bd028e2bd76b?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/b8701d19-0e4a-474f-b67e-3598e544cdc5/770d1dd4-44bc-4be6-a564-bd028e2bd76b?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC60</model>
+    <year>2024</year>
+    <mileage>
+      <value>108000</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>429000 SEK</g:price>
+    <price>429000 SEK</price>
+    <sale_price>429000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>f8967a27-d827-44e6-83e0-3a3c56bd5be9</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -698,50 +786,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>8d544cf0-f03d-4f68-ba2d-54d67e133bb7</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>8d544cf0-f03d-4f68-ba2d-54d67e133bb7</vehicle_id>
-    <vehicle_registration_plate>FAY47T</vehicle_registration_plate>
-    <g:title>BMW 5-serie M-sport</g:title>
-    <title>BMW 5-serie M-sport</title>
-    <g:description>M-sport. Från 5 489 kr/mån. Miltal: 9 002 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: FAY47T. Kontakta oss för mer information.</g:description>
-    <description>M-sport. Från 5 489 kr/mån. Miltal: 9 002 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: FAY47T. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/bmw-530e-xdrive-touring-fay47t</g:link>
-    <link>https://borasbil.se/bilar/bmw-530e-xdrive-touring-fay47t</link>
-    <url>https://borasbil.se/bilar/bmw-530e-xdrive-touring-fay47t</url>
-    <g:brand>BMW</g:brand>
-    <brand>BMW</brand>
-    <make>BMW</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/de10249aeedd486dab1255cd5ef9eaaf/1666b31321f14b0a901aafc2b45d61e9?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/de10249aeedd486dab1255cd5ef9eaaf/1666b31321f14b0a901aafc2b45d61e9?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>5-serie</model>
-    <year>2022</year>
-    <mileage>
-      <value>90020</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>349000 SEK</g:price>
-    <price>349000 SEK</price>
-    <sale_price>349000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -2959,9 +3003,9 @@
     <g:brand>Lynk &amp; Co</g:brand>
     <brand>Lynk &amp; Co</brand>
     <make>Lynk &amp; Co</make>
-    <g:image_link>https://cdn.wayke.se/cfit/96f304ce-efe5-491e-8fc6-c7de08738de3/19202d03-818d-48cb-9d54-c7277bcc4e4d?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/d484d5696bc9487cb33da9d967b82bdd/b54b6286c2294baab6ee37ba8468f725?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/96f304ce-efe5-491e-8fc6-c7de08738de3/19202d03-818d-48cb-9d54-c7277bcc4e4d?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/d484d5696bc9487cb33da9d967b82bdd/b54b6286c2294baab6ee37ba8468f725?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>08</model>
