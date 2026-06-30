@@ -5,6 +5,94 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>47e660a8-bdc4-4a2c-9712-62cb119fc363</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>47e660a8-bdc4-4a2c-9712-62cb119fc363</vehicle_id>
+    <vehicle_registration_plate>RBK22A</vehicle_registration_plate>
+    <g:title>Volvo EX40 R Plus Edt</g:title>
+    <title>Volvo EX40 R Plus Edt</title>
+    <g:description>R Plus Edt. Från 7 062 kr/mån. Miltal: 3 446 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: RBK22A. Kontakta oss för mer information.</g:description>
+    <description>R Plus Edt. Från 7 062 kr/mån. Miltal: 3 446 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: RBK22A. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-rbk22a</g:link>
+    <link>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-rbk22a</link>
+    <url>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-rbk22a</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/cfe44bc7-201b-4965-ae10-0d3d326903c1/e66db776-de27-4cc1-bb54-64649625d66a?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/cfe44bc7-201b-4965-ae10-0d3d326903c1/e66db776-de27-4cc1-bb54-64649625d66a?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>EX40</model>
+    <year>2025</year>
+    <mileage>
+      <value>34460</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>449000 SEK</g:price>
+    <price>449000 SEK</price>
+    <sale_price>449000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>fcf8bca1-0190-4389-873f-631a723a223a</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>fcf8bca1-0190-4389-873f-631a723a223a</vehicle_id>
+    <vehicle_registration_plate>UZU07F</vehicle_registration_plate>
+    <g:title>Volvo XC40 T4 FWD Inscription</g:title>
+    <title>Volvo XC40 T4 FWD Inscription</title>
+    <g:description>T4 FWD Inscription. Från 4 703 kr/mån. Miltal: 6 681 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Bensin. Reg.nr: UZU07F. Kontakta oss för mer information.</g:description>
+    <description>T4 FWD Inscription. Från 4 703 kr/mån. Miltal: 6 681 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Bensin. Reg.nr: UZU07F. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-xc40-uzu07f</g:link>
+    <link>https://borasbil.se/bilar/volvo-xc40-uzu07f</link>
+    <url>https://borasbil.se/bilar/volvo-xc40-uzu07f</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/1c8ccf3cba484aceb68d3524cff054cc/a47c0fa6dd494222839da696d53505f7?format=jpeg&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/1c8ccf3cba484aceb68d3524cff054cc/a47c0fa6dd494222839da696d53505f7?format=jpeg&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC40</model>
+    <year>2020</year>
+    <mileage>
+      <value>66810</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>299000 SEK</g:price>
+    <price>299000 SEK</price>
+    <sale_price>299000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>0d23ea75-bb65-42a4-8ada-3a8f1ed8e61e</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -460,9 +548,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/b8701d19-0e4a-474f-b67e-3598e544cdc5/770d1dd4-44bc-4be6-a564-bd028e2bd76b?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/bd1827a6-6453-4aef-9cfc-32a35ae33772/eda3d300-7850-42e9-a3c4-13e1e03a482c?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/b8701d19-0e4a-474f-b67e-3598e544cdc5/770d1dd4-44bc-4be6-a564-bd028e2bd76b?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/bd1827a6-6453-4aef-9cfc-32a35ae33772/eda3d300-7850-42e9-a3c4-13e1e03a482c?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC60</model>
@@ -15632,8 +15720,8 @@
     <vehicle_registration_plate>JZC99P</vehicle_registration_plate>
     <g:title>Peugeot 3008 GT A 5-d SUV</g:title>
     <title>Peugeot 3008 GT A 5-d SUV</title>
-    <g:description>GT A 5-d SUV. Från 5 189 kr/mån. Miltal: 1 280 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: JZC99P. Kontakta oss för mer information.</g:description>
-    <description>GT A 5-d SUV. Från 5 189 kr/mån. Miltal: 1 280 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: JZC99P. Kontakta oss för mer information.</description>
+    <g:description>GT A 5-d SUV. Från 5 189 kr/mån. Miltal: 1 340 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: JZC99P. Kontakta oss för mer information.</g:description>
+    <description>GT A 5-d SUV. Från 5 189 kr/mån. Miltal: 1 340 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: JZC99P. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/peugeot-3008-hybrid-145-jzc99p</g:link>
     <link>https://borasbil.se/bilar/peugeot-3008-hybrid-145-jzc99p</link>
     <url>https://borasbil.se/bilar/peugeot-3008-hybrid-145-jzc99p</url>
@@ -15648,7 +15736,7 @@
     <model>3008</model>
     <year>2025</year>
     <mileage>
-      <value>12800</value>
+      <value>13400</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
