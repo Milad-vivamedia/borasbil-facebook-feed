@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>0d23ea75-bb65-42a4-8ada-3a8f1ed8e61e</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>0d23ea75-bb65-42a4-8ada-3a8f1ed8e61e</vehicle_id>
+    <vehicle_registration_plate>SZA84S</vehicle_registration_plate>
+    <g:title>Volvo XC40 Ultimate</g:title>
+    <title>Volvo XC40 Ultimate</title>
+    <g:description>Ultimate. Från 4 703 kr/mån. Miltal: 12 718 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: SZA84S. Kontakta oss för mer information.</g:description>
+    <description>Ultimate. Från 4 703 kr/mån. Miltal: 12 718 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: SZA84S. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-sza84s</g:link>
+    <link>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-sza84s</link>
+    <url>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-sza84s</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/4f7793faa37046a3bb0554c1060786a2/6d0ea75c5baa4228bc3156f6f9333128?format=jpeg&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/4f7793faa37046a3bb0554c1060786a2/6d0ea75c5baa4228bc3156f6f9333128?format=jpeg&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC40</model>
+    <year>2023</year>
+    <mileage>
+      <value>127180</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>299000 SEK</g:price>
+    <price>299000 SEK</price>
+    <sale_price>299000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>53064371-735a-4ba3-b268-45685d936733</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -1592,8 +1636,8 @@
     <vehicle_registration_plate>ZEE019</vehicle_registration_plate>
     <g:title>Volvo V90 T4 Business Advanced/DRAG/LÅGMILARE!</g:title>
     <title>Volvo V90 T4 Business Advanced/DRAG/LÅGMILARE!</title>
-    <g:description>T4 Business Advanced/DRAG/LÅGMILARE!. Från 4 545 kr/mån. Miltal: 4 955 mil. Årsmodell: 2018. Växellåda: Automat. Bränsle: Bensin. Reg.nr: ZEE019. Kontakta oss för mer information.</g:description>
-    <description>T4 Business Advanced/DRAG/LÅGMILARE!. Från 4 545 kr/mån. Miltal: 4 955 mil. Årsmodell: 2018. Växellåda: Automat. Bränsle: Bensin. Reg.nr: ZEE019. Kontakta oss för mer information.</description>
+    <g:description>T4 Business Advanced/DRAG/LÅGMILARE!. Från 4 545 kr/mån. Årsmodell: 2018. Växellåda: Automat. Bränsle: Bensin. Reg.nr: ZEE019. Kontakta oss för mer information.</g:description>
+    <description>T4 Business Advanced/DRAG/LÅGMILARE!. Från 4 545 kr/mån. Årsmodell: 2018. Växellåda: Automat. Bränsle: Bensin. Reg.nr: ZEE019. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-v90-zee019</g:link>
     <link>https://borasbil.se/bilar/volvo-v90-zee019</link>
     <url>https://borasbil.se/bilar/volvo-v90-zee019</url>
@@ -1607,10 +1651,6 @@
     </image>
     <model>V90</model>
     <year>2018</year>
-    <mileage>
-      <value>49550</value>
-      <unit>KM</unit>
-    </mileage>
     <body_style>Wagon</body_style>
     <fuel_type>Gasoline</fuel_type>
     <transmission>Automatic</transmission>
@@ -4258,9 +4298,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/62e4945b-53a4-4e1a-a90a-b3b16347019e/efe1af87-6346-4ab6-bdb7-f22907606fa3?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/740ffcaf-f80d-4f7d-bc29-f07f56a8edcd/833deb81-a024-468b-ac1f-77951b451570?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/62e4945b-53a4-4e1a-a90a-b3b16347019e/efe1af87-6346-4ab6-bdb7-f22907606fa3?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/740ffcaf-f80d-4f7d-bc29-f07f56a8edcd/833deb81-a024-468b-ac1f-77951b451570?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>V90</model>
@@ -9265,50 +9305,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>427fa1b9-2a50-4f2d-a410-f83e54d5650e</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>427fa1b9-2a50-4f2d-a410-f83e54d5650e</vehicle_id>
-    <vehicle_registration_plate>AYB83P</vehicle_registration_plate>
-    <g:title>Polestar 2 78kWh Plus Pilot</g:title>
-    <title>Polestar 2 78kWh Plus Pilot</title>
-    <g:description>78kWh Plus Pilot. Från 4 860 kr/mån. Miltal: 9 760 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: El. Reg.nr: AYB83P. Kontakta oss för mer information.</g:description>
-    <description>78kWh Plus Pilot. Från 4 860 kr/mån. Miltal: 9 760 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: El. Reg.nr: AYB83P. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-ayb83p</g:link>
-    <link>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-ayb83p</link>
-    <url>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-ayb83p</url>
-    <g:brand>Polestar</g:brand>
-    <brand>Polestar</brand>
-    <make>Polestar</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/1493cb543c9d497d99355dde37e676fd/c7566f1145574f04a1fdc6545ab58cb9?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/1493cb543c9d497d99355dde37e676fd/c7566f1145574f04a1fdc6545ab58cb9?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>2</model>
-    <year>2021</year>
-    <mileage>
-      <value>97600</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>309000 SEK</g:price>
-    <price>309000 SEK</price>
-    <sale_price>309000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>572ca92d-5bdb-496b-ade5-2f216ac36f0c</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -14127,50 +14123,6 @@
     <state_of_vehicle>NEW</state_of_vehicle>
     </item>
     <item>
-    <g:id>db793a91-42fe-4f36-8967-4b6d19278721</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>db793a91-42fe-4f36-8967-4b6d19278721</vehicle_id>
-    <vehicle_registration_plate>SZA84S</vehicle_registration_plate>
-    <g:title>Volvo XC40 Ultimate</g:title>
-    <title>Volvo XC40 Ultimate</title>
-    <g:description>Ultimate. Från 4 703 kr/mån. Miltal: 12 718 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: SZA84S. Kontakta oss för mer information.</g:description>
-    <description>Ultimate. Från 4 703 kr/mån. Miltal: 12 718 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: SZA84S. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-sza84s</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-sza84s</link>
-    <url>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-sza84s</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/da7515c3-7e56-4a71-bc20-de2f6c9cfec3/7f4f5d73-e237-4034-949b-7e8ba323340a?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/da7515c3-7e56-4a71-bc20-de2f6c9cfec3/7f4f5d73-e237-4034-949b-7e8ba323340a?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2023</year>
-    <mileage>
-      <value>127180</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>299000 SEK</g:price>
-    <price>299000 SEK</price>
-    <sale_price>299000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>5366dc18-7876-4202-9f06-8d41feb89338</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -14842,50 +14794,6 @@
     <g:price>229000 SEK</g:price>
     <price>229000 SEK</price>
     <sale_price>229000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>ed2d8824-d15e-474d-88a2-cfe9a10a2990</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>ed2d8824-d15e-474d-88a2-cfe9a10a2990</vehicle_id>
-    <vehicle_registration_plate>NRA78M</vehicle_registration_plate>
-    <g:title>Citroën C3 MAX 44 kWh</g:title>
-    <title>Citroën C3 MAX 44 kWh</title>
-    <g:description>MAX 44 kWh. Från 4 388 kr/mån. Miltal: 303 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: NRA78M. Kontakta oss för mer information.</g:description>
-    <description>MAX 44 kWh. Från 4 388 kr/mån. Miltal: 303 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: NRA78M. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/citroen-e-c3-nra78m</g:link>
-    <link>https://borasbil.se/bilar/citroen-e-c3-nra78m</link>
-    <url>https://borasbil.se/bilar/citroen-e-c3-nra78m</url>
-    <g:brand>Citroën</g:brand>
-    <brand>Citroën</brand>
-    <make>Citroën</make>
-    <g:image_link>https://cdn.wayke.se/cfit/7bba9018-f11c-4540-8dd2-29ce5d19c67e/d2745d59-e639-47cf-84be-ed367294f39e?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/7bba9018-f11c-4540-8dd2-29ce5d19c67e/d2745d59-e639-47cf-84be-ed367294f39e?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C3</model>
-    <year>2025</year>
-    <mileage>
-      <value>3030</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>279000 SEK</g:price>
-    <price>279000 SEK</price>
-    <sale_price>279000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Borås Bil</component>
       <component name="country">SE</component>
