@@ -5,6 +5,138 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>ec31967e-78c3-4ca4-aa74-ab02c57f07ec</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>ec31967e-78c3-4ca4-aa74-ab02c57f07ec</vehicle_id>
+    <vehicle_registration_plate>DSP50M</vehicle_registration_plate>
+    <g:title>Dacia Sandero TCe 90 essential</g:title>
+    <title>Dacia Sandero TCe 90 essential</title>
+    <g:description>TCe 90 essential. Från 1 887 kr/mån. Miltal: 2 200 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: DSP50M. Kontakta oss för mer information.</g:description>
+    <description>TCe 90 essential. Från 1 887 kr/mån. Miltal: 2 200 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: DSP50M. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/dacia-sandero-dsp50m</g:link>
+    <link>https://borasbil.se/bilar/dacia-sandero-dsp50m</link>
+    <url>https://borasbil.se/bilar/dacia-sandero-dsp50m</url>
+    <g:brand>Dacia</g:brand>
+    <brand>Dacia</brand>
+    <make>Dacia</make>
+    <g:image_link>https://cdn.wayke.se/cfit/291ed123-145d-4c49-b632-11d2dc3f6767/7c7f687a-9828-4f27-8b07-fff3f55f0890?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/291ed123-145d-4c49-b632-11d2dc3f6767/7c7f687a-9828-4f27-8b07-fff3f55f0890?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>Sandero</model>
+    <year>2023</year>
+    <mileage>
+      <value>22000</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Manual</transmission>
+    <g:price>120000 SEK</g:price>
+    <price>120000 SEK</price>
+    <sale_price>120000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>00ac2bad-0d86-4631-b907-8365dcf9fc68</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>00ac2bad-0d86-4631-b907-8365dcf9fc68</vehicle_id>
+    <vehicle_registration_plate>MTR85L</vehicle_registration_plate>
+    <g:title>Citroën C4 SHINE Pure Tech 130 A 5-d</g:title>
+    <title>Citroën C4 SHINE Pure Tech 130 A 5-d</title>
+    <g:description>SHINE Pure Tech 130 A 5-d. Från 3 602 kr/mån. Miltal: 4 150 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: MTR85L. Kontakta oss för mer information.</g:description>
+    <description>SHINE Pure Tech 130 A 5-d. Från 3 602 kr/mån. Miltal: 4 150 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: MTR85L. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/citroen-c4-mtr85l</g:link>
+    <link>https://borasbil.se/bilar/citroen-c4-mtr85l</link>
+    <url>https://borasbil.se/bilar/citroen-c4-mtr85l</url>
+    <g:brand>Citroën</g:brand>
+    <brand>Citroën</brand>
+    <make>Citroën</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/fd72df45f10348959e366d3b0b84e213/3484985b60a04fc78b63bec0cf809315?format=jpeg&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/fd72df45f10348959e366d3b0b84e213/3484985b60a04fc78b63bec0cf809315?format=jpeg&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>C4</model>
+    <year>2023</year>
+    <mileage>
+      <value>41500</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>229000 SEK</g:price>
+    <price>229000 SEK</price>
+    <sale_price>229000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>069dfa60-d733-4f6e-a8f5-cc89c3c646b0</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>069dfa60-d733-4f6e-a8f5-cc89c3c646b0</vehicle_id>
+    <vehicle_registration_plate>SGM033</vehicle_registration_plate>
+    <g:title>Peugeot 208 Allure Electric 5-d</g:title>
+    <title>Peugeot 208 Allure Electric 5-d</title>
+    <g:description>Allure Electric 5-d. Från 3 287 kr/mån. Miltal: 2 654 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: SGM033. Kontakta oss för mer information.</g:description>
+    <description>Allure Electric 5-d. Från 3 287 kr/mån. Miltal: 2 654 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: SGM033. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/peugeot-e-208-sgm033</g:link>
+    <link>https://borasbil.se/bilar/peugeot-e-208-sgm033</link>
+    <url>https://borasbil.se/bilar/peugeot-e-208-sgm033</url>
+    <g:brand>Peugeot</g:brand>
+    <brand>Peugeot</brand>
+    <make>Peugeot</make>
+    <g:image_link>https://cdn.wayke.se/cfit/daeabd95-907f-4b0d-9535-5622aa8c841c/60b95d46-62ab-4d6c-9d02-908374792500?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/daeabd95-907f-4b0d-9535-5622aa8c841c/60b95d46-62ab-4d6c-9d02-908374792500?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>208</model>
+    <year>2022</year>
+    <mileage>
+      <value>26540</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>209000 SEK</g:price>
+    <price>209000 SEK</price>
+    <sale_price>209000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>2aa13026-0f5a-4759-9725-cab9395be8a6</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
