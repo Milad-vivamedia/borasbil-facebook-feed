@@ -15245,50 +15245,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>af65a10f-4741-490a-97ad-689a47021f71</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>af65a10f-4741-490a-97ad-689a47021f71</vehicle_id>
-    <vehicle_registration_plate>KBT82X</vehicle_registration_plate>
-    <g:title>Volvo XC90 T8 Ultra Dark</g:title>
-    <title>Volvo XC90 T8 Ultra Dark</title>
-    <g:description>T8 Ultra Dark. Från 13 668 kr/mån. Miltal: 2 601 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: KBT82X. Kontakta oss för mer information.</g:description>
-    <description>T8 Ultra Dark. Från 13 668 kr/mån. Miltal: 2 601 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: KBT82X. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc90-kbt82x</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc90-kbt82x</link>
-    <url>https://borasbil.se/bilar/volvo-xc90-kbt82x</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/a6284d35-471f-45e8-b2c3-a0d863d4c528/79bd212a-70a9-43cb-8bdd-a8083532dba6?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/a6284d35-471f-45e8-b2c3-a0d863d4c528/79bd212a-70a9-43cb-8bdd-a8083532dba6?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC90</model>
-    <year>2026</year>
-    <mileage>
-      <value>26010</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>869000 SEK</g:price>
-    <price>869000 SEK</price>
-    <sale_price>869000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>new</g:condition>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    </item>
-    <item>
     <g:id>bec3c915-d1c9-43f4-a89f-ca06c3aae51c</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
