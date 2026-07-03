@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>261ea6eb-f2cf-482d-9d82-418ee377e7a3</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>261ea6eb-f2cf-482d-9d82-418ee377e7a3</vehicle_id>
+    <vehicle_registration_plate>YRF199</vehicle_registration_plate>
+    <g:title>Volvo XC60 D5 AWD R-Design - Dragkrok, 360-kamera, Panoramaglastak, Head-up Display</g:title>
+    <title>Volvo XC60 D5 AWD R-Design - Dragkrok, 360-kamera, Panoramaglastak, Head-up Display</title>
+    <g:description>D5 AWD R-Design - Dragkrok, 360-kamera, Panoramaglastak, Head-up Display. Från 4 860 kr/mån. Miltal: 19 022 mil. Årsmodell: 2018. Växellåda: Automat. Bränsle: Diesel. Reg.nr: YRF199. Kontakta oss för mer information.</g:description>
+    <description>D5 AWD R-Design - Dragkrok, 360-kamera, Panoramaglastak, Head-up Display. Från 4 860 kr/mån. Miltal: 19 022 mil. Årsmodell: 2018. Växellåda: Automat. Bränsle: Diesel. Reg.nr: YRF199. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-xc60-yrf199</g:link>
+    <link>https://borasbil.se/bilar/volvo-xc60-yrf199</link>
+    <url>https://borasbil.se/bilar/volvo-xc60-yrf199</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/cb129b3a-9ab3-4951-a813-00ad72221b8d/73c08447-9db8-4289-8f93-6084e51da863?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/cb129b3a-9ab3-4951-a813-00ad72221b8d/73c08447-9db8-4289-8f93-6084e51da863?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC60</model>
+    <year>2018</year>
+    <mileage>
+      <value>190220</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>309000 SEK</g:price>
+    <price>309000 SEK</price>
+    <sale_price>309000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Bogesunds Bil Ulricehamn</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>ec31967e-78c3-4ca4-aa74-ab02c57f07ec</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -4346,9 +4390,9 @@
     <g:brand>Ford</g:brand>
     <brand>Ford</brand>
     <make>Ford</make>
-    <g:image_link>https://cdn.wayke.se/cfit/e3688f92-2fa1-461b-b3d4-2f1e053fd65b/605f853b-6e84-4785-91af-e04f454eae07?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/cd22d47da87042cfbecc696f9f42614d/9c0e4a825b744099be150b99a6b470a3?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/e3688f92-2fa1-461b-b3d4-2f1e053fd65b/605f853b-6e84-4785-91af-e04f454eae07?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/cd22d47da87042cfbecc696f9f42614d/9c0e4a825b744099be150b99a6b470a3?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>EcoSport</model>
@@ -4522,9 +4566,9 @@
     <g:brand>Lynk &amp; Co</g:brand>
     <brand>Lynk &amp; Co</brand>
     <make>Lynk &amp; Co</make>
-    <g:image_link>https://cdn.wayke.se/cfit/e53c094f-b487-4bcd-a95d-7ac1fb38b3e0/c2cd1a32-ff82-4380-b0c9-94f40278e860?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/194cfe70-3442-40c7-a720-4ae2ac16f326/fb0671fc-fc43-45fb-b229-bf09f754e196?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/e53c094f-b487-4bcd-a95d-7ac1fb38b3e0/c2cd1a32-ff82-4380-b0c9-94f40278e860?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/194cfe70-3442-40c7-a720-4ae2ac16f326/fb0671fc-fc43-45fb-b229-bf09f754e196?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>01</model>
@@ -6298,9 +6342,9 @@
     <g:brand>Renault</g:brand>
     <brand>Renault</brand>
     <make>Renault</make>
-    <g:image_link>https://cdn.wayke.se/cfit/3ce2992d-b300-4116-a85b-540b9763ca22/338fd354-01b7-488b-8201-7cb9cb0e2435?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/f9269fe51dcf478688de2365bd25d2e4/e3f5e6a4fa0846e58e436692022495f7?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/3ce2992d-b300-4116-a85b-540b9763ca22/338fd354-01b7-488b-8201-7cb9cb0e2435?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/f9269fe51dcf478688de2365bd25d2e4/e3f5e6a4fa0846e58e436692022495f7?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>Captur</model>
@@ -11850,9 +11894,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/19da4b81-48d4-4c64-b4b7-8b3b9a192dc9/ba6bf349-4fd7-4f8c-9b87-2362fe7e0c72?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/711a0ec4e7734240853e92f0555a0e1d/d39791b10a934811a98b62c4c3953719?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/19da4b81-48d4-4c64-b4b7-8b3b9a192dc9/ba6bf349-4fd7-4f8c-9b87-2362fe7e0c72?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/711a0ec4e7734240853e92f0555a0e1d/d39791b10a934811a98b62c4c3953719?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC60</model>
