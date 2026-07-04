@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>8bd9bd16-7660-40f2-ab9b-541c003cbef0</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>8bd9bd16-7660-40f2-ab9b-541c003cbef0</vehicle_id>
+    <vehicle_registration_plate>UCZ52J</vehicle_registration_plate>
+    <g:title>Peugeot 2008 GT Electric 5-d SUV</g:title>
+    <title>Peugeot 2008 GT Electric 5-d SUV</title>
+    <g:description>GT Electric 5-d SUV. Från 3 539 kr/mån. Miltal: 6 645 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: UCZ52J. Kontakta oss för mer information.</g:description>
+    <description>GT Electric 5-d SUV. Från 3 539 kr/mån. Miltal: 6 645 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: UCZ52J. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/peugeot-e-2008-ucz52j</g:link>
+    <link>https://borasbil.se/bilar/peugeot-e-2008-ucz52j</link>
+    <url>https://borasbil.se/bilar/peugeot-e-2008-ucz52j</url>
+    <g:brand>Peugeot</g:brand>
+    <brand>Peugeot</brand>
+    <make>Peugeot</make>
+    <g:image_link>https://cdn.wayke.se/cfit/12ff5051-2241-4666-a9a4-2ec18f472f78/fd3383b8-2738-4b8f-9222-bf275d71bc4a?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/12ff5051-2241-4666-a9a4-2ec18f472f78/fd3383b8-2738-4b8f-9222-bf275d71bc4a?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>2008</model>
+    <year>2022</year>
+    <mileage>
+      <value>66450</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>225000 SEK</g:price>
+    <price>225000 SEK</price>
+    <sale_price>225000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Bogesunds Bil Ulricehamn</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>71353e92-743c-4789-8be8-e50d07805557</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
