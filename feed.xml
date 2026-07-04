@@ -96,8 +96,8 @@
     <vehicle_registration_plate>ZPD612</vehicle_registration_plate>
     <g:title>Volvo XC90 T8 Ultra Dark</g:title>
     <title>Volvo XC90 T8 Ultra Dark</title>
-    <g:description>T8 Ultra Dark. Från 15 712 kr/mån. Miltal: 950 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: ZPD612. Kontakta oss för mer information.</g:description>
-    <description>T8 Ultra Dark. Från 15 712 kr/mån. Miltal: 950 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: ZPD612. Kontakta oss för mer information.</description>
+    <g:description>T8 Ultra Dark. Från 15 712 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: ZPD612. Kontakta oss för mer information.</g:description>
+    <description>T8 Ultra Dark. Från 15 712 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: ZPD612. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc90-zpd612</g:link>
     <link>https://borasbil.se/bilar/volvo-xc90-zpd612</link>
     <url>https://borasbil.se/bilar/volvo-xc90-zpd612</url>
@@ -111,10 +111,6 @@
     </image>
     <model>XC90</model>
     <year>2027</year>
-    <mileage>
-      <value>9500</value>
-      <unit>KM</unit>
-    </mileage>
     <body_style>SUV</body_style>
     <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
