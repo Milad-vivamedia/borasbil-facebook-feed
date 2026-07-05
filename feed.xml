@@ -16113,50 +16113,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>30d340fb-e592-4d66-b6ad-02795dc7045a</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>30d340fb-e592-4d66-b6ad-02795dc7045a</vehicle_id>
-    <vehicle_registration_plate>XPC96K</vehicle_registration_plate>
-    <g:title>Peugeot 5008 GT 73kWh 7 Sits Ink vinterdäck</g:title>
-    <title>Peugeot 5008 GT 73kWh 7 Sits Ink vinterdäck</title>
-    <g:description>GT 73kWh 7 Sits Ink vinterdäck. Från 7 534 kr/mån. Miltal: 1 264 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: XPC96K. Kontakta oss för mer information.</g:description>
-    <description>GT 73kWh 7 Sits Ink vinterdäck. Från 7 534 kr/mån. Miltal: 1 264 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: XPC96K. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/peugeot-e-5008-xpc96k</g:link>
-    <link>https://borasbil.se/bilar/peugeot-e-5008-xpc96k</link>
-    <url>https://borasbil.se/bilar/peugeot-e-5008-xpc96k</url>
-    <g:brand>Peugeot</g:brand>
-    <brand>Peugeot</brand>
-    <make>Peugeot</make>
-    <g:image_link>https://cdn.wayke.se/cfit/e0d25b68-f6a8-4474-a2dc-a393d8a3e29f/c863a36d-e1ea-44ea-834f-cc38e670eb03?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/e0d25b68-f6a8-4474-a2dc-a393d8a3e29f/c863a36d-e1ea-44ea-834f-cc38e670eb03?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>5008</model>
-    <year>2025</year>
-    <mileage>
-      <value>12640</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>479000 SEK</g:price>
-    <price>479000 SEK</price>
-    <sale_price>479000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>d262d657-50cb-463a-a887-993ec1ae61ab</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
