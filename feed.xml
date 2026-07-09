@@ -4408,9 +4408,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/8faf3976-b5b3-49b2-87ad-5521a8332830/259b1644-3459-4f07-a598-244ee7888905?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/7ee5d839cc47456eac5d5f1b0e55965e/f5d63e934f954acfb7cbf2d22d2d0816?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/8faf3976-b5b3-49b2-87ad-5521a8332830/259b1644-3459-4f07-a598-244ee7888905?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/7ee5d839cc47456eac5d5f1b0e55965e/f5d63e934f954acfb7cbf2d22d2d0816?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>EX90</model>
@@ -5591,9 +5591,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/a5a08673-fc40-4657-91db-645da374a0e1/35ced65c-cb48-4039-97b5-07343c01dcda?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/ec34707b883142129595a9f313d68777/4db17cdd616a44fbaf0768ff31d744fd?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/a5a08673-fc40-4657-91db-645da374a0e1/35ced65c-cb48-4039-97b5-07343c01dcda?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/ec34707b883142129595a9f313d68777/4db17cdd616a44fbaf0768ff31d744fd?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC40</model>
@@ -6427,50 +6427,6 @@
     <g:price>279000 SEK</g:price>
     <price>279000 SEK</price>
     <sale_price>279000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>b5059396-3bcd-411a-828d-42ed840889fb</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>b5059396-3bcd-411a-828d-42ed840889fb</vehicle_id>
-    <vehicle_registration_plate>RAN55S</vehicle_registration_plate>
-    <g:title>Lynk &amp; Co 01</g:title>
-    <title>Lynk &amp; Co 01</title>
-    <g:description>Från 4 545 kr/mån. Miltal: 1 290 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: RAN55S. Kontakta oss för mer information.</g:description>
-    <description>Från 4 545 kr/mån. Miltal: 1 290 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: RAN55S. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/lynk-co-01-phev-ran55s</g:link>
-    <link>https://borasbil.se/bilar/lynk-co-01-phev-ran55s</link>
-    <url>https://borasbil.se/bilar/lynk-co-01-phev-ran55s</url>
-    <g:brand>Lynk &amp; Co</g:brand>
-    <brand>Lynk &amp; Co</brand>
-    <make>Lynk &amp; Co</make>
-    <g:image_link>https://cdn.wayke.se/cfit/194cfe70-3442-40c7-a720-4ae2ac16f326/fb0671fc-fc43-45fb-b229-bf09f754e196?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/194cfe70-3442-40c7-a720-4ae2ac16f326/fb0671fc-fc43-45fb-b229-bf09f754e196?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>01</model>
-    <year>2023</year>
-    <mileage>
-      <value>12900</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>289000 SEK</g:price>
-    <price>289000 SEK</price>
-    <sale_price>289000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Borås Bil</component>
       <component name="country">SE</component>
