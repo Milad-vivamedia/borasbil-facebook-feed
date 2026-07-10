@@ -5,6 +5,182 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>7c47718c-0d5b-4313-b0f0-230e4b8c3f06</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>7c47718c-0d5b-4313-b0f0-230e4b8c3f06</vehicle_id>
+    <vehicle_registration_plate>RAH33K</vehicle_registration_plate>
+    <g:title>Lynk &amp; Co 01</g:title>
+    <title>Lynk &amp; Co 01</title>
+    <g:description>Från 4 231 kr/mån. Miltal: 2 723 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: RAH33K. Kontakta oss för mer information.</g:description>
+    <description>Från 4 231 kr/mån. Miltal: 2 723 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: RAH33K. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/lynk-co-01-phev-rah33k</g:link>
+    <link>https://borasbil.se/bilar/lynk-co-01-phev-rah33k</link>
+    <url>https://borasbil.se/bilar/lynk-co-01-phev-rah33k</url>
+    <g:brand>Lynk &amp; Co</g:brand>
+    <brand>Lynk &amp; Co</brand>
+    <make>Lynk &amp; Co</make>
+    <g:image_link>https://cdn.wayke.se/cfit/f50ca347-e18f-4ea2-a4d6-aed4f16e897d/edbd3a6b-fb99-4866-8d65-1360743a5828?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/f50ca347-e18f-4ea2-a4d6-aed4f16e897d/edbd3a6b-fb99-4866-8d65-1360743a5828?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>01</model>
+    <year>2022</year>
+    <mileage>
+      <value>27230</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>269000 SEK</g:price>
+    <price>269000 SEK</price>
+    <sale_price>269000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>40aee239-9a24-472e-a923-c6fd3ed13ed4</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>40aee239-9a24-472e-a923-c6fd3ed13ed4</vehicle_id>
+    <vehicle_registration_plate>FAC36E</vehicle_registration_plate>
+    <g:title>Lynk &amp; Co 01</g:title>
+    <title>Lynk &amp; Co 01</title>
+    <g:description>Från 4 074 kr/mån. Miltal: 3 178 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: FAC36E. Kontakta oss för mer information.</g:description>
+    <description>Från 4 074 kr/mån. Miltal: 3 178 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: FAC36E. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/lynk-co-01-phev-fac36e</g:link>
+    <link>https://borasbil.se/bilar/lynk-co-01-phev-fac36e</link>
+    <url>https://borasbil.se/bilar/lynk-co-01-phev-fac36e</url>
+    <g:brand>Lynk &amp; Co</g:brand>
+    <brand>Lynk &amp; Co</brand>
+    <make>Lynk &amp; Co</make>
+    <g:image_link>https://cdn.wayke.se/cfit/4a6405c4-8dfc-48a8-a428-0c4c9fc08577/f06bb447-2c8d-4599-99c3-00247d1726a4?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/4a6405c4-8dfc-48a8-a428-0c4c9fc08577/f06bb447-2c8d-4599-99c3-00247d1726a4?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>01</model>
+    <year>2022</year>
+    <mileage>
+      <value>31780</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>259000 SEK</g:price>
+    <price>259000 SEK</price>
+    <sale_price>259000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>3c21917f-7151-49ff-90e6-8072fe8b7117</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>3c21917f-7151-49ff-90e6-8072fe8b7117</vehicle_id>
+    <vehicle_registration_plate>UYE99F</vehicle_registration_plate>
+    <g:title>Volvo C40 Core</g:title>
+    <title>Volvo C40 Core</title>
+    <g:description>Core. Från 4 860 kr/mån. Miltal: 8 268 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: UYE99F. Kontakta oss för mer information.</g:description>
+    <description>Core. Från 4 860 kr/mån. Miltal: 8 268 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: UYE99F. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-c40-recharge-uye99f</g:link>
+    <link>https://borasbil.se/bilar/volvo-c40-recharge-uye99f</link>
+    <url>https://borasbil.se/bilar/volvo-c40-recharge-uye99f</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/e9a963e2-a3b6-4af4-b8c4-5f7ca73afd87/5c90e330-a8e1-4ca3-97d0-37ae4a75941b?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/e9a963e2-a3b6-4af4-b8c4-5f7ca73afd87/5c90e330-a8e1-4ca3-97d0-37ae4a75941b?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>C40</model>
+    <year>2023</year>
+    <mileage>
+      <value>82680</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>309000 SEK</g:price>
+    <price>309000 SEK</price>
+    <sale_price>309000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>266d7200-5312-4ce7-8fa2-67334bc3bdc1</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>266d7200-5312-4ce7-8fa2-67334bc3bdc1</vehicle_id>
+    <vehicle_registration_plate>WAK09P</vehicle_registration_plate>
+    <g:title>Volvo XC60 Recharge T6 Core Edition</g:title>
+    <title>Volvo XC60 Recharge T6 Core Edition</title>
+    <g:description>Recharge T6 Core Edition. Från 5 804 kr/mån. Miltal: 12 205 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: WAK09P. Kontakta oss för mer information.</g:description>
+    <description>Recharge T6 Core Edition. Från 5 804 kr/mån. Miltal: 12 205 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: WAK09P. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-xc60-wak09p</g:link>
+    <link>https://borasbil.se/bilar/volvo-xc60-wak09p</link>
+    <url>https://borasbil.se/bilar/volvo-xc60-wak09p</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/5f840693-80d4-4147-a74f-f47d8bf4c31b/d5cc7256-a5db-4498-bcf0-1d230ac777d2?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/5f840693-80d4-4147-a74f-f47d8bf4c31b/d5cc7256-a5db-4498-bcf0-1d230ac777d2?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC60</model>
+    <year>2023</year>
+    <mileage>
+      <value>122050</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>369000 SEK</g:price>
+    <price>369000 SEK</price>
+    <sale_price>369000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>73ef311f-6db0-4a49-a691-c6e00cf1b16f</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -20,9 +196,9 @@
     <g:brand>Kia</g:brand>
     <brand>Kia</brand>
     <make>Kia</make>
-    <g:image_link>https://cdn.wayke.se/cfit/e95ce1ac-63f8-4da4-b53a-f93f1f86079e/e6350173-568b-4aa3-89f3-1f906db1feba?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/9f1fa8ea-1933-47ca-a3a4-00241e7bc295/6bbbd9da-ad74-4ead-9c2a-b6df09af38b8?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/e95ce1ac-63f8-4da4-b53a-f93f1f86079e/e6350173-568b-4aa3-89f3-1f906db1feba?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/9f1fa8ea-1933-47ca-a3a4-00241e7bc295/6bbbd9da-ad74-4ead-9c2a-b6df09af38b8?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>Sportage</model>
@@ -64,9 +240,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/d94797a1-24f8-42c8-b77c-ab45a11a147a/b7a716df-1048-48e6-8378-09121a7d3b2b?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/ed13214f45f248bab49ac67af2a0b7de/7458f9ebe8484b058c65a3571042ad84?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/d94797a1-24f8-42c8-b77c-ab45a11a147a/b7a716df-1048-48e6-8378-09121a7d3b2b?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/ed13214f45f248bab49ac67af2a0b7de/7458f9ebe8484b058c65a3571042ad84?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC60</model>
@@ -108,9 +284,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/196849be-5fe6-41d1-a7f4-d5b2796c001d/43ba41c6-f27b-4dcd-864d-45d65ca2e92c?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/f0f8cdd257844037818fae5116e4fbb6/8bf1470229d3477ba7088946111ae6c4?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/196849be-5fe6-41d1-a7f4-d5b2796c001d/43ba41c6-f27b-4dcd-864d-45d65ca2e92c?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/f0f8cdd257844037818fae5116e4fbb6/8bf1470229d3477ba7088946111ae6c4?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC60</model>
@@ -3924,9 +4100,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/04e77896b657432d908e3287e85c3af3/795352db2ca747e7aa9907bf7faade3d?format=jpeg&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/b4031d479c5b4da5963ac7a6bfbead58/74d69c79c99e47c282d9c3dab1de6bfa?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/v3/04e77896b657432d908e3287e85c3af3/795352db2ca747e7aa9907bf7faade3d?format=jpeg&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/b4031d479c5b4da5963ac7a6bfbead58/74d69c79c99e47c282d9c3dab1de6bfa?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>EX30</model>
