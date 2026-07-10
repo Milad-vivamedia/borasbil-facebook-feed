@@ -5,6 +5,358 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>a76b8a70-de88-445b-920a-34e452f4445f</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>a76b8a70-de88-445b-920a-34e452f4445f</vehicle_id>
+    <vehicle_registration_plate>AYR17E</vehicle_registration_plate>
+    <g:title>BMW 2 Series Active/Gran Tourer/Gran Coupé</g:title>
+    <title>BMW 2 Series Active/Gran Tourer/Gran Coupé</title>
+    <g:description>Från 4 703 kr/mån. Miltal: 3 513 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: AYR17E. Kontakta oss för mer information.</g:description>
+    <description>Från 4 703 kr/mån. Miltal: 3 513 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: AYR17E. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/bmw-225e-xdrive-active-tourer-ayr17e</g:link>
+    <link>https://borasbil.se/bilar/bmw-225e-xdrive-active-tourer-ayr17e</link>
+    <url>https://borasbil.se/bilar/bmw-225e-xdrive-active-tourer-ayr17e</url>
+    <g:brand>BMW</g:brand>
+    <brand>BMW</brand>
+    <make>BMW</make>
+    <g:image_link>https://cdn.wayke.se/cfit/bf5413dc-8197-44bb-bd48-f5927a1e9789/ce32476f-e8f3-44f7-aa11-68237445c635?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/bf5413dc-8197-44bb-bd48-f5927a1e9789/ce32476f-e8f3-44f7-aa11-68237445c635?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>2 Series Active/Gran Tourer/Gran Coupé</model>
+    <year>2023</year>
+    <mileage>
+      <value>35130</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>299000 SEK</g:price>
+    <price>299000 SEK</price>
+    <sale_price>299000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>876f3984-866e-4ede-96e6-45d8954d3ca2</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>876f3984-866e-4ede-96e6-45d8954d3ca2</vehicle_id>
+    <vehicle_registration_plate>WAJ08L</vehicle_registration_plate>
+    <g:title>Lynk &amp; Co 01</g:title>
+    <title>Lynk &amp; Co 01</title>
+    <g:description>Från 4 074 kr/mån. Miltal: 3 813 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: WAJ08L. Kontakta oss för mer information.</g:description>
+    <description>Från 4 074 kr/mån. Miltal: 3 813 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: WAJ08L. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/lynk-co-01-phev-waj08l</g:link>
+    <link>https://borasbil.se/bilar/lynk-co-01-phev-waj08l</link>
+    <url>https://borasbil.se/bilar/lynk-co-01-phev-waj08l</url>
+    <g:brand>Lynk &amp; Co</g:brand>
+    <brand>Lynk &amp; Co</brand>
+    <make>Lynk &amp; Co</make>
+    <g:image_link>https://cdn.wayke.se/cfit/150d3a67-ef12-4683-9dc6-69ce486431b0/e8ed00b3-f496-47f7-b495-e2f312fb2e44?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/150d3a67-ef12-4683-9dc6-69ce486431b0/e8ed00b3-f496-47f7-b495-e2f312fb2e44?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>01</model>
+    <year>2022</year>
+    <mileage>
+      <value>38130</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>259000 SEK</g:price>
+    <price>259000 SEK</price>
+    <sale_price>259000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>18c4fd17-1e67-4e56-b203-b9e55509df54</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>18c4fd17-1e67-4e56-b203-b9e55509df54</vehicle_id>
+    <vehicle_registration_plate>WAL36E</vehicle_registration_plate>
+    <g:title>Volvo XC60 Recharge T6 Core Edition</g:title>
+    <title>Volvo XC60 Recharge T6 Core Edition</title>
+    <g:description>Recharge T6 Core Edition. Från 7 219 kr/mån. Miltal: 3 827 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: WAL36E. Kontakta oss för mer information.</g:description>
+    <description>Recharge T6 Core Edition. Från 7 219 kr/mån. Miltal: 3 827 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: WAL36E. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-xc60-wal36e</g:link>
+    <link>https://borasbil.se/bilar/volvo-xc60-wal36e</link>
+    <url>https://borasbil.se/bilar/volvo-xc60-wal36e</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/145579a3-1c3b-4b3d-bb12-e2a5b2582f26/ee096370-bae5-41f1-b9e4-658a6b0c4e6b?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/145579a3-1c3b-4b3d-bb12-e2a5b2582f26/ee096370-bae5-41f1-b9e4-658a6b0c4e6b?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC60</model>
+    <year>2023</year>
+    <mileage>
+      <value>38270</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>459000 SEK</g:price>
+    <price>459000 SEK</price>
+    <sale_price>459000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>799a2d6d-eb49-4011-99ee-4e686fd3350f</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>799a2d6d-eb49-4011-99ee-4e686fd3350f</vehicle_id>
+    <vehicle_registration_plate>JWA12W</vehicle_registration_plate>
+    <g:title>Lynk &amp; Co 01</g:title>
+    <title>Lynk &amp; Co 01</title>
+    <g:description>Från 4 074 kr/mån. Miltal: 4 898 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: JWA12W. Kontakta oss för mer information.</g:description>
+    <description>Från 4 074 kr/mån. Miltal: 4 898 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: JWA12W. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/lynk-co-01-phev-jwa12w</g:link>
+    <link>https://borasbil.se/bilar/lynk-co-01-phev-jwa12w</link>
+    <url>https://borasbil.se/bilar/lynk-co-01-phev-jwa12w</url>
+    <g:brand>Lynk &amp; Co</g:brand>
+    <brand>Lynk &amp; Co</brand>
+    <make>Lynk &amp; Co</make>
+    <g:image_link>https://cdn.wayke.se/cfit/12e095b5-2e0c-4d1e-a2ac-baf3f78d0ff3/f8567716-2f0f-4e3d-b404-774fb41d5bd6?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/12e095b5-2e0c-4d1e-a2ac-baf3f78d0ff3/f8567716-2f0f-4e3d-b404-774fb41d5bd6?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>01</model>
+    <year>2022</year>
+    <mileage>
+      <value>48980</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>259000 SEK</g:price>
+    <price>259000 SEK</price>
+    <sale_price>259000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>ea8664f9-9567-4abc-bdec-01110b85e4cb</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>ea8664f9-9567-4abc-bdec-01110b85e4cb</vehicle_id>
+    <vehicle_registration_plate>GJA18D</vehicle_registration_plate>
+    <g:title>Lynk &amp; Co 01</g:title>
+    <title>Lynk &amp; Co 01</title>
+    <g:description>Från 4 074 kr/mån. Miltal: 5 081 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: GJA18D. Kontakta oss för mer information.</g:description>
+    <description>Från 4 074 kr/mån. Miltal: 5 081 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: GJA18D. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/lynk-co-01-phev-gja18d</g:link>
+    <link>https://borasbil.se/bilar/lynk-co-01-phev-gja18d</link>
+    <url>https://borasbil.se/bilar/lynk-co-01-phev-gja18d</url>
+    <g:brand>Lynk &amp; Co</g:brand>
+    <brand>Lynk &amp; Co</brand>
+    <make>Lynk &amp; Co</make>
+    <g:image_link>https://cdn.wayke.se/cfit/e90e4916-51d6-4bda-b075-6627c2bbc99d/92d4abef-3e8d-451e-9c73-5c2adf41d476?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/e90e4916-51d6-4bda-b075-6627c2bbc99d/92d4abef-3e8d-451e-9c73-5c2adf41d476?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>01</model>
+    <year>2022</year>
+    <mileage>
+      <value>50810</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>259000 SEK</g:price>
+    <price>259000 SEK</price>
+    <sale_price>259000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>bab7297e-374d-4101-91f4-68b5cf1cc8ae</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>bab7297e-374d-4101-91f4-68b5cf1cc8ae</vehicle_id>
+    <vehicle_registration_plate>NGY59B</vehicle_registration_plate>
+    <g:title>Volvo XC60 Recharge T6 Core Edition</g:title>
+    <title>Volvo XC60 Recharge T6 Core Edition</title>
+    <g:description>Recharge T6 Core Edition. Från 7 219 kr/mån. Miltal: 5 337 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: NGY59B. Kontakta oss för mer information.</g:description>
+    <description>Recharge T6 Core Edition. Från 7 219 kr/mån. Miltal: 5 337 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: NGY59B. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-xc60-ngy59b</g:link>
+    <link>https://borasbil.se/bilar/volvo-xc60-ngy59b</link>
+    <url>https://borasbil.se/bilar/volvo-xc60-ngy59b</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/5e0a2a7a-2d75-46df-9b95-d8c969b97650/8c744dfa-0c92-4901-bb06-8828ea45c048?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/5e0a2a7a-2d75-46df-9b95-d8c969b97650/8c744dfa-0c92-4901-bb06-8828ea45c048?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC60</model>
+    <year>2023</year>
+    <mileage>
+      <value>53370</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>459000 SEK</g:price>
+    <price>459000 SEK</price>
+    <sale_price>459000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>4c8eaec1-8c8c-4f54-b309-a7313dae6b32</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>4c8eaec1-8c8c-4f54-b309-a7313dae6b32</vehicle_id>
+    <vehicle_registration_plate>JXC89P</vehicle_registration_plate>
+    <g:title>Volvo XC40 Core</g:title>
+    <title>Volvo XC40 Core</title>
+    <g:description>Core. Från 5 175 kr/mån. Miltal: 9 534 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: JXC89P. Kontakta oss för mer information.</g:description>
+    <description>Core. Från 5 175 kr/mån. Miltal: 9 534 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: JXC89P. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-twin-jxc89p</g:link>
+    <link>https://borasbil.se/bilar/volvo-xc40-recharge-twin-jxc89p</link>
+    <url>https://borasbil.se/bilar/volvo-xc40-recharge-twin-jxc89p</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/65e9d6b9-3c93-40a0-b7c7-089ce09505fd/0195da6c-ce42-464a-833f-2438c0b7d66d?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/65e9d6b9-3c93-40a0-b7c7-089ce09505fd/0195da6c-ce42-464a-833f-2438c0b7d66d?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC40</model>
+    <year>2023</year>
+    <mileage>
+      <value>95340</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>329000 SEK</g:price>
+    <price>329000 SEK</price>
+    <sale_price>329000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>5fb8330d-5ade-4d7c-beb7-77934dd7e826</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>5fb8330d-5ade-4d7c-beb7-77934dd7e826</vehicle_id>
+    <vehicle_registration_plate>MWS608</vehicle_registration_plate>
+    <g:title>Volvo V40 T3 R-Design Edt/LÅGMILARE!</g:title>
+    <title>Volvo V40 T3 R-Design Edt/LÅGMILARE!</title>
+    <g:description>T3 R-Design Edt/LÅGMILARE!. Från 3 444 kr/mån. Miltal: 4 300 mil. Årsmodell: 2019. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: MWS608. Kontakta oss för mer information.</g:description>
+    <description>T3 R-Design Edt/LÅGMILARE!. Från 3 444 kr/mån. Miltal: 4 300 mil. Årsmodell: 2019. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: MWS608. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-v40-mws608</g:link>
+    <link>https://borasbil.se/bilar/volvo-v40-mws608</link>
+    <url>https://borasbil.se/bilar/volvo-v40-mws608</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/8a29e1b3-2d83-4f09-b0c7-76e148b56192/ec24be42-cdc1-4e7f-98d4-d1fec9268786?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/8a29e1b3-2d83-4f09-b0c7-76e148b56192/ec24be42-cdc1-4e7f-98d4-d1fec9268786?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>V40</model>
+    <year>2019</year>
+    <mileage>
+      <value>43000</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Manual</transmission>
+    <g:price>219000 SEK</g:price>
+    <price>219000 SEK</price>
+    <sale_price>219000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>6cd4c703-5f42-4f67-baad-33adf65b142e</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -12734,9 +13086,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/e1d34e3b-385b-4eee-8569-a3bb6c23cb08/cd539975-2ef7-4b7d-972f-e9fcd3a49f64?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/584584a583164ec59ce8771b20d942d1/c6fef0cdb2764198ae300209aa60ea7a?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/e1d34e3b-385b-4eee-8569-a3bb6c23cb08/cd539975-2ef7-4b7d-972f-e9fcd3a49f64?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/584584a583164ec59ce8771b20d942d1/c6fef0cdb2764198ae300209aa60ea7a?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC90</model>
