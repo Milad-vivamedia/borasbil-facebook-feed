@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>8e17dddd-16f4-4fdf-9686-3a5baa8b03f5</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>8e17dddd-16f4-4fdf-9686-3a5baa8b03f5</vehicle_id>
+    <vehicle_registration_plate>DOY95U</vehicle_registration_plate>
+    <g:title>Volvo XC90 Recharge T8 Inscription 7-säten</g:title>
+    <title>Volvo XC90 Recharge T8 Inscription 7-säten</title>
+    <g:description>Recharge T8 Inscription 7-säten. Från 7 534 kr/mån. Miltal: 12 535 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: DOY95U. Kontakta oss för mer information.</g:description>
+    <description>Recharge T8 Inscription 7-säten. Från 7 534 kr/mån. Miltal: 12 535 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: DOY95U. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-xc90-7-saten-doy95u</g:link>
+    <link>https://borasbil.se/bilar/volvo-xc90-7-saten-doy95u</link>
+    <url>https://borasbil.se/bilar/volvo-xc90-7-saten-doy95u</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/3820177e-37c7-4cf4-b0a6-64853ba39eb4/a38d35b4-5167-42c4-8f42-5bf0d442e167?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/3820177e-37c7-4cf4-b0a6-64853ba39eb4/a38d35b4-5167-42c4-8f42-5bf0d442e167?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC90</model>
+    <year>2021</year>
+    <mileage>
+      <value>125350</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>479000 SEK</g:price>
+    <price>479000 SEK</price>
+    <sale_price>479000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>7c47718c-0d5b-4313-b0f0-230e4b8c3f06</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -20,9 +64,9 @@
     <g:brand>Lynk &amp; Co</g:brand>
     <brand>Lynk &amp; Co</brand>
     <make>Lynk &amp; Co</make>
-    <g:image_link>https://cdn.wayke.se/cfit/96e10162-06b9-493d-93c1-d2889f6a2da0/d1916873-6867-452b-b20a-18e3a80290a3?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/f9d2484d-ddf6-4b7c-a38c-83f0e2f08db4/5f43aab6-6ff9-4215-82ae-980aedaade33?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/96e10162-06b9-493d-93c1-d2889f6a2da0/d1916873-6867-452b-b20a-18e3a80290a3?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/f9d2484d-ddf6-4b7c-a38c-83f0e2f08db4/5f43aab6-6ff9-4215-82ae-980aedaade33?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>01</model>
@@ -64,9 +108,9 @@
     <g:brand>Lynk &amp; Co</g:brand>
     <brand>Lynk &amp; Co</brand>
     <make>Lynk &amp; Co</make>
-    <g:image_link>https://cdn.wayke.se/cfit/a2ff66da-fbcf-4a4d-82d9-91ebe37cb47f/51b400d3-dfd0-43eb-88fe-517b61ef4826?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/cbebb366-c13a-4f32-a5fa-e1c7051613b9/3d06ed3a-04e0-4aad-ba3c-af3d4e0c1764?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/a2ff66da-fbcf-4a4d-82d9-91ebe37cb47f/51b400d3-dfd0-43eb-88fe-517b61ef4826?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/cbebb366-c13a-4f32-a5fa-e1c7051613b9/3d06ed3a-04e0-4aad-ba3c-af3d4e0c1764?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>01</model>
@@ -108,9 +152,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/c5fb93a3-0d25-4bac-9b2b-45ddcdf9f9fe/42e5eb7d-5813-4710-b613-e489e03d27eb?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/ac418f4c-be95-4ec4-8b0c-f9478aa860bc/e65da564-647c-4c94-8fad-c4b888bc0cb6?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/c5fb93a3-0d25-4bac-9b2b-45ddcdf9f9fe/42e5eb7d-5813-4710-b613-e489e03d27eb?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/ac418f4c-be95-4ec4-8b0c-f9478aa860bc/e65da564-647c-4c94-8fad-c4b888bc0cb6?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>C40</model>
@@ -152,9 +196,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/44e3f8a0-0db5-47a1-9ff8-5e5564fbe8e0/6942c328-de8f-451c-9d25-aeae7485218f?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/da9e07d780f4456bb79c0396a2cf6835/5960d83374d9489b92aa11b7d4d08f60?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/44e3f8a0-0db5-47a1-9ff8-5e5564fbe8e0/6942c328-de8f-451c-9d25-aeae7485218f?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/da9e07d780f4456bb79c0396a2cf6835/5960d83374d9489b92aa11b7d4d08f60?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC60</model>
@@ -196,9 +240,9 @@
     <g:brand>Kia</g:brand>
     <brand>Kia</brand>
     <make>Kia</make>
-    <g:image_link>https://cdn.wayke.se/cfit/9f1fa8ea-1933-47ca-a3a4-00241e7bc295/6bbbd9da-ad74-4ead-9c2a-b6df09af38b8?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/a8bba264542245c8868a12bece73badf/7117d13663454a1c80be810c3f0b0a27?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/9f1fa8ea-1933-47ca-a3a4-00241e7bc295/6bbbd9da-ad74-4ead-9c2a-b6df09af38b8?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/a8bba264542245c8868a12bece73badf/7117d13663454a1c80be810c3f0b0a27?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>Sportage</model>
@@ -240,9 +284,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/ed13214f45f248bab49ac67af2a0b7de/7458f9ebe8484b058c65a3571042ad84?format=jpeg&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/9342494005d74f47a514fa283d7423b8/c67278effddd41bb90e94c0b234807a0?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/v3/ed13214f45f248bab49ac67af2a0b7de/7458f9ebe8484b058c65a3571042ad84?format=jpeg&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/9342494005d74f47a514fa283d7423b8/c67278effddd41bb90e94c0b234807a0?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC60</model>
@@ -284,9 +328,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/f0f8cdd257844037818fae5116e4fbb6/8bf1470229d3477ba7088946111ae6c4?format=jpeg&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/3d4e18a2-00b9-41d5-9225-85fed252de76/333db57b-1a3a-4438-a148-628b9842c575?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/v3/f0f8cdd257844037818fae5116e4fbb6/8bf1470229d3477ba7088946111ae6c4?format=jpeg&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/3d4e18a2-00b9-41d5-9225-85fed252de76/333db57b-1a3a-4438-a148-628b9842c575?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC60</model>
@@ -328,9 +372,9 @@
     <g:brand>BMW</g:brand>
     <brand>BMW</brand>
     <make>BMW</make>
-    <g:image_link>https://cdn.wayke.se/cfit/3f0e8ec4-5bc3-43fd-9a1e-3bc53a03cd9e/de8a6eae-9476-4a82-b415-743035a58d3c?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/ea00c342-6705-467a-b12b-ebb2f0c45b56/a484afc8-97dd-45fc-a277-4f336ea33d3c?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/3f0e8ec4-5bc3-43fd-9a1e-3bc53a03cd9e/de8a6eae-9476-4a82-b415-743035a58d3c?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/ea00c342-6705-467a-b12b-ebb2f0c45b56/a484afc8-97dd-45fc-a277-4f336ea33d3c?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>2 Series Active/Gran Tourer/Gran Coupé</model>
@@ -372,9 +416,9 @@
     <g:brand>Lynk &amp; Co</g:brand>
     <brand>Lynk &amp; Co</brand>
     <make>Lynk &amp; Co</make>
-    <g:image_link>https://cdn.wayke.se/cfit/3df0cef7-9322-445f-a2fb-025550e69cf7/1775c8e9-2f61-4022-b3f3-a8d4069f9de7?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/60271b21-530c-49dc-8f09-d2110f8a12cd/516b0683-12ae-42a8-9105-75ccf927c8bc?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/3df0cef7-9322-445f-a2fb-025550e69cf7/1775c8e9-2f61-4022-b3f3-a8d4069f9de7?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/60271b21-530c-49dc-8f09-d2110f8a12cd/516b0683-12ae-42a8-9105-75ccf927c8bc?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>01</model>
@@ -416,9 +460,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/de75d54e-bcd5-4fce-b156-c26eaa30561b/0ad7c21d-88fc-4583-9747-ec11ec320397?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/2a53e3c4-931a-4fbe-8d13-66da452a5f14/453456aa-c7a7-498c-9733-b2b1e277781f?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/de75d54e-bcd5-4fce-b156-c26eaa30561b/0ad7c21d-88fc-4583-9747-ec11ec320397?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/2a53e3c4-931a-4fbe-8d13-66da452a5f14/453456aa-c7a7-498c-9733-b2b1e277781f?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC60</model>
@@ -460,9 +504,9 @@
     <g:brand>Lynk &amp; Co</g:brand>
     <brand>Lynk &amp; Co</brand>
     <make>Lynk &amp; Co</make>
-    <g:image_link>https://cdn.wayke.se/cfit/a5c843fc-52ac-421f-8ca4-138b79a9776e/c3e73cb0-0c87-4839-9f88-70b09e28531f?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/d455735c-1550-4e66-a480-b06169694057/d77e519b-702e-4435-9dfb-7ca7f85dad1d?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/a5c843fc-52ac-421f-8ca4-138b79a9776e/c3e73cb0-0c87-4839-9f88-70b09e28531f?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/d455735c-1550-4e66-a480-b06169694057/d77e519b-702e-4435-9dfb-7ca7f85dad1d?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>01</model>
@@ -504,9 +548,9 @@
     <g:brand>Lynk &amp; Co</g:brand>
     <brand>Lynk &amp; Co</brand>
     <make>Lynk &amp; Co</make>
-    <g:image_link>https://cdn.wayke.se/cfit/f91a04ea-82ce-47d2-8f60-25173c5e3e3a/be4301ca-af35-43da-8ea3-d242bac3646b?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/69a40bb0-0b81-4aa0-b73a-ea915f894bce/ff063e42-ccd8-42d3-a97e-f3e4f1d4af72?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/f91a04ea-82ce-47d2-8f60-25173c5e3e3a/be4301ca-af35-43da-8ea3-d242bac3646b?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/69a40bb0-0b81-4aa0-b73a-ea915f894bce/ff063e42-ccd8-42d3-a97e-f3e4f1d4af72?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>01</model>
@@ -548,9 +592,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/1fe60f177a164460b467fa4d714b65e3/e0904a918efe49cfaad614624ad6d26e?format=jpeg&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/6fe1e1dd-3990-4da5-a9c3-36d1d516f4ac/fd331870-c6e3-484f-9c2e-3512f83c5fe5?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/v3/1fe60f177a164460b467fa4d714b65e3/e0904a918efe49cfaad614624ad6d26e?format=jpeg&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/6fe1e1dd-3990-4da5-a9c3-36d1d516f4ac/fd331870-c6e3-484f-9c2e-3512f83c5fe5?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC60</model>
@@ -592,9 +636,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/731ac3c3-7c11-4697-9268-ecf1bd233084/0675e5aa-bbe5-4a97-821e-95f90ddb4647?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/4d1d30099ae9476ab3131df16604679a/9e4802c3cc944fdd90348a95ea07af4e?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/731ac3c3-7c11-4697-9268-ecf1bd233084/0675e5aa-bbe5-4a97-821e-95f90ddb4647?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/4d1d30099ae9476ab3131df16604679a/9e4802c3cc944fdd90348a95ea07af4e?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC40</model>
@@ -636,9 +680,9 @@
     <g:brand>Polestar</g:brand>
     <brand>Polestar</brand>
     <make>Polestar</make>
-    <g:image_link>https://cdn.wayke.se/cfit/4454cef6-02ff-4edd-ab4a-4db7e497da7b/fa38d07d-1a62-4dde-a7df-650f9e6ffa66?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/ebb94b06a6904ed084ee6bac8beb2eff/fcdf827131ea4c2e908977af56a0dc11?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/4454cef6-02ff-4edd-ab4a-4db7e497da7b/fa38d07d-1a62-4dde-a7df-650f9e6ffa66?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/ebb94b06a6904ed084ee6bac8beb2eff/fcdf827131ea4c2e908977af56a0dc11?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>2</model>
@@ -680,9 +724,9 @@
     <g:brand>Audi</g:brand>
     <brand>Audi</brand>
     <make>Audi</make>
-    <g:image_link>https://cdn.wayke.se/cfit/9934abed-153a-426a-9ae9-d89008a05e2f/ea8c73fc-ecd6-419d-aa50-71986b577ae8?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/0b13027c39964d6bb4880c409feed300/1cda702ef52b4edab3a84678840c2cfc?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/9934abed-153a-426a-9ae9-d89008a05e2f/ea8c73fc-ecd6-419d-aa50-71986b577ae8?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/0b13027c39964d6bb4880c409feed300/1cda702ef52b4edab3a84678840c2cfc?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>A6</model>
@@ -724,9 +768,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/1dd0b62f-32f4-43b5-884c-1462294ec3bf/65d9fae0-735e-4841-8123-e116352c00ee?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/fc87923eb2144ec185991cc5646176bc/a755147f2ed6400e923b369e19553469?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/1dd0b62f-32f4-43b5-884c-1462294ec3bf/65d9fae0-735e-4841-8123-e116352c00ee?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/fc87923eb2144ec185991cc5646176bc/a755147f2ed6400e923b369e19553469?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>V60</model>
@@ -768,9 +812,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/376938cb84204c53972ff39af60922eb/94de391f129a4f53941fb64faab7d29b?format=jpeg&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/26d1bba651694d8caa303de8f8ce4294/c964bcd2b2334b40a9633f6fc3954976?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/v3/376938cb84204c53972ff39af60922eb/94de391f129a4f53941fb64faab7d29b?format=jpeg&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/26d1bba651694d8caa303de8f8ce4294/c964bcd2b2334b40a9633f6fc3954976?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC60</model>
@@ -812,9 +856,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/00f0ab8f3d904c90b0e9746b71eccd7c/171a76dbae3e4f3fa35510038434fea8?format=jpeg&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/b976addd17d4478381e02eee3f5a1bfc/a393290a56184679af02313f7c6706e8?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/v3/00f0ab8f3d904c90b0e9746b71eccd7c/171a76dbae3e4f3fa35510038434fea8?format=jpeg&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/b976addd17d4478381e02eee3f5a1bfc/a393290a56184679af02313f7c6706e8?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>C40</model>
@@ -3392,8 +3436,8 @@
     <vehicle_registration_plate>HTA67D</vehicle_registration_plate>
     <g:title>Volvo V90 B4 AWD Diesel Adv Edt</g:title>
     <title>Volvo V90 B4 AWD Diesel Adv Edt</title>
-    <g:description>B4 AWD Diesel Adv Edt. Från 6 118 kr/mån. Miltal: 12 713 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Diesel. Reg.nr: HTA67D. Kontakta oss för mer information.</g:description>
-    <description>B4 AWD Diesel Adv Edt. Från 6 118 kr/mån. Miltal: 12 713 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Diesel. Reg.nr: HTA67D. Kontakta oss för mer information.</description>
+    <g:description>B4 AWD Diesel Adv Edt. Från 5 961 kr/mån. Miltal: 12 713 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Diesel. Reg.nr: HTA67D. Kontakta oss för mer information.</g:description>
+    <description>B4 AWD Diesel Adv Edt. Från 5 961 kr/mån. Miltal: 12 713 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Diesel. Reg.nr: HTA67D. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-v90-cross-country-hta67d</g:link>
     <link>https://borasbil.se/bilar/volvo-v90-cross-country-hta67d</link>
     <url>https://borasbil.se/bilar/volvo-v90-cross-country-hta67d</url>
@@ -3414,9 +3458,9 @@
     <body_style>Wagon</body_style>
     <fuel_type>Diesel</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>389000 SEK</g:price>
-    <price>389000 SEK</price>
-    <sale_price>389000 SEK</sale_price>
+    <g:price>379000 SEK</g:price>
+    <price>379000 SEK</price>
+    <sale_price>379000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Kinna Bil</component>
       <component name="country">SE</component>
@@ -3564,8 +3608,8 @@
     <vehicle_registration_plate>JHP05F</vehicle_registration_plate>
     <g:title>Volvo XC60 T6 Ultra Black Edition</g:title>
     <title>Volvo XC60 T6 Ultra Black Edition</title>
-    <g:description>T6 Ultra Black Edition. Från 10 994 kr/mån. Miltal: 1 317 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: JHP05F. Kontakta oss för mer information.</g:description>
-    <description>T6 Ultra Black Edition. Från 10 994 kr/mån. Miltal: 1 317 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: JHP05F. Kontakta oss för mer information.</description>
+    <g:description>T6 Ultra Black Edition. Från 10 837 kr/mån. Miltal: 1 317 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: JHP05F. Kontakta oss för mer information.</g:description>
+    <description>T6 Ultra Black Edition. Från 10 837 kr/mån. Miltal: 1 317 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: JHP05F. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc60-jhp05f</g:link>
     <link>https://borasbil.se/bilar/volvo-xc60-jhp05f</link>
     <url>https://borasbil.se/bilar/volvo-xc60-jhp05f</url>
@@ -3586,9 +3630,9 @@
     <body_style>SUV</body_style>
     <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>699000 SEK</g:price>
-    <price>699000 SEK</price>
-    <sale_price>699000 SEK</sale_price>
+    <g:price>689000 SEK</g:price>
+    <price>689000 SEK</price>
+    <sale_price>689000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Bogesunds Bil Ulricehamn</component>
       <component name="country">SE</component>
@@ -3616,9 +3660,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/045a5a81-0c2d-4959-b12e-169347e30bdb/9e5adf3c-630d-4b91-ab98-ec1a68184843?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/58600aaf-eb8d-4b00-a5b5-84f2cead43d2/05336550-0e58-4088-847f-7bc8bd629865?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/045a5a81-0c2d-4959-b12e-169347e30bdb/9e5adf3c-630d-4b91-ab98-ec1a68184843?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/58600aaf-eb8d-4b00-a5b5-84f2cead43d2/05336550-0e58-4088-847f-7bc8bd629865?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC60</model>
@@ -4752,8 +4796,8 @@
     <vehicle_registration_plate>WAL69X</vehicle_registration_plate>
     <g:title>Volvo XC60 Recharge T6 Core Edition</g:title>
     <title>Volvo XC60 Recharge T6 Core Edition</title>
-    <g:description>Recharge T6 Core Edition. Från 7 219 kr/mån. Miltal: 6 123 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: WAL69X. Kontakta oss för mer information.</g:description>
-    <description>Recharge T6 Core Edition. Från 7 219 kr/mån. Miltal: 6 123 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: WAL69X. Kontakta oss för mer information.</description>
+    <g:description>Recharge T6 Core Edition. Från 7 062 kr/mån. Miltal: 6 123 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: WAL69X. Kontakta oss för mer information.</g:description>
+    <description>Recharge T6 Core Edition. Från 7 062 kr/mån. Miltal: 6 123 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: WAL69X. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc60-wal69x</g:link>
     <link>https://borasbil.se/bilar/volvo-xc60-wal69x</link>
     <url>https://borasbil.se/bilar/volvo-xc60-wal69x</url>
@@ -4774,9 +4818,9 @@
     <body_style>SUV</body_style>
     <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>459000 SEK</g:price>
-    <price>459000 SEK</price>
-    <sale_price>459000 SEK</sale_price>
+    <g:price>449000 SEK</g:price>
+    <price>449000 SEK</price>
+    <sale_price>449000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Kinna Bil</component>
       <component name="country">SE</component>
@@ -6534,8 +6578,8 @@
     <vehicle_registration_plate>MOA92L</vehicle_registration_plate>
     <g:title>Volvo XC40 B4 FWD Bensin Plus Dark</g:title>
     <title>Volvo XC40 B4 FWD Bensin Plus Dark</title>
-    <g:description>B4 FWD Bensin Plus Dark. Från 7 062 kr/mån. Miltal: 1 196 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: MOA92L. Kontakta oss för mer information.</g:description>
-    <description>B4 FWD Bensin Plus Dark. Från 7 062 kr/mån. Miltal: 1 196 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: MOA92L. Kontakta oss för mer information.</description>
+    <g:description>B4 FWD Bensin Plus Dark. Från 6 905 kr/mån. Miltal: 1 196 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: MOA92L. Kontakta oss för mer information.</g:description>
+    <description>B4 FWD Bensin Plus Dark. Från 6 905 kr/mån. Miltal: 1 196 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: MOA92L. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc40-moa92l</g:link>
     <link>https://borasbil.se/bilar/volvo-xc40-moa92l</link>
     <url>https://borasbil.se/bilar/volvo-xc40-moa92l</url>
@@ -6556,9 +6600,9 @@
     <body_style>SUV</body_style>
     <fuel_type>Gasoline</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>449000 SEK</g:price>
-    <price>449000 SEK</price>
-    <sale_price>449000 SEK</sale_price>
+    <g:price>439000 SEK</g:price>
+    <price>439000 SEK</price>
+    <sale_price>439000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Kinna Bil</component>
       <component name="country">SE</component>
@@ -6578,8 +6622,8 @@
     <vehicle_registration_plate>FNS55U</vehicle_registration_plate>
     <g:title>Volvo C40 Plus</g:title>
     <title>Volvo C40 Plus</title>
-    <g:description>Plus. Från 4 860 kr/mån. Miltal: 10 535 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: FNS55U. Kontakta oss för mer information.</g:description>
-    <description>Plus. Från 4 860 kr/mån. Miltal: 10 535 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: FNS55U. Kontakta oss för mer information.</description>
+    <g:description>Plus. Från 4 703 kr/mån. Miltal: 10 535 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: FNS55U. Kontakta oss för mer information.</g:description>
+    <description>Plus. Från 4 703 kr/mån. Miltal: 10 535 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: FNS55U. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-c40-recharge-fns55u</g:link>
     <link>https://borasbil.se/bilar/volvo-c40-recharge-fns55u</link>
     <url>https://borasbil.se/bilar/volvo-c40-recharge-fns55u</url>
@@ -6600,9 +6644,9 @@
     <body_style>Sedan</body_style>
     <fuel_type>Electric</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>309000 SEK</g:price>
-    <price>309000 SEK</price>
-    <sale_price>309000 SEK</sale_price>
+    <g:price>299000 SEK</g:price>
+    <price>299000 SEK</price>
+    <sale_price>299000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Borås Bil</component>
       <component name="country">SE</component>
@@ -6842,8 +6886,8 @@
     <vehicle_registration_plate>YPZ291</vehicle_registration_plate>
     <g:title>Ford EcoSport 1.0 125 ST-Line</g:title>
     <title>Ford EcoSport 1.0 125 ST-Line</title>
-    <g:description>1.0 125 ST-Line. Från 1 966 kr/mån. Miltal: 6 307 mil. Årsmodell: 2018. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: YPZ291. Kontakta oss för mer information.</g:description>
-    <description>1.0 125 ST-Line. Från 1 966 kr/mån. Miltal: 6 307 mil. Årsmodell: 2018. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: YPZ291. Kontakta oss för mer information.</description>
+    <g:description>1.0 125 ST-Line. Från 1 872 kr/mån. Miltal: 6 307 mil. Årsmodell: 2018. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: YPZ291. Kontakta oss för mer information.</g:description>
+    <description>1.0 125 ST-Line. Från 1 872 kr/mån. Miltal: 6 307 mil. Årsmodell: 2018. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: YPZ291. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/ford-ecosport-ypz291</g:link>
     <link>https://borasbil.se/bilar/ford-ecosport-ypz291</link>
     <url>https://borasbil.se/bilar/ford-ecosport-ypz291</url>
@@ -6864,9 +6908,9 @@
     <body_style>Sedan</body_style>
     <fuel_type>Gasoline</fuel_type>
     <transmission>Manual</transmission>
-    <g:price>125000 SEK</g:price>
-    <price>125000 SEK</price>
-    <sale_price>125000 SEK</sale_price>
+    <g:price>119000 SEK</g:price>
+    <price>119000 SEK</price>
+    <sale_price>119000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Bogesunds Bil Ulricehamn</component>
       <component name="country">SE</component>
@@ -7062,8 +7106,8 @@
     <vehicle_registration_plate>OCA15G</vehicle_registration_plate>
     <g:title>Polestar 2 64kWh Plus</g:title>
     <title>Polestar 2 64kWh Plus</title>
-    <g:description>64kWh Plus. Från 4 703 kr/mån. Miltal: 7 457 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: OCA15G. Kontakta oss för mer information.</g:description>
-    <description>64kWh Plus. Från 4 703 kr/mån. Miltal: 7 457 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: OCA15G. Kontakta oss för mer information.</description>
+    <g:description>64kWh Plus. Från 4 545 kr/mån. Miltal: 7 457 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: OCA15G. Kontakta oss för mer information.</g:description>
+    <description>64kWh Plus. Från 4 545 kr/mån. Miltal: 7 457 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: OCA15G. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/polestar-2-standard-range-single-motor-oca15g</g:link>
     <link>https://borasbil.se/bilar/polestar-2-standard-range-single-motor-oca15g</link>
     <url>https://borasbil.se/bilar/polestar-2-standard-range-single-motor-oca15g</url>
@@ -7084,9 +7128,9 @@
     <body_style>Sedan</body_style>
     <fuel_type>Electric</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>299000 SEK</g:price>
-    <price>299000 SEK</price>
-    <sale_price>299000 SEK</sale_price>
+    <g:price>289000 SEK</g:price>
+    <price>289000 SEK</price>
+    <sale_price>289000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Borås Bil</component>
       <component name="country">SE</component>
@@ -7238,8 +7282,8 @@
     <vehicle_registration_plate>CAD39L</vehicle_registration_plate>
     <g:title>Lynk &amp; Co 08</g:title>
     <title>Lynk &amp; Co 08</title>
-    <g:description>Från 8 792 kr/mån. Miltal: 1 216 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: CAD39L. Kontakta oss för mer information.</g:description>
-    <description>Från 8 792 kr/mån. Miltal: 1 216 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: CAD39L. Kontakta oss för mer information.</description>
+    <g:description>Från 8 635 kr/mån. Miltal: 1 216 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: CAD39L. Kontakta oss för mer information.</g:description>
+    <description>Från 8 635 kr/mån. Miltal: 1 216 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: CAD39L. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/lynk-co-08-phev-cad39l</g:link>
     <link>https://borasbil.se/bilar/lynk-co-08-phev-cad39l</link>
     <url>https://borasbil.se/bilar/lynk-co-08-phev-cad39l</url>
@@ -7260,9 +7304,9 @@
     <body_style>Sedan</body_style>
     <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>559000 SEK</g:price>
-    <price>559000 SEK</price>
-    <sale_price>559000 SEK</sale_price>
+    <g:price>549000 SEK</g:price>
+    <price>549000 SEK</price>
+    <sale_price>549000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Borås Bil</component>
       <component name="country">SE</component>
@@ -7454,8 +7498,8 @@
     <vehicle_registration_plate>MBR09L</vehicle_registration_plate>
     <g:title>Volvo XC90 T8 Ultra Dark</g:title>
     <title>Volvo XC90 T8 Ultra Dark</title>
-    <g:description>T8 Ultra Dark. Från 12 881 kr/mån. Miltal: 3 251 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: MBR09L. Kontakta oss för mer information.</g:description>
-    <description>T8 Ultra Dark. Från 12 881 kr/mån. Miltal: 3 251 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: MBR09L. Kontakta oss för mer information.</description>
+    <g:description>T8 Ultra Dark. Från 12 724 kr/mån. Miltal: 3 251 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: MBR09L. Kontakta oss för mer information.</g:description>
+    <description>T8 Ultra Dark. Från 12 724 kr/mån. Miltal: 3 251 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: MBR09L. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc90-mbr09l</g:link>
     <link>https://borasbil.se/bilar/volvo-xc90-mbr09l</link>
     <url>https://borasbil.se/bilar/volvo-xc90-mbr09l</url>
@@ -7476,9 +7520,9 @@
     <body_style>SUV</body_style>
     <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>819000 SEK</g:price>
-    <price>819000 SEK</price>
-    <sale_price>819000 SEK</sale_price>
+    <g:price>809000 SEK</g:price>
+    <price>809000 SEK</price>
+    <sale_price>809000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Borås Bil</component>
       <component name="country">SE</component>
@@ -7630,8 +7674,8 @@
     <vehicle_registration_plate>SOB94Y</vehicle_registration_plate>
     <g:title>Volvo XC40 B4 FWD Bensin Plus Dark</g:title>
     <title>Volvo XC40 B4 FWD Bensin Plus Dark</title>
-    <g:description>B4 FWD Bensin Plus Dark. Från 7 062 kr/mån. Miltal: 1 851 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: SOB94Y. Kontakta oss för mer information.</g:description>
-    <description>B4 FWD Bensin Plus Dark. Från 7 062 kr/mån. Miltal: 1 851 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: SOB94Y. Kontakta oss för mer information.</description>
+    <g:description>B4 FWD Bensin Plus Dark. Från 6 905 kr/mån. Miltal: 1 851 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: SOB94Y. Kontakta oss för mer information.</g:description>
+    <description>B4 FWD Bensin Plus Dark. Från 6 905 kr/mån. Miltal: 1 851 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: SOB94Y. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc40-sob94y</g:link>
     <link>https://borasbil.se/bilar/volvo-xc40-sob94y</link>
     <url>https://borasbil.se/bilar/volvo-xc40-sob94y</url>
@@ -7652,9 +7696,9 @@
     <body_style>SUV</body_style>
     <fuel_type>Gasoline</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>449000 SEK</g:price>
-    <price>449000 SEK</price>
-    <sale_price>449000 SEK</sale_price>
+    <g:price>439000 SEK</g:price>
+    <price>439000 SEK</price>
+    <sale_price>439000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Kinna Bil</component>
       <component name="country">SE</component>
@@ -8098,8 +8142,8 @@
     <vehicle_registration_plate>JBN03Y</vehicle_registration_plate>
     <g:title>Volvo EX40 ExtendedRange Plus SE</g:title>
     <title>Volvo EX40 ExtendedRange Plus SE</title>
-    <g:description>ExtendedRange Plus SE. Från 7 376 kr/mån. Miltal: 1 513 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: JBN03Y. Kontakta oss för mer information.</g:description>
-    <description>ExtendedRange Plus SE. Från 7 376 kr/mån. Miltal: 1 513 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: JBN03Y. Kontakta oss för mer information.</description>
+    <g:description>ExtendedRange Plus SE. Från 7 219 kr/mån. Miltal: 1 513 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: JBN03Y. Kontakta oss för mer information.</g:description>
+    <description>ExtendedRange Plus SE. Från 7 219 kr/mån. Miltal: 1 513 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: JBN03Y. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-jbn03y</g:link>
     <link>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-jbn03y</link>
     <url>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-jbn03y</url>
@@ -8120,9 +8164,9 @@
     <body_style>Sedan</body_style>
     <fuel_type>Electric</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>469000 SEK</g:price>
-    <price>469000 SEK</price>
-    <sale_price>469000 SEK</sale_price>
+    <g:price>459000 SEK</g:price>
+    <price>459000 SEK</price>
+    <sale_price>459000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Bogesunds Bil Ulricehamn</component>
       <component name="country">SE</component>
@@ -9173,8 +9217,8 @@
     <vehicle_registration_plate>BLA01X</vehicle_registration_plate>
     <g:title>Volvo EX40 ExtendedRange Plus SE</g:title>
     <title>Volvo EX40 ExtendedRange Plus SE</title>
-    <g:description>ExtendedRange Plus SE. Från 7 376 kr/mån. Miltal: 1 307 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: BLA01X. Kontakta oss för mer information.</g:description>
-    <description>ExtendedRange Plus SE. Från 7 376 kr/mån. Miltal: 1 307 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: BLA01X. Kontakta oss för mer information.</description>
+    <g:description>ExtendedRange Plus SE. Från 7 219 kr/mån. Miltal: 1 307 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: BLA01X. Kontakta oss för mer information.</g:description>
+    <description>ExtendedRange Plus SE. Från 7 219 kr/mån. Miltal: 1 307 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: BLA01X. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-bla01x</g:link>
     <link>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-bla01x</link>
     <url>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-bla01x</url>
@@ -9195,9 +9239,9 @@
     <body_style>Sedan</body_style>
     <fuel_type>Electric</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>469000 SEK</g:price>
-    <price>469000 SEK</price>
-    <sale_price>469000 SEK</sale_price>
+    <g:price>459000 SEK</g:price>
+    <price>459000 SEK</price>
+    <sale_price>459000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Borås Bil</component>
       <component name="country">SE</component>
@@ -9481,8 +9525,8 @@
     <vehicle_registration_plate>PRA99C</vehicle_registration_plate>
     <g:title>Volvo XC40 B4 FWD Bensin Plus Dark</g:title>
     <title>Volvo XC40 B4 FWD Bensin Plus Dark</title>
-    <g:description>B4 FWD Bensin Plus Dark. Från 7 062 kr/mån. Miltal: 1 485 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: PRA99C. Kontakta oss för mer information.</g:description>
-    <description>B4 FWD Bensin Plus Dark. Från 7 062 kr/mån. Miltal: 1 485 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: PRA99C. Kontakta oss för mer information.</description>
+    <g:description>B4 FWD Bensin Plus Dark. Från 6 905 kr/mån. Miltal: 1 485 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: PRA99C. Kontakta oss för mer information.</g:description>
+    <description>B4 FWD Bensin Plus Dark. Från 6 905 kr/mån. Miltal: 1 485 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: PRA99C. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc40-pra99c</g:link>
     <link>https://borasbil.se/bilar/volvo-xc40-pra99c</link>
     <url>https://borasbil.se/bilar/volvo-xc40-pra99c</url>
@@ -9503,9 +9547,9 @@
     <body_style>SUV</body_style>
     <fuel_type>Gasoline</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>449000 SEK</g:price>
-    <price>449000 SEK</price>
-    <sale_price>449000 SEK</sale_price>
+    <g:price>439000 SEK</g:price>
+    <price>439000 SEK</price>
+    <sale_price>439000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Kinna Bil</component>
       <component name="country">SE</component>
@@ -9789,8 +9833,8 @@
     <vehicle_registration_plate>WUA74J</vehicle_registration_plate>
     <g:title>Volvo XC40 B4 FWD Bensin Plus Dark</g:title>
     <title>Volvo XC40 B4 FWD Bensin Plus Dark</title>
-    <g:description>B4 FWD Bensin Plus Dark. Från 7 062 kr/mån. Miltal: 1 316 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: WUA74J. Kontakta oss för mer information.</g:description>
-    <description>B4 FWD Bensin Plus Dark. Från 7 062 kr/mån. Miltal: 1 316 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: WUA74J. Kontakta oss för mer information.</description>
+    <g:description>B4 FWD Bensin Plus Dark. Från 6 905 kr/mån. Miltal: 1 316 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: WUA74J. Kontakta oss för mer information.</g:description>
+    <description>B4 FWD Bensin Plus Dark. Från 6 905 kr/mån. Miltal: 1 316 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: WUA74J. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc40-wua74j</g:link>
     <link>https://borasbil.se/bilar/volvo-xc40-wua74j</link>
     <url>https://borasbil.se/bilar/volvo-xc40-wua74j</url>
@@ -9811,9 +9855,9 @@
     <body_style>SUV</body_style>
     <fuel_type>Gasoline</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>449000 SEK</g:price>
-    <price>449000 SEK</price>
-    <sale_price>449000 SEK</sale_price>
+    <g:price>439000 SEK</g:price>
+    <price>439000 SEK</price>
+    <sale_price>439000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Kinna Bil</component>
       <component name="country">SE</component>
@@ -9833,8 +9877,8 @@
     <vehicle_registration_plate>ULY62G</vehicle_registration_plate>
     <g:title>Volvo EX40 ExtendedRange Plus SE</g:title>
     <title>Volvo EX40 ExtendedRange Plus SE</title>
-    <g:description>ExtendedRange Plus SE. Från 7 376 kr/mån. Miltal: 1 499 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: ULY62G. Kontakta oss för mer information.</g:description>
-    <description>ExtendedRange Plus SE. Från 7 376 kr/mån. Miltal: 1 499 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: ULY62G. Kontakta oss för mer information.</description>
+    <g:description>ExtendedRange Plus SE. Från 7 219 kr/mån. Miltal: 1 499 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: ULY62G. Kontakta oss för mer information.</g:description>
+    <description>ExtendedRange Plus SE. Från 7 219 kr/mån. Miltal: 1 499 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: ULY62G. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-uly62g</g:link>
     <link>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-uly62g</link>
     <url>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-uly62g</url>
@@ -9855,9 +9899,9 @@
     <body_style>Sedan</body_style>
     <fuel_type>Electric</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>469000 SEK</g:price>
-    <price>469000 SEK</price>
-    <sale_price>469000 SEK</sale_price>
+    <g:price>459000 SEK</g:price>
+    <price>459000 SEK</price>
+    <sale_price>459000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Kinna Bil</component>
       <component name="country">SE</component>
@@ -12202,8 +12246,8 @@
     <vehicle_registration_plate>XAL21E</vehicle_registration_plate>
     <g:title>Polestar 4 Bus edt</g:title>
     <title>Polestar 4 Bus edt</title>
-    <g:description>Bus edt. Från 10 522 kr/mån. Miltal: 3 637 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: XAL21E. Kontakta oss för mer information.</g:description>
-    <description>Bus edt. Från 10 522 kr/mån. Miltal: 3 637 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: XAL21E. Kontakta oss för mer information.</description>
+    <g:description>Bus edt. Från 10 365 kr/mån. Miltal: 3 637 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: XAL21E. Kontakta oss för mer information.</g:description>
+    <description>Bus edt. Från 10 365 kr/mån. Miltal: 3 637 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: XAL21E. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/polestar-4-long-range-dual-motor-xal21e</g:link>
     <link>https://borasbil.se/bilar/polestar-4-long-range-dual-motor-xal21e</link>
     <url>https://borasbil.se/bilar/polestar-4-long-range-dual-motor-xal21e</url>
@@ -12224,9 +12268,9 @@
     <body_style>Sedan</body_style>
     <fuel_type>Electric</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>669000 SEK</g:price>
-    <price>669000 SEK</price>
-    <sale_price>669000 SEK</sale_price>
+    <g:price>659000 SEK</g:price>
+    <price>659000 SEK</price>
+    <sale_price>659000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Kinna Bil</component>
       <component name="country">SE</component>
@@ -12554,8 +12598,8 @@
     <vehicle_registration_plate>SXN67A</vehicle_registration_plate>
     <g:title>Polestar 2</g:title>
     <title>Polestar 2</title>
-    <g:description>Från 5 646 kr/mån. Miltal: 5 173 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Reg.nr: SXN67A. Kontakta oss för mer information.</g:description>
-    <description>Från 5 646 kr/mån. Miltal: 5 173 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Reg.nr: SXN67A. Kontakta oss för mer information.</description>
+    <g:description>Från 5 489 kr/mån. Miltal: 5 173 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Reg.nr: SXN67A. Kontakta oss för mer information.</g:description>
+    <description>Från 5 489 kr/mån. Miltal: 5 173 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Reg.nr: SXN67A. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/polestar-2-standard-range-single-motor-sxn67a</g:link>
     <link>https://borasbil.se/bilar/polestar-2-standard-range-single-motor-sxn67a</link>
     <url>https://borasbil.se/bilar/polestar-2-standard-range-single-motor-sxn67a</url>
@@ -12576,9 +12620,9 @@
     <body_style>Sedan</body_style>
     <fuel_type>Electric</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>359000 SEK</g:price>
-    <price>359000 SEK</price>
-    <sale_price>359000 SEK</sale_price>
+    <g:price>349000 SEK</g:price>
+    <price>349000 SEK</price>
+    <sale_price>349000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Kinna Bil</component>
       <component name="country">SE</component>
@@ -12774,8 +12818,8 @@
     <vehicle_registration_plate>ROL77B</vehicle_registration_plate>
     <g:title>Volvo V60 T6 Core Bright</g:title>
     <title>Volvo V60 T6 Core Bright</title>
-    <g:description>T6 Core Bright. Från 6 118 kr/mån. Miltal: 5 253 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: ROL77B. Kontakta oss för mer information.</g:description>
-    <description>T6 Core Bright. Från 6 118 kr/mån. Miltal: 5 253 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: ROL77B. Kontakta oss för mer information.</description>
+    <g:description>T6 Core Bright. Från 5 961 kr/mån. Miltal: 5 253 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: ROL77B. Kontakta oss för mer information.</g:description>
+    <description>T6 Core Bright. Från 5 961 kr/mån. Miltal: 5 253 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: ROL77B. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-v60-rol77b</g:link>
     <link>https://borasbil.se/bilar/volvo-v60-rol77b</link>
     <url>https://borasbil.se/bilar/volvo-v60-rol77b</url>
@@ -12796,9 +12840,9 @@
     <body_style>Wagon</body_style>
     <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>389000 SEK</g:price>
-    <price>389000 SEK</price>
-    <sale_price>389000 SEK</sale_price>
+    <g:price>379000 SEK</g:price>
+    <price>379000 SEK</price>
+    <sale_price>379000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Borås Bil</component>
       <component name="country">SE</component>
@@ -13774,8 +13818,8 @@
     <vehicle_registration_plate>YWO556</vehicle_registration_plate>
     <g:title>Volvo XC40 D3 AWD Momentum Advanced Edition</g:title>
     <title>Volvo XC40 D3 AWD Momentum Advanced Edition</title>
-    <g:description>D3 AWD Momentum Advanced Edition. Från 3 602 kr/mån. Miltal: 17 091 mil. Årsmodell: 2019. Växellåda: Automat. Bränsle: Diesel. Reg.nr: YWO556. Kontakta oss för mer information.</g:description>
-    <description>D3 AWD Momentum Advanced Edition. Från 3 602 kr/mån. Miltal: 17 091 mil. Årsmodell: 2019. Växellåda: Automat. Bränsle: Diesel. Reg.nr: YWO556. Kontakta oss för mer information.</description>
+    <g:description>D3 AWD Momentum Advanced Edition. Från 3 444 kr/mån. Miltal: 17 091 mil. Årsmodell: 2019. Växellåda: Automat. Bränsle: Diesel. Reg.nr: YWO556. Kontakta oss för mer information.</g:description>
+    <description>D3 AWD Momentum Advanced Edition. Från 3 444 kr/mån. Miltal: 17 091 mil. Årsmodell: 2019. Växellåda: Automat. Bränsle: Diesel. Reg.nr: YWO556. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc40-ywo556</g:link>
     <link>https://borasbil.se/bilar/volvo-xc40-ywo556</link>
     <url>https://borasbil.se/bilar/volvo-xc40-ywo556</url>
@@ -13796,9 +13840,9 @@
     <body_style>SUV</body_style>
     <fuel_type>Diesel</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>229000 SEK</g:price>
-    <price>229000 SEK</price>
-    <sale_price>229000 SEK</sale_price>
+    <g:price>219000 SEK</g:price>
+    <price>219000 SEK</price>
+    <sale_price>219000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Bogesunds Bil Ulricehamn</component>
       <component name="country">SE</component>
