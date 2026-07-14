@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>014aebb6-1e9f-488b-b594-08968c622dcc</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>014aebb6-1e9f-488b-b594-08968c622dcc</vehicle_id>
+    <vehicle_registration_plate>RHG83K</vehicle_registration_plate>
+    <g:title>Volvo XC40 Recharge T4 Plus Dark</g:title>
+    <title>Volvo XC40 Recharge T4 Plus Dark</title>
+    <g:description>Recharge T4 Plus Dark. Från 6 275 kr/mån. Miltal: 4 600 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: RHG83K. Kontakta oss för mer information.</g:description>
+    <description>Recharge T4 Plus Dark. Från 6 275 kr/mån. Miltal: 4 600 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: RHG83K. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-xc40-rhg83k</g:link>
+    <link>https://borasbil.se/bilar/volvo-xc40-rhg83k</link>
+    <url>https://borasbil.se/bilar/volvo-xc40-rhg83k</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/3a2939563bf948b2803256c5f2ea0602/e079e170e56b4b7db0571dc566e9cb47?format=jpeg&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/3a2939563bf948b2803256c5f2ea0602/e079e170e56b4b7db0571dc566e9cb47?format=jpeg&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC40</model>
+    <year>2023</year>
+    <mileage>
+      <value>46000</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>399000 SEK</g:price>
+    <price>399000 SEK</price>
+    <sale_price>399000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Bogesunds Bil Ulricehamn</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>c9a637da-b72f-49b0-bc31-4cc3919156f1</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -504,6 +548,11 @@
     <g:brand>Citroën</g:brand>
     <brand>Citroën</brand>
     <make>Citroën</make>
+    <g:image_link>https://cdn.wayke.se/cfit/a0ef5922-d315-49c4-8387-0e41b627cb2f/1130fc76-9850-4407-ab54-97330caba95d?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/a0ef5922-d315-49c4-8387-0e41b627cb2f/1130fc76-9850-4407-ab54-97330caba95d?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
     <model>C4</model>
     <year>2023</year>
     <mileage>
@@ -4469,50 +4518,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>dd8e7b32-1443-4e7f-b476-9af0cad65509</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>dd8e7b32-1443-4e7f-b476-9af0cad65509</vehicle_id>
-    <vehicle_registration_plate>PEN17W</vehicle_registration_plate>
-    <g:title>Volvo XC60 T6 Plus Dark Edition</g:title>
-    <title>Volvo XC60 T6 Plus Dark Edition</title>
-    <g:description>T6 Plus Dark Edition. Från 8 949 kr/mån. Miltal: 3 773 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: PEN17W. Kontakta oss för mer information.</g:description>
-    <description>T6 Plus Dark Edition. Från 8 949 kr/mån. Miltal: 3 773 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: PEN17W. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc60-pen17w</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc60-pen17w</link>
-    <url>https://borasbil.se/bilar/volvo-xc60-pen17w</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/cd771c208bd741e6984d3fae0a22b1b0/f66c0b17a3cb4cfa936c05042d64a9ec?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/cd771c208bd741e6984d3fae0a22b1b0/f66c0b17a3cb4cfa936c05042d64a9ec?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2025</year>
-    <mileage>
-      <value>37730</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>569000 SEK</g:price>
-    <price>569000 SEK</price>
-    <sale_price>569000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
