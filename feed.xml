@@ -5,6 +5,138 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>cd9f158d-662b-4b46-81a4-347dcdc87515</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>cd9f158d-662b-4b46-81a4-347dcdc87515</vehicle_id>
+    <vehicle_registration_plate>NKL43A</vehicle_registration_plate>
+    <g:title>Ford Mustang Mach-E</g:title>
+    <title>Ford Mustang Mach-E</title>
+    <g:description>Från 5 332 kr/mån. Miltal: 11 000 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: El. Reg.nr: NKL43A. Kontakta oss för mer information.</g:description>
+    <description>Från 5 332 kr/mån. Miltal: 11 000 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: El. Reg.nr: NKL43A. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/ford-mustang-mach-e-long-range-awd-nkl43a</g:link>
+    <link>https://borasbil.se/bilar/ford-mustang-mach-e-long-range-awd-nkl43a</link>
+    <url>https://borasbil.se/bilar/ford-mustang-mach-e-long-range-awd-nkl43a</url>
+    <g:brand>Ford</g:brand>
+    <brand>Ford</brand>
+    <make>Ford</make>
+    <g:image_link>https://cdn.wayke.se/cfit/5c94147c-0801-4630-beef-5523ad1f7ad8/bfd22cc8-06e9-428b-b41a-edd80add789d?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/5c94147c-0801-4630-beef-5523ad1f7ad8/bfd22cc8-06e9-428b-b41a-edd80add789d?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>Mustang Mach-E</model>
+    <year>2021</year>
+    <mileage>
+      <value>110000</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>339000 SEK</g:price>
+    <price>339000 SEK</price>
+    <sale_price>339000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>0430966e-be78-4573-8705-6eec4f6d3d95</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>0430966e-be78-4573-8705-6eec4f6d3d95</vehicle_id>
+    <vehicle_registration_plate>YML419</vehicle_registration_plate>
+    <g:title>Volvo XC60 T5 Momentum Edition - DRAG, KAMERA</g:title>
+    <title>Volvo XC60 T5 Momentum Edition - DRAG, KAMERA</title>
+    <g:description>T5 Momentum Edition - DRAG, KAMERA. Från 4 860 kr/mån. Miltal: 8 667 mil. Årsmodell: 2019. Växellåda: Automat. Bränsle: Bensin. Reg.nr: YML419. Kontakta oss för mer information.</g:description>
+    <description>T5 Momentum Edition - DRAG, KAMERA. Från 4 860 kr/mån. Miltal: 8 667 mil. Årsmodell: 2019. Växellåda: Automat. Bränsle: Bensin. Reg.nr: YML419. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-xc60-yml419</g:link>
+    <link>https://borasbil.se/bilar/volvo-xc60-yml419</link>
+    <url>https://borasbil.se/bilar/volvo-xc60-yml419</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/4486cce8-21ac-48ec-8623-62dbdaa58974/c8eb801d-62d8-46ca-aa7b-4b9556ce32a7?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/4486cce8-21ac-48ec-8623-62dbdaa58974/c8eb801d-62d8-46ca-aa7b-4b9556ce32a7?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC60</model>
+    <year>2019</year>
+    <mileage>
+      <value>86670</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>309000 SEK</g:price>
+    <price>309000 SEK</price>
+    <sale_price>309000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>d8b1036c-6e9e-4642-a28a-c4c816ccd189</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>d8b1036c-6e9e-4642-a28a-c4c816ccd189</vehicle_id>
+    <vehicle_registration_plate>TMP66U</vehicle_registration_plate>
+    <g:title>Volvo C40 Intro Edition</g:title>
+    <title>Volvo C40 Intro Edition</title>
+    <g:description>Intro Edition. Från 5 646 kr/mån. Miltal: 7 731 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: TMP66U. Kontakta oss för mer information.</g:description>
+    <description>Intro Edition. Från 5 646 kr/mån. Miltal: 7 731 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: TMP66U. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-c40-recharge-twin-tmp66u</g:link>
+    <link>https://borasbil.se/bilar/volvo-c40-recharge-twin-tmp66u</link>
+    <url>https://borasbil.se/bilar/volvo-c40-recharge-twin-tmp66u</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/4eee612a-fbe3-4f46-ae4a-f62b79f6631b/7eb8e2f1-bfa6-4bb0-8769-3ba435155c14?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/4eee612a-fbe3-4f46-ae4a-f62b79f6631b/7eb8e2f1-bfa6-4bb0-8769-3ba435155c14?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>C40</model>
+    <year>2022</year>
+    <mileage>
+      <value>77310</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>359000 SEK</g:price>
+    <price>359000 SEK</price>
+    <sale_price>359000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>68c60c4b-799f-4215-9551-8e068f66cf1a</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -482,50 +614,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>e06abb08-5491-4686-9c28-686253dfdbf8</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>e06abb08-5491-4686-9c28-686253dfdbf8</vehicle_id>
-    <vehicle_registration_plate>FUU62K</vehicle_registration_plate>
-    <g:title>Volvo V60 B5 AWD Bensin Core</g:title>
-    <title>Volvo V60 B5 AWD Bensin Core</title>
-    <g:description>B5 AWD Bensin Core. Från 6 275 kr/mån. Miltal: 4 878 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Reg.nr: FUU62K. Kontakta oss för mer information.</g:description>
-    <description>B5 AWD Bensin Core. Från 6 275 kr/mån. Miltal: 4 878 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Reg.nr: FUU62K. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-v60-cross-country-fuu62k</g:link>
-    <link>https://borasbil.se/bilar/volvo-v60-cross-country-fuu62k</link>
-    <url>https://borasbil.se/bilar/volvo-v60-cross-country-fuu62k</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/5c6422ab-3544-47dd-941c-8edd920c60b9/bdad1c30-e9bb-482a-b89e-cef83d25073c?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/5c6422ab-3544-47dd-941c-8edd920c60b9/bdad1c30-e9bb-482a-b89e-cef83d25073c?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V60</model>
-    <year>2024</year>
-    <mileage>
-      <value>48780</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>399000 SEK</g:price>
-    <price>399000 SEK</price>
-    <sale_price>399000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -2154,50 +2242,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>a2fd5e92-b763-45e2-92e7-3d16c5f51426</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>a2fd5e92-b763-45e2-92e7-3d16c5f51426</vehicle_id>
-    <vehicle_registration_plate>XCR02K</vehicle_registration_plate>
-    <g:title>Volvo EX30 Plus</g:title>
-    <title>Volvo EX30 Plus</title>
-    <g:description>Plus. Från 5 332 kr/mån. Miltal: 3 459 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Reg.nr: XCR02K. Kontakta oss för mer information.</g:description>
-    <description>Plus. Från 5 332 kr/mån. Miltal: 3 459 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Reg.nr: XCR02K. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-ex30-single-motor-extended-range-xcr02k</g:link>
-    <link>https://borasbil.se/bilar/volvo-ex30-single-motor-extended-range-xcr02k</link>
-    <url>https://borasbil.se/bilar/volvo-ex30-single-motor-extended-range-xcr02k</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/c0749296f967456490c89be5f544800d/77bfe7f379f44bc3a05bfe62a4659f3e?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/c0749296f967456490c89be5f544800d/77bfe7f379f44bc3a05bfe62a4659f3e?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>EX30</model>
-    <year>2024</year>
-    <mileage>
-      <value>34590</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>339000 SEK</g:price>
-    <price>339000 SEK</price>
-    <sale_price>339000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -15253,50 +15297,6 @@
     <g:condition>new</g:condition>
     <condition>new</condition>
     <state_of_vehicle>NEW</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>ad2d3348-d5ad-4b5e-b1cb-70a67666c71e</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>ad2d3348-d5ad-4b5e-b1cb-70a67666c71e</vehicle_id>
-    <vehicle_registration_plate>YYB275</vehicle_registration_plate>
-    <g:title>Volvo XC60 T8 TE R-Design</g:title>
-    <title>Volvo XC60 T8 TE R-Design</title>
-    <g:description>T8 TE R-Design. Från 4 703 kr/mån. Miltal: 14 653 mil. Årsmodell: 2019. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: YYB275. Kontakta oss för mer information.</g:description>
-    <description>T8 TE R-Design. Från 4 703 kr/mån. Miltal: 14 653 mil. Årsmodell: 2019. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: YYB275. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc60-yyb275</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc60-yyb275</link>
-    <url>https://borasbil.se/bilar/volvo-xc60-yyb275</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/05c79f2a-a1c3-4dde-b1aa-e8588fd5121a/da72c065-26b4-4c9a-ad2f-f9efc2c3a7c8?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/05c79f2a-a1c3-4dde-b1aa-e8588fd5121a/da72c065-26b4-4c9a-ad2f-f9efc2c3a7c8?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2019</year>
-    <mileage>
-      <value>146530</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>299000 SEK</g:price>
-    <price>299000 SEK</price>
-    <sale_price>299000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Bogesunds Bil Ulricehamn</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
     <g:id>fc0d175f-0167-44a7-80c3-3fb4e7d2893c</g:id>
