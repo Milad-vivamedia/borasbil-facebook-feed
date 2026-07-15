@@ -3612,8 +3612,8 @@
     <vehicle_registration_plate>MTR85L</vehicle_registration_plate>
     <g:title>Citroën C4 SHINE Pure Tech 130 A 5-d</g:title>
     <title>Citroën C4 SHINE Pure Tech 130 A 5-d</title>
-    <g:description>SHINE Pure Tech 130 A 5-d. Från 3 602 kr/mån. Miltal: 4 150 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: MTR85L. Kontakta oss för mer information.</g:description>
-    <description>SHINE Pure Tech 130 A 5-d. Från 3 602 kr/mån. Miltal: 4 150 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: MTR85L. Kontakta oss för mer information.</description>
+    <g:description>SHINE Pure Tech 130 A 5-d. Från 3 130 kr/mån. Miltal: 4 150 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: MTR85L. Kontakta oss för mer information.</g:description>
+    <description>SHINE Pure Tech 130 A 5-d. Från 3 130 kr/mån. Miltal: 4 150 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: MTR85L. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/citroen-c4-mtr85l</g:link>
     <link>https://borasbil.se/bilar/citroen-c4-mtr85l</link>
     <url>https://borasbil.se/bilar/citroen-c4-mtr85l</url>
@@ -3634,9 +3634,9 @@
     <body_style>Sedan</body_style>
     <fuel_type>Gasoline</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>229000 SEK</g:price>
-    <price>229000 SEK</price>
-    <sale_price>229000 SEK</sale_price>
+    <g:price>199000 SEK</g:price>
+    <price>199000 SEK</price>
+    <sale_price>199000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Borås Bil</component>
       <component name="country">SE</component>
@@ -5776,9 +5776,9 @@
     <g:brand>Lynk &amp; Co</g:brand>
     <brand>Lynk &amp; Co</brand>
     <make>Lynk &amp; Co</make>
-    <g:image_link>https://cdn.wayke.se/cfit/cd032dd8-b632-40ee-9aeb-70d4cc68715e/8cb6c8ea-9e85-41b1-b8d5-00f2fe950118?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/6677e3d663954032bcdaa55afb452bbe/496b8ecf75d44d67ac7c2bf96e1b50a3?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/cd032dd8-b632-40ee-9aeb-70d4cc68715e/8cb6c8ea-9e85-41b1-b8d5-00f2fe950118?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/6677e3d663954032bcdaa55afb452bbe/496b8ecf75d44d67ac7c2bf96e1b50a3?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>01</model>
