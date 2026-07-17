@@ -5,6 +5,94 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>ba5bcc86-05ad-4060-9cf6-318c8d15fbcd</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>ba5bcc86-05ad-4060-9cf6-318c8d15fbcd</vehicle_id>
+    <vehicle_registration_plate>AAJ54D</vehicle_registration_plate>
+    <g:title>Volvo C40 Ultimate</g:title>
+    <title>Volvo C40 Ultimate</title>
+    <g:description>Ultimate. Från 4 860 kr/mån. Miltal: 13 214 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: AAJ54D. Kontakta oss för mer information.</g:description>
+    <description>Ultimate. Från 4 860 kr/mån. Miltal: 13 214 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: AAJ54D. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-c40-recharge-twin-aaj54d</g:link>
+    <link>https://borasbil.se/bilar/volvo-c40-recharge-twin-aaj54d</link>
+    <url>https://borasbil.se/bilar/volvo-c40-recharge-twin-aaj54d</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/5515d05e-9b0b-4965-8446-ff24938f114b/2d0e9127-575f-4130-8c2e-04afe177ae07?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/5515d05e-9b0b-4965-8446-ff24938f114b/2d0e9127-575f-4130-8c2e-04afe177ae07?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>C40</model>
+    <year>2023</year>
+    <mileage>
+      <value>132140</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>309000 SEK</g:price>
+    <price>309000 SEK</price>
+    <sale_price>309000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>7390ebcd-4a6a-4bc5-98da-36f649c80cd4</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>7390ebcd-4a6a-4bc5-98da-36f649c80cd4</vehicle_id>
+    <vehicle_registration_plate>TEG80Y</vehicle_registration_plate>
+    <g:title>Citroën C4 FL MAX PureTech 130 A</g:title>
+    <title>Citroën C4 FL MAX PureTech 130 A</title>
+    <g:description>FL MAX PureTech 130 A. Från 3 853 kr/mån. Miltal: 2 299 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Reg.nr: TEG80Y. Kontakta oss för mer information.</g:description>
+    <description>FL MAX PureTech 130 A. Från 3 853 kr/mån. Miltal: 2 299 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Reg.nr: TEG80Y. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/citroen-c4-teg80y</g:link>
+    <link>https://borasbil.se/bilar/citroen-c4-teg80y</link>
+    <url>https://borasbil.se/bilar/citroen-c4-teg80y</url>
+    <g:brand>Citroën</g:brand>
+    <brand>Citroën</brand>
+    <make>Citroën</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/c47b23f543c849c5b3013bbf2e4cc737/b367f9e457e94c26848476f4b69bd63f?format=jpeg&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/c47b23f543c849c5b3013bbf2e4cc737/b367f9e457e94c26848476f4b69bd63f?format=jpeg&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>C4</model>
+    <year>2025</year>
+    <mileage>
+      <value>22990</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>245000 SEK</g:price>
+    <price>245000 SEK</price>
+    <sale_price>245000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>bcbfdf9b-c777-4e7c-a5f4-612f9e6564f5</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -3664,9 +3752,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/cb129b3a-9ab3-4951-a813-00ad72221b8d/73c08447-9db8-4289-8f93-6084e51da863?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/ebed8fd01fc74ff3849b4de67d7ffc81/299bece901a34a9f8724622a284a3c89?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/cb129b3a-9ab3-4951-a813-00ad72221b8d/73c08447-9db8-4289-8f93-6084e51da863?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/ebed8fd01fc74ff3849b4de67d7ffc81/299bece901a34a9f8724622a284a3c89?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC60</model>
