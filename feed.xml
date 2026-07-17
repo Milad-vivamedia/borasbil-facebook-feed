@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>666a0803-458b-414b-bd62-dd2efacb0523</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>666a0803-458b-414b-bd62-dd2efacb0523</vehicle_id>
+    <vehicle_registration_plate>JAK96U</vehicle_registration_plate>
+    <g:title>Lynk &amp; Co 01</g:title>
+    <title>Lynk &amp; Co 01</title>
+    <g:description>Från 4 388 kr/mån. Miltal: 3 296 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: JAK96U. Kontakta oss för mer information.</g:description>
+    <description>Från 4 388 kr/mån. Miltal: 3 296 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: JAK96U. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/lynk-co-01-phev-jak96u</g:link>
+    <link>https://borasbil.se/bilar/lynk-co-01-phev-jak96u</link>
+    <url>https://borasbil.se/bilar/lynk-co-01-phev-jak96u</url>
+    <g:brand>Lynk &amp; Co</g:brand>
+    <brand>Lynk &amp; Co</brand>
+    <make>Lynk &amp; Co</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/0fc67dbe8a53482294e1b4f279a80246/0192222f80974cd5b2be11f9414d6860?format=jpeg&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/0fc67dbe8a53482294e1b4f279a80246/0192222f80974cd5b2be11f9414d6860?format=jpeg&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>01</model>
+    <year>2023</year>
+    <mileage>
+      <value>32960</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>279000 SEK</g:price>
+    <price>279000 SEK</price>
+    <sale_price>279000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Bogesunds Bil Ulricehamn</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>75b9422d-871b-48a9-b772-4f0167cb5c4f</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -7805,50 +7849,6 @@
     <g:condition>new</g:condition>
     <condition>new</condition>
     <state_of_vehicle>NEW</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>14c91bd9-3bc9-47a8-869b-6c2e890f4403</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>14c91bd9-3bc9-47a8-869b-6c2e890f4403</vehicle_id>
-    <vehicle_registration_plate>JAK96U</vehicle_registration_plate>
-    <g:title>Lynk &amp; Co 01</g:title>
-    <title>Lynk &amp; Co 01</title>
-    <g:description>Från 4 388 kr/mån. Miltal: 3 296 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: JAK96U. Kontakta oss för mer information.</g:description>
-    <description>Från 4 388 kr/mån. Miltal: 3 296 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: JAK96U. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/lynk-co-01-phev-jak96u</g:link>
-    <link>https://borasbil.se/bilar/lynk-co-01-phev-jak96u</link>
-    <url>https://borasbil.se/bilar/lynk-co-01-phev-jak96u</url>
-    <g:brand>Lynk &amp; Co</g:brand>
-    <brand>Lynk &amp; Co</brand>
-    <make>Lynk &amp; Co</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/3027e52493e449f1b39c3bd9f1b4c18f/8d6e63023af04534949c65af65f18b2d?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/3027e52493e449f1b39c3bd9f1b4c18f/8d6e63023af04534949c65af65f18b2d?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>01</model>
-    <year>2023</year>
-    <mileage>
-      <value>32960</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>279000 SEK</g:price>
-    <price>279000 SEK</price>
-    <sale_price>279000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
     <g:id>2e2655e6-4e79-4f5a-a8ec-ab2bc348a43c</g:id>
