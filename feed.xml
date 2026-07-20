@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>9ebfd52e-b092-45e7-b21d-83c70ec62463</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>9ebfd52e-b092-45e7-b21d-83c70ec62463</vehicle_id>
+    <vehicle_registration_plate>YEP69E</vehicle_registration_plate>
+    <g:title>Volvo V60 T6 Plus Dark</g:title>
+    <title>Volvo V60 T6 Plus Dark</title>
+    <g:description>T6 Plus Dark. Från 7 062 kr/mån. Miltal: 3 355 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: YEP69E. Kontakta oss för mer information.</g:description>
+    <description>T6 Plus Dark. Från 7 062 kr/mån. Miltal: 3 355 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: YEP69E. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-v60-yep69e</g:link>
+    <link>https://borasbil.se/bilar/volvo-v60-yep69e</link>
+    <url>https://borasbil.se/bilar/volvo-v60-yep69e</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/a0dedb676fcc43239a8604edf0c1c633/b46d1fa3c5134267bd8dc01d43a0349e?format=jpeg&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/a0dedb676fcc43239a8604edf0c1c633/b46d1fa3c5134267bd8dc01d43a0349e?format=jpeg&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>V60</model>
+    <year>2025</year>
+    <mileage>
+      <value>33550</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Wagon</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>449000 SEK</g:price>
+    <price>449000 SEK</price>
+    <sale_price>449000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>38164976-b3b2-4c2f-87df-0d4053947a8f</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -2566,50 +2610,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>b1cbc255-0d52-41b8-a6ce-f968f6a8734c</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>b1cbc255-0d52-41b8-a6ce-f968f6a8734c</vehicle_id>
-    <vehicle_registration_plate>UZU07F</vehicle_registration_plate>
-    <g:title>Volvo XC40 T4 FWD Inscription</g:title>
-    <title>Volvo XC40 T4 FWD Inscription</title>
-    <g:description>T4 FWD Inscription. Från 4 545 kr/mån. Miltal: 6 681 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Bensin. Reg.nr: UZU07F. Kontakta oss för mer information.</g:description>
-    <description>T4 FWD Inscription. Från 4 545 kr/mån. Miltal: 6 681 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Bensin. Reg.nr: UZU07F. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc40-uzu07f</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc40-uzu07f</link>
-    <url>https://borasbil.se/bilar/volvo-xc40-uzu07f</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/00dd61b81e884c0ab57697513a941c5e/6b39953aa6f24f5595d679778c67bf00?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/00dd61b81e884c0ab57697513a941c5e/6b39953aa6f24f5595d679778c67bf00?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2020</year>
-    <mileage>
-      <value>66810</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>289000 SEK</g:price>
-    <price>289000 SEK</price>
-    <sale_price>289000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
