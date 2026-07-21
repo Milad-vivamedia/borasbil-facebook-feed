@@ -3356,9 +3356,9 @@
     <g:brand>Citroën</g:brand>
     <brand>Citroën</brand>
     <make>Citroën</make>
-    <g:image_link>https://cdn.wayke.se/cfit/56f19870-4605-42b2-bd4f-57d9421c6da5/9befe2cf-a400-41c3-a93d-762bcd8750dc?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/e31e8a82e3e8483899c3c82d0ac3a1de/da10b3c8b0ed41598079223755b5195a?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/56f19870-4605-42b2-bd4f-57d9421c6da5/9befe2cf-a400-41c3-a93d-762bcd8750dc?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/e31e8a82e3e8483899c3c82d0ac3a1de/da10b3c8b0ed41598079223755b5195a?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>C4</model>
@@ -6325,50 +6325,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>42880e2b-580f-4439-890d-9a7c6b981dcf</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>42880e2b-580f-4439-890d-9a7c6b981dcf</vehicle_id>
-    <vehicle_registration_plate>TDT66W</vehicle_registration_plate>
-    <g:title>Volvo XC60 T8 TE Momentum Advanced Edition</g:title>
-    <title>Volvo XC60 T8 TE Momentum Advanced Edition</title>
-    <g:description>T8 TE Momentum Advanced Edition. Från 4 860 kr/mån. Miltal: 14 249 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: TDT66W. Kontakta oss för mer information.</g:description>
-    <description>T8 TE Momentum Advanced Edition. Från 4 860 kr/mån. Miltal: 14 249 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: TDT66W. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc60-tdt66w</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc60-tdt66w</link>
-    <url>https://borasbil.se/bilar/volvo-xc60-tdt66w</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/323b3899d51e446ab9a6fb253bd120e9/46a63bf42b8846eea3189ee98bf0b5f6?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/323b3899d51e446ab9a6fb253bd120e9/46a63bf42b8846eea3189ee98bf0b5f6?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2020</year>
-    <mileage>
-      <value>142490</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>309000 SEK</g:price>
-    <price>309000 SEK</price>
-    <sale_price>309000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>8101b781-ce8d-4390-aab2-daf094e55b13</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -8095,9 +8051,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/4726a7d6-8d8c-49bc-95ad-529f647a3740/7537cbdc-79ee-4e52-b720-1598fd0c383b?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/220d0261-da1f-494d-b79a-91191e7f02c7/ecebc6d9-dadf-45a7-a63f-adc2aa7b6af6?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/4726a7d6-8d8c-49bc-95ad-529f647a3740/7537cbdc-79ee-4e52-b720-1598fd0c383b?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/220d0261-da1f-494d-b79a-91191e7f02c7/ecebc6d9-dadf-45a7-a63f-adc2aa7b6af6?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC40</model>
@@ -15283,8 +15239,8 @@
     <vehicle_registration_plate>DRU51E</vehicle_registration_plate>
     <g:title>Volvo V60 T6 Plus Dark Nordic Edition</g:title>
     <title>Volvo V60 T6 Plus Dark Nordic Edition</title>
-    <g:description>T6 Plus Dark Nordic Edition. Från 9 421 kr/mån. Miltal: 1 071 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: DRU51E. Kontakta oss för mer information.</g:description>
-    <description>T6 Plus Dark Nordic Edition. Från 9 421 kr/mån. Miltal: 1 071 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: DRU51E. Kontakta oss för mer information.</description>
+    <g:description>T6 Plus Dark Nordic Edition. Från 8 163 kr/mån. Miltal: 1 071 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: DRU51E. Kontakta oss för mer information.</g:description>
+    <description>T6 Plus Dark Nordic Edition. Från 8 163 kr/mån. Miltal: 1 071 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: DRU51E. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-v60-dru51e</g:link>
     <link>https://borasbil.se/bilar/volvo-v60-dru51e</link>
     <url>https://borasbil.se/bilar/volvo-v60-dru51e</url>
@@ -15305,9 +15261,9 @@
     <body_style>Wagon</body_style>
     <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>599000 SEK</g:price>
-    <price>599000 SEK</price>
-    <sale_price>599000 SEK</sale_price>
+    <g:price>519000 SEK</g:price>
+    <price>519000 SEK</price>
+    <sale_price>519000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Kinna Bil</component>
       <component name="country">SE</component>
@@ -17086,8 +17042,8 @@
     <vehicle_registration_plate>WLS84X</vehicle_registration_plate>
     <g:title>Volvo XC90 T8 Ultra Dark</g:title>
     <title>Volvo XC90 T8 Ultra Dark</title>
-    <g:description>T8 Ultra Dark. Från 13 982 kr/mån. Miltal: 1 410 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: WLS84X. Kontakta oss för mer information.</g:description>
-    <description>T8 Ultra Dark. Från 13 982 kr/mån. Miltal: 1 410 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: WLS84X. Kontakta oss för mer information.</description>
+    <g:description>T8 Ultra Dark. Från 13 510 kr/mån. Miltal: 1 410 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: WLS84X. Kontakta oss för mer information.</g:description>
+    <description>T8 Ultra Dark. Från 13 510 kr/mån. Miltal: 1 410 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: WLS84X. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc90-wls84x</g:link>
     <link>https://borasbil.se/bilar/volvo-xc90-wls84x</link>
     <url>https://borasbil.se/bilar/volvo-xc90-wls84x</url>
@@ -17108,9 +17064,9 @@
     <body_style>SUV</body_style>
     <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>889000 SEK</g:price>
-    <price>889000 SEK</price>
-    <sale_price>889000 SEK</sale_price>
+    <g:price>859000 SEK</g:price>
+    <price>859000 SEK</price>
+    <sale_price>859000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Kinna Bil</component>
       <component name="country">SE</component>
