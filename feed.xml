@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>c1f04ff3-ff7e-43e0-b4b1-ae67ba8c939b</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>c1f04ff3-ff7e-43e0-b4b1-ae67ba8c939b</vehicle_id>
+    <vehicle_registration_plate>SOG04C</vehicle_registration_plate>
+    <g:title>Peugeot 3008 GT A 5-d SUV</g:title>
+    <title>Peugeot 3008 GT A 5-d SUV</title>
+    <g:description>GT A 5-d SUV. Från 5 269 kr/mån. Miltal: 744 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: SOG04C. Kontakta oss för mer information.</g:description>
+    <description>GT A 5-d SUV. Från 5 269 kr/mån. Miltal: 744 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: SOG04C. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/peugeot-3008-hybrid-145-sog04c</g:link>
+    <link>https://borasbil.se/bilar/peugeot-3008-hybrid-145-sog04c</link>
+    <url>https://borasbil.se/bilar/peugeot-3008-hybrid-145-sog04c</url>
+    <g:brand>Peugeot</g:brand>
+    <brand>Peugeot</brand>
+    <make>Peugeot</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/8d26f59c56374ce1b688c417f850f4cf/4e8482dc4af0464d9ec9760e278e1119?format=jpeg&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/8d26f59c56374ce1b688c417f850f4cf/4e8482dc4af0464d9ec9760e278e1119?format=jpeg&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>3008</model>
+    <year>2025</year>
+    <mileage>
+      <value>7440</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>335000 SEK</g:price>
+    <price>335000 SEK</price>
+    <sale_price>335000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>c6b773a7-5d55-44d9-b26f-23acd1c98fef</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -1520,50 +1564,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>905ef3ce-a3b2-4c11-b9e1-0b2009496fd9</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>905ef3ce-a3b2-4c11-b9e1-0b2009496fd9</vehicle_id>
-    <vehicle_registration_plate>AJA35L</vehicle_registration_plate>
-    <g:title>Volvo XC60 Recharge T6 Plus Dark</g:title>
-    <title>Volvo XC60 Recharge T6 Plus Dark</title>
-    <g:description>Recharge T6 Plus Dark. Från 8 320 kr/mån. Miltal: 4 846 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: AJA35L. Kontakta oss för mer information.</g:description>
-    <description>Recharge T6 Plus Dark. Från 8 320 kr/mån. Miltal: 4 846 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: AJA35L. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc60-aja35l</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc60-aja35l</link>
-    <url>https://borasbil.se/bilar/volvo-xc60-aja35l</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/d09cd522-47b3-497c-989e-fe8bca19b469/5cc24917-04ce-4837-90da-94737d0e062d?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/d09cd522-47b3-497c-989e-fe8bca19b469/5cc24917-04ce-4837-90da-94737d0e062d?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2023</year>
-    <mileage>
-      <value>48460</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>529000 SEK</g:price>
-    <price>529000 SEK</price>
-    <sale_price>529000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -16794,50 +16794,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>41246d3e-4cec-4822-8aa8-719575ac6c43</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>41246d3e-4cec-4822-8aa8-719575ac6c43</vehicle_id>
-    <vehicle_registration_plate>SOG04C</vehicle_registration_plate>
-    <g:title>Peugeot 3008 GT A 5-d SUV</g:title>
-    <title>Peugeot 3008 GT A 5-d SUV</title>
-    <g:description>GT A 5-d SUV. Från 5 269 kr/mån. Miltal: 744 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: SOG04C. Kontakta oss för mer information.</g:description>
-    <description>GT A 5-d SUV. Från 5 269 kr/mån. Miltal: 744 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: SOG04C. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/peugeot-3008-hybrid-145-sog04c</g:link>
-    <link>https://borasbil.se/bilar/peugeot-3008-hybrid-145-sog04c</link>
-    <url>https://borasbil.se/bilar/peugeot-3008-hybrid-145-sog04c</url>
-    <g:brand>Peugeot</g:brand>
-    <brand>Peugeot</brand>
-    <make>Peugeot</make>
-    <g:image_link>https://cdn.wayke.se/cfit/2cbd34de-72f7-4785-97c5-25c901d4a8c6/c54b1793-eab5-48da-b658-926b3ede05cf?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/2cbd34de-72f7-4785-97c5-25c901d4a8c6/c54b1793-eab5-48da-b658-926b3ede05cf?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>3008</model>
-    <year>2025</year>
-    <mileage>
-      <value>7440</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>335000 SEK</g:price>
-    <price>335000 SEK</price>
-    <sale_price>335000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
