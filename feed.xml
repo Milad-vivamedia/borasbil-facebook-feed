@@ -4775,50 +4775,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>069dfa60-d733-4f6e-a8f5-cc89c3c646b0</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>069dfa60-d733-4f6e-a8f5-cc89c3c646b0</vehicle_id>
-    <vehicle_registration_plate>SGM033</vehicle_registration_plate>
-    <g:title>Peugeot 208 Allure Electric 5-d</g:title>
-    <title>Peugeot 208 Allure Electric 5-d</title>
-    <g:description>Allure Electric 5-d. Från 3 287 kr/mån. Miltal: 2 665 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: SGM033. Kontakta oss för mer information.</g:description>
-    <description>Allure Electric 5-d. Från 3 287 kr/mån. Miltal: 2 665 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: SGM033. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/peugeot-e-208-sgm033</g:link>
-    <link>https://borasbil.se/bilar/peugeot-e-208-sgm033</link>
-    <url>https://borasbil.se/bilar/peugeot-e-208-sgm033</url>
-    <g:brand>Peugeot</g:brand>
-    <brand>Peugeot</brand>
-    <make>Peugeot</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/ad3f65915a83450db46e40ac382d438a/30d7e12828f0438ea93d82451c3390b0?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/ad3f65915a83450db46e40ac382d438a/30d7e12828f0438ea93d82451c3390b0?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>208</model>
-    <year>2022</year>
-    <mileage>
-      <value>26650</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>209000 SEK</g:price>
-    <price>209000 SEK</price>
-    <sale_price>209000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>53064371-735a-4ba3-b268-45685d936733</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -10153,8 +10109,8 @@
     <vehicle_registration_plate>LJL12A</vehicle_registration_plate>
     <g:title>Volvo V90 T6 Plus Dark Nordic Edition</g:title>
     <title>Volvo V90 T6 Plus Dark Nordic Edition</title>
-    <g:description>T6 Plus Dark Nordic Edition. Från 8 163 kr/mån. Miltal: 1 800 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: LJL12A. Kontakta oss för mer information.</g:description>
-    <description>T6 Plus Dark Nordic Edition. Från 8 163 kr/mån. Miltal: 1 800 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: LJL12A. Kontakta oss för mer information.</description>
+    <g:description>T6 Plus Dark Nordic Edition. Från 8 163 kr/mån. Miltal: 1 799 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: LJL12A. Kontakta oss för mer information.</g:description>
+    <description>T6 Plus Dark Nordic Edition. Från 8 163 kr/mån. Miltal: 1 799 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: LJL12A. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-v90-ljl12a</g:link>
     <link>https://borasbil.se/bilar/volvo-v90-ljl12a</link>
     <url>https://borasbil.se/bilar/volvo-v90-ljl12a</url>
@@ -10169,7 +10125,7 @@
     <model>V90</model>
     <year>2026</year>
     <mileage>
-      <value>18000</value>
+      <value>17990</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Wagon</body_style>
