@@ -8586,50 +8586,6 @@
     <state_of_vehicle>NEW</state_of_vehicle>
     </item>
     <item>
-    <g:id>e8a1f5bf-f559-4f6f-a1e1-4927ca70267e</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>e8a1f5bf-f559-4f6f-a1e1-4927ca70267e</vehicle_id>
-    <vehicle_registration_plate>OCA15G</vehicle_registration_plate>
-    <g:title>Polestar 2 64kWh Plus</g:title>
-    <title>Polestar 2 64kWh Plus</title>
-    <g:description>64kWh Plus. Från 4 545 kr/mån. Miltal: 7 457 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: OCA15G. Kontakta oss för mer information.</g:description>
-    <description>64kWh Plus. Från 4 545 kr/mån. Miltal: 7 457 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: OCA15G. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/polestar-2-standard-range-single-motor-oca15g</g:link>
-    <link>https://borasbil.se/bilar/polestar-2-standard-range-single-motor-oca15g</link>
-    <url>https://borasbil.se/bilar/polestar-2-standard-range-single-motor-oca15g</url>
-    <g:brand>Polestar</g:brand>
-    <brand>Polestar</brand>
-    <make>Polestar</make>
-    <g:image_link>https://cdn.wayke.se/cfit/202ae5e5-f648-4736-8b8f-1518961bbff9/511d7ed0-f062-4cb7-be46-0af9364911be?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/202ae5e5-f648-4736-8b8f-1518961bbff9/511d7ed0-f062-4cb7-be46-0af9364911be?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>2</model>
-    <year>2022</year>
-    <mileage>
-      <value>74570</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>289000 SEK</g:price>
-    <price>289000 SEK</price>
-    <sale_price>289000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>de37317e-5197-4773-8e20-5809da07763f</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
