@@ -10617,50 +10617,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>231d919b-9237-4bbb-a450-fbc040184eed</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>231d919b-9237-4bbb-a450-fbc040184eed</vehicle_id>
-    <vehicle_registration_plate>ZHJ01C</vehicle_registration_plate>
-    <g:title>Lynk &amp; Co 01</g:title>
-    <title>Lynk &amp; Co 01</title>
-    <g:description>Från 4 388 kr/mån. Miltal: 2 030 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: ZHJ01C. Kontakta oss för mer information.</g:description>
-    <description>Från 4 388 kr/mån. Miltal: 2 030 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: ZHJ01C. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/lynk-co-01-phev-zhj01c</g:link>
-    <link>https://borasbil.se/bilar/lynk-co-01-phev-zhj01c</link>
-    <url>https://borasbil.se/bilar/lynk-co-01-phev-zhj01c</url>
-    <g:brand>Lynk &amp; Co</g:brand>
-    <brand>Lynk &amp; Co</brand>
-    <make>Lynk &amp; Co</make>
-    <g:image_link>https://cdn.wayke.se/cfit/0b9e8cee-3a11-4a4c-8cf2-53df789239a0/c8d81e2b-e4ad-4ec2-9d88-c4f24da5c9d6?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/0b9e8cee-3a11-4a4c-8cf2-53df789239a0/c8d81e2b-e4ad-4ec2-9d88-c4f24da5c9d6?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>01</model>
-    <year>2023</year>
-    <mileage>
-      <value>20300</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>279000 SEK</g:price>
-    <price>279000 SEK</price>
-    <sale_price>279000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Bogesunds Bil Ulricehamn</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>5441c57c-5d7e-411a-8e33-0e9af682c01a</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
