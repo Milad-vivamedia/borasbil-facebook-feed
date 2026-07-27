@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>1c807de6-30de-40fc-8a35-93785ccedad1</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>1c807de6-30de-40fc-8a35-93785ccedad1</vehicle_id>
+    <vehicle_registration_plate>BFT65X</vehicle_registration_plate>
+    <g:title>Audi A6 Pro</g:title>
+    <title>Audi A6 Pro</title>
+    <g:description>Pro. Från 5 646 kr/mån. Miltal: 4 819 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Diesel. Reg.nr: BFT65X. Kontakta oss för mer information.</g:description>
+    <description>Pro. Från 5 646 kr/mån. Miltal: 4 819 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Diesel. Reg.nr: BFT65X. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/audi-a6-avant-40-tdi-quattro-bft65x</g:link>
+    <link>https://borasbil.se/bilar/audi-a6-avant-40-tdi-quattro-bft65x</link>
+    <url>https://borasbil.se/bilar/audi-a6-avant-40-tdi-quattro-bft65x</url>
+    <g:brand>Audi</g:brand>
+    <brand>Audi</brand>
+    <make>Audi</make>
+    <g:image_link>https://cdn.wayke.se/cfit/daacf992-471c-4df6-b128-edfb8ce46365/d6f62699-e96c-4538-a206-f7302c6123bc?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/daacf992-471c-4df6-b128-edfb8ce46365/d6f62699-e96c-4538-a206-f7302c6123bc?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>A6</model>
+    <year>2023</year>
+    <mileage>
+      <value>48190</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>359000 SEK</g:price>
+    <price>359000 SEK</price>
+    <sale_price>359000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Bogesunds Bil Ulricehamn</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>eeb46612-be1c-4714-878d-5dd0fb89e22c</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -4456,50 +4500,6 @@
     <g:price>259000 SEK</g:price>
     <price>259000 SEK</price>
     <sale_price>259000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>518965e5-d5dd-4689-87a2-f38c0754bbd1</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>518965e5-d5dd-4689-87a2-f38c0754bbd1</vehicle_id>
-    <vehicle_registration_plate>BFT65X</vehicle_registration_plate>
-    <g:title>Audi A6 Pro</g:title>
-    <title>Audi A6 Pro</title>
-    <g:description>Pro. Från 5 646 kr/mån. Miltal: 4 819 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Diesel. Reg.nr: BFT65X. Kontakta oss för mer information.</g:description>
-    <description>Pro. Från 5 646 kr/mån. Miltal: 4 819 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Diesel. Reg.nr: BFT65X. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/audi-a6-avant-40-tdi-quattro-bft65x</g:link>
-    <link>https://borasbil.se/bilar/audi-a6-avant-40-tdi-quattro-bft65x</link>
-    <url>https://borasbil.se/bilar/audi-a6-avant-40-tdi-quattro-bft65x</url>
-    <g:brand>Audi</g:brand>
-    <brand>Audi</brand>
-    <make>Audi</make>
-    <g:image_link>https://cdn.wayke.se/cfit/0ccc3edb-db64-42b1-a018-0b8b15f77181/64ffe3e1-da8e-48a0-9076-9455b897a921?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/0ccc3edb-db64-42b1-a018-0b8b15f77181/64ffe3e1-da8e-48a0-9076-9455b897a921?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>A6</model>
-    <year>2023</year>
-    <mileage>
-      <value>48190</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>359000 SEK</g:price>
-    <price>359000 SEK</price>
-    <sale_price>359000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Kinna Bil</component>
       <component name="country">SE</component>
