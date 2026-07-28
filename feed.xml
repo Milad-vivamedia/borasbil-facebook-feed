@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>846102c3-5ca9-46a0-9b87-30dba9ca4ba4</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>846102c3-5ca9-46a0-9b87-30dba9ca4ba4</vehicle_id>
+    <vehicle_registration_plate>DLG14G</vehicle_registration_plate>
+    <g:title>Audi Q3</g:title>
+    <title>Audi Q3</title>
+    <g:description>Från 5 489 kr/mån. Miltal: 668 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: DLG14G. Kontakta oss för mer information.</g:description>
+    <description>Från 5 489 kr/mån. Miltal: 668 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: DLG14G. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/audi-q3-35-tfsi-dlg14g</g:link>
+    <link>https://borasbil.se/bilar/audi-q3-35-tfsi-dlg14g</link>
+    <url>https://borasbil.se/bilar/audi-q3-35-tfsi-dlg14g</url>
+    <g:brand>Audi</g:brand>
+    <brand>Audi</brand>
+    <make>Audi</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/f88c46f2c804467ea815dc71adaedead/5f469802678b403ab1858e1d21121e80?format=jpeg&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/f88c46f2c804467ea815dc71adaedead/5f469802678b403ab1858e1d21121e80?format=jpeg&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>Q3</model>
+    <year>2026</year>
+    <mileage>
+      <value>6680</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>349000 SEK</g:price>
+    <price>349000 SEK</price>
+    <sale_price>349000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    </item>
+    <item>
     <g:id>6895489f-fcda-491d-abcb-1323fb7f6e9a</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -196,9 +240,9 @@
     <g:brand>Audi</g:brand>
     <brand>Audi</brand>
     <make>Audi</make>
-    <g:image_link>https://cdn.wayke.se/cfit/daacf992-471c-4df6-b128-edfb8ce46365/d6f62699-e96c-4538-a206-f7302c6123bc?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/ffeb879fb06e49ffb24a6cec033869c3/854a39033c734fb2afab68139c17d04c?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/daacf992-471c-4df6-b128-edfb8ce46365/d6f62699-e96c-4538-a206-f7302c6123bc?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/ffeb879fb06e49ffb24a6cec033869c3/854a39033c734fb2afab68139c17d04c?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>A6</model>
