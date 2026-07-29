@@ -5,50 +5,6 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
-    <g:id>71795006-8441-4ca9-be14-0f0c4eb11465</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>71795006-8441-4ca9-be14-0f0c4eb11465</vehicle_id>
-    <vehicle_registration_plate>HPW94H</vehicle_registration_plate>
-    <g:title>Volvo C40 Plus</g:title>
-    <title>Volvo C40 Plus</title>
-    <g:description>Plus. Från 5 489 kr/mån. Miltal: 5 028 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: HPW94H. Kontakta oss för mer information.</g:description>
-    <description>Plus. Från 5 489 kr/mån. Miltal: 5 028 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: HPW94H. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-hpw94h</g:link>
-    <link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-hpw94h</link>
-    <url>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-hpw94h</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/cd0cede1231346159c67e7cdff6a208d/8f27483dd4ae4ff4a8bcad1dac0f28b2?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/cd0cede1231346159c67e7cdff6a208d/8f27483dd4ae4ff4a8bcad1dac0f28b2?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C40</model>
-    <year>2023</year>
-    <mileage>
-      <value>50280</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>349000 SEK</g:price>
-    <price>349000 SEK</price>
-    <sale_price>349000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>18ddfe12-9c8c-41a4-b3e9-f479e301c290</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -5952,50 +5908,6 @@
     <g:price>509000 SEK</g:price>
     <price>509000 SEK</price>
     <sale_price>509000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>54e843d3-3f24-421f-b7e6-d09285264f37</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>54e843d3-3f24-421f-b7e6-d09285264f37</vehicle_id>
-    <vehicle_registration_plate>DEZ13X</vehicle_registration_plate>
-    <g:title>Volvo EX30 Core</g:title>
-    <title>Volvo EX30 Core</title>
-    <g:description>Core. Från 5 804 kr/mån. Miltal: 1 425 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: DEZ13X. Kontakta oss för mer information.</g:description>
-    <description>Core. Från 5 804 kr/mån. Miltal: 1 425 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: DEZ13X. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-ex30-single-motor-extended-range-dez13x</g:link>
-    <link>https://borasbil.se/bilar/volvo-ex30-single-motor-extended-range-dez13x</link>
-    <url>https://borasbil.se/bilar/volvo-ex30-single-motor-extended-range-dez13x</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/b4031d479c5b4da5963ac7a6bfbead58/74d69c79c99e47c282d9c3dab1de6bfa?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/b4031d479c5b4da5963ac7a6bfbead58/74d69c79c99e47c282d9c3dab1de6bfa?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>EX30</model>
-    <year>2025</year>
-    <mileage>
-      <value>14250</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>369000 SEK</g:price>
-    <price>369000 SEK</price>
-    <sale_price>369000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Borås Bil</component>
       <component name="country">SE</component>
@@ -14036,50 +13948,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>c3f69b86-ff63-4599-9ac6-a4594cd5caa8</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>c3f69b86-ff63-4599-9ac6-a4594cd5caa8</vehicle_id>
-    <vehicle_registration_plate>JXJ89P</vehicle_registration_plate>
-    <g:title>Polestar 2 78kWh</g:title>
-    <title>Polestar 2 78kWh</title>
-    <g:description>78kWh. Från 4 388 kr/mån. Miltal: 12 842 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: JXJ89P. Kontakta oss för mer information.</g:description>
-    <description>78kWh. Från 4 388 kr/mån. Miltal: 12 842 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: JXJ89P. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-jxj89p</g:link>
-    <link>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-jxj89p</link>
-    <url>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-jxj89p</url>
-    <g:brand>Polestar</g:brand>
-    <brand>Polestar</brand>
-    <make>Polestar</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/53c4546b9c974a01a9a4035b5d040140/a56284701585499a82d66383cdccc87a?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/53c4546b9c974a01a9a4035b5d040140/a56284701585499a82d66383cdccc87a?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>2</model>
-    <year>2023</year>
-    <mileage>
-      <value>128420</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>279000 SEK</g:price>
-    <price>279000 SEK</price>
-    <sale_price>279000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
