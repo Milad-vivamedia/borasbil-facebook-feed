@@ -3509,50 +3509,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>671a1599-8616-40b3-a2cc-03570dbbcfd6</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>671a1599-8616-40b3-a2cc-03570dbbcfd6</vehicle_id>
-    <vehicle_registration_plate>UDR05M</vehicle_registration_plate>
-    <g:title>Volvo EX40 ExtendedRange Plus SE</g:title>
-    <title>Volvo EX40 ExtendedRange Plus SE</title>
-    <g:description>ExtendedRange Plus SE. Från 7 062 kr/mån. Miltal: 2 794 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: UDR05M. Kontakta oss för mer information.</g:description>
-    <description>ExtendedRange Plus SE. Från 7 062 kr/mån. Miltal: 2 794 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: UDR05M. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-udr05m</g:link>
-    <link>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-udr05m</link>
-    <url>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-udr05m</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/c5563b7d-53a7-4a2d-a530-20cd9d963347/c895fc2a-461e-464a-8327-39e26d43b35b?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/c5563b7d-53a7-4a2d-a530-20cd9d963347/c895fc2a-461e-464a-8327-39e26d43b35b?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>EX40</model>
-    <year>2025</year>
-    <mileage>
-      <value>27940</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>449000 SEK</g:price>
-    <price>449000 SEK</price>
-    <sale_price>449000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>321370dc-2e0c-40a3-a03a-5fe8e0f07b9a</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
