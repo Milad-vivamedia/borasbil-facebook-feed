@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>17510c5e-fe06-4269-8e23-5d64957416ba</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>17510c5e-fe06-4269-8e23-5d64957416ba</vehicle_id>
+    <vehicle_registration_plate>UGY25T</vehicle_registration_plate>
+    <g:title>Volvo V60 T6 Plus Dark Edition</g:title>
+    <title>Volvo V60 T6 Plus Dark Edition</title>
+    <g:description>T6 Plus Dark Edition. Från 7 691 kr/mån. Miltal: 4 725 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: UGY25T. Kontakta oss för mer information.</g:description>
+    <description>T6 Plus Dark Edition. Från 7 691 kr/mån. Miltal: 4 725 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: UGY25T. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-v60-ugy25t</g:link>
+    <link>https://borasbil.se/bilar/volvo-v60-ugy25t</link>
+    <url>https://borasbil.se/bilar/volvo-v60-ugy25t</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/6e92788a75724381b2167270f36aa4e5/02face34c5d64188b9603c2245c0f49d?format=jpeg&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/6e92788a75724381b2167270f36aa4e5/02face34c5d64188b9603c2245c0f49d?format=jpeg&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>V60</model>
+    <year>2025</year>
+    <mileage>
+      <value>47250</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Wagon</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>489000 SEK</g:price>
+    <price>489000 SEK</price>
+    <sale_price>489000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Bogesunds Bil Ulricehamn</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>41a541a6-1fb5-4f62-818f-f2534e3a5c90</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -2857,50 +2901,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>ffaf4f74-f365-4669-b2e0-25430ff731b8</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>ffaf4f74-f365-4669-b2e0-25430ff731b8</vehicle_id>
-    <vehicle_registration_plate>FBH259</vehicle_registration_plate>
-    <g:title>Lynk &amp; Co 01</g:title>
-    <title>Lynk &amp; Co 01</title>
-    <g:description>Från 4 074 kr/mån. Miltal: 2 505 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: FBH259. Kontakta oss för mer information.</g:description>
-    <description>Från 4 074 kr/mån. Miltal: 2 505 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: FBH259. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/lynk-co-01-phev-fbh259</g:link>
-    <link>https://borasbil.se/bilar/lynk-co-01-phev-fbh259</link>
-    <url>https://borasbil.se/bilar/lynk-co-01-phev-fbh259</url>
-    <g:brand>Lynk &amp; Co</g:brand>
-    <brand>Lynk &amp; Co</brand>
-    <make>Lynk &amp; Co</make>
-    <g:image_link>https://cdn.wayke.se/cfit/f86bcafb-135b-416b-94f7-7cf1dd2798f3/3d5f03bf-04ea-4cb3-855f-466728a2bdfe?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/f86bcafb-135b-416b-94f7-7cf1dd2798f3/3d5f03bf-04ea-4cb3-855f-466728a2bdfe?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>01</model>
-    <year>2022</year>
-    <mileage>
-      <value>25050</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>259000 SEK</g:price>
-    <price>259000 SEK</price>
-    <sale_price>259000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -9586,9 +9586,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/4ca3075c-e367-43f4-91c1-c4890fb0d725/44834e14-245a-49d9-861c-56453b62a9bf?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/034362563aa24ed794652222bdafe2ad/d27bbafa1f9544f095a0ef00da3f4f9e?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/4ca3075c-e367-43f4-91c1-c4890fb0d725/44834e14-245a-49d9-861c-56453b62a9bf?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/034362563aa24ed794652222bdafe2ad/d27bbafa1f9544f095a0ef00da3f4f9e?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC60</model>
