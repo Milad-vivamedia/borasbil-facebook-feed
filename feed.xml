@@ -680,50 +680,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>7921cf30-5e12-4339-b095-80193f1cb03f</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>7921cf30-5e12-4339-b095-80193f1cb03f</vehicle_id>
-    <vehicle_registration_plate>XPU91U</vehicle_registration_plate>
-    <g:title>Volvo V60 Recharge T8 R-Design</g:title>
-    <title>Volvo V60 Recharge T8 R-Design</title>
-    <g:description>Recharge T8 R-Design. Från 5 489 kr/mån. Miltal: 10 875 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: XPU91U. Kontakta oss för mer information.</g:description>
-    <description>Recharge T8 R-Design. Från 5 489 kr/mån. Miltal: 10 875 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: XPU91U. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-v60-xpu91u</g:link>
-    <link>https://borasbil.se/bilar/volvo-v60-xpu91u</link>
-    <url>https://borasbil.se/bilar/volvo-v60-xpu91u</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/053244a3c93540798224f81fee556bd2/9f62f93760a64a3ca61df0573b89bff6?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/053244a3c93540798224f81fee556bd2/9f62f93760a64a3ca61df0573b89bff6?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V60</model>
-    <year>2021</year>
-    <mileage>
-      <value>108750</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>349000 SEK</g:price>
-    <price>349000 SEK</price>
-    <sale_price>349000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>1c807de6-30de-40fc-8a35-93785ccedad1</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -2637,50 +2593,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>c9a637da-b72f-49b0-bc31-4cc3919156f1</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>c9a637da-b72f-49b0-bc31-4cc3919156f1</vehicle_id>
-    <vehicle_registration_plate>JAT05Z</vehicle_registration_plate>
-    <g:title>Volvo EX30 Plus</g:title>
-    <title>Volvo EX30 Plus</title>
-    <g:description>Plus. Från 5 332 kr/mån. Miltal: 4 076 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Reg.nr: JAT05Z. Kontakta oss för mer information.</g:description>
-    <description>Plus. Från 5 332 kr/mån. Miltal: 4 076 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Reg.nr: JAT05Z. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-ex30-single-motor-extended-range-jat05z</g:link>
-    <link>https://borasbil.se/bilar/volvo-ex30-single-motor-extended-range-jat05z</link>
-    <url>https://borasbil.se/bilar/volvo-ex30-single-motor-extended-range-jat05z</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/70e358cf-6ab2-4432-9914-390564284b51/bec85536-66db-48d1-9422-7bf64425c904?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/70e358cf-6ab2-4432-9914-390564284b51/bec85536-66db-48d1-9422-7bf64425c904?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>EX30</model>
-    <year>2024</year>
-    <mileage>
-      <value>40760</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>339000 SEK</g:price>
-    <price>339000 SEK</price>
-    <sale_price>339000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -5440,50 +5352,6 @@
     <g:price>269000 SEK</g:price>
     <price>269000 SEK</price>
     <sale_price>269000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>4558ea45-2599-4e4e-a56d-b1ec01a09220</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>4558ea45-2599-4e4e-a56d-b1ec01a09220</vehicle_id>
-    <vehicle_registration_plate>NKJ01S</vehicle_registration_plate>
-    <g:title>Volvo XC40 Plus</g:title>
-    <title>Volvo XC40 Plus</title>
-    <g:description>Plus. Från 5 646 kr/mån. Miltal: 4 106 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: NKJ01S. Kontakta oss för mer information.</g:description>
-    <description>Plus. Från 5 646 kr/mån. Miltal: 4 106 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: NKJ01S. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-nkj01s</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc40-recharge-nkj01s</link>
-    <url>https://borasbil.se/bilar/volvo-xc40-recharge-nkj01s</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/4f7fa2a1-47d5-4b3f-b2c1-92cdb523f9ec/17c51db2-2d49-4c86-b72e-16306cd344f2?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/4f7fa2a1-47d5-4b3f-b2c1-92cdb523f9ec/17c51db2-2d49-4c86-b72e-16306cd344f2?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2023</year>
-    <mileage>
-      <value>41060</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>359000 SEK</g:price>
-    <price>359000 SEK</price>
-    <sale_price>359000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Kinna Bil</component>
       <component name="country">SE</component>
