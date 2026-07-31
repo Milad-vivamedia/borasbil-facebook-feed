@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>41a541a6-1fb5-4f62-818f-f2534e3a5c90</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>41a541a6-1fb5-4f62-818f-f2534e3a5c90</vehicle_id>
+    <vehicle_registration_plate>XJL96D</vehicle_registration_plate>
+    <g:title>Volvo V60 T6 Ultra Dark</g:title>
+    <title>Volvo V60 T6 Ultra Dark</title>
+    <g:description>T6 Ultra Dark. Från 7 534 kr/mån. Miltal: 5 112 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: XJL96D. Kontakta oss för mer information.</g:description>
+    <description>T6 Ultra Dark. Från 7 534 kr/mån. Miltal: 5 112 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: XJL96D. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-v60-xjl96d</g:link>
+    <link>https://borasbil.se/bilar/volvo-v60-xjl96d</link>
+    <url>https://borasbil.se/bilar/volvo-v60-xjl96d</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/10f57a37-a07d-4458-8a2a-356e04131157/d23e3547-3d4f-452c-b210-ec5450481c2a?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/10f57a37-a07d-4458-8a2a-356e04131157/d23e3547-3d4f-452c-b210-ec5450481c2a?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>V60</model>
+    <year>2025</year>
+    <mileage>
+      <value>51120</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Wagon</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>479000 SEK</g:price>
+    <price>479000 SEK</price>
+    <sale_price>479000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>c0e418ba-d883-4a21-8eef-e8d23687d75a</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -49,6 +93,46 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
+    <g:id>8fa39652-49a6-427d-8e34-e98c03c8beaa</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>8fa39652-49a6-427d-8e34-e98c03c8beaa</vehicle_id>
+    <vehicle_registration_plate>RCX60L</vehicle_registration_plate>
+    <g:title>Volvo EX40 M R Plus Black SE</g:title>
+    <title>Volvo EX40 M R Plus Black SE</title>
+    <g:description>M R Plus Black SE. Från 9 651 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: RCX60L. Kontakta oss för mer information.</g:description>
+    <description>M R Plus Black SE. Från 9 651 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: RCX60L. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-rcx60l</g:link>
+    <link>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-rcx60l</link>
+    <url>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-rcx60l</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/23bd8900c5544299b8bb55046a8fb019/8bbb4d732e5b49d5b8d92ba4364f2e16?format=jpeg&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/23bd8900c5544299b8bb55046a8fb019/8bbb4d732e5b49d5b8d92ba4364f2e16?format=jpeg&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>EX40</model>
+    <year>2027</year>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>613600 SEK</g:price>
+    <price>613600 SEK</price>
+    <sale_price>613600 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    </item>
+    <item>
     <g:id>e01f20fd-25db-4148-a9e6-d166da887945</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -82,6 +166,161 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>69ce463b-ec36-432a-a73f-857159e5aa3c</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>69ce463b-ec36-432a-a73f-857159e5aa3c</vehicle_id>
+    <vehicle_registration_plate>WDC92K</vehicle_registration_plate>
+    <g:title>Volvo EX40 ExtendedRange Plus SE</g:title>
+    <title>Volvo EX40 ExtendedRange Plus SE</title>
+    <g:description>ExtendedRange Plus SE. Från 9 401 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: WDC92K. Kontakta oss för mer information.</g:description>
+    <description>ExtendedRange Plus SE. Från 9 401 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: WDC92K. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-wdc92k</g:link>
+    <link>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-wdc92k</link>
+    <url>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-wdc92k</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/4e836878541f4601b9ff2bafa2b743ee/7e55482d714547dcb5b108ffa67bed1c?format=jpeg&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/4e836878541f4601b9ff2bafa2b743ee/7e55482d714547dcb5b108ffa67bed1c?format=jpeg&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>EX40</model>
+    <year>2027</year>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>597700 SEK</g:price>
+    <price>597700 SEK</price>
+    <sale_price>597700 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>3273ea09-b672-4ef6-b777-d2ff57c574d5</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>3273ea09-b672-4ef6-b777-d2ff57c574d5</vehicle_id>
+    <vehicle_registration_plate>CXS87B</vehicle_registration_plate>
+    <g:title>Volvo EX40 ExtendedRange Plus SE</g:title>
+    <title>Volvo EX40 ExtendedRange Plus SE</title>
+    <g:description>ExtendedRange Plus SE. Från 9 401 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: CXS87B. Kontakta oss för mer information.</g:description>
+    <description>ExtendedRange Plus SE. Från 9 401 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: CXS87B. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-cxs87b</g:link>
+    <link>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-cxs87b</link>
+    <url>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-cxs87b</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/abaa5b731c1c4b42bbd4079a0de12fe4/6979bace7b0c4562b5ccfdd117029f33?format=jpeg&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/abaa5b731c1c4b42bbd4079a0de12fe4/6979bace7b0c4562b5ccfdd117029f33?format=jpeg&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>EX40</model>
+    <year>2027</year>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>597700 SEK</g:price>
+    <price>597700 SEK</price>
+    <sale_price>597700 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Bogesunds Bil Ulricehamn</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>d152b555-9bb7-4339-9d81-d399b7b34d3d</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>d152b555-9bb7-4339-9d81-d399b7b34d3d</vehicle_id>
+    <vehicle_registration_plate>WDC92J</vehicle_registration_plate>
+    <g:title>Volvo EX40 M R Plus Black SE</g:title>
+    <title>Volvo EX40 M R Plus Black SE</title>
+    <g:description>M R Plus Black SE. Från 9 777 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: WDC92J. Kontakta oss för mer information.</g:description>
+    <description>M R Plus Black SE. Från 9 777 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: WDC92J. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-wdc92j</g:link>
+    <link>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-wdc92j</link>
+    <url>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-wdc92j</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/e17b0a3c24fe467fad51273c2f4360d8/95e5c9c414014c13981c6e4b62614c57?format=jpeg&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/e17b0a3c24fe467fad51273c2f4360d8/95e5c9c414014c13981c6e4b62614c57?format=jpeg&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>EX40</model>
+    <year>2027</year>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>621600 SEK</g:price>
+    <price>621600 SEK</price>
+    <sale_price>621600 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>3ff0c49d-c91e-4dca-9221-0ef0354d3c6d</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>3ff0c49d-c91e-4dca-9221-0ef0354d3c6d</vehicle_id>
+    <vehicle_registration_plate>JCB67E</vehicle_registration_plate>
+    <g:title>Volvo EX40 ExtendedRange Plus SE</g:title>
+    <title>Volvo EX40 ExtendedRange Plus SE</title>
+    <g:description>ExtendedRange Plus SE. Från 9 401 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: JCB67E. Kontakta oss för mer information.</g:description>
+    <description>ExtendedRange Plus SE. Från 9 401 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: JCB67E. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-jcb67e</g:link>
+    <link>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-jcb67e</link>
+    <url>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-jcb67e</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <model>EX40</model>
+    <year>2027</year>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>597700 SEK</g:price>
+    <price>597700 SEK</price>
+    <sale_price>597700 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>new</g:condition>
@@ -412,9 +651,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/5b2cb56f-63be-43ab-990a-c37b711c0063/e0829d9c-7f60-41c1-af74-e25a1044e330?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/053244a3c93540798224f81fee556bd2/9f62f93760a64a3ca61df0573b89bff6?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/5b2cb56f-63be-43ab-990a-c37b711c0063/e0829d9c-7f60-41c1-af74-e25a1044e330?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/053244a3c93540798224f81fee556bd2/9f62f93760a64a3ca61df0573b89bff6?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>V60</model>
