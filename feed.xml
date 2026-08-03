@@ -93,50 +93,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>c0e418ba-d883-4a21-8eef-e8d23687d75a</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>c0e418ba-d883-4a21-8eef-e8d23687d75a</vehicle_id>
-    <vehicle_registration_plate>SFW96G</vehicle_registration_plate>
-    <g:title>Lynk &amp; Co 01</g:title>
-    <title>Lynk &amp; Co 01</title>
-    <g:description>Från 3 696 kr/mån. Miltal: 7 702 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: SFW96G. Kontakta oss för mer information.</g:description>
-    <description>Från 3 696 kr/mån. Miltal: 7 702 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: SFW96G. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/lynk-co-01-phev-sfw96g</g:link>
-    <link>https://borasbil.se/bilar/lynk-co-01-phev-sfw96g</link>
-    <url>https://borasbil.se/bilar/lynk-co-01-phev-sfw96g</url>
-    <g:brand>Lynk &amp; Co</g:brand>
-    <brand>Lynk &amp; Co</brand>
-    <make>Lynk &amp; Co</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/c0df5ebdbb344ccf85de67b8dc3ef154/6551611efe5b462eb5fb1d5f80dc3823?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/c0df5ebdbb344ccf85de67b8dc3ef154/6551611efe5b462eb5fb1d5f80dc3823?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>01</model>
-    <year>2021</year>
-    <mileage>
-      <value>77020</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>235000 SEK</g:price>
-    <price>235000 SEK</price>
-    <sale_price>235000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>8fa39652-49a6-427d-8e34-e98c03c8beaa</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -3143,9 +3099,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/6dc27983-c698-49d5-af29-1a7da39df6d7/c32eec69-e266-43d8-9290-be2bd913a1d0?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/ce93aa5cad534c0992dd13bbd0c11bf6/e8fee45fc7bb43288e4e979c723d4526?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/6dc27983-c698-49d5-af29-1a7da39df6d7/c32eec69-e266-43d8-9290-be2bd913a1d0?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/ce93aa5cad534c0992dd13bbd0c11bf6/e8fee45fc7bb43288e4e979c723d4526?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC60</model>
@@ -6760,50 +6716,6 @@
     <g:price>269000 SEK</g:price>
     <price>269000 SEK</price>
     <sale_price>269000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>083a36d9-3f28-4e30-8029-863ee6636f39</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>083a36d9-3f28-4e30-8029-863ee6636f39</vehicle_id>
-    <vehicle_registration_plate>SYA57S</vehicle_registration_plate>
-    <g:title>Lynk &amp; Co 01</g:title>
-    <title>Lynk &amp; Co 01</title>
-    <g:description>Från 4 388 kr/mån. Miltal: 2 781 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: SYA57S. Kontakta oss för mer information.</g:description>
-    <description>Från 4 388 kr/mån. Miltal: 2 781 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: SYA57S. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/lynk-co-01-phev-sya57s</g:link>
-    <link>https://borasbil.se/bilar/lynk-co-01-phev-sya57s</link>
-    <url>https://borasbil.se/bilar/lynk-co-01-phev-sya57s</url>
-    <g:brand>Lynk &amp; Co</g:brand>
-    <brand>Lynk &amp; Co</brand>
-    <make>Lynk &amp; Co</make>
-    <g:image_link>https://cdn.wayke.se/cfit/98a6c919-552a-4b0c-b392-36caf6c7ec7b/467aefb3-99cc-41ac-839d-6a94ecbf1b13?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/98a6c919-552a-4b0c-b392-36caf6c7ec7b/467aefb3-99cc-41ac-839d-6a94ecbf1b13?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>01</model>
-    <year>2023</year>
-    <mileage>
-      <value>27810</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>279000 SEK</g:price>
-    <price>279000 SEK</price>
-    <sale_price>279000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Kinna Bil</component>
       <component name="country">SE</component>
