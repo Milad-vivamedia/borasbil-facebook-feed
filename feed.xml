@@ -5232,50 +5232,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>73530ddb-ea72-4af2-a0ea-9e77803690fd</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>73530ddb-ea72-4af2-a0ea-9e77803690fd</vehicle_id>
-    <vehicle_registration_plate>RAY924</vehicle_registration_plate>
-    <g:title>Volvo V60 Recharge T6 II Core Edition</g:title>
-    <title>Volvo V60 Recharge T6 II Core Edition</title>
-    <g:description>Recharge T6 II Core Edition. Från 5 804 kr/mån. Miltal: 8 371 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: RAY924. Kontakta oss för mer information.</g:description>
-    <description>Recharge T6 II Core Edition. Från 5 804 kr/mån. Miltal: 8 371 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: RAY924. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-v60-ray924</g:link>
-    <link>https://borasbil.se/bilar/volvo-v60-ray924</link>
-    <url>https://borasbil.se/bilar/volvo-v60-ray924</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/14c4ce7f-e437-4fa8-a479-2b1438c6cc9c/be4beb76-e836-44a8-90b4-e72a738d96f6?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/14c4ce7f-e437-4fa8-a479-2b1438c6cc9c/be4beb76-e836-44a8-90b4-e72a738d96f6?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V60</model>
-    <year>2024</year>
-    <mileage>
-      <value>83710</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>369000 SEK</g:price>
-    <price>369000 SEK</price>
-    <sale_price>369000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>90aa0223-2312-469b-a147-3f7fc2b53ec9</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -12788,50 +12744,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>34041dfb-61cb-4f1f-9e73-d151e283e8cf</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>34041dfb-61cb-4f1f-9e73-d151e283e8cf</vehicle_id>
-    <vehicle_registration_plate>EEP10F</vehicle_registration_plate>
-    <g:title>Volvo XC60 T6 Plus Black Nordic Edition</g:title>
-    <title>Volvo XC60 T6 Plus Black Nordic Edition</title>
-    <g:description>T6 Plus Black Nordic Edition. Från 8 792 kr/mån. Miltal: 4 282 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: EEP10F. Kontakta oss för mer information.</g:description>
-    <description>T6 Plus Black Nordic Edition. Från 8 792 kr/mån. Miltal: 4 282 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: EEP10F. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc60-eep10f</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc60-eep10f</link>
-    <url>https://borasbil.se/bilar/volvo-xc60-eep10f</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/9927545c-2067-4db5-a42d-d049168606c2/3c87418e-9160-4721-b06f-c1ea9cd91d6a?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/9927545c-2067-4db5-a42d-d049168606c2/3c87418e-9160-4721-b06f-c1ea9cd91d6a?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2025</year>
-    <mileage>
-      <value>42820</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>559000 SEK</g:price>
-    <price>559000 SEK</price>
-    <sale_price>559000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Bogesunds Bil Ulricehamn</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
