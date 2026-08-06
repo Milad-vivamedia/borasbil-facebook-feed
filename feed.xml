@@ -1883,46 +1883,6 @@
     <state_of_vehicle>NEW</state_of_vehicle>
     </item>
     <item>
-    <g:id>441edce9-d2d1-4756-b51a-39c985d136c3</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>441edce9-d2d1-4756-b51a-39c985d136c3</vehicle_id>
-    <vehicle_registration_plate>UJC16T</vehicle_registration_plate>
-    <g:title>Volvo XC60 T6 Plus Black Nordic Edition</g:title>
-    <title>Volvo XC60 T6 Plus Black Nordic Edition</title>
-    <g:description>T6 Plus Black Nordic Edition. Från 10 358 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: UJC16T. Kontakta oss för mer information.</g:description>
-    <description>T6 Plus Black Nordic Edition. Från 10 358 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: UJC16T. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc60-ujc16t</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc60-ujc16t</link>
-    <url>https://borasbil.se/bilar/volvo-xc60-ujc16t</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/c72573ad-09bf-49be-bddb-1155899c314b/9285e47c-30d0-450c-bf1a-924b1f15d2ba?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/c72573ad-09bf-49be-bddb-1155899c314b/9285e47c-30d0-450c-bf1a-924b1f15d2ba?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2027</year>
-    <body_style>SUV</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>658600 SEK</g:price>
-    <price>658600 SEK</price>
-    <sale_price>658600 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>new</g:condition>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    </item>
-    <item>
     <g:id>80be87ce-b192-4bc9-9101-b11bce24ba0d</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
