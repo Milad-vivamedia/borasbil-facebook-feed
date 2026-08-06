@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>f9bd2060-dfb0-480a-935c-ad65e3269a41</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>f9bd2060-dfb0-480a-935c-ad65e3269a41</vehicle_id>
+    <vehicle_registration_plate>XLR96J</vehicle_registration_plate>
+    <g:title>Volvo V60 T6 Plus Dark Edition</g:title>
+    <title>Volvo V60 T6 Plus Dark Edition</title>
+    <g:description>T6 Plus Dark Edition. Från 7 691 kr/mån. Miltal: 4 609 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: XLR96J. Kontakta oss för mer information.</g:description>
+    <description>T6 Plus Dark Edition. Från 7 691 kr/mån. Miltal: 4 609 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: XLR96J. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-v60-xlr96j</g:link>
+    <link>https://borasbil.se/bilar/volvo-v60-xlr96j</link>
+    <url>https://borasbil.se/bilar/volvo-v60-xlr96j</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/319e4c6a-e73c-4cac-bd74-c0bc15ab7106/452ba792-7c12-4868-9a9c-7d0ec03a2a0a?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/319e4c6a-e73c-4cac-bd74-c0bc15ab7106/452ba792-7c12-4868-9a9c-7d0ec03a2a0a?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>V60</model>
+    <year>2025</year>
+    <mileage>
+      <value>46090</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Wagon</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>489000 SEK</g:price>
+    <price>489000 SEK</price>
+    <sale_price>489000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>68e0580a-1aff-4ffe-a860-267922a031fe</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -315,8 +359,8 @@
     <vehicle_registration_plate>XJL96D</vehicle_registration_plate>
     <g:title>Volvo V60 T6 Ultra Dark</g:title>
     <title>Volvo V60 T6 Ultra Dark</title>
-    <g:description>T6 Ultra Dark. Från 7 534 kr/mån. Miltal: 5 113 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: XJL96D. Kontakta oss för mer information.</g:description>
-    <description>T6 Ultra Dark. Från 7 534 kr/mån. Miltal: 5 113 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: XJL96D. Kontakta oss för mer information.</description>
+    <g:description>T6 Ultra Dark. Från 7 534 kr/mån. Miltal: 5 514 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: XJL96D. Kontakta oss för mer information.</g:description>
+    <description>T6 Ultra Dark. Från 7 534 kr/mån. Miltal: 5 514 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: XJL96D. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-v60-xjl96d</g:link>
     <link>https://borasbil.se/bilar/volvo-v60-xjl96d</link>
     <url>https://borasbil.se/bilar/volvo-v60-xjl96d</url>
@@ -331,7 +375,7 @@
     <model>V60</model>
     <year>2025</year>
     <mileage>
-      <value>51130</value>
+      <value>55140</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Wagon</body_style>
@@ -3226,8 +3270,8 @@
     <vehicle_registration_plate>DOY95U</vehicle_registration_plate>
     <g:title>Volvo XC90 Recharge T8 Inscription 7-säten</g:title>
     <title>Volvo XC90 Recharge T8 Inscription 7-säten</title>
-    <g:description>Recharge T8 Inscription 7-säten. Från 7 534 kr/mån. Miltal: 12 535 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: DOY95U. Kontakta oss för mer information.</g:description>
-    <description>Recharge T8 Inscription 7-säten. Från 7 534 kr/mån. Miltal: 12 535 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: DOY95U. Kontakta oss för mer information.</description>
+    <g:description>Recharge T8 Inscription 7-säten. Från 7 534 kr/mån. Miltal: 12 536 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: DOY95U. Kontakta oss för mer information.</g:description>
+    <description>Recharge T8 Inscription 7-säten. Från 7 534 kr/mån. Miltal: 12 536 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: DOY95U. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc90-7-saten-doy95u</g:link>
     <link>https://borasbil.se/bilar/volvo-xc90-7-saten-doy95u</link>
     <url>https://borasbil.se/bilar/volvo-xc90-7-saten-doy95u</url>
@@ -3242,7 +3286,7 @@
     <model>XC90</model>
     <year>2021</year>
     <mileage>
-      <value>125350</value>
+      <value>125360</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
@@ -4458,8 +4502,8 @@
     <vehicle_registration_plate>RPN94B</vehicle_registration_plate>
     <g:title>Volvo XC90 T8 Ultra Dark Edition</g:title>
     <title>Volvo XC90 T8 Ultra Dark Edition</title>
-    <g:description>T8 Ultra Dark Edition. Från 10 837 kr/mån. Miltal: 8 604 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: RPN94B. Kontakta oss för mer information.</g:description>
-    <description>T8 Ultra Dark Edition. Från 10 837 kr/mån. Miltal: 8 604 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: RPN94B. Kontakta oss för mer information.</description>
+    <g:description>T8 Ultra Dark Edition. Från 10 837 kr/mån. Miltal: 8 606 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: RPN94B. Kontakta oss för mer information.</g:description>
+    <description>T8 Ultra Dark Edition. Från 10 837 kr/mån. Miltal: 8 606 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: RPN94B. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc90-7-saten-rpn94b</g:link>
     <link>https://borasbil.se/bilar/volvo-xc90-7-saten-rpn94b</link>
     <url>https://borasbil.se/bilar/volvo-xc90-7-saten-rpn94b</url>
@@ -4474,7 +4518,7 @@
     <model>XC90</model>
     <year>2025</year>
     <mileage>
-      <value>86040</value>
+      <value>86060</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
@@ -7797,9 +7841,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/02924ee649d348918fb6ad5f7ad1b34e/fa7b7f18e53c49b3b649739ade0fc6a4?format=jpeg&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/3d8a7aaae107453885c7428a8e5d5ea8/803b33b18e384770beaed9d7f61c3893?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/v3/02924ee649d348918fb6ad5f7ad1b34e/fa7b7f18e53c49b3b649739ade0fc6a4?format=jpeg&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/3d8a7aaae107453885c7428a8e5d5ea8/803b33b18e384770beaed9d7f61c3893?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>C40</model>
@@ -11107,8 +11151,8 @@
     <vehicle_registration_plate>EBW03F</vehicle_registration_plate>
     <g:title>Volvo XC90 T8 Ultra Dark</g:title>
     <title>Volvo XC90 T8 Ultra Dark</title>
-    <g:description>T8 Ultra Dark. Från 12 881 kr/mån. Miltal: 2 093 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: EBW03F. Kontakta oss för mer information.</g:description>
-    <description>T8 Ultra Dark. Från 12 881 kr/mån. Miltal: 2 093 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: EBW03F. Kontakta oss för mer information.</description>
+    <g:description>T8 Ultra Dark. Från 12 881 kr/mån. Miltal: 2 095 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: EBW03F. Kontakta oss för mer information.</g:description>
+    <description>T8 Ultra Dark. Från 12 881 kr/mån. Miltal: 2 095 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: EBW03F. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc90-ebw03f</g:link>
     <link>https://borasbil.se/bilar/volvo-xc90-ebw03f</link>
     <url>https://borasbil.se/bilar/volvo-xc90-ebw03f</url>
@@ -11123,7 +11167,7 @@
     <model>XC90</model>
     <year>2026</year>
     <mileage>
-      <value>20930</value>
+      <value>20950</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
