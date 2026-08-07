@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>c7b32087-a768-4ee4-955f-bd99c7e6a7d5</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>c7b32087-a768-4ee4-955f-bd99c7e6a7d5</vehicle_id>
+    <vehicle_registration_plate>LKE37U</vehicle_registration_plate>
+    <g:title>Citroën C4 FL MAX PureTech 130 A</g:title>
+    <title>Citroën C4 FL MAX PureTech 130 A</title>
+    <g:description>FL MAX PureTech 130 A. Från 3 853 kr/mån. Miltal: 1 342 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Reg.nr: LKE37U. Kontakta oss för mer information.</g:description>
+    <description>FL MAX PureTech 130 A. Från 3 853 kr/mån. Miltal: 1 342 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Reg.nr: LKE37U. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/citroen-c4-lke37u</g:link>
+    <link>https://borasbil.se/bilar/citroen-c4-lke37u</link>
+    <url>https://borasbil.se/bilar/citroen-c4-lke37u</url>
+    <g:brand>Citroën</g:brand>
+    <brand>Citroën</brand>
+    <make>Citroën</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/0b74a6d509d745ac8c489c216ac11802/3a6c690ed877477b8f59a3d832900f33?format=jpeg&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/0b74a6d509d745ac8c489c216ac11802/3a6c690ed877477b8f59a3d832900f33?format=jpeg&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>C4</model>
+    <year>2025</year>
+    <mileage>
+      <value>13420</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>245000 SEK</g:price>
+    <price>245000 SEK</price>
+    <sale_price>245000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>5b8fe6c8-7dfe-46ba-981c-a7e684d964e4</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -2256,50 +2300,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>bcbfdf9b-c777-4e7c-a5f4-612f9e6564f5</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>bcbfdf9b-c777-4e7c-a5f4-612f9e6564f5</vehicle_id>
-    <vehicle_registration_plate>HLU67N</vehicle_registration_plate>
-    <g:title>Volvo XC40 Ultimate</g:title>
-    <title>Volvo XC40 Ultimate</title>
-    <g:description>Ultimate. Från 5 489 kr/mån. Miltal: 6 697 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: HLU67N. Kontakta oss för mer information.</g:description>
-    <description>Ultimate. Från 5 489 kr/mån. Miltal: 6 697 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: HLU67N. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-hlu67n</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc40-recharge-hlu67n</link>
-    <url>https://borasbil.se/bilar/volvo-xc40-recharge-hlu67n</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/2c0086a6d82949a5ad621373a86340c0/84ef258cc0f44777bee7450ac88f77a0?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/2c0086a6d82949a5ad621373a86340c0/84ef258cc0f44777bee7450ac88f77a0?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2023</year>
-    <mileage>
-      <value>66970</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>349000 SEK</g:price>
-    <price>349000 SEK</price>
-    <sale_price>349000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Bogesunds Bil Ulricehamn</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -10936,50 +10936,6 @@
     <state_of_vehicle>NEW</state_of_vehicle>
     </item>
     <item>
-    <g:id>67d01878-c105-4d59-9b43-7764d01f6e0f</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>67d01878-c105-4d59-9b43-7764d01f6e0f</vehicle_id>
-    <vehicle_registration_plate>BZP11S</vehicle_registration_plate>
-    <g:title>Volvo V90 Recharge T6 Core Edition</g:title>
-    <title>Volvo V90 Recharge T6 Core Edition</title>
-    <g:description>Recharge T6 Core Edition. Från 4 954 kr/mån. Miltal: 15 371 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: BZP11S. Kontakta oss för mer information.</g:description>
-    <description>Recharge T6 Core Edition. Från 4 954 kr/mån. Miltal: 15 371 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: BZP11S. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-v90-bzp11s</g:link>
-    <link>https://borasbil.se/bilar/volvo-v90-bzp11s</link>
-    <url>https://borasbil.se/bilar/volvo-v90-bzp11s</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/cbf06685-3e35-442b-9875-fec8f780eeaf/e9a25ef7-3fa5-44df-b97f-3a083f0099cb?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/cbf06685-3e35-442b-9875-fec8f780eeaf/e9a25ef7-3fa5-44df-b97f-3a083f0099cb?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V90</model>
-    <year>2023</year>
-    <mileage>
-      <value>153710</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>315000 SEK</g:price>
-    <price>315000 SEK</price>
-    <sale_price>315000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>a43d386c-88b6-4778-937b-61dc65225786</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -14110,50 +14066,6 @@
     <state_of_vehicle>NEW</state_of_vehicle>
     </item>
     <item>
-    <g:id>1a86d1f5-c02b-416f-805f-0df0832a0a2f</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>1a86d1f5-c02b-416f-805f-0df0832a0a2f</vehicle_id>
-    <vehicle_registration_plate>BUU65Y</vehicle_registration_plate>
-    <g:title>Volvo XC40 Ultimate</g:title>
-    <title>Volvo XC40 Ultimate</title>
-    <g:description>Ultimate. Från 5 646 kr/mån. Miltal: 4 203 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: BUU65Y. Kontakta oss för mer information.</g:description>
-    <description>Ultimate. Från 5 646 kr/mån. Miltal: 4 203 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: BUU65Y. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-buu65y</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-buu65y</link>
-    <url>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-buu65y</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/da57adea-7153-425b-9cba-d8c2fbe66709/dc7ea8e8-e161-44b7-a384-861e6d538803?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/da57adea-7153-425b-9cba-d8c2fbe66709/dc7ea8e8-e161-44b7-a384-861e6d538803?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2023</year>
-    <mileage>
-      <value>42030</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>359000 SEK</g:price>
-    <price>359000 SEK</price>
-    <sale_price>359000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>33b7ff3e-5f37-4123-ba04-8322089eb49b</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -15313,46 +15225,6 @@
     <state_of_vehicle>NEW</state_of_vehicle>
     </item>
     <item>
-    <g:id>352dc04f-6936-48ec-821d-9b2b939a8421</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>352dc04f-6936-48ec-821d-9b2b939a8421</vehicle_id>
-    <vehicle_registration_plate>MHH22G</vehicle_registration_plate>
-    <g:title>Volvo V90 T6 Ultra Dark</g:title>
-    <title>Volvo V90 T6 Ultra Dark</title>
-    <g:description>T6 Ultra Dark. Från 10 050 kr/mån. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: MHH22G. Kontakta oss för mer information.</g:description>
-    <description>T6 Ultra Dark. Från 10 050 kr/mån. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: MHH22G. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-v90-mhh22g</g:link>
-    <link>https://borasbil.se/bilar/volvo-v90-mhh22g</link>
-    <url>https://borasbil.se/bilar/volvo-v90-mhh22g</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/6b7e92a9-affc-4e09-befe-5eeba28800bd/b2b42ef5-1d4b-4c5a-a7ad-1a531a3112b6?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/6b7e92a9-affc-4e09-befe-5eeba28800bd/b2b42ef5-1d4b-4c5a-a7ad-1a531a3112b6?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V90</model>
-    <year>2025</year>
-    <body_style>Wagon</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>639000 SEK</g:price>
-    <price>639000 SEK</price>
-    <sale_price>639000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>dcf5bb23-53ea-4353-9c6a-065f7fcb3f25</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -15680,50 +15552,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>2792452b-ad6d-4368-a4e3-c472a45ecc25</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>2792452b-ad6d-4368-a4e3-c472a45ecc25</vehicle_id>
-    <vehicle_registration_plate>LKE37U</vehicle_registration_plate>
-    <g:title>Citroën C4 FL MAX PureTech 130 A</g:title>
-    <title>Citroën C4 FL MAX PureTech 130 A</title>
-    <g:description>FL MAX PureTech 130 A. Från 3 853 kr/mån. Miltal: 1 342 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Reg.nr: LKE37U. Kontakta oss för mer information.</g:description>
-    <description>FL MAX PureTech 130 A. Från 3 853 kr/mån. Miltal: 1 342 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Reg.nr: LKE37U. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/citroen-c4-lke37u</g:link>
-    <link>https://borasbil.se/bilar/citroen-c4-lke37u</link>
-    <url>https://borasbil.se/bilar/citroen-c4-lke37u</url>
-    <g:brand>Citroën</g:brand>
-    <brand>Citroën</brand>
-    <make>Citroën</make>
-    <g:image_link>https://cdn.wayke.se/cfit/7ee460db-47cd-473c-8970-b84bacdc8c35/0f89a8b7-e4dd-4fa8-af00-074cf381680a?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/7ee460db-47cd-473c-8970-b84bacdc8c35/0f89a8b7-e4dd-4fa8-af00-074cf381680a?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C4</model>
-    <year>2025</year>
-    <mileage>
-      <value>13420</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>245000 SEK</g:price>
-    <price>245000 SEK</price>
-    <sale_price>245000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
