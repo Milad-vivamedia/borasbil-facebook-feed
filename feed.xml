@@ -1027,50 +1027,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>5eb94fbf-8e5d-4112-b391-2a719ce838c0</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>5eb94fbf-8e5d-4112-b391-2a719ce838c0</vehicle_id>
-    <vehicle_registration_plate>RDC37B</vehicle_registration_plate>
-    <g:title>Volvo XC60 B5 AWD Bensin Momentum Advanced Edt</g:title>
-    <title>Volvo XC60 B5 AWD Bensin Momentum Advanced Edt</title>
-    <g:description>B5 AWD Bensin Momentum Advanced Edt. Från 5 332 kr/mån. Miltal: 10 954 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Bensin. Reg.nr: RDC37B. Kontakta oss för mer information.</g:description>
-    <description>B5 AWD Bensin Momentum Advanced Edt. Från 5 332 kr/mån. Miltal: 10 954 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Bensin. Reg.nr: RDC37B. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc60-rdc37b</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc60-rdc37b</link>
-    <url>https://borasbil.se/bilar/volvo-xc60-rdc37b</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/14e8dd8e-4e8f-47dc-9639-c4bfe28be16d/d86636e3-ac7d-4675-8c8b-19d76c377357?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/14e8dd8e-4e8f-47dc-9639-c4bfe28be16d/d86636e3-ac7d-4675-8c8b-19d76c377357?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2021</year>
-    <mileage>
-      <value>109540</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>339000 SEK</g:price>
-    <price>339000 SEK</price>
-    <sale_price>339000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>1c807de6-30de-40fc-8a35-93785ccedad1</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -4927,50 +4883,6 @@
     <g:price>259000 SEK</g:price>
     <price>259000 SEK</price>
     <sale_price>259000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>3fac9261-3e23-4009-aecd-581fbafd8dcb</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>3fac9261-3e23-4009-aecd-581fbafd8dcb</vehicle_id>
-    <vehicle_registration_plate>GRR48D</vehicle_registration_plate>
-    <g:title>Volvo XC60 Recharge T6 Inscr Expression T</g:title>
-    <title>Volvo XC60 Recharge T6 Inscr Expression T</title>
-    <g:description>Recharge T6 Inscr Expression T. Från 5 646 kr/mån. Miltal: 10 501 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: GRR48D. Kontakta oss för mer information.</g:description>
-    <description>Recharge T6 Inscr Expression T. Från 5 646 kr/mån. Miltal: 10 501 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: GRR48D. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc60-grr48d</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc60-grr48d</link>
-    <url>https://borasbil.se/bilar/volvo-xc60-grr48d</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/3b4029e9243f462397aa2d8b528b3662/3343a6defada417091c9af42eb25a847?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/3b4029e9243f462397aa2d8b528b3662/3343a6defada417091c9af42eb25a847?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2021</year>
-    <mileage>
-      <value>105010</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>359000 SEK</g:price>
-    <price>359000 SEK</price>
-    <sale_price>359000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Kinna Bil</component>
       <component name="country">SE</component>
