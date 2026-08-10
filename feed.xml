@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>9852a00f-bed7-46e0-9d57-8c3b59e26d38</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>9852a00f-bed7-46e0-9d57-8c3b59e26d38</vehicle_id>
+    <vehicle_registration_plate>WBL33J</vehicle_registration_plate>
+    <g:title>Polestar 3 111kW Plus Pilot Perf</g:title>
+    <title>Polestar 3 111kW Plus Pilot Perf</title>
+    <g:description>111kW Plus Pilot Perf. Från 10 365 kr/mån. Miltal: 5 237 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Reg.nr: WBL33J. Kontakta oss för mer information.</g:description>
+    <description>111kW Plus Pilot Perf. Från 10 365 kr/mån. Miltal: 5 237 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Reg.nr: WBL33J. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/polestar-3-long-range-dual-motor-performance-wbl33j</g:link>
+    <link>https://borasbil.se/bilar/polestar-3-long-range-dual-motor-performance-wbl33j</link>
+    <url>https://borasbil.se/bilar/polestar-3-long-range-dual-motor-performance-wbl33j</url>
+    <g:brand>Polestar</g:brand>
+    <brand>Polestar</brand>
+    <make>Polestar</make>
+    <g:image_link>https://cdn.wayke.se/cfit/eebea720-13d0-4ee3-bfcc-313b9e1ebc87/009afab5-84a4-4ca3-829f-c374dafeed64?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/eebea720-13d0-4ee3-bfcc-313b9e1ebc87/009afab5-84a4-4ca3-829f-c374dafeed64?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>3</model>
+    <year>2024</year>
+    <mileage>
+      <value>52370</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>659000 SEK</g:price>
+    <price>659000 SEK</price>
+    <sale_price>659000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>c7b32087-a768-4ee4-955f-bd99c7e6a7d5</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -14208,9 +14252,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/15917062-efad-4591-85c9-e690fdfc0901/06091d7b-169d-4097-81c5-24c0d9eaf00f?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/e2c1fde1010849aaa6ab629a130833b6/b039306a4ac24072a0f643f915942af9?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/15917062-efad-4591-85c9-e690fdfc0901/06091d7b-169d-4097-81c5-24c0d9eaf00f?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/e2c1fde1010849aaa6ab629a130833b6/b039306a4ac24072a0f643f915942af9?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC60</model>
@@ -15104,8 +15148,8 @@
     <vehicle_registration_plate>dcf5bb23</vehicle_registration_plate>
     <g:title>Maxus T60 Pickup 4x4 215hk</g:title>
     <title>Maxus T60 Pickup 4x4 215hk</title>
-    <g:description>Pickup 4x4 215hk. Från 7 665 kr/mån. Årsmodell: 2025. Växellåda: Automat. Reg.nr: dcf5bb23. Kontakta oss för mer information.</g:description>
-    <description>Pickup 4x4 215hk. Från 7 665 kr/mån. Årsmodell: 2025. Växellåda: Automat. Reg.nr: dcf5bb23. Kontakta oss för mer information.</description>
+    <g:description>Pickup 4x4 215hk. Från 7 665 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: Diesel. Reg.nr: dcf5bb23. Kontakta oss för mer information.</g:description>
+    <description>Pickup 4x4 215hk. Från 7 665 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: Diesel. Reg.nr: dcf5bb23. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/maxus-t60-max-dcf5bb23</g:link>
     <link>https://borasbil.se/bilar/maxus-t60-max-dcf5bb23</link>
     <url>https://borasbil.se/bilar/maxus-t60-max-dcf5bb23</url>
@@ -15118,8 +15162,9 @@
       <tag>Exterior</tag>
     </image>
     <model>T60</model>
-    <year>2025</year>
+    <year>2026</year>
     <body_style>Sedan</body_style>
+    <fuel_type>Diesel</fuel_type>
     <transmission>Automatic</transmission>
     <g:price>487375 SEK</g:price>
     <price>487375 SEK</price>
@@ -15131,9 +15176,9 @@
     <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
     </item>
     <item>
     <g:id>bec3c915-d1c9-43f4-a89f-ca06c3aae51c</g:id>
