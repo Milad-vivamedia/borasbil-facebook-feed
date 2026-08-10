@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>7243b384-edf0-4a08-89d9-037bbcf8b366</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>7243b384-edf0-4a08-89d9-037bbcf8b366</vehicle_id>
+    <vehicle_registration_plate>WAL36E</vehicle_registration_plate>
+    <g:title>Volvo XC60 Recharge T6 Core Edition</g:title>
+    <title>Volvo XC60 Recharge T6 Core Edition</title>
+    <g:description>Recharge T6 Core Edition. Från 7 219 kr/mån. Miltal: 3 827 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: WAL36E. Kontakta oss för mer information.</g:description>
+    <description>Recharge T6 Core Edition. Från 7 219 kr/mån. Miltal: 3 827 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: WAL36E. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-xc60-wal36e</g:link>
+    <link>https://borasbil.se/bilar/volvo-xc60-wal36e</link>
+    <url>https://borasbil.se/bilar/volvo-xc60-wal36e</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/3246f56b-d5f1-42bb-87d6-4b223d3eecff/a1e72828-c9d0-43d4-ba47-8be5da58af4f?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/3246f56b-d5f1-42bb-87d6-4b223d3eecff/a1e72828-c9d0-43d4-ba47-8be5da58af4f?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC60</model>
+    <year>2023</year>
+    <mileage>
+      <value>38270</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>459000 SEK</g:price>
+    <price>459000 SEK</price>
+    <sale_price>459000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>9852a00f-bed7-46e0-9d57-8c3b59e26d38</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -3483,50 +3527,6 @@
     <g:price>299000 SEK</g:price>
     <price>299000 SEK</price>
     <sale_price>299000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>18c4fd17-1e67-4e56-b203-b9e55509df54</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>18c4fd17-1e67-4e56-b203-b9e55509df54</vehicle_id>
-    <vehicle_registration_plate>WAL36E</vehicle_registration_plate>
-    <g:title>Volvo XC60 Recharge T6 Core Edition</g:title>
-    <title>Volvo XC60 Recharge T6 Core Edition</title>
-    <g:description>Recharge T6 Core Edition. Från 7 219 kr/mån. Miltal: 3 827 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: WAL36E. Kontakta oss för mer information.</g:description>
-    <description>Recharge T6 Core Edition. Från 7 219 kr/mån. Miltal: 3 827 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: WAL36E. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc60-wal36e</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc60-wal36e</link>
-    <url>https://borasbil.se/bilar/volvo-xc60-wal36e</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/d09e6f71-af8f-47cb-b180-57e8beee7f58/63cd60f5-3a40-4ad6-927b-434e0bef29c2?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/d09e6f71-af8f-47cb-b180-57e8beee7f58/63cd60f5-3a40-4ad6-927b-434e0bef29c2?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2023</year>
-    <mileage>
-      <value>38270</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>459000 SEK</g:price>
-    <price>459000 SEK</price>
-    <sale_price>459000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Kinna Bil</component>
       <component name="country">SE</component>
@@ -14296,9 +14296,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/aee0d65b-93e3-4dc0-b059-7a87319e3421/ccf580ff-5583-4485-9dd2-372746f21a4c?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/65604901-a8de-45e3-bf80-3654fd6e4b5a/e50bdf75-7528-4e22-b49f-e28d5732301e?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/aee0d65b-93e3-4dc0-b059-7a87319e3421/ccf580ff-5583-4485-9dd2-372746f21a4c?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/65604901-a8de-45e3-bf80-3654fd6e4b5a/e50bdf75-7528-4e22-b49f-e28d5732301e?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC90</model>
