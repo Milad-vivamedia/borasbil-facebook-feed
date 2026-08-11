@@ -13246,50 +13246,6 @@
     <state_of_vehicle>NEW</state_of_vehicle>
     </item>
     <item>
-    <g:id>3806e2ea-8116-4209-a17d-e965f0b47d38</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>3806e2ea-8116-4209-a17d-e965f0b47d38</vehicle_id>
-    <vehicle_registration_plate>OJB21Z</vehicle_registration_plate>
-    <g:title>Lynk &amp; Co 01 Core - 75km räckvidd el</g:title>
-    <title>Lynk &amp; Co 01 Core - 75km räckvidd el</title>
-    <g:description>Core - 75km räckvidd el. Från 7 078 kr/mån. Miltal: 1 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: OJB21Z. Kontakta oss för mer information.</g:description>
-    <description>Core - 75km räckvidd el. Från 7 078 kr/mån. Miltal: 1 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: OJB21Z. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/lynk-co-01-phev-ojb21z</g:link>
-    <link>https://borasbil.se/bilar/lynk-co-01-phev-ojb21z</link>
-    <url>https://borasbil.se/bilar/lynk-co-01-phev-ojb21z</url>
-    <g:brand>Lynk &amp; Co</g:brand>
-    <brand>Lynk &amp; Co</brand>
-    <make>Lynk &amp; Co</make>
-    <g:image_link>https://cdn.wayke.se/cfit/ca68e258-92db-447f-a194-ffcea3d5b73b/2e9e4686-0bec-4ef7-90a9-6cd9b42a941f?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/ca68e258-92db-447f-a194-ffcea3d5b73b/2e9e4686-0bec-4ef7-90a9-6cd9b42a941f?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>01</model>
-    <year>2025</year>
-    <mileage>
-      <value>10</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>449995 SEK</g:price>
-    <price>449995 SEK</price>
-    <sale_price>449995 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Bogesunds Bil Ulricehamn</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>ab5bc53d-c786-4451-b8f5-210df41561d1</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -13679,46 +13635,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>70dd27bf-7d31-42ad-b547-b0b12f2344a0</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>70dd27bf-7d31-42ad-b547-b0b12f2344a0</vehicle_id>
-    <vehicle_registration_plate>ASC82P</vehicle_registration_plate>
-    <g:title>Lynk &amp; Co 01 Core - 75km räckvidd el</g:title>
-    <title>Lynk &amp; Co 01 Core - 75km räckvidd el</title>
-    <g:description>Core - 75km räckvidd el. Från 7 078 kr/mån. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: ASC82P. Kontakta oss för mer information.</g:description>
-    <description>Core - 75km räckvidd el. Från 7 078 kr/mån. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: ASC82P. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/lynk-co-01-phev-asc82p</g:link>
-    <link>https://borasbil.se/bilar/lynk-co-01-phev-asc82p</link>
-    <url>https://borasbil.se/bilar/lynk-co-01-phev-asc82p</url>
-    <g:brand>Lynk &amp; Co</g:brand>
-    <brand>Lynk &amp; Co</brand>
-    <make>Lynk &amp; Co</make>
-    <g:image_link>https://cdn.wayke.se/cfit/1a3ec63b-b5cb-4fea-b097-b221d2fc2a41/5bafcb5f-ef15-4633-a85e-0217036e5a9b?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/1a3ec63b-b5cb-4fea-b097-b221d2fc2a41/5bafcb5f-ef15-4633-a85e-0217036e5a9b?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>01</model>
-    <year>2025</year>
-    <body_style>Sedan</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>449995 SEK</g:price>
-    <price>449995 SEK</price>
-    <sale_price>449995 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -14746,46 +14662,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>517ab5ba-bc75-4707-a681-26ec20b00473</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>517ab5ba-bc75-4707-a681-26ec20b00473</vehicle_id>
-    <vehicle_registration_plate>HDX84T</vehicle_registration_plate>
-    <g:title>Lynk &amp; Co 01 Core - 75km räckvidd el</g:title>
-    <title>Lynk &amp; Co 01 Core - 75km räckvidd el</title>
-    <g:description>Core - 75km räckvidd el. Från 7 078 kr/mån. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: HDX84T. Kontakta oss för mer information.</g:description>
-    <description>Core - 75km räckvidd el. Från 7 078 kr/mån. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: HDX84T. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/lynk-co-01-phev-hdx84t</g:link>
-    <link>https://borasbil.se/bilar/lynk-co-01-phev-hdx84t</link>
-    <url>https://borasbil.se/bilar/lynk-co-01-phev-hdx84t</url>
-    <g:brand>Lynk &amp; Co</g:brand>
-    <brand>Lynk &amp; Co</brand>
-    <make>Lynk &amp; Co</make>
-    <g:image_link>https://cdn.wayke.se/cfit/9fc14023-b270-4ed0-8013-d8858cfc226d/294382a3-236d-48ea-9828-ada701a27efa?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/9fc14023-b270-4ed0-8013-d8858cfc226d/294382a3-236d-48ea-9828-ada701a27efa?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>01</model>
-    <year>2025</year>
-    <body_style>Sedan</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>449995 SEK</g:price>
-    <price>449995 SEK</price>
-    <sale_price>449995 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
