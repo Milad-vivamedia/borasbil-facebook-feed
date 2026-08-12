@@ -9352,8 +9352,8 @@
     <vehicle_registration_plate>ZJB08F</vehicle_registration_plate>
     <g:title>Volvo EX40 PlusBlackSE</g:title>
     <title>Volvo EX40 PlusBlackSE</title>
-    <g:description>PlusBlackSE. Från 9 106 kr/mån. Miltal: 45 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: ZJB08F. Kontakta oss för mer information.</g:description>
-    <description>PlusBlackSE. Från 9 106 kr/mån. Miltal: 45 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: ZJB08F. Kontakta oss för mer information.</description>
+    <g:description>PlusBlackSE. Från 9 106 kr/mån. Miltal: 87 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: ZJB08F. Kontakta oss för mer information.</g:description>
+    <description>PlusBlackSE. Från 9 106 kr/mån. Miltal: 87 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: ZJB08F. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-ex40-twin-motor-performance-zjb08f</g:link>
     <link>https://borasbil.se/bilar/volvo-ex40-twin-motor-performance-zjb08f</link>
     <url>https://borasbil.se/bilar/volvo-ex40-twin-motor-performance-zjb08f</url>
@@ -9368,7 +9368,7 @@
     <model>EX40</model>
     <year>2027</year>
     <mileage>
-      <value>450</value>
+      <value>870</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
@@ -10382,8 +10382,8 @@
     <vehicle_registration_plate>EJB51M</vehicle_registration_plate>
     <g:title>Volvo XC60 T8 Plus Black Nordic Edition</g:title>
     <title>Volvo XC60 T8 Plus Black Nordic Edition</title>
-    <g:description>T8 Plus Black Nordic Edition. Från 11 780 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: EJB51M. Kontakta oss för mer information.</g:description>
-    <description>T8 Plus Black Nordic Edition. Från 11 780 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: EJB51M. Kontakta oss för mer information.</description>
+    <g:description>T8 Plus Black Nordic Edition. Från 11 780 kr/mån. Miltal: 10 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: EJB51M. Kontakta oss för mer information.</g:description>
+    <description>T8 Plus Black Nordic Edition. Från 11 780 kr/mån. Miltal: 10 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: EJB51M. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc60-ejb51m</g:link>
     <link>https://borasbil.se/bilar/volvo-xc60-ejb51m</link>
     <url>https://borasbil.se/bilar/volvo-xc60-ejb51m</url>
@@ -10397,6 +10397,10 @@
     </image>
     <model>XC60</model>
     <year>2026</year>
+    <mileage>
+      <value>100</value>
+      <unit>KM</unit>
+    </mileage>
     <body_style>SUV</body_style>
     <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
