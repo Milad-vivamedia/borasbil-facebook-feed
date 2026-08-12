@@ -3054,50 +3054,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>77463823-2917-42e3-8047-780e05988405</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>77463823-2917-42e3-8047-780e05988405</vehicle_id>
-    <vehicle_registration_plate>WAL69X</vehicle_registration_plate>
-    <g:title>Volvo XC60 Recharge T6 Core Edition</g:title>
-    <title>Volvo XC60 Recharge T6 Core Edition</title>
-    <g:description>Recharge T6 Core Edition. Från 7 062 kr/mån. Miltal: 6 123 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: WAL69X. Kontakta oss för mer information.</g:description>
-    <description>Recharge T6 Core Edition. Från 7 062 kr/mån. Miltal: 6 123 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: WAL69X. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc60-wal69x</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc60-wal69x</link>
-    <url>https://borasbil.se/bilar/volvo-xc60-wal69x</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/e61f31770e294915be5911f332c7159b/79bef886cdf74072ad49734ae583e783?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/e61f31770e294915be5911f332c7159b/79bef886cdf74072ad49734ae583e783?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2023</year>
-    <mileage>
-      <value>61230</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>449000 SEK</g:price>
-    <price>449000 SEK</price>
-    <sale_price>449000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>1f9f39f0-af96-4bbb-9699-00e6a06725b8</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -11389,50 +11345,6 @@
     <g:condition>new</g:condition>
     <condition>new</condition>
     <state_of_vehicle>NEW</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>0e2afac4-f8ba-4855-933b-bfbb9a2c411e</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>0e2afac4-f8ba-4855-933b-bfbb9a2c411e</vehicle_id>
-    <vehicle_registration_plate>WBH67P</vehicle_registration_plate>
-    <g:title>Volvo EC40 Core SE</g:title>
-    <title>Volvo EC40 Core SE</title>
-    <g:description>Core SE. Från 6 590 kr/mån. Miltal: 3 995 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: WBH67P. Kontakta oss för mer information.</g:description>
-    <description>Core SE. Från 6 590 kr/mån. Miltal: 3 995 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: WBH67P. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-ec40-single-motor-extended-range-wbh67p</g:link>
-    <link>https://borasbil.se/bilar/volvo-ec40-single-motor-extended-range-wbh67p</link>
-    <url>https://borasbil.se/bilar/volvo-ec40-single-motor-extended-range-wbh67p</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/4c77c320f5b94aebbc133e910e387211/d0b0e58371ef4ef7b63bf100091f47d9?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/4c77c320f5b94aebbc133e910e387211/d0b0e58371ef4ef7b63bf100091f47d9?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>EC40</model>
-    <year>2025</year>
-    <mileage>
-      <value>39950</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>419000 SEK</g:price>
-    <price>419000 SEK</price>
-    <sale_price>419000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
     <g:id>ee697d0f-78e9-4f6c-98fb-1c73cba9531d</g:id>
