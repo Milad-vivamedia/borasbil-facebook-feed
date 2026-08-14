@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>a257472e-f281-4841-861d-133bb7b6a45f</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>a257472e-f281-4841-861d-133bb7b6a45f</vehicle_id>
+    <vehicle_registration_plate>BRB18R</vehicle_registration_plate>
+    <g:title>Volvo EX40 M R Plus Black Edt</g:title>
+    <title>Volvo EX40 M R Plus Black Edt</title>
+    <g:description>M R Plus Black Edt. Från 9 893 kr/mån. Miltal: 50 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: BRB18R. Kontakta oss för mer information.</g:description>
+    <description>M R Plus Black Edt. Från 9 893 kr/mån. Miltal: 50 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: BRB18R. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-brb18r</g:link>
+    <link>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-brb18r</link>
+    <url>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-brb18r</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/fb4e4a9f-ec9a-4223-9da7-9035f49783fe/2f82dd70-7c8a-4353-97fd-4656e73270e8?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/fb4e4a9f-ec9a-4223-9da7-9035f49783fe/2f82dd70-7c8a-4353-97fd-4656e73270e8?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>EX40</model>
+    <year>2026</year>
+    <mileage>
+      <value>500</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>629000 SEK</g:price>
+    <price>629000 SEK</price>
+    <sale_price>629000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    </item>
+    <item>
     <g:id>090bb155-d506-4d0d-8d37-c07ede311f3a</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
