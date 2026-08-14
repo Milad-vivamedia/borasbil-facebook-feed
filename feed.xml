@@ -12,8 +12,8 @@
     <vehicle_registration_plate>BRB18R</vehicle_registration_plate>
     <g:title>Volvo EX40 M R Plus Black Edt</g:title>
     <title>Volvo EX40 M R Plus Black Edt</title>
-    <g:description>M R Plus Black Edt. Från 9 893 kr/mån. Miltal: 50 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: BRB18R. Kontakta oss för mer information.</g:description>
-    <description>M R Plus Black Edt. Från 9 893 kr/mån. Miltal: 50 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: BRB18R. Kontakta oss för mer information.</description>
+    <g:description>M R Plus Black Edt. Från 9 893 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: BRB18R. Kontakta oss för mer information.</g:description>
+    <description>M R Plus Black Edt. Från 9 893 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: BRB18R. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-brb18r</g:link>
     <link>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-brb18r</link>
     <url>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-brb18r</url>
@@ -27,10 +27,6 @@
     </image>
     <model>EX40</model>
     <year>2026</year>
-    <mileage>
-      <value>500</value>
-      <unit>KM</unit>
-    </mileage>
     <body_style>Sedan</body_style>
     <fuel_type>Electric</fuel_type>
     <transmission>Automatic</transmission>
@@ -152,9 +148,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/10c4ba1fd26d4a34ba6709f086f8daaa/93a1723b67b04a6db8c3f74a39a0890d?format=jpeg&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/88e83feaa91743e39ec5074679fd95b0/e2a99ea0ebd7481aaa84755e4da2d7bd?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/v3/10c4ba1fd26d4a34ba6709f086f8daaa/93a1723b67b04a6db8c3f74a39a0890d?format=jpeg&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/88e83feaa91743e39ec5074679fd95b0/e2a99ea0ebd7481aaa84755e4da2d7bd?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>V60</model>
@@ -404,9 +400,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/5538151c-3f38-4235-aa78-c487209907f1/abad79f3-1596-485f-b16f-1d443655fb6e?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/f28683b339404446a20c3c97c440827b/12cfe1f8e23f45849ae632de96203619?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/5538151c-3f38-4235-aa78-c487209907f1/abad79f3-1596-485f-b16f-1d443655fb6e?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/f28683b339404446a20c3c97c440827b/12cfe1f8e23f45849ae632de96203619?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>V60</model>
