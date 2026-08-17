@@ -144,8 +144,8 @@
     <vehicle_registration_plate>BRB18R</vehicle_registration_plate>
     <g:title>Volvo EX40 M R Plus Black Edt</g:title>
     <title>Volvo EX40 M R Plus Black Edt</title>
-    <g:description>M R Plus Black Edt. Från 9 893 kr/mån. Miltal: 50 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: BRB18R. Kontakta oss för mer information.</g:description>
-    <description>M R Plus Black Edt. Från 9 893 kr/mån. Miltal: 50 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: BRB18R. Kontakta oss för mer information.</description>
+    <g:description>M R Plus Black Edt. Från 9 893 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: BRB18R. Kontakta oss för mer information.</g:description>
+    <description>M R Plus Black Edt. Från 9 893 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: BRB18R. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-brb18r</g:link>
     <link>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-brb18r</link>
     <url>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-brb18r</url>
@@ -159,10 +159,6 @@
     </image>
     <model>EX40</model>
     <year>2026</year>
-    <mileage>
-      <value>500</value>
-      <unit>KM</unit>
-    </mileage>
     <body_style>Sedan</body_style>
     <fuel_type>Electric</fuel_type>
     <transmission>Automatic</transmission>
