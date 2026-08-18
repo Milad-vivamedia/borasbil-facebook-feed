@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>9a9d609b-0cbe-460f-8fb1-f30d62e44b81</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>9a9d609b-0cbe-460f-8fb1-f30d62e44b81</vehicle_id>
+    <vehicle_registration_plate>PYZ54S</vehicle_registration_plate>
+    <g:title>Volvo XC40 B4 FWD Bensin Plus Dark</g:title>
+    <title>Volvo XC40 B4 FWD Bensin Plus Dark</title>
+    <g:description>B4 FWD Bensin Plus Dark. Från 6 905 kr/mån. Miltal: 1 594 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: PYZ54S. Kontakta oss för mer information.</g:description>
+    <description>B4 FWD Bensin Plus Dark. Från 6 905 kr/mån. Miltal: 1 594 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: PYZ54S. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-xc40-pyz54s</g:link>
+    <link>https://borasbil.se/bilar/volvo-xc40-pyz54s</link>
+    <url>https://borasbil.se/bilar/volvo-xc40-pyz54s</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/a4aa522e1c624c4d87d2bdb260ffc80f/e68a295ea0fa4d47bb28441f0f0b6f34?format=jpeg&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/a4aa522e1c624c4d87d2bdb260ffc80f/e68a295ea0fa4d47bb28441f0f0b6f34?format=jpeg&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC40</model>
+    <year>2026</year>
+    <mileage>
+      <value>15940</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>439000 SEK</g:price>
+    <price>439000 SEK</price>
+    <sale_price>439000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    </item>
+    <item>
     <g:id>3121245e-b1dc-4aba-a40d-6c80dbb0433e</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -9610,10 +9654,10 @@
     <g:fb_product_category>173</g:fb_product_category>
     <vehicle_id>42db8e0a-c488-41ae-b025-29e7d5931ebd</vehicle_id>
     <vehicle_registration_plate>JAG08N</vehicle_registration_plate>
-    <g:title>Volvo XC40 Core</g:title>
-    <title>Volvo XC40 Core</title>
-    <g:description>Core. Från 5 017 kr/mån. Miltal: 6 427 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: JAG08N. Kontakta oss för mer information.</g:description>
-    <description>Core. Från 5 017 kr/mån. Miltal: 6 427 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: JAG08N. Kontakta oss för mer information.</description>
+    <g:title>Volvo XC40 Core Inga Vinterhjul följer med</g:title>
+    <title>Volvo XC40 Core Inga Vinterhjul följer med</title>
+    <g:description>Core Inga Vinterhjul följer med. Från 5 017 kr/mån. Miltal: 6 427 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: JAG08N. Kontakta oss för mer information.</g:description>
+    <description>Core Inga Vinterhjul följer med. Från 5 017 kr/mån. Miltal: 6 427 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: JAG08N. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-jag08n</g:link>
     <link>https://borasbil.se/bilar/volvo-xc40-recharge-jag08n</link>
     <url>https://borasbil.se/bilar/volvo-xc40-recharge-jag08n</url>
