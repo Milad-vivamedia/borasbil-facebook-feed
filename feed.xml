@@ -5,6 +5,86 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>c0cc4bdc-5c92-4968-96f5-c823cf7699dc</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>c0cc4bdc-5c92-4968-96f5-c823cf7699dc</vehicle_id>
+    <vehicle_registration_plate>DFG36D</vehicle_registration_plate>
+    <g:title>Lynk &amp; Co 02 EV BEV</g:title>
+    <title>Lynk &amp; Co 02 EV BEV</title>
+    <g:description>BEV. Från 7 471 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: DFG36D. Kontakta oss för mer information.</g:description>
+    <description>BEV. Från 7 471 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: DFG36D. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/lynk-co-02-ev-dfg36d</g:link>
+    <link>https://borasbil.se/bilar/lynk-co-02-ev-dfg36d</link>
+    <url>https://borasbil.se/bilar/lynk-co-02-ev-dfg36d</url>
+    <g:brand>Lynk &amp; Co</g:brand>
+    <brand>Lynk &amp; Co</brand>
+    <make>Lynk &amp; Co</make>
+    <g:image_link>https://cdn.wayke.se/cfit/4cebd466-68e2-48e8-8e56-4098d3d50b95/3f84f3d7-7dd0-4d66-91d6-fab1f069fda8?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/4cebd466-68e2-48e8-8e56-4098d3d50b95/3f84f3d7-7dd0-4d66-91d6-fab1f069fda8?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>02 EV</model>
+    <year>2026</year>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>474995 SEK</g:price>
+    <price>474995 SEK</price>
+    <sale_price>474995 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>0919d31c-9e33-4c6c-b98c-227d5cff79b6</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>0919d31c-9e33-4c6c-b98c-227d5cff79b6</vehicle_id>
+    <vehicle_registration_plate>PPN72S</vehicle_registration_plate>
+    <g:title>Lynk &amp; Co 08</g:title>
+    <title>Lynk &amp; Co 08</title>
+    <g:description>Från 9 437 kr/mån. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: PPN72S. Kontakta oss för mer information.</g:description>
+    <description>Från 9 437 kr/mån. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: PPN72S. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/lynk-co-08-phev-ppn72s</g:link>
+    <link>https://borasbil.se/bilar/lynk-co-08-phev-ppn72s</link>
+    <url>https://borasbil.se/bilar/lynk-co-08-phev-ppn72s</url>
+    <g:brand>Lynk &amp; Co</g:brand>
+    <brand>Lynk &amp; Co</brand>
+    <make>Lynk &amp; Co</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/d1c2c6dc8c0e43b2ba4d590af1b7bf90/8f68038c781043438d12a13e207a6c40?format=jpeg&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/d1c2c6dc8c0e43b2ba4d590af1b7bf90/8f68038c781043438d12a13e207a6c40?format=jpeg&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>08</model>
+    <year>2025</year>
+    <body_style>Sedan</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>599995 SEK</g:price>
+    <price>599995 SEK</price>
+    <sale_price>599995 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>7e1d6526-145e-42c3-b401-ca2cbdce678b</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -12478,50 +12558,6 @@
     <state_of_vehicle>NEW</state_of_vehicle>
     </item>
     <item>
-    <g:id>5935a7b9-2789-41d2-a8b9-d1b2a41c9729</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>5935a7b9-2789-41d2-a8b9-d1b2a41c9729</vehicle_id>
-    <vehicle_registration_plate>DBW97J</vehicle_registration_plate>
-    <g:title>Lynk &amp; Co 08 - 200km räckvidd på el</g:title>
-    <title>Lynk &amp; Co 08 - 200km räckvidd på el</title>
-    <g:description>- 200km räckvidd på el. Från 8 949 kr/mån. Miltal: 53 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: DBW97J. Kontakta oss för mer information.</g:description>
-    <description>- 200km räckvidd på el. Från 8 949 kr/mån. Miltal: 53 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: DBW97J. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/lynk-co-08-phev-dbw97j</g:link>
-    <link>https://borasbil.se/bilar/lynk-co-08-phev-dbw97j</link>
-    <url>https://borasbil.se/bilar/lynk-co-08-phev-dbw97j</url>
-    <g:brand>Lynk &amp; Co</g:brand>
-    <brand>Lynk &amp; Co</brand>
-    <make>Lynk &amp; Co</make>
-    <g:image_link>https://cdn.wayke.se/cfit/1227782d-867b-4f9a-afbd-813c22bd5f13/55aac48d-4f15-4f24-b86a-b89457f4aa9b?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/1227782d-867b-4f9a-afbd-813c22bd5f13/55aac48d-4f15-4f24-b86a-b89457f4aa9b?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>08</model>
-    <year>2025</year>
-    <mileage>
-      <value>530</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>569000 SEK</g:price>
-    <price>569000 SEK</price>
-    <sale_price>569000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>734b7fff-087d-45f9-8ac5-5ba8ad14f4ef</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -12647,50 +12683,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>7c92e1e5-2fa7-44c1-ba11-0f6745161e7b</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>7c92e1e5-2fa7-44c1-ba11-0f6745161e7b</vehicle_id>
-    <vehicle_registration_plate>SKE30H</vehicle_registration_plate>
-    <g:title>Polestar 2 78kWh</g:title>
-    <title>Polestar 2 78kWh</title>
-    <g:description>78kWh. Från 5 332 kr/mån. Miltal: 7 663 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: SKE30H. Kontakta oss för mer information.</g:description>
-    <description>78kWh. Från 5 332 kr/mån. Miltal: 7 663 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: SKE30H. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-ske30h</g:link>
-    <link>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-ske30h</link>
-    <url>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-ske30h</url>
-    <g:brand>Polestar</g:brand>
-    <brand>Polestar</brand>
-    <make>Polestar</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/624bef85c91648ce9a88ce8864f85680/0c157536452c45af9e4f122f31642456?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/624bef85c91648ce9a88ce8864f85680/0c157536452c45af9e4f122f31642456?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>2</model>
-    <year>2023</year>
-    <mileage>
-      <value>76630</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>339000 SEK</g:price>
-    <price>339000 SEK</price>
-    <sale_price>339000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Bogesunds Bil Ulricehamn</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
