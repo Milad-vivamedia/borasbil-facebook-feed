@@ -6781,9 +6781,9 @@
     <g:brand>Lynk &amp; Co</g:brand>
     <brand>Lynk &amp; Co</brand>
     <make>Lynk &amp; Co</make>
-    <g:image_link>https://cdn.wayke.se/cfit/a9548f99-0dbb-4bc7-9eec-7a9b152f782d/92369252-5ce7-4509-8ecc-ec2fd938a5ed?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/bc20c525731f4161b6aa56096174e6c7/e33fdbe6ebcd4e3a8e24a6dc58a54ac3?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/a9548f99-0dbb-4bc7-9eec-7a9b152f782d/92369252-5ce7-4509-8ecc-ec2fd938a5ed?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/bc20c525731f4161b6aa56096174e6c7/e33fdbe6ebcd4e3a8e24a6dc58a54ac3?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>01</model>
@@ -8484,8 +8484,8 @@
     <vehicle_registration_plate>YCC60K</vehicle_registration_plate>
     <g:title>Volvo XC90 T8 Ultra Black Edition</g:title>
     <title>Volvo XC90 T8 Ultra Black Edition</title>
-    <g:description>T8 Ultra Black Edition. Från 14 769 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: YCC60K. Kontakta oss för mer information.</g:description>
-    <description>T8 Ultra Black Edition. Från 14 769 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: YCC60K. Kontakta oss för mer information.</description>
+    <g:description>T8 Ultra Black Edition. Från 14 769 kr/mån. Miltal: 800 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: YCC60K. Kontakta oss för mer information.</g:description>
+    <description>T8 Ultra Black Edition. Från 14 769 kr/mån. Miltal: 800 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: YCC60K. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc90-ycc60k</g:link>
     <link>https://borasbil.se/bilar/volvo-xc90-ycc60k</link>
     <url>https://borasbil.se/bilar/volvo-xc90-ycc60k</url>
@@ -8499,6 +8499,10 @@
     </image>
     <model>XC90</model>
     <year>2027</year>
+    <mileage>
+      <value>8000</value>
+      <unit>KM</unit>
+    </mileage>
     <body_style>SUV</body_style>
     <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
@@ -13341,8 +13345,8 @@
     <vehicle_registration_plate>KJB32G</vehicle_registration_plate>
     <g:title>Volvo XC90 T8 Ultra Dark</g:title>
     <title>Volvo XC90 T8 Ultra Dark</title>
-    <g:description>T8 Ultra Dark. Från 14 297 kr/mån. Miltal: 325 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: KJB32G. Kontakta oss för mer information.</g:description>
-    <description>T8 Ultra Dark. Från 14 297 kr/mån. Miltal: 325 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: KJB32G. Kontakta oss för mer information.</description>
+    <g:description>T8 Ultra Dark. Från 14 297 kr/mån. Miltal: 1 500 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: KJB32G. Kontakta oss för mer information.</g:description>
+    <description>T8 Ultra Dark. Från 14 297 kr/mån. Miltal: 1 500 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: KJB32G. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc90-kjb32g</g:link>
     <link>https://borasbil.se/bilar/volvo-xc90-kjb32g</link>
     <url>https://borasbil.se/bilar/volvo-xc90-kjb32g</url>
@@ -13357,7 +13361,7 @@
     <model>XC90</model>
     <year>2026</year>
     <mileage>
-      <value>3250</value>
+      <value>15000</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
