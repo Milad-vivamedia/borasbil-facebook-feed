@@ -2398,50 +2398,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>9d32eb07-737a-4f91-80b3-e3c733ab0dc1</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>9d32eb07-737a-4f91-80b3-e3c733ab0dc1</vehicle_id>
-    <vehicle_registration_plate>AYB83P</vehicle_registration_plate>
-    <g:title>Polestar 2 78kWh Plus Pilot</g:title>
-    <title>Polestar 2 78kWh Plus Pilot</title>
-    <g:description>78kWh Plus Pilot. Från 4 860 kr/mån. Miltal: 9 775 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: El. Reg.nr: AYB83P. Kontakta oss för mer information.</g:description>
-    <description>78kWh Plus Pilot. Från 4 860 kr/mån. Miltal: 9 775 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: El. Reg.nr: AYB83P. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-ayb83p</g:link>
-    <link>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-ayb83p</link>
-    <url>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-ayb83p</url>
-    <g:brand>Polestar</g:brand>
-    <brand>Polestar</brand>
-    <make>Polestar</make>
-    <g:image_link>https://cdn.wayke.se/cfit/5adda05e-3426-416f-8061-274f1b72db59/03d07981-9e91-4ef0-93f7-a49154fbc353?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/5adda05e-3426-416f-8061-274f1b72db59/03d07981-9e91-4ef0-93f7-a49154fbc353?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>2</model>
-    <year>2021</year>
-    <mileage>
-      <value>97750</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>309000 SEK</g:price>
-    <price>309000 SEK</price>
-    <sale_price>309000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>837f75f9-f982-4abe-b676-819051ffcb66</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -15049,46 +15005,6 @@
     <g:price>909000 SEK</g:price>
     <price>909000 SEK</price>
     <sale_price>909000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>b0c3db9e-4459-48b4-bafc-cc7472a109f6</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>b0c3db9e-4459-48b4-bafc-cc7472a109f6</vehicle_id>
-    <vehicle_registration_plate>TBR07S</vehicle_registration_plate>
-    <g:title>Maxus e-Deliver 5 L1H1 TECH PLUS 64 kWh 335km</g:title>
-    <title>Maxus e-Deliver 5 L1H1 TECH PLUS 64 kWh 335km</title>
-    <g:description>L1H1 TECH PLUS 64 kWh 335km. Från 5 961 kr/mån. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: TBR07S. Kontakta oss för mer information.</g:description>
-    <description>L1H1 TECH PLUS 64 kWh 335km. Från 5 961 kr/mån. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: TBR07S. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/maxus-e-deliver-5-tbr07s</g:link>
-    <link>https://borasbil.se/bilar/maxus-e-deliver-5-tbr07s</link>
-    <url>https://borasbil.se/bilar/maxus-e-deliver-5-tbr07s</url>
-    <g:brand>Maxus</g:brand>
-    <brand>Maxus</brand>
-    <make>Maxus</make>
-    <g:image_link>https://cdn.wayke.se/cfit/37327ec1-f0e9-48de-abad-b9cafc1a1bb0/73bab4bc-c6d7-4e63-99ba-c8db0a54a832?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/37327ec1-f0e9-48de-abad-b9cafc1a1bb0/73bab4bc-c6d7-4e63-99ba-c8db0a54a832?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>e-Deliver 5</model>
-    <year>2025</year>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>379000 SEK</g:price>
-    <price>379000 SEK</price>
-    <sale_price>379000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Borås Bil</component>
       <component name="country">SE</component>
