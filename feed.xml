@@ -5,6 +5,46 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>064dd3bc-1023-4dab-824e-06f96fa6f35e</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>064dd3bc-1023-4dab-824e-06f96fa6f35e</vehicle_id>
+    <vehicle_registration_plate>OJB43C</vehicle_registration_plate>
+    <g:title>Citroën C5 Aircross FL MAX A 5-d SUV</g:title>
+    <title>Citroën C5 Aircross FL MAX A 5-d SUV</title>
+    <g:description>FL MAX A 5-d SUV. Från 6 250 kr/mån. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: OJB43C. Kontakta oss för mer information.</g:description>
+    <description>FL MAX A 5-d SUV. Från 6 250 kr/mån. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: OJB43C. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/citroen-c5-aircross-hybrid-145-ojb43c</g:link>
+    <link>https://borasbil.se/bilar/citroen-c5-aircross-hybrid-145-ojb43c</link>
+    <url>https://borasbil.se/bilar/citroen-c5-aircross-hybrid-145-ojb43c</url>
+    <g:brand>Citroën</g:brand>
+    <brand>Citroën</brand>
+    <make>Citroën</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/0d4bb69989ce46479829d65cbdce1214/327e789914bd4909892da937c7890c88?format=jpeg&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/0d4bb69989ce46479829d65cbdce1214/327e789914bd4909892da937c7890c88?format=jpeg&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>C5 Aircross</model>
+    <year>2025</year>
+    <body_style>SUV</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>397400 SEK</g:price>
+    <price>397400 SEK</price>
+    <sale_price>397400 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>62ad8041-3904-47e2-923d-b597afff4781</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
