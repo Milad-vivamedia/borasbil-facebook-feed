@@ -4842,50 +4842,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>3f6ab1ea-a6c6-429b-8ee2-766dd890e9a2</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>3f6ab1ea-a6c6-429b-8ee2-766dd890e9a2</vehicle_id>
-    <vehicle_registration_plate>TRG27B</vehicle_registration_plate>
-    <g:title>Renault Captur PhII TCe 150 Intens EDC GPF</g:title>
-    <title>Renault Captur PhII TCe 150 Intens EDC GPF</title>
-    <g:description>PhII TCe 150 Intens EDC GPF. Från 2 658 kr/mån. Miltal: 4 671 mil. Årsmodell: 2019. Växellåda: Automat. Bränsle: Bensin. Reg.nr: TRG27B. Kontakta oss för mer information.</g:description>
-    <description>PhII TCe 150 Intens EDC GPF. Från 2 658 kr/mån. Miltal: 4 671 mil. Årsmodell: 2019. Växellåda: Automat. Bränsle: Bensin. Reg.nr: TRG27B. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/renault-captur-trg27b</g:link>
-    <link>https://borasbil.se/bilar/renault-captur-trg27b</link>
-    <url>https://borasbil.se/bilar/renault-captur-trg27b</url>
-    <g:brand>Renault</g:brand>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/c0a4e0ee088d4dd295941506d5848678/0efa6e74f98243be82dffaf95b47b8a6?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/c0a4e0ee088d4dd295941506d5848678/0efa6e74f98243be82dffaf95b47b8a6?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Captur</model>
-    <year>2019</year>
-    <mileage>
-      <value>46710</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>169000 SEK</g:price>
-    <price>169000 SEK</price>
-    <sale_price>169000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>54fb5640-098f-4468-8b92-fabaa2ab7fa4</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -5927,50 +5883,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>00ac2bad-0d86-4631-b907-8365dcf9fc68</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>00ac2bad-0d86-4631-b907-8365dcf9fc68</vehicle_id>
-    <vehicle_registration_plate>MTR85L</vehicle_registration_plate>
-    <g:title>Citroën C4 SHINE Pure Tech 130 A 5-d</g:title>
-    <title>Citroën C4 SHINE Pure Tech 130 A 5-d</title>
-    <g:description>SHINE Pure Tech 130 A 5-d. Från 3 130 kr/mån. Miltal: 4 150 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: MTR85L. Kontakta oss för mer information.</g:description>
-    <description>SHINE Pure Tech 130 A 5-d. Från 3 130 kr/mån. Miltal: 4 150 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: MTR85L. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/citroen-c4-mtr85l</g:link>
-    <link>https://borasbil.se/bilar/citroen-c4-mtr85l</link>
-    <url>https://borasbil.se/bilar/citroen-c4-mtr85l</url>
-    <g:brand>Citroën</g:brand>
-    <brand>Citroën</brand>
-    <make>Citroën</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/bafb2968c1a249e5bff6a48284c64edf/f0f127b400bf4c0c93b5546c47289d8e?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/bafb2968c1a249e5bff6a48284c64edf/f0f127b400bf4c0c93b5546c47289d8e?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C4</model>
-    <year>2023</year>
-    <mileage>
-      <value>41500</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>199000 SEK</g:price>
-    <price>199000 SEK</price>
-    <sale_price>199000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -7330,50 +7242,6 @@
     <g:price>279000 SEK</g:price>
     <price>279000 SEK</price>
     <sale_price>279000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Bogesunds Bil Ulricehamn</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>ec7434fa-3fd9-4e7a-82e4-54afecd2c741</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>ec7434fa-3fd9-4e7a-82e4-54afecd2c741</vehicle_id>
-    <vehicle_registration_plate>KKR82B</vehicle_registration_plate>
-    <g:title>Volvo XC40 MC73 T4 AWD Inscription</g:title>
-    <title>Volvo XC40 MC73 T4 AWD Inscription</title>
-    <g:description>MC73 T4 AWD Inscription. Från 5 175 kr/mån. Miltal: 9 235 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin. Reg.nr: KKR82B. Kontakta oss för mer information.</g:description>
-    <description>MC73 T4 AWD Inscription. Från 5 175 kr/mån. Miltal: 9 235 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin. Reg.nr: KKR82B. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc40-kkr82b</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc40-kkr82b</link>
-    <url>https://borasbil.se/bilar/volvo-xc40-kkr82b</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/25ffed6a-399f-46c2-9135-7b9bb2ca01e3/6f05c8a6-0913-4b7a-90af-df62703ff58c?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/25ffed6a-399f-46c2-9135-7b9bb2ca01e3/6f05c8a6-0913-4b7a-90af-df62703ff58c?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2022</year>
-    <mileage>
-      <value>92350</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>329000 SEK</g:price>
-    <price>329000 SEK</price>
-    <sale_price>329000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Bogesunds Bil Ulricehamn</component>
       <component name="country">SE</component>
