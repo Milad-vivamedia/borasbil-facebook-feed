@@ -5,6 +5,178 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>222bca22-2309-48d9-9c02-9b3b756837e2</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>222bca22-2309-48d9-9c02-9b3b756837e2</vehicle_id>
+    <vehicle_registration_plate>RCX21G</vehicle_registration_plate>
+    <g:title>Volvo EX30 RWD Plus Black Edt</g:title>
+    <title>Volvo EX30 RWD Plus Black Edt</title>
+    <g:description>RWD Plus Black Edt. Från 7 691 kr/mån. Miltal: 50 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: RCX21G. Kontakta oss för mer information.</g:description>
+    <description>RWD Plus Black Edt. Från 7 691 kr/mån. Miltal: 50 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: RCX21G. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-ex30-p5-long-range-rcx21g</g:link>
+    <link>https://borasbil.se/bilar/volvo-ex30-p5-long-range-rcx21g</link>
+    <url>https://borasbil.se/bilar/volvo-ex30-p5-long-range-rcx21g</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/e0c288b3-650e-4b6a-98f0-77c43572e6e8/2f8e51ff-8e8b-4d94-a68a-3174a1a4852c?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/e0c288b3-650e-4b6a-98f0-77c43572e6e8/2f8e51ff-8e8b-4d94-a68a-3174a1a4852c?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>EX30</model>
+    <year>2027</year>
+    <mileage>
+      <value>500</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>489000 SEK</g:price>
+    <price>489000 SEK</price>
+    <sale_price>489000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>500e4bdf-a0ac-4edf-b890-eb4ed5aa1de3</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>500e4bdf-a0ac-4edf-b890-eb4ed5aa1de3</vehicle_id>
+    <vehicle_registration_plate>ERB21R</vehicle_registration_plate>
+    <g:title>Volvo XC40 B4 FWD Bensin Plus Dark</g:title>
+    <title>Volvo XC40 B4 FWD Bensin Plus Dark</title>
+    <g:description>B4 FWD Bensin Plus Dark. Från 7 691 kr/mån. Miltal: 50 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin. Reg.nr: ERB21R. Kontakta oss för mer information.</g:description>
+    <description>B4 FWD Bensin Plus Dark. Från 7 691 kr/mån. Miltal: 50 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin. Reg.nr: ERB21R. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-xc40-erb21r</g:link>
+    <link>https://borasbil.se/bilar/volvo-xc40-erb21r</link>
+    <url>https://borasbil.se/bilar/volvo-xc40-erb21r</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/2dd521242d184fa7b2f5b2aa998183e2/c208270682344605b4af16701b86f052?format=jpeg&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/2dd521242d184fa7b2f5b2aa998183e2/c208270682344605b4af16701b86f052?format=jpeg&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC40</model>
+    <year>2027</year>
+    <mileage>
+      <value>500</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>489000 SEK</g:price>
+    <price>489000 SEK</price>
+    <sale_price>489000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>ce66258b-e825-4dac-abc6-38dac35d5cfa</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>ce66258b-e825-4dac-abc6-38dac35d5cfa</vehicle_id>
+    <vehicle_registration_plate>MYX21U</vehicle_registration_plate>
+    <g:title>Volvo EC40 UltraBlackSE</g:title>
+    <title>Volvo EC40 UltraBlackSE</title>
+    <g:description>UltraBlackSE. Från 9 421 kr/mån. Miltal: 50 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: MYX21U. Kontakta oss för mer information.</g:description>
+    <description>UltraBlackSE. Från 9 421 kr/mån. Miltal: 50 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: MYX21U. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-ec40-twin-motor-performance-myx21u</g:link>
+    <link>https://borasbil.se/bilar/volvo-ec40-twin-motor-performance-myx21u</link>
+    <url>https://borasbil.se/bilar/volvo-ec40-twin-motor-performance-myx21u</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/3cd0ea4e-39df-4f79-afbb-ce0d5f1106b5/9b1627a8-0ec4-4f3c-8a2e-6758478f1019?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/3cd0ea4e-39df-4f79-afbb-ce0d5f1106b5/9b1627a8-0ec4-4f3c-8a2e-6758478f1019?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>EC40</model>
+    <year>2027</year>
+    <mileage>
+      <value>500</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>599000 SEK</g:price>
+    <price>599000 SEK</price>
+    <sale_price>599000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>6653e6e5-4770-4b09-8c2f-2056d801c172</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>6653e6e5-4770-4b09-8c2f-2056d801c172</vehicle_id>
+    <vehicle_registration_plate>6653e6e5</vehicle_registration_plate>
+    <g:title>Maxus T60 Pickup Hundkåpa 4x4 215hk</g:title>
+    <title>Maxus T60 Pickup Hundkåpa 4x4 215hk</title>
+    <g:description>Pickup Hundkåpa 4x4 215hk. Från 9 732 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: Diesel. Reg.nr: 6653e6e5. Kontakta oss för mer information.</g:description>
+    <description>Pickup Hundkåpa 4x4 215hk. Från 9 732 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: Diesel. Reg.nr: 6653e6e5. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/maxus-t60-max-6653e6e5</g:link>
+    <link>https://borasbil.se/bilar/maxus-t60-max-6653e6e5</link>
+    <url>https://borasbil.se/bilar/maxus-t60-max-6653e6e5</url>
+    <g:brand>Maxus</g:brand>
+    <brand>Maxus</brand>
+    <make>Maxus</make>
+    <g:image_link>https://cdn.wayke.se/cfit/dab2771c-1351-43e2-9163-891e97c1fb0f/ff4cef2e-a2c6-4506-aa9b-5bd099b68230?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/dab2771c-1351-43e2-9163-891e97c1fb0f/ff4cef2e-a2c6-4506-aa9b-5bd099b68230?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>T60</model>
+    <year>2026</year>
+    <body_style>Sedan</body_style>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>618750 SEK</g:price>
+    <price>618750 SEK</price>
+    <sale_price>618750 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    </item>
+    <item>
     <g:id>46fdede7-f141-41da-b514-ec04d38a0051</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -14160,49 +14332,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>95dfa8f7-2252-481d-bcad-5ad957055dee</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>95dfa8f7-2252-481d-bcad-5ad957055dee</vehicle_id>
-    <vehicle_registration_plate>95dfa8f7</vehicle_registration_plate>
-    <g:title>Maxus T60 MAX Pickup 4x4 215hk</g:title>
-    <title>Maxus T60 MAX Pickup 4x4 215hk</title>
-    <g:description>Pickup 4x4 215hk. Från 7 665 kr/mån. Miltal: 3 mil. Årsmodell: 2025. Växellåda: Automat. Reg.nr: 95dfa8f7. Kontakta oss för mer information.</g:description>
-    <description>Pickup 4x4 215hk. Från 7 665 kr/mån. Miltal: 3 mil. Årsmodell: 2025. Växellåda: Automat. Reg.nr: 95dfa8f7. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/maxus-t60-max-95dfa8f7</g:link>
-    <link>https://borasbil.se/bilar/maxus-t60-max-95dfa8f7</link>
-    <url>https://borasbil.se/bilar/maxus-t60-max-95dfa8f7</url>
-    <g:brand>Maxus</g:brand>
-    <brand>Maxus</brand>
-    <make>Maxus</make>
-    <g:image_link>https://cdn.wayke.se/cfit/890dd332-9eb7-4828-bad8-663bdcf2c7e5/78f1a01e-50f5-4d99-beb0-64baafe6ceed?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/890dd332-9eb7-4828-bad8-663bdcf2c7e5/78f1a01e-50f5-4d99-beb0-64baafe6ceed?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>T60 MAX</model>
-    <year>2025</year>
-    <mileage>
-      <value>30</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <transmission>Automatic</transmission>
-    <g:price>487375 SEK</g:price>
-    <price>487375 SEK</price>
-    <sale_price>487375 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>7359e0f9-94c2-4d18-bd54-c6878410dcd3</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -14757,46 +14886,6 @@
     <g:price>419000 SEK</g:price>
     <price>419000 SEK</price>
     <sale_price>419000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>new</g:condition>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>dcf5bb23-53ea-4353-9c6a-065f7fcb3f25</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>dcf5bb23-53ea-4353-9c6a-065f7fcb3f25</vehicle_id>
-    <vehicle_registration_plate>dcf5bb23</vehicle_registration_plate>
-    <g:title>Maxus T60 Pickup 4x4 215hk</g:title>
-    <title>Maxus T60 Pickup 4x4 215hk</title>
-    <g:description>Pickup 4x4 215hk. Från 7 665 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: Diesel. Reg.nr: dcf5bb23. Kontakta oss för mer information.</g:description>
-    <description>Pickup 4x4 215hk. Från 7 665 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: Diesel. Reg.nr: dcf5bb23. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/maxus-t60-max-dcf5bb23</g:link>
-    <link>https://borasbil.se/bilar/maxus-t60-max-dcf5bb23</link>
-    <url>https://borasbil.se/bilar/maxus-t60-max-dcf5bb23</url>
-    <g:brand>Maxus</g:brand>
-    <brand>Maxus</brand>
-    <make>Maxus</make>
-    <g:image_link>https://cdn.wayke.se/cfit/5675964c-5ce1-4a70-a005-d94d971c0892/c051b5aa-cdd5-46d3-a8c1-89149a823e9a?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/5675964c-5ce1-4a70-a005-d94d971c0892/c051b5aa-cdd5-46d3-a8c1-89149a823e9a?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>T60</model>
-    <year>2026</year>
-    <body_style>Sedan</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>487375 SEK</g:price>
-    <price>487375 SEK</price>
-    <sale_price>487375 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Borås Bil</component>
       <component name="country">SE</component>
