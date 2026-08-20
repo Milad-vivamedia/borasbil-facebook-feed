@@ -488,8 +488,8 @@
     <vehicle_registration_plate>RAN49S</vehicle_registration_plate>
     <g:title>Peugeot 2008 GT PureTech 130 A 5-d SUV</g:title>
     <title>Peugeot 2008 GT PureTech 130 A 5-d SUV</title>
-    <g:description>GT PureTech 130 A 5-d SUV. Från 3 287 kr/mån. Miltal: 4 850 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: RAN49S. Kontakta oss för mer information.</g:description>
-    <description>GT PureTech 130 A 5-d SUV. Från 3 287 kr/mån. Miltal: 4 850 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: RAN49S. Kontakta oss för mer information.</description>
+    <g:description>GT PureTech 130 A 5-d SUV. Från 3 287 kr/mån. Miltal: 485 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: RAN49S. Kontakta oss för mer information.</g:description>
+    <description>GT PureTech 130 A 5-d SUV. Från 3 287 kr/mån. Miltal: 485 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: RAN49S. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/peugeot-2008-ran49s</g:link>
     <link>https://borasbil.se/bilar/peugeot-2008-ran49s</link>
     <url>https://borasbil.se/bilar/peugeot-2008-ran49s</url>
@@ -504,7 +504,7 @@
     <model>2008</model>
     <year>2023</year>
     <mileage>
-      <value>48500</value>
+      <value>4850</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
@@ -9592,9 +9592,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/dcc43ce8-add2-41d4-9c31-f9dc21caf72d/032f69e6-fd84-4cca-a279-ec041f1b5e6f?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/4910d92eda4b45aab76e9e760575e420/47465dca966f4d81959fa3cd7b07c137?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/dcc43ce8-add2-41d4-9c31-f9dc21caf72d/032f69e6-fd84-4cca-a279-ec041f1b5e6f?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/4910d92eda4b45aab76e9e760575e420/47465dca966f4d81959fa3cd7b07c137?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC60</model>
