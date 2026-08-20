@@ -1004,8 +1004,8 @@
     <vehicle_registration_plate>LDT11Z</vehicle_registration_plate>
     <g:title>Volvo EX90 M Ultra Pro Edt 7s</g:title>
     <title>Volvo EX90 M Ultra Pro Edt 7s</title>
-    <g:description>M Ultra Pro Edt 7s. Från 16 813 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: LDT11Z. Kontakta oss för mer information.</g:description>
-    <description>M Ultra Pro Edt 7s. Från 16 813 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: LDT11Z. Kontakta oss för mer information.</description>
+    <g:description>M Ultra Pro Edt 7s. Från 16 813 kr/mån. Miltal: 11 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: LDT11Z. Kontakta oss för mer information.</g:description>
+    <description>M Ultra Pro Edt 7s. Från 16 813 kr/mån. Miltal: 11 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: LDT11Z. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-ex90-twin-motor-performance-ldt11z</g:link>
     <link>https://borasbil.se/bilar/volvo-ex90-twin-motor-performance-ldt11z</link>
     <url>https://borasbil.se/bilar/volvo-ex90-twin-motor-performance-ldt11z</url>
@@ -1019,6 +1019,10 @@
     </image>
     <model>EX90</model>
     <year>2027</year>
+    <mileage>
+      <value>110</value>
+      <unit>KM</unit>
+    </mileage>
     <body_style>SUV</body_style>
     <fuel_type>Electric</fuel_type>
     <transmission>Automatic</transmission>
@@ -4541,8 +4545,8 @@
     <vehicle_registration_plate>WAL05K</vehicle_registration_plate>
     <g:title>Polestar 2 78kWh</g:title>
     <title>Polestar 2 78kWh</title>
-    <g:description>78kWh. Från 5 804 kr/mån. Miltal: 8 220 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: WAL05K. Kontakta oss för mer information.</g:description>
-    <description>78kWh. Från 5 804 kr/mån. Miltal: 8 220 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: WAL05K. Kontakta oss för mer information.</description>
+    <g:description>78kWh. Från 5 804 kr/mån. Miltal: 8 222 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: WAL05K. Kontakta oss för mer information.</g:description>
+    <description>78kWh. Från 5 804 kr/mån. Miltal: 8 222 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: WAL05K. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-wal05k</g:link>
     <link>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-wal05k</link>
     <url>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-wal05k</url>
@@ -4557,7 +4561,7 @@
     <model>2</model>
     <year>2023</year>
     <mileage>
-      <value>82200</value>
+      <value>82220</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
@@ -6777,8 +6781,8 @@
     <vehicle_registration_plate>YYN06J</vehicle_registration_plate>
     <g:title>Volvo XC60 T6 Ultra Dark</g:title>
     <title>Volvo XC60 T6 Ultra Dark</title>
-    <g:description>T6 Ultra Dark. Från 9 264 kr/mån. Miltal: 5 298 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: YYN06J. Kontakta oss för mer information.</g:description>
-    <description>T6 Ultra Dark. Från 9 264 kr/mån. Miltal: 5 298 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: YYN06J. Kontakta oss för mer information.</description>
+    <g:description>T6 Ultra Dark. Från 9 264 kr/mån. Miltal: 5 299 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: YYN06J. Kontakta oss för mer information.</g:description>
+    <description>T6 Ultra Dark. Från 9 264 kr/mån. Miltal: 5 299 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: YYN06J. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc60-yyn06j</g:link>
     <link>https://borasbil.se/bilar/volvo-xc60-yyn06j</link>
     <url>https://borasbil.se/bilar/volvo-xc60-yyn06j</url>
@@ -6793,7 +6797,7 @@
     <model>XC60</model>
     <year>2025</year>
     <mileage>
-      <value>52980</value>
+      <value>52990</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
