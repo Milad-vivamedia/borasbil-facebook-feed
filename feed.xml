@@ -5,6 +5,138 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>46fdede7-f141-41da-b514-ec04d38a0051</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>46fdede7-f141-41da-b514-ec04d38a0051</vehicle_id>
+    <vehicle_registration_plate>JBK63F</vehicle_registration_plate>
+    <g:title>Volvo EX90 Ultra 6sätes</g:title>
+    <title>Volvo EX90 Ultra 6sätes</title>
+    <g:description>Ultra 6sätes. Från 13 196 kr/mån. Miltal: 2 193 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: JBK63F. Kontakta oss för mer information.</g:description>
+    <description>Ultra 6sätes. Från 13 196 kr/mån. Miltal: 2 193 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: JBK63F. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-ex90-twin-motor-performance-6-seater-jbk63f</g:link>
+    <link>https://borasbil.se/bilar/volvo-ex90-twin-motor-performance-6-seater-jbk63f</link>
+    <url>https://borasbil.se/bilar/volvo-ex90-twin-motor-performance-6-seater-jbk63f</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/de337dc18a04434a9bbd550d4a3f6b4d/6f3135964f0a49c69ac9f6ae406d0bc4?format=jpeg&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/de337dc18a04434a9bbd550d4a3f6b4d/6f3135964f0a49c69ac9f6ae406d0bc4?format=jpeg&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>EX90</model>
+    <year>2025</year>
+    <mileage>
+      <value>21930</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>839000 SEK</g:price>
+    <price>839000 SEK</price>
+    <sale_price>839000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Bogesunds Bil Ulricehamn</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>b378aa76-5864-47fd-bc40-8e54d9663e36</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>b378aa76-5864-47fd-bc40-8e54d9663e36</vehicle_id>
+    <vehicle_registration_plate>FKJ05E</vehicle_registration_plate>
+    <g:title>Peugeot 208 Style 110 A</g:title>
+    <title>Peugeot 208 Style 110 A</title>
+    <g:description>Style 110 A. Från 3 382 kr/mån. Miltal: 3 770 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: FKJ05E. Kontakta oss för mer information.</g:description>
+    <description>Style 110 A. Från 3 382 kr/mån. Miltal: 3 770 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: FKJ05E. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/peugeot-208-hybrid-100-fkj05e</g:link>
+    <link>https://borasbil.se/bilar/peugeot-208-hybrid-100-fkj05e</link>
+    <url>https://borasbil.se/bilar/peugeot-208-hybrid-100-fkj05e</url>
+    <g:brand>Peugeot</g:brand>
+    <brand>Peugeot</brand>
+    <make>Peugeot</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/2b2500a69ad5405aa6f8005847e0b407/3801804fba454015813982813fd50a45?format=jpeg&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/2b2500a69ad5405aa6f8005847e0b407/3801804fba454015813982813fd50a45?format=jpeg&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>208</model>
+    <year>2025</year>
+    <mileage>
+      <value>37700</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>215000 SEK</g:price>
+    <price>215000 SEK</price>
+    <sale_price>215000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>aecdaa1c-9576-441c-a14e-63d2c8b44710</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>aecdaa1c-9576-441c-a14e-63d2c8b44710</vehicle_id>
+    <vehicle_registration_plate>RAN49S</vehicle_registration_plate>
+    <g:title>Peugeot 2008 GT PureTech 130 A 5-d SUV</g:title>
+    <title>Peugeot 2008 GT PureTech 130 A 5-d SUV</title>
+    <g:description>GT PureTech 130 A 5-d SUV. Från 3 287 kr/mån. Miltal: 4 850 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: RAN49S. Kontakta oss för mer information.</g:description>
+    <description>GT PureTech 130 A 5-d SUV. Från 3 287 kr/mån. Miltal: 4 850 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: RAN49S. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/peugeot-2008-ran49s</g:link>
+    <link>https://borasbil.se/bilar/peugeot-2008-ran49s</link>
+    <url>https://borasbil.se/bilar/peugeot-2008-ran49s</url>
+    <g:brand>Peugeot</g:brand>
+    <brand>Peugeot</brand>
+    <make>Peugeot</make>
+    <g:image_link>https://cdn.wayke.se/cfit/53b7b637-ed31-4bf9-9f5f-8b3e9562a38f/5d06ba3b-68c0-4b1b-8494-9cba80fee7da?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/53b7b637-ed31-4bf9-9f5f-8b3e9562a38f/5d06ba3b-68c0-4b1b-8494-9cba80fee7da?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>2008</model>
+    <year>2023</year>
+    <mileage>
+      <value>48500</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>209000 SEK</g:price>
+    <price>209000 SEK</price>
+    <sale_price>209000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>064dd3bc-1023-4dab-824e-06f96fa6f35e</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -4553,9 +4685,9 @@
     <g:brand>Polestar</g:brand>
     <brand>Polestar</brand>
     <make>Polestar</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/d424021e38704945ab2b3b3eb577ac82/eb5ed09614834bb5b6ceb3b2bbd67c3e?format=jpeg&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/c28dc2ad9e6c4be1a108b0b1fa99f613/e6ca86a0e9a84c63a43352ed5eccd971?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/v3/d424021e38704945ab2b3b3eb577ac82/eb5ed09614834bb5b6ceb3b2bbd67c3e?format=jpeg&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/c28dc2ad9e6c4be1a108b0b1fa99f613/e6ca86a0e9a84c63a43352ed5eccd971?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>2</model>
