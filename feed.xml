@@ -8873,50 +8873,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>87820790-d577-4909-9411-51d400633c58</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>87820790-d577-4909-9411-51d400633c58</vehicle_id>
-    <vehicle_registration_plate>LWA13U</vehicle_registration_plate>
-    <g:title>Citroën C4 SHINE Pure Tech 130 A 5-d</g:title>
-    <title>Citroën C4 SHINE Pure Tech 130 A 5-d</title>
-    <g:description>SHINE Pure Tech 130 A 5-d. Från 3 130 kr/mån. Miltal: 3 081 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: LWA13U. Kontakta oss för mer information.</g:description>
-    <description>SHINE Pure Tech 130 A 5-d. Från 3 130 kr/mån. Miltal: 3 081 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: LWA13U. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/citroen-c4-lwa13u</g:link>
-    <link>https://borasbil.se/bilar/citroen-c4-lwa13u</link>
-    <url>https://borasbil.se/bilar/citroen-c4-lwa13u</url>
-    <g:brand>Citroën</g:brand>
-    <brand>Citroën</brand>
-    <make>Citroën</make>
-    <g:image_link>https://cdn.wayke.se/cfit/754b9bc9-be4b-45ab-ba5a-459bd59e4733/648c97f5-3b87-461a-9f0f-3786f744661c?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/754b9bc9-be4b-45ab-ba5a-459bd59e4733/648c97f5-3b87-461a-9f0f-3786f744661c?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C4</model>
-    <year>2023</year>
-    <mileage>
-      <value>30810</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>199000 SEK</g:price>
-    <price>199000 SEK</price>
-    <sale_price>199000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>95f50ee6-5ca6-4b5e-ad9a-502ec09bbf73</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -12292,50 +12248,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>new</g:condition>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>2793e4fd-ae62-4833-bd6d-f6b27b5ea903</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>2793e4fd-ae62-4833-bd6d-f6b27b5ea903</vehicle_id>
-    <vehicle_registration_plate>WCC23R</vehicle_registration_plate>
-    <g:title>Volvo V90 T6 Plus Dark Nordic Edition</g:title>
-    <title>Volvo V90 T6 Plus Dark Nordic Edition</title>
-    <g:description>T6 Plus Dark Nordic Edition. Från 8 163 kr/mån. Miltal: 1 133 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: WCC23R. Kontakta oss för mer information.</g:description>
-    <description>T6 Plus Dark Nordic Edition. Från 8 163 kr/mån. Miltal: 1 133 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: WCC23R. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-v90-wcc23r</g:link>
-    <link>https://borasbil.se/bilar/volvo-v90-wcc23r</link>
-    <url>https://borasbil.se/bilar/volvo-v90-wcc23r</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/0ebde8d7-d934-4bc3-a3eb-de63c3dd6c9b/566cadf0-3ed5-4e25-a09e-2acd5d5ec3b4?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/0ebde8d7-d934-4bc3-a3eb-de63c3dd6c9b/566cadf0-3ed5-4e25-a09e-2acd5d5ec3b4?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V90</model>
-    <year>2026</year>
-    <mileage>
-      <value>11330</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>519000 SEK</g:price>
-    <price>519000 SEK</price>
-    <sale_price>519000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>new</g:condition>
