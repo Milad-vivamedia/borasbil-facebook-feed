@@ -1773,46 +1773,6 @@
     <state_of_vehicle>NEW</state_of_vehicle>
     </item>
     <item>
-    <g:id>0520f8fb-38c4-4b78-9675-b9eff061557e</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>0520f8fb-38c4-4b78-9675-b9eff061557e</vehicle_id>
-    <vehicle_registration_plate>WLR21R</vehicle_registration_plate>
-    <g:title>Volvo EX40 ExtendedRange Plus SE</g:title>
-    <title>Volvo EX40 ExtendedRange Plus SE</title>
-    <g:description>ExtendedRange Plus SE. Från 8 871 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: WLR21R. Kontakta oss för mer information.</g:description>
-    <description>ExtendedRange Plus SE. Från 8 871 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: WLR21R. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-wlr21r</g:link>
-    <link>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-wlr21r</link>
-    <url>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-wlr21r</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/de7e9fe25a2b49d682d67f381901e81c/6132905836864e33b4791397da0485e0?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/de7e9fe25a2b49d682d67f381901e81c/6132905836864e33b4791397da0485e0?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>EX40</model>
-    <year>2027</year>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>564000 SEK</g:price>
-    <price>564000 SEK</price>
-    <sale_price>564000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Bogesunds Bil Ulricehamn</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>new</g:condition>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    </item>
-    <item>
     <g:id>be70d7ab-9f27-41bd-bd90-2fc201043bc8</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -10053,46 +10013,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>dbbdcbcc-d8b3-461a-8a22-ee41140a2fbe</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>dbbdcbcc-d8b3-461a-8a22-ee41140a2fbe</vehicle_id>
-    <vehicle_registration_plate>WCZ25M</vehicle_registration_plate>
-    <g:title>Volvo EX40 UltraBlackSE</g:title>
-    <title>Volvo EX40 UltraBlackSE</title>
-    <g:description>UltraBlackSE. Från 9 736 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: WCZ25M. Kontakta oss för mer information.</g:description>
-    <description>UltraBlackSE. Från 9 736 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: WCZ25M. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-ex40-twin-motor-performance-wcz25m</g:link>
-    <link>https://borasbil.se/bilar/volvo-ex40-twin-motor-performance-wcz25m</link>
-    <url>https://borasbil.se/bilar/volvo-ex40-twin-motor-performance-wcz25m</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/2020ba5794e54b2c8f9c87403e7a9ce1/05ad4e97990148e78835b17c143779e2?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/2020ba5794e54b2c8f9c87403e7a9ce1/05ad4e97990148e78835b17c143779e2?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>EX40</model>
-    <year>2027</year>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>619000 SEK</g:price>
-    <price>619000 SEK</price>
-    <sale_price>619000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>new</g:condition>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    </item>
-    <item>
     <g:id>639a515c-a63e-4c72-adc8-74d7b42275ca</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -10475,50 +10395,6 @@
     <g:condition>new</g:condition>
     <condition>new</condition>
     <state_of_vehicle>NEW</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>f369ae6f-f7d9-4e4f-b2d7-8a72069eebcb</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>f369ae6f-f7d9-4e4f-b2d7-8a72069eebcb</vehicle_id>
-    <vehicle_registration_plate>MFH49L</vehicle_registration_plate>
-    <g:title>Peugeot 2008 Allure A</g:title>
-    <title>Peugeot 2008 Allure A</title>
-    <g:description>Allure A. Från 3 759 kr/mån. Miltal: 2 379 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: MFH49L. Kontakta oss för mer information.</g:description>
-    <description>Allure A. Från 3 759 kr/mån. Miltal: 2 379 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: MFH49L. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/peugeot-2008-hybrid-145-mfh49l</g:link>
-    <link>https://borasbil.se/bilar/peugeot-2008-hybrid-145-mfh49l</link>
-    <url>https://borasbil.se/bilar/peugeot-2008-hybrid-145-mfh49l</url>
-    <g:brand>Peugeot</g:brand>
-    <brand>Peugeot</brand>
-    <make>Peugeot</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/be9c2ffa4632466e91858aedc123426e/f5a392792dcf47b8abd691d8e58b9d92?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/be9c2ffa4632466e91858aedc123426e/f5a392792dcf47b8abd691d8e58b9d92?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>2008</model>
-    <year>2025</year>
-    <mileage>
-      <value>23790</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>239000 SEK</g:price>
-    <price>239000 SEK</price>
-    <sale_price>239000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
     <g:id>97521846-044a-46ae-b480-87517c55ba6c</g:id>
