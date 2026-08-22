@@ -7822,50 +7822,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>9d763abd-18a8-4361-a95d-1db76d5be56f</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>9d763abd-18a8-4361-a95d-1db76d5be56f</vehicle_id>
-    <vehicle_registration_plate>HMJ02F</vehicle_registration_plate>
-    <g:title>Lynk &amp; Co 01</g:title>
-    <title>Lynk &amp; Co 01</title>
-    <g:description>Från 4 231 kr/mån. Miltal: 3 262 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: HMJ02F. Kontakta oss för mer information.</g:description>
-    <description>Från 4 231 kr/mån. Miltal: 3 262 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: HMJ02F. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/lynk-co-01-phev-hmj02f</g:link>
-    <link>https://borasbil.se/bilar/lynk-co-01-phev-hmj02f</link>
-    <url>https://borasbil.se/bilar/lynk-co-01-phev-hmj02f</url>
-    <g:brand>Lynk &amp; Co</g:brand>
-    <brand>Lynk &amp; Co</brand>
-    <make>Lynk &amp; Co</make>
-    <g:image_link>https://cdn.wayke.se/cfit/9d07bd4c-48be-4bc5-ae04-e963d9bfa2ba/37334145-e300-47e9-a1fd-8571048e77e2?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/9d07bd4c-48be-4bc5-ae04-e963d9bfa2ba/37334145-e300-47e9-a1fd-8571048e77e2?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>01</model>
-    <year>2023</year>
-    <mileage>
-      <value>32620</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>269000 SEK</g:price>
-    <price>269000 SEK</price>
-    <sale_price>269000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>6e76f6ec-5e7b-4b1f-b769-23ef02f687a2</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -9525,50 +9481,6 @@
     <g:price>429000 SEK</g:price>
     <price>429000 SEK</price>
     <sale_price>429000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Bogesunds Bil Ulricehamn</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>93640f46-8b86-466c-bcb1-a20e3c9c1869</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>93640f46-8b86-466c-bcb1-a20e3c9c1869</vehicle_id>
-    <vehicle_registration_plate>KCM63T</vehicle_registration_plate>
-    <g:title>Citroën C4 SHINE Pure Tech 130 A 5-d</g:title>
-    <title>Citroën C4 SHINE Pure Tech 130 A 5-d</title>
-    <g:description>SHINE Pure Tech 130 A 5-d. Från 2 658 kr/mån. Miltal: 3 389 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin. Reg.nr: KCM63T. Kontakta oss för mer information.</g:description>
-    <description>SHINE Pure Tech 130 A 5-d. Från 2 658 kr/mån. Miltal: 3 389 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin. Reg.nr: KCM63T. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/citroen-c4-kcm63t</g:link>
-    <link>https://borasbil.se/bilar/citroen-c4-kcm63t</link>
-    <url>https://borasbil.se/bilar/citroen-c4-kcm63t</url>
-    <g:brand>Citroën</g:brand>
-    <brand>Citroën</brand>
-    <make>Citroën</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/2802c5f710f94c5ea23c9a603415844c/c38dfb3ee4a24a67a532a1034da98d44?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/2802c5f710f94c5ea23c9a603415844c/c38dfb3ee4a24a67a532a1034da98d44?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C4</model>
-    <year>2022</year>
-    <mileage>
-      <value>33890</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>169000 SEK</g:price>
-    <price>169000 SEK</price>
-    <sale_price>169000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Bogesunds Bil Ulricehamn</component>
       <component name="country">SE</component>
@@ -13908,50 +13820,6 @@
     <g:condition>used</g:condition>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>3837d54e-5954-4fbc-884a-d982dacf2982</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>3837d54e-5954-4fbc-884a-d982dacf2982</vehicle_id>
-    <vehicle_registration_plate>XEG97U</vehicle_registration_plate>
-    <g:title>Volvo EX40 UltraBlackSE</g:title>
-    <title>Volvo EX40 UltraBlackSE</title>
-    <g:description>UltraBlackSE. Från 9 106 kr/mån. Miltal: 305 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: XEG97U. Kontakta oss för mer information.</g:description>
-    <description>UltraBlackSE. Från 9 106 kr/mån. Miltal: 305 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: XEG97U. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-ex40-twin-motor-performance-xeg97u</g:link>
-    <link>https://borasbil.se/bilar/volvo-ex40-twin-motor-performance-xeg97u</link>
-    <url>https://borasbil.se/bilar/volvo-ex40-twin-motor-performance-xeg97u</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/8a846987-f4ba-4c1d-b84a-ebcbcb144665/58fabd0b-416a-497b-a681-238b20ee38df?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/8a846987-f4ba-4c1d-b84a-ebcbcb144665/58fabd0b-416a-497b-a681-238b20ee38df?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>EX40</model>
-    <year>2026</year>
-    <mileage>
-      <value>3050</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>579000 SEK</g:price>
-    <price>579000 SEK</price>
-    <sale_price>579000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>new</g:condition>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
     </item>
     <item>
     <g:id>d1df7e49-599c-4197-af0a-65790f742e41</g:id>
