@@ -2683,50 +2683,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>41a541a6-1fb5-4f62-818f-f2534e3a5c90</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>41a541a6-1fb5-4f62-818f-f2534e3a5c90</vehicle_id>
-    <vehicle_registration_plate>XJL96D</vehicle_registration_plate>
-    <g:title>Volvo V60 T6 Ultra Dark</g:title>
-    <title>Volvo V60 T6 Ultra Dark</title>
-    <g:description>T6 Ultra Dark. Från 7 534 kr/mån. Miltal: 5 514 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: XJL96D. Kontakta oss för mer information.</g:description>
-    <description>T6 Ultra Dark. Från 7 534 kr/mån. Miltal: 5 514 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: XJL96D. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-v60-xjl96d</g:link>
-    <link>https://borasbil.se/bilar/volvo-v60-xjl96d</link>
-    <url>https://borasbil.se/bilar/volvo-v60-xjl96d</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/7f423ec737fb4970a7229afe6cd70d27/daad814864384d9db9db7a5dff8ff248?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/7f423ec737fb4970a7229afe6cd70d27/daad814864384d9db9db7a5dff8ff248?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V60</model>
-    <year>2025</year>
-    <mileage>
-      <value>55140</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>479000 SEK</g:price>
-    <price>479000 SEK</price>
-    <sale_price>479000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>8fa39652-49a6-427d-8e34-e98c03c8beaa</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -5623,50 +5579,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>4db1131e-63e8-4a33-9569-30a89ac93f7a</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>4db1131e-63e8-4a33-9569-30a89ac93f7a</vehicle_id>
-    <vehicle_registration_plate>PBM612</vehicle_registration_plate>
-    <g:title>Volvo C40 Core</g:title>
-    <title>Volvo C40 Core</title>
-    <g:description>Core. Från 4 860 kr/mån. Miltal: 6 516 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: PBM612. Kontakta oss för mer information.</g:description>
-    <description>Core. Från 4 860 kr/mån. Miltal: 6 516 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: PBM612. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-pbm612</g:link>
-    <link>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-pbm612</link>
-    <url>https://borasbil.se/bilar/volvo-c40-recharge-single-motor-pbm612</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/d957873d83a74467b5a956adcd920c1a/ca5f004dc9fb44e698a21db905e4beef?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/d957873d83a74467b5a956adcd920c1a/ca5f004dc9fb44e698a21db905e4beef?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C40</model>
-    <year>2023</year>
-    <mileage>
-      <value>65160</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>309000 SEK</g:price>
-    <price>309000 SEK</price>
-    <sale_price>309000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Bogesunds Bil Ulricehamn</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
