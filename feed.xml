@@ -13873,8 +13873,8 @@
     <vehicle_registration_plate>YTT05W</vehicle_registration_plate>
     <g:title>Volvo ES90 Ultra</g:title>
     <title>Volvo ES90 Ultra</title>
-    <g:description>Ultra. Från 14 297 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: YTT05W. Kontakta oss för mer information.</g:description>
-    <description>Ultra. Från 14 297 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: YTT05W. Kontakta oss för mer information.</description>
+    <g:description>Ultra. Från 14 297 kr/mån. Miltal: 1 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: YTT05W. Kontakta oss för mer information.</g:description>
+    <description>Ultra. Från 14 297 kr/mån. Miltal: 1 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: YTT05W. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-es90-single-motor-extended-range-ytt05w</g:link>
     <link>https://borasbil.se/bilar/volvo-es90-single-motor-extended-range-ytt05w</link>
     <url>https://borasbil.se/bilar/volvo-es90-single-motor-extended-range-ytt05w</url>
@@ -13888,6 +13888,10 @@
     </image>
     <model>ES90</model>
     <year>2026</year>
+    <mileage>
+      <value>10</value>
+      <unit>KM</unit>
+    </mileage>
     <body_style>Sedan</body_style>
     <fuel_type>Electric</fuel_type>
     <transmission>Automatic</transmission>
