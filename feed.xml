@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>bb4fd117-58f1-4734-ac6f-bb47b25f001e</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>bb4fd117-58f1-4734-ac6f-bb47b25f001e</vehicle_id>
+    <vehicle_registration_plate>FCC353</vehicle_registration_plate>
+    <g:title>Polestar 2 78kWh</g:title>
+    <title>Polestar 2 78kWh</title>
+    <g:description>78kWh. Från 5 646 kr/mån. Miltal: 9 502 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: FCC353. Kontakta oss för mer information.</g:description>
+    <description>78kWh. Från 5 646 kr/mån. Miltal: 9 502 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: FCC353. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-fcc353</g:link>
+    <link>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-fcc353</link>
+    <url>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-fcc353</url>
+    <g:brand>Polestar</g:brand>
+    <brand>Polestar</brand>
+    <make>Polestar</make>
+    <g:image_link>https://cdn.wayke.se/cfit/e5cce078-8af8-4035-8889-7f53a00ca247/eaa73337-48be-4f02-af27-2b401ad67c89?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/e5cce078-8af8-4035-8889-7f53a00ca247/eaa73337-48be-4f02-af27-2b401ad67c89?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>2</model>
+    <year>2023</year>
+    <mileage>
+      <value>95020</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>359000 SEK</g:price>
+    <price>359000 SEK</price>
+    <sale_price>359000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>0a07aa46-b943-429f-9960-4b611f272255</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -3457,8 +3501,8 @@
     <vehicle_registration_plate>XRL61L</vehicle_registration_plate>
     <g:title>Volvo EX30 RWD Plus</g:title>
     <title>Volvo EX30 RWD Plus</title>
-    <g:description>RWD Plus. Från 7 848 kr/mån. Miltal: 42 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: XRL61L. Kontakta oss för mer information.</g:description>
-    <description>RWD Plus. Från 7 848 kr/mån. Miltal: 42 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: XRL61L. Kontakta oss för mer information.</description>
+    <g:description>RWD Plus. Från 7 848 kr/mån. Miltal: 138 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: XRL61L. Kontakta oss för mer information.</g:description>
+    <description>RWD Plus. Från 7 848 kr/mån. Miltal: 138 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: XRL61L. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-ex30-p5-long-range-xrl61l</g:link>
     <link>https://borasbil.se/bilar/volvo-ex30-p5-long-range-xrl61l</link>
     <url>https://borasbil.se/bilar/volvo-ex30-p5-long-range-xrl61l</url>
@@ -3473,7 +3517,7 @@
     <model>EX30</model>
     <year>2027</year>
     <mileage>
-      <value>420</value>
+      <value>1380</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
@@ -4537,8 +4581,8 @@
     <vehicle_registration_plate>TRA315</vehicle_registration_plate>
     <g:title>Volvo XC60 Recharge T6 Plus Bright Edition</g:title>
     <title>Volvo XC60 Recharge T6 Plus Bright Edition</title>
-    <g:description>Recharge T6 Plus Bright Edition. Från 7 691 kr/mån. Miltal: 7 409 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: TRA315. Kontakta oss för mer information.</g:description>
-    <description>Recharge T6 Plus Bright Edition. Från 7 691 kr/mån. Miltal: 7 409 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: TRA315. Kontakta oss för mer information.</description>
+    <g:description>Recharge T6 Plus Bright Edition. Från 7 691 kr/mån. Miltal: 7 410 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: TRA315. Kontakta oss för mer information.</g:description>
+    <description>Recharge T6 Plus Bright Edition. Från 7 691 kr/mån. Miltal: 7 410 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: TRA315. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc60-tra315</g:link>
     <link>https://borasbil.se/bilar/volvo-xc60-tra315</link>
     <url>https://borasbil.se/bilar/volvo-xc60-tra315</url>
@@ -4553,7 +4597,7 @@
     <model>XC60</model>
     <year>2024</year>
     <mileage>
-      <value>74090</value>
+      <value>74100</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
@@ -4625,8 +4669,8 @@
     <vehicle_registration_plate>KFF16U</vehicle_registration_plate>
     <g:title>Volvo XC40 Plus</g:title>
     <title>Volvo XC40 Plus</title>
-    <g:description>Plus. Från 5 646 kr/mån. Miltal: 4 962 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: KFF16U. Kontakta oss för mer information.</g:description>
-    <description>Plus. Från 5 646 kr/mån. Miltal: 4 962 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: KFF16U. Kontakta oss för mer information.</description>
+    <g:description>Plus. Från 5 646 kr/mån. Miltal: 4 999 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: KFF16U. Kontakta oss för mer information.</g:description>
+    <description>Plus. Från 5 646 kr/mån. Miltal: 4 999 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: KFF16U. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-kff16u</g:link>
     <link>https://borasbil.se/bilar/volvo-xc40-recharge-kff16u</link>
     <url>https://borasbil.se/bilar/volvo-xc40-recharge-kff16u</url>
@@ -4641,7 +4685,7 @@
     <model>XC40</model>
     <year>2023</year>
     <mileage>
-      <value>49620</value>
+      <value>49990</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
