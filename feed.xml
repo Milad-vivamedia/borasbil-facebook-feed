@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>f4b8899e-14e0-4405-ae3c-de383e6da279</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>f4b8899e-14e0-4405-ae3c-de383e6da279</vehicle_id>
+    <vehicle_registration_plate>TGR52M</vehicle_registration_plate>
+    <g:title>Volvo XC40 Plus Edt</g:title>
+    <title>Volvo XC40 Plus Edt</title>
+    <g:description>Plus Edt. Från 6 527 kr/mån. Miltal: 4 638 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Reg.nr: TGR52M. Kontakta oss för mer information.</g:description>
+    <description>Plus Edt. Från 6 527 kr/mån. Miltal: 4 638 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Reg.nr: TGR52M. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-extended-range-tgr52m</g:link>
+    <link>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-extended-range-tgr52m</link>
+    <url>https://borasbil.se/bilar/volvo-xc40-recharge-single-motor-extended-range-tgr52m</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/e7116d99-27c5-4dd2-99e2-4db3f3b6479c/29252651-9bcb-4172-b487-4849b589777f?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/e7116d99-27c5-4dd2-99e2-4db3f3b6479c/29252651-9bcb-4172-b487-4849b589777f?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC40</model>
+    <year>2024</year>
+    <mileage>
+      <value>46380</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>415000 SEK</g:price>
+    <price>415000 SEK</price>
+    <sale_price>415000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>a4e5e55b-2dde-47d7-9909-0cae1190ed45</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -5861,9 +5905,9 @@
     <g:brand>BMW</g:brand>
     <brand>BMW</brand>
     <make>BMW</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/9b5ffb63e83b4e748737f448bbf4990a/6243f662167f4691b15f86b6ba827a94?format=jpeg&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/6a553e1c64be435dbcb29984558dcb3c/f1dcd81d83544156bb788706934651a5?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/v3/9b5ffb63e83b4e748737f448bbf4990a/6243f662167f4691b15f86b6ba827a94?format=jpeg&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/6a553e1c64be435dbcb29984558dcb3c/f1dcd81d83544156bb788706934651a5?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>2 Series Active/Gran Tourer/Gran Coupé</model>
