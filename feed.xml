@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>3ba9e1c9-c519-4b54-9ce6-2a2902cf9dc1</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>3ba9e1c9-c519-4b54-9ce6-2a2902cf9dc1</vehicle_id>
+    <vehicle_registration_plate>FWA58Y</vehicle_registration_plate>
+    <g:title>Peugeot 408 GT PureTech 130 A 5-d</g:title>
+    <title>Peugeot 408 GT PureTech 130 A 5-d</title>
+    <g:description>GT PureTech 130 A 5-d. Från 4 231 kr/mån. Miltal: 1 352 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Reg.nr: FWA58Y. Kontakta oss för mer information.</g:description>
+    <description>GT PureTech 130 A 5-d. Från 4 231 kr/mån. Miltal: 1 352 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Reg.nr: FWA58Y. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/peugeot-408-fwa58y</g:link>
+    <link>https://borasbil.se/bilar/peugeot-408-fwa58y</link>
+    <url>https://borasbil.se/bilar/peugeot-408-fwa58y</url>
+    <g:brand>Peugeot</g:brand>
+    <brand>Peugeot</brand>
+    <make>Peugeot</make>
+    <g:image_link>https://cdn.wayke.se/cfit/4dd88fe0-8185-4912-abff-f172e6acb39f/8f474065-2d8d-46da-b29c-a28a7c4ff0c4?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/4dd88fe0-8185-4912-abff-f172e6acb39f/8f474065-2d8d-46da-b29c-a28a7c4ff0c4?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>408</model>
+    <year>2024</year>
+    <mileage>
+      <value>13520</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>269000 SEK</g:price>
+    <price>269000 SEK</price>
+    <sale_price>269000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>36343fbc-9051-4091-8713-8e1eeb98fd48</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -20,9 +64,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/21ee94b9aead43e0a39e02019710daac/8a2fb8f9477a430b8bc8a76608f2404b?format=jpeg&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/383a7d28-4970-41a4-9f0f-57eb9b2d62dc/1520e2bc-d280-4a06-9415-052142b55c92?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/v3/21ee94b9aead43e0a39e02019710daac/8a2fb8f9477a430b8bc8a76608f2404b?format=jpeg&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/383a7d28-4970-41a4-9f0f-57eb9b2d62dc/1520e2bc-d280-4a06-9415-052142b55c92?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC90</model>
@@ -7826,50 +7870,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>f8967a27-d827-44e6-83e0-3a3c56bd5be9</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>f8967a27-d827-44e6-83e0-3a3c56bd5be9</vehicle_id>
-    <vehicle_registration_plate>AAH27S</vehicle_registration_plate>
-    <g:title>Peugeot Partner Skåp PRO+ L2 BHDi 130 A</g:title>
-    <title>Peugeot Partner Skåp PRO+ L2 BHDi 130 A</title>
-    <g:description>Skåp PRO+ L2 BHDi 130 A. Från 3 916 kr/mån. Miltal: 6 600 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Diesel. Reg.nr: AAH27S. Kontakta oss för mer information.</g:description>
-    <description>Skåp PRO+ L2 BHDi 130 A. Från 3 916 kr/mån. Miltal: 6 600 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Diesel. Reg.nr: AAH27S. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/peugeot-partner-utokad-last-aah27s</g:link>
-    <link>https://borasbil.se/bilar/peugeot-partner-utokad-last-aah27s</link>
-    <url>https://borasbil.se/bilar/peugeot-partner-utokad-last-aah27s</url>
-    <g:brand>Peugeot</g:brand>
-    <brand>Peugeot</brand>
-    <make>Peugeot</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/44b8a74c01414c4e8ffa7d9a2cce9d13/2046f8442f684d588f113f5bafdae9fa?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/44b8a74c01414c4e8ffa7d9a2cce9d13/2046f8442f684d588f113f5bafdae9fa?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Partner</model>
-    <year>2023</year>
-    <mileage>
-      <value>66000</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>249000 SEK</g:price>
-    <price>249000 SEK</price>
-    <sale_price>249000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>9d3e9c8e-ad70-4800-b1ee-d79fcc7a5cc1</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -9680,8 +9680,8 @@
     <vehicle_registration_plate>YCC60K</vehicle_registration_plate>
     <g:title>Volvo XC90 T8 Ultra Black Edition</g:title>
     <title>Volvo XC90 T8 Ultra Black Edition</title>
-    <g:description>T8 Ultra Black Edition. Från 14 769 kr/mån. Miltal: 800 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: YCC60K. Kontakta oss för mer information.</g:description>
-    <description>T8 Ultra Black Edition. Från 14 769 kr/mån. Miltal: 800 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: YCC60K. Kontakta oss för mer information.</description>
+    <g:description>T8 Ultra Black Edition. Från 14 769 kr/mån. Miltal: 682 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: YCC60K. Kontakta oss för mer information.</g:description>
+    <description>T8 Ultra Black Edition. Från 14 769 kr/mån. Miltal: 682 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: YCC60K. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc90-ycc60k</g:link>
     <link>https://borasbil.se/bilar/volvo-xc90-ycc60k</link>
     <url>https://borasbil.se/bilar/volvo-xc90-ycc60k</url>
@@ -9696,7 +9696,7 @@
     <model>XC90</model>
     <year>2027</year>
     <mileage>
-      <value>8000</value>
+      <value>6820</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
