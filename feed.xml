@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>e9da31d1-9bb2-42f6-be9c-4142158735f4</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>e9da31d1-9bb2-42f6-be9c-4142158735f4</vehicle_id>
+    <vehicle_registration_plate>EEL14Y</vehicle_registration_plate>
+    <g:title>Volvo V90 Recharge T6 Core Edition</g:title>
+    <title>Volvo V90 Recharge T6 Core Edition</title>
+    <g:description>Recharge T6 Core Edition. Från 5 332 kr/mån. Miltal: 13 421 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: EEL14Y. Kontakta oss för mer information.</g:description>
+    <description>Recharge T6 Core Edition. Från 5 332 kr/mån. Miltal: 13 421 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: EEL14Y. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-v90-eel14y</g:link>
+    <link>https://borasbil.se/bilar/volvo-v90-eel14y</link>
+    <url>https://borasbil.se/bilar/volvo-v90-eel14y</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/13e5908f-ffa0-4579-892a-86172562af51/e0dedb37-c6bb-4385-90e8-08b256fc9575?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/13e5908f-ffa0-4579-892a-86172562af51/e0dedb37-c6bb-4385-90e8-08b256fc9575?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>V90</model>
+    <year>2024</year>
+    <mileage>
+      <value>134210</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Wagon</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>339000 SEK</g:price>
+    <price>339000 SEK</price>
+    <sale_price>339000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>3ba9e1c9-c519-4b54-9ce6-2a2902cf9dc1</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -707,8 +751,8 @@
     <vehicle_registration_plate>UYE99F</vehicle_registration_plate>
     <g:title>Volvo C40 Core</g:title>
     <title>Volvo C40 Core</title>
-    <g:description>Core. Från 4 860 kr/mån. Miltal: 8 299 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: UYE99F. Kontakta oss för mer information.</g:description>
-    <description>Core. Från 4 860 kr/mån. Miltal: 8 299 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: UYE99F. Kontakta oss för mer information.</description>
+    <g:description>Core. Från 4 860 kr/mån. Miltal: 8 306 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: UYE99F. Kontakta oss för mer information.</g:description>
+    <description>Core. Från 4 860 kr/mån. Miltal: 8 306 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: UYE99F. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-c40-recharge-uye99f</g:link>
     <link>https://borasbil.se/bilar/volvo-c40-recharge-uye99f</link>
     <url>https://borasbil.se/bilar/volvo-c40-recharge-uye99f</url>
@@ -723,7 +767,7 @@
     <model>C40</model>
     <year>2023</year>
     <mileage>
-      <value>82990</value>
+      <value>83060</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
@@ -3323,8 +3367,8 @@
     <vehicle_registration_plate>MBM93S</vehicle_registration_plate>
     <g:title>Volvo V60 Recharge T6 Inscription Expression</g:title>
     <title>Volvo V60 Recharge T6 Inscription Expression</title>
-    <g:description>Recharge T6 Inscription Expression. Från 4 545 kr/mån. Miltal: 11 845 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: MBM93S. Kontakta oss för mer information.</g:description>
-    <description>Recharge T6 Inscription Expression. Från 4 545 kr/mån. Miltal: 11 845 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: MBM93S. Kontakta oss för mer information.</description>
+    <g:description>Recharge T6 Inscription Expression. Från 4 545 kr/mån. Miltal: 11 856 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: MBM93S. Kontakta oss för mer information.</g:description>
+    <description>Recharge T6 Inscription Expression. Från 4 545 kr/mån. Miltal: 11 856 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: MBM93S. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-v60-mbm93s</g:link>
     <link>https://borasbil.se/bilar/volvo-v60-mbm93s</link>
     <url>https://borasbil.se/bilar/volvo-v60-mbm93s</url>
@@ -3339,7 +3383,7 @@
     <model>V60</model>
     <year>2021</year>
     <mileage>
-      <value>118450</value>
+      <value>118560</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Wagon</body_style>
@@ -4738,8 +4782,8 @@
     <vehicle_registration_plate>JCB67E</vehicle_registration_plate>
     <g:title>Volvo EX40 ExtendedRange Plus SE</g:title>
     <title>Volvo EX40 ExtendedRange Plus SE</title>
-    <g:description>ExtendedRange Plus SE. Från 9 401 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: JCB67E. Kontakta oss för mer information.</g:description>
-    <description>ExtendedRange Plus SE. Från 9 401 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: JCB67E. Kontakta oss för mer information.</description>
+    <g:description>ExtendedRange Plus SE. Från 9 401 kr/mån. Miltal: 5 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: JCB67E. Kontakta oss för mer information.</g:description>
+    <description>ExtendedRange Plus SE. Från 9 401 kr/mån. Miltal: 5 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: JCB67E. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-jcb67e</g:link>
     <link>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-jcb67e</link>
     <url>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-jcb67e</url>
@@ -4748,6 +4792,10 @@
     <make>Volvo</make>
     <model>EX40</model>
     <year>2027</year>
+    <mileage>
+      <value>50</value>
+      <unit>KM</unit>
+    </mileage>
     <body_style>Sedan</body_style>
     <fuel_type>Electric</fuel_type>
     <transmission>Automatic</transmission>
@@ -5525,8 +5573,8 @@
     <vehicle_registration_plate>SLY88B</vehicle_registration_plate>
     <g:title>Volvo EC40 PlusBlackSE</g:title>
     <title>Volvo EC40 PlusBlackSE</title>
-    <g:description>PlusBlackSE. Från 9 578 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: SLY88B. Kontakta oss för mer information.</g:description>
-    <description>PlusBlackSE. Från 9 578 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: SLY88B. Kontakta oss för mer information.</description>
+    <g:description>PlusBlackSE. Från 9 578 kr/mån. Miltal: 1 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: SLY88B. Kontakta oss för mer information.</g:description>
+    <description>PlusBlackSE. Från 9 578 kr/mån. Miltal: 1 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: SLY88B. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-ec40-twin-motor-performance-sly88b</g:link>
     <link>https://borasbil.se/bilar/volvo-ec40-twin-motor-performance-sly88b</link>
     <url>https://borasbil.se/bilar/volvo-ec40-twin-motor-performance-sly88b</url>
@@ -5540,6 +5588,10 @@
     </image>
     <model>EC40</model>
     <year>2027</year>
+    <mileage>
+      <value>10</value>
+      <unit>KM</unit>
+    </mileage>
     <body_style>Sedan</body_style>
     <fuel_type>Electric</fuel_type>
     <transmission>Automatic</transmission>
@@ -8518,50 +8570,6 @@
     <g:price>279000 SEK</g:price>
     <price>279000 SEK</price>
     <sale_price>279000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>687e02a9-1ed8-497a-a037-4289afc0da92</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>687e02a9-1ed8-497a-a037-4289afc0da92</vehicle_id>
-    <vehicle_registration_plate>WAL72J</vehicle_registration_plate>
-    <g:title>Lynk &amp; Co 01</g:title>
-    <title>Lynk &amp; Co 01</title>
-    <g:description>Från 4 231 kr/mån. Miltal: 4 222 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: WAL72J. Kontakta oss för mer information.</g:description>
-    <description>Från 4 231 kr/mån. Miltal: 4 222 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: WAL72J. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/lynk-co-01-phev-wal72j</g:link>
-    <link>https://borasbil.se/bilar/lynk-co-01-phev-wal72j</link>
-    <url>https://borasbil.se/bilar/lynk-co-01-phev-wal72j</url>
-    <g:brand>Lynk &amp; Co</g:brand>
-    <brand>Lynk &amp; Co</brand>
-    <make>Lynk &amp; Co</make>
-    <g:image_link>https://cdn.wayke.se/cfit/988ab472-1a7f-4ba7-a50a-fc0162b097d5/13b3735c-8af7-4413-adca-56ff930884bd?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/988ab472-1a7f-4ba7-a50a-fc0162b097d5/13b3735c-8af7-4413-adca-56ff930884bd?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>01</model>
-    <year>2023</year>
-    <mileage>
-      <value>42220</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>269000 SEK</g:price>
-    <price>269000 SEK</price>
-    <sale_price>269000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Kinna Bil</component>
       <component name="country">SE</component>
