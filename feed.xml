@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>da185721-bdb6-4597-b479-13c7e255fe90</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>da185721-bdb6-4597-b479-13c7e255fe90</vehicle_id>
+    <vehicle_registration_plate>ERA81Z</vehicle_registration_plate>
+    <g:title>Peugeot 208 Style 110 A</g:title>
+    <title>Peugeot 208 Style 110 A</title>
+    <g:description>Style 110 A. Från 3 382 kr/mån. Miltal: 4 041 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: ERA81Z. Kontakta oss för mer information.</g:description>
+    <description>Style 110 A. Från 3 382 kr/mån. Miltal: 4 041 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: ERA81Z. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/peugeot-208-hybrid-100-era81z</g:link>
+    <link>https://borasbil.se/bilar/peugeot-208-hybrid-100-era81z</link>
+    <url>https://borasbil.se/bilar/peugeot-208-hybrid-100-era81z</url>
+    <g:brand>Peugeot</g:brand>
+    <brand>Peugeot</brand>
+    <make>Peugeot</make>
+    <g:image_link>https://cdn.wayke.se/cfit/0a84d360-b934-437d-b5a7-3cd7698f0e65/671177e6-58af-4ffa-a0c6-37028367885b?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/0a84d360-b934-437d-b5a7-3cd7698f0e65/671177e6-58af-4ffa-a0c6-37028367885b?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>208</model>
+    <year>2025</year>
+    <mileage>
+      <value>40410</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>215000 SEK</g:price>
+    <price>215000 SEK</price>
+    <sale_price>215000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>f609cf7d-3554-41b6-b874-7a9ecf29bf59</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -2815,8 +2859,8 @@
     <vehicle_registration_plate>BFC28S</vehicle_registration_plate>
     <g:title>Volvo XC90 T8 Ultra Black Edition</g:title>
     <title>Volvo XC90 T8 Ultra Black Edition</title>
-    <g:description>T8 Ultra Black Edition. Från 14 926 kr/mån. Miltal: 50 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: BFC28S. Kontakta oss för mer information.</g:description>
-    <description>T8 Ultra Black Edition. Från 14 926 kr/mån. Miltal: 50 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: BFC28S. Kontakta oss för mer information.</description>
+    <g:description>T8 Ultra Black Edition. Från 14 926 kr/mån. Miltal: 1 137 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: BFC28S. Kontakta oss för mer information.</g:description>
+    <description>T8 Ultra Black Edition. Från 14 926 kr/mån. Miltal: 1 137 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: BFC28S. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc90-bfc28s</g:link>
     <link>https://borasbil.se/bilar/volvo-xc90-bfc28s</link>
     <url>https://borasbil.se/bilar/volvo-xc90-bfc28s</url>
@@ -2831,7 +2875,7 @@
     <model>XC90</model>
     <year>2027</year>
     <mileage>
-      <value>500</value>
+      <value>11370</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
@@ -2884,46 +2928,6 @@
     <g:price>609000 SEK</g:price>
     <price>609000 SEK</price>
     <sale_price>609000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Bogesunds Bil Ulricehamn</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>new</g:condition>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>d8fb7be5-b472-4f0e-94b5-e4138c1647fa</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>d8fb7be5-b472-4f0e-94b5-e4138c1647fa</vehicle_id>
-    <vehicle_registration_plate>WJZ21D</vehicle_registration_plate>
-    <g:title>Volvo EX40 ExtendedRange Plus SE</g:title>
-    <title>Volvo EX40 ExtendedRange Plus SE</title>
-    <g:description>ExtendedRange Plus SE. Från 8 635 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: WJZ21D. Kontakta oss för mer information.</g:description>
-    <description>ExtendedRange Plus SE. Från 8 635 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: WJZ21D. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-wjz21d</g:link>
-    <link>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-wjz21d</link>
-    <url>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-wjz21d</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/2c4188c0-34f5-4aa4-b992-d174fabfcb96/567ab8d4-08ea-4450-b5d7-1327531886af?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/2c4188c0-34f5-4aa4-b992-d174fabfcb96/567ab8d4-08ea-4450-b5d7-1327531886af?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>EX40</model>
-    <year>2027</year>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>549000 SEK</g:price>
-    <price>549000 SEK</price>
-    <sale_price>549000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Bogesunds Bil Ulricehamn</component>
       <component name="country">SE</component>
@@ -10469,50 +10473,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>de37317e-5197-4773-8e20-5809da07763f</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>de37317e-5197-4773-8e20-5809da07763f</vehicle_id>
-    <vehicle_registration_plate>CBN12D</vehicle_registration_plate>
-    <g:title>Lynk &amp; Co 01</g:title>
-    <title>Lynk &amp; Co 01</title>
-    <g:description>Från 4 231 kr/mån. Miltal: 2 171 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: CBN12D. Kontakta oss för mer information.</g:description>
-    <description>Från 4 231 kr/mån. Miltal: 2 171 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: CBN12D. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/lynk-co-01-phev-cbn12d</g:link>
-    <link>https://borasbil.se/bilar/lynk-co-01-phev-cbn12d</link>
-    <url>https://borasbil.se/bilar/lynk-co-01-phev-cbn12d</url>
-    <g:brand>Lynk &amp; Co</g:brand>
-    <brand>Lynk &amp; Co</brand>
-    <make>Lynk &amp; Co</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/262bb85765b3489b8c4a54f8de8202b7/66708675a75a4ed4b3faf2fa268338d5?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/262bb85765b3489b8c4a54f8de8202b7/66708675a75a4ed4b3faf2fa268338d5?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>01</model>
-    <year>2023</year>
-    <mileage>
-      <value>21710</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>269000 SEK</g:price>
-    <price>269000 SEK</price>
-    <sale_price>269000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>a4bcf1a5-e003-4cf1-922e-685e408bbe72</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -12288,50 +12248,6 @@
     <state_of_vehicle>NEW</state_of_vehicle>
     </item>
     <item>
-    <g:id>5f4b4987-1443-4211-aeaf-e6c6d8314ec4</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>5f4b4987-1443-4211-aeaf-e6c6d8314ec4</vehicle_id>
-    <vehicle_registration_plate>WCF61L</vehicle_registration_plate>
-    <g:title>Volvo V60 T6 Plus Dark Nordic Edition</g:title>
-    <title>Volvo V60 T6 Plus Dark Nordic Edition</title>
-    <g:description>T6 Plus Dark Nordic Edition. Från 7 376 kr/mån. Miltal: 1 505 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: WCF61L. Kontakta oss för mer information.</g:description>
-    <description>T6 Plus Dark Nordic Edition. Från 7 376 kr/mån. Miltal: 1 505 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: WCF61L. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-v60-wcf61l</g:link>
-    <link>https://borasbil.se/bilar/volvo-v60-wcf61l</link>
-    <url>https://borasbil.se/bilar/volvo-v60-wcf61l</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/a67597b1f7e9487a95768f1986cb237a/830616cde60d4431a2fd29b6c5ab8670?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/a67597b1f7e9487a95768f1986cb237a/830616cde60d4431a2fd29b6c5ab8670?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V60</model>
-    <year>2026</year>
-    <mileage>
-      <value>15050</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>469000 SEK</g:price>
-    <price>469000 SEK</price>
-    <sale_price>469000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Bogesunds Bil Ulricehamn</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>new</g:condition>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    </item>
-    <item>
     <g:id>db37c2af-2c10-4dca-8f12-c16a9295f510</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -13862,8 +13778,8 @@
     <vehicle_registration_plate>TJF15S</vehicle_registration_plate>
     <g:title>Peugeot 308 FL Allure A 5-d Kombi</g:title>
     <title>Peugeot 308 FL Allure A 5-d Kombi</title>
-    <g:description>FL Allure A 5-d Kombi. Från 5 017 kr/mån. Miltal: 1 100 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: TJF15S. Kontakta oss för mer information.</g:description>
-    <description>FL Allure A 5-d Kombi. Från 5 017 kr/mån. Miltal: 1 100 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: TJF15S. Kontakta oss för mer information.</description>
+    <g:description>FL Allure A 5-d Kombi. Från 4 703 kr/mån. Miltal: 1 070 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: TJF15S. Kontakta oss för mer information.</g:description>
+    <description>FL Allure A 5-d Kombi. Från 4 703 kr/mån. Miltal: 1 070 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: TJF15S. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/peugeot-308-sw-hybrid-145-tjf15s</g:link>
     <link>https://borasbil.se/bilar/peugeot-308-sw-hybrid-145-tjf15s</link>
     <url>https://borasbil.se/bilar/peugeot-308-sw-hybrid-145-tjf15s</url>
@@ -13878,15 +13794,15 @@
     <model>308</model>
     <year>2025</year>
     <mileage>
-      <value>11000</value>
+      <value>10700</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
     <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>319000 SEK</g:price>
-    <price>319000 SEK</price>
-    <sale_price>319000 SEK</sale_price>
+    <g:price>299000 SEK</g:price>
+    <price>299000 SEK</price>
+    <sale_price>299000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Borås Bil</component>
       <component name="country">SE</component>
