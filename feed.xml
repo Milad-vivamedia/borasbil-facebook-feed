@@ -496,8 +496,8 @@
     <vehicle_registration_plate>EAG88E</vehicle_registration_plate>
     <g:title>Citroën Jumpy Skåp Business L3 BHDi 145 A FL</g:title>
     <title>Citroën Jumpy Skåp Business L3 BHDi 145 A FL</title>
-    <g:description>Skåp Business L3 BHDi 145 A FL. Från 6 433 kr/mån. Miltal: 184 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Diesel. Reg.nr: EAG88E. Kontakta oss för mer information.</g:description>
-    <description>Skåp Business L3 BHDi 145 A FL. Från 6 433 kr/mån. Miltal: 184 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Diesel. Reg.nr: EAG88E. Kontakta oss för mer information.</description>
+    <g:description>Skåp Business L3 BHDi 145 A FL. Från 6 590 kr/mån. Miltal: 184 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Diesel. Reg.nr: EAG88E. Kontakta oss för mer information.</g:description>
+    <description>Skåp Business L3 BHDi 145 A FL. Från 6 590 kr/mån. Miltal: 184 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Diesel. Reg.nr: EAG88E. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/citroen-jumpy-van-long-eag88e</g:link>
     <link>https://borasbil.se/bilar/citroen-jumpy-van-long-eag88e</link>
     <url>https://borasbil.se/bilar/citroen-jumpy-van-long-eag88e</url>
@@ -518,9 +518,9 @@
     <body_style>Sedan</body_style>
     <fuel_type>Diesel</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>409000 SEK</g:price>
-    <price>409000 SEK</price>
-    <sale_price>409000 SEK</sale_price>
+    <g:price>419000 SEK</g:price>
+    <price>419000 SEK</price>
+    <sale_price>419000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Borås Bil</component>
       <component name="country">SE</component>
@@ -2358,6 +2358,46 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
+    <g:id>b9c11fdf-8227-48a4-b7cd-37a25488c751</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>b9c11fdf-8227-48a4-b7cd-37a25488c751</vehicle_id>
+    <vehicle_registration_plate>DTK98G</vehicle_registration_plate>
+    <g:title>Volvo EX30 RWD Core</g:title>
+    <title>Volvo EX30 RWD Core</title>
+    <g:description>RWD Core. Från 7 376 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: DTK98G. Kontakta oss för mer information.</g:description>
+    <description>RWD Core. Från 7 376 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: DTK98G. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-ex30-p5-long-range-dtk98g</g:link>
+    <link>https://borasbil.se/bilar/volvo-ex30-p5-long-range-dtk98g</link>
+    <url>https://borasbil.se/bilar/volvo-ex30-p5-long-range-dtk98g</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/0a406f12c17d41798d41d59851e2ea94/7cf781bccd4d485ea6a19dab61b256d8?format=jpeg&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/0a406f12c17d41798d41d59851e2ea94/7cf781bccd4d485ea6a19dab61b256d8?format=jpeg&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>EX30</model>
+    <year>2027</year>
+    <body_style>SUV</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>469000 SEK</g:price>
+    <price>469000 SEK</price>
+    <sale_price>469000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    </item>
+    <item>
     <g:id>4e24f589-61d0-48de-a777-4a4be015274a</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -3962,50 +4002,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>0bb4aead-2893-4529-b50a-f8f49b1bb219</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>0bb4aead-2893-4529-b50a-f8f49b1bb219</vehicle_id>
-    <vehicle_registration_plate>ZAP10H</vehicle_registration_plate>
-    <g:title>Volvo XC60 Recharge T6 Core Bright</g:title>
-    <title>Volvo XC60 Recharge T6 Core Bright</title>
-    <g:description>Recharge T6 Core Bright. Från 6 747 kr/mån. Miltal: 7 688 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: ZAP10H. Kontakta oss för mer information.</g:description>
-    <description>Recharge T6 Core Bright. Från 6 747 kr/mån. Miltal: 7 688 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: ZAP10H. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc60-zap10h</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc60-zap10h</link>
-    <url>https://borasbil.se/bilar/volvo-xc60-zap10h</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/855cb46b756e489f9e76ffb02b3478e5/77c5763ecee64cb883d7a89a26aab10f?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/855cb46b756e489f9e76ffb02b3478e5/77c5763ecee64cb883d7a89a26aab10f?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2023</year>
-    <mileage>
-      <value>76880</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>429000 SEK</g:price>
-    <price>429000 SEK</price>
-    <sale_price>429000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -13232,50 +13228,6 @@
     <state_of_vehicle>NEW</state_of_vehicle>
     </item>
     <item>
-    <g:id>b43c7b36-7b4e-4330-91be-ffbe0926357f</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>b43c7b36-7b4e-4330-91be-ffbe0926357f</vehicle_id>
-    <vehicle_registration_plate>CTW49F</vehicle_registration_plate>
-    <g:title>Volvo EX30 Plus</g:title>
-    <title>Volvo EX30 Plus</title>
-    <g:description>Plus. Från 6 905 kr/mån. Miltal: 317 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: CTW49F. Kontakta oss för mer information.</g:description>
-    <description>Plus. Från 6 905 kr/mån. Miltal: 317 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: CTW49F. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-ex30-single-motor-extended-range-ctw49f</g:link>
-    <link>https://borasbil.se/bilar/volvo-ex30-single-motor-extended-range-ctw49f</link>
-    <url>https://borasbil.se/bilar/volvo-ex30-single-motor-extended-range-ctw49f</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/8749c5de-0ca1-454e-ba09-f1e9826757c6/0923e616-0662-45ed-b1e9-dbbdb5344fe8?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/8749c5de-0ca1-454e-ba09-f1e9826757c6/0923e616-0662-45ed-b1e9-dbbdb5344fe8?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>EX30</model>
-    <year>2026</year>
-    <mileage>
-      <value>3170</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>439000 SEK</g:price>
-    <price>439000 SEK</price>
-    <sale_price>439000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>new</g:condition>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    </item>
-    <item>
     <g:id>ceda247d-7177-4551-87b0-4ad5838d23b6</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -15234,8 +15186,8 @@
     <vehicle_registration_plate>EAX08B</vehicle_registration_plate>
     <g:title>Volvo EX30 Plus</g:title>
     <title>Volvo EX30 Plus</title>
-    <g:description>Plus. Från 6 275 kr/mån. Miltal: 650 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: EAX08B. Kontakta oss för mer information.</g:description>
-    <description>Plus. Från 6 275 kr/mån. Miltal: 650 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: EAX08B. Kontakta oss för mer information.</description>
+    <g:description>Plus. Från 6 433 kr/mån. Miltal: 650 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: EAX08B. Kontakta oss för mer information.</g:description>
+    <description>Plus. Från 6 433 kr/mån. Miltal: 650 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: EAX08B. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-ex30-single-motor-extended-range-eax08b</g:link>
     <link>https://borasbil.se/bilar/volvo-ex30-single-motor-extended-range-eax08b</link>
     <url>https://borasbil.se/bilar/volvo-ex30-single-motor-extended-range-eax08b</url>
@@ -15256,9 +15208,9 @@
     <body_style>SUV</body_style>
     <fuel_type>Electric</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>399000 SEK</g:price>
-    <price>399000 SEK</price>
-    <sale_price>399000 SEK</sale_price>
+    <g:price>409000 SEK</g:price>
+    <price>409000 SEK</price>
+    <sale_price>409000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Borås Bil</component>
       <component name="country">SE</component>
