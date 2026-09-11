@@ -5,6 +5,182 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>8fcca5ab-c9f8-4b25-8bad-9da0cbe3572e</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>8fcca5ab-c9f8-4b25-8bad-9da0cbe3572e</vehicle_id>
+    <vehicle_registration_plate>TBM51P</vehicle_registration_plate>
+    <g:title>Citroën C4 SHINE Pure Tech 130 A 5-d</g:title>
+    <title>Citroën C4 SHINE Pure Tech 130 A 5-d</title>
+    <g:description>SHINE Pure Tech 130 A 5-d. Från 2 973 kr/mån. Miltal: 2 372 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: TBM51P. Kontakta oss för mer information.</g:description>
+    <description>SHINE Pure Tech 130 A 5-d. Från 2 973 kr/mån. Miltal: 2 372 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: TBM51P. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/citroen-c4-tbm51p</g:link>
+    <link>https://borasbil.se/bilar/citroen-c4-tbm51p</link>
+    <url>https://borasbil.se/bilar/citroen-c4-tbm51p</url>
+    <g:brand>Citroën</g:brand>
+    <brand>Citroën</brand>
+    <make>Citroën</make>
+    <g:image_link>https://cdn.wayke.se/cfit/4f9cb2da-17ff-4182-b276-657264c92e36/7922e6cf-fed4-4657-aaea-7ef5762ba9a6?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/4f9cb2da-17ff-4182-b276-657264c92e36/7922e6cf-fed4-4657-aaea-7ef5762ba9a6?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>C4</model>
+    <year>2023</year>
+    <mileage>
+      <value>23720</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>189000 SEK</g:price>
+    <price>189000 SEK</price>
+    <sale_price>189000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Bogesunds Bil Ulricehamn</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>da193959-8c03-409a-a29f-b81e79669c63</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>da193959-8c03-409a-a29f-b81e79669c63</vehicle_id>
+    <vehicle_registration_plate>YJA97S</vehicle_registration_plate>
+    <g:title>Volvo EX90 Ultra 7-sätes</g:title>
+    <title>Volvo EX90 Ultra 7-sätes</title>
+    <g:description>Ultra 7-sätes. Från 11 780 kr/mån. Miltal: 6 319 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: YJA97S. Kontakta oss för mer information.</g:description>
+    <description>Ultra 7-sätes. Från 11 780 kr/mån. Miltal: 6 319 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: YJA97S. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-ex90-twin-motor-yja97s</g:link>
+    <link>https://borasbil.se/bilar/volvo-ex90-twin-motor-yja97s</link>
+    <url>https://borasbil.se/bilar/volvo-ex90-twin-motor-yja97s</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/84076687-cb8f-4436-83d8-1eae77936f2d/9a4b4731-99fc-4b84-b5b3-131d45b351d3?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/84076687-cb8f-4436-83d8-1eae77936f2d/9a4b4731-99fc-4b84-b5b3-131d45b351d3?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>EX90</model>
+    <year>2025</year>
+    <mileage>
+      <value>63190</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>749000 SEK</g:price>
+    <price>749000 SEK</price>
+    <sale_price>749000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>9b8f0f9c-6c29-428e-8127-2d5c66527369</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>9b8f0f9c-6c29-428e-8127-2d5c66527369</vehicle_id>
+    <vehicle_registration_plate>WSS21D</vehicle_registration_plate>
+    <g:title>Peugeot 3008 GT Edition PureTech 130 A</g:title>
+    <title>Peugeot 3008 GT Edition PureTech 130 A</title>
+    <g:description>GT Edition PureTech 130 A. Från 3 287 kr/mån. Miltal: 8 958 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: WSS21D. Kontakta oss för mer information.</g:description>
+    <description>GT Edition PureTech 130 A. Från 3 287 kr/mån. Miltal: 8 958 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: WSS21D. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/peugeot-3008-wss21d</g:link>
+    <link>https://borasbil.se/bilar/peugeot-3008-wss21d</link>
+    <url>https://borasbil.se/bilar/peugeot-3008-wss21d</url>
+    <g:brand>Peugeot</g:brand>
+    <brand>Peugeot</brand>
+    <make>Peugeot</make>
+    <g:image_link>https://cdn.wayke.se/cfit/758e5eef-01fe-46ad-b5dc-f881a9562894/7778effa-e25d-4c2d-818b-ab947b4bf324?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/758e5eef-01fe-46ad-b5dc-f881a9562894/7778effa-e25d-4c2d-818b-ab947b4bf324?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>3008</model>
+    <year>2023</year>
+    <mileage>
+      <value>89580</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>209000 SEK</g:price>
+    <price>209000 SEK</price>
+    <sale_price>209000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>9173151c-a4a3-4cdd-b54b-2a88153d7051</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>9173151c-a4a3-4cdd-b54b-2a88153d7051</vehicle_id>
+    <vehicle_registration_plate>ALF81Z</vehicle_registration_plate>
+    <g:title>Peugeot 3008 GT Edition PureTech 130 A</g:title>
+    <title>Peugeot 3008 GT Edition PureTech 130 A</title>
+    <g:description>GT Edition PureTech 130 A. Från 3 382 kr/mån. Miltal: 4 494 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: ALF81Z. Kontakta oss för mer information.</g:description>
+    <description>GT Edition PureTech 130 A. Från 3 382 kr/mån. Miltal: 4 494 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: ALF81Z. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/peugeot-3008-alf81z</g:link>
+    <link>https://borasbil.se/bilar/peugeot-3008-alf81z</link>
+    <url>https://borasbil.se/bilar/peugeot-3008-alf81z</url>
+    <g:brand>Peugeot</g:brand>
+    <brand>Peugeot</brand>
+    <make>Peugeot</make>
+    <g:image_link>https://cdn.wayke.se/cfit/ea4ecea8-9899-45fc-90bf-d410c3c2d7ac/008ea807-83ae-462e-b479-d52dc47d6750?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/ea4ecea8-9899-45fc-90bf-d410c3c2d7ac/008ea807-83ae-462e-b479-d52dc47d6750?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>3008</model>
+    <year>2023</year>
+    <mileage>
+      <value>44940</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>215000 SEK</g:price>
+    <price>215000 SEK</price>
+    <sale_price>215000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>00a0b0fc-4d12-4a85-8c6b-059841ecb640</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -4764,9 +4940,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/f7fff74b-0ff2-4461-80ad-7e67ab092c4c/ec60880c-eef7-4673-8db5-8f9f040ca196?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/430f83f0-ded2-4447-9538-af11e12e5248/2a80fc07-e40a-4a79-b1cf-940a5d7d4099?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/f7fff74b-0ff2-4461-80ad-7e67ab092c4c/ec60880c-eef7-4673-8db5-8f9f040ca196?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/430f83f0-ded2-4447-9538-af11e12e5248/2a80fc07-e40a-4a79-b1cf-940a5d7d4099?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC60</model>
