@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>ddbdfbab-b621-4434-9caf-a7e0005754c0</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>ddbdfbab-b621-4434-9caf-a7e0005754c0</vehicle_id>
+    <vehicle_registration_plate>ORR014</vehicle_registration_plate>
+    <g:title>Volvo V60 Recharge T6 Core Edition</g:title>
+    <title>Volvo V60 Recharge T6 Core Edition</title>
+    <g:description>Recharge T6 Core Edition. Från 6 118 kr/mån. Miltal: 7 920 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: ORR014. Kontakta oss för mer information.</g:description>
+    <description>Recharge T6 Core Edition. Från 6 118 kr/mån. Miltal: 7 920 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: ORR014. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-v60-orr014</g:link>
+    <link>https://borasbil.se/bilar/volvo-v60-orr014</link>
+    <url>https://borasbil.se/bilar/volvo-v60-orr014</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/e197ac9ec1174f6db1d4d27f1abd4aaa/90adb6e3b1aa4f1580a2219c052ebe91?format=jpeg&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/e197ac9ec1174f6db1d4d27f1abd4aaa/90adb6e3b1aa4f1580a2219c052ebe91?format=jpeg&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>V60</model>
+    <year>2024</year>
+    <mileage>
+      <value>79200</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Wagon</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>389000 SEK</g:price>
+    <price>389000 SEK</price>
+    <sale_price>389000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>b3079c12-05e6-4f95-adfd-8ac1e82cf9ad</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -5120,50 +5164,6 @@
     <g:price>349000 SEK</g:price>
     <price>349000 SEK</price>
     <sale_price>349000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>c1f72e84-7b49-404f-9943-9d1333ff3d6f</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>c1f72e84-7b49-404f-9943-9d1333ff3d6f</vehicle_id>
-    <vehicle_registration_plate>DNW00T</vehicle_registration_plate>
-    <g:title>Volvo V90 Recharge T6 Core Edition</g:title>
-    <title>Volvo V90 Recharge T6 Core Edition</title>
-    <g:description>Recharge T6 Core Edition. Från 5 017 kr/mån. Miltal: 14 515 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: DNW00T. Kontakta oss för mer information.</g:description>
-    <description>Recharge T6 Core Edition. Från 5 017 kr/mån. Miltal: 14 515 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: DNW00T. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-v90-dnw00t</g:link>
-    <link>https://borasbil.se/bilar/volvo-v90-dnw00t</link>
-    <url>https://borasbil.se/bilar/volvo-v90-dnw00t</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/13e1b3babb5c4a7481bb1150ead69df6/163105b7551a4113981631157f7bb687?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/13e1b3babb5c4a7481bb1150ead69df6/163105b7551a4113981631157f7bb687?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V90</model>
-    <year>2023</year>
-    <mileage>
-      <value>145150</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>319000 SEK</g:price>
-    <price>319000 SEK</price>
-    <sale_price>319000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Kinna Bil</component>
       <component name="country">SE</component>
@@ -10686,50 +10686,6 @@
     <g:price>279000 SEK</g:price>
     <price>279000 SEK</price>
     <sale_price>279000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>fad8e117-5c93-4caa-9d2b-6cf649592faa</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>fad8e117-5c93-4caa-9d2b-6cf649592faa</vehicle_id>
-    <vehicle_registration_plate>ORR014</vehicle_registration_plate>
-    <g:title>Volvo V60 Recharge T6 Core Edition</g:title>
-    <title>Volvo V60 Recharge T6 Core Edition</title>
-    <g:description>Recharge T6 Core Edition. Från 6 118 kr/mån. Miltal: 7 920 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: ORR014. Kontakta oss för mer information.</g:description>
-    <description>Recharge T6 Core Edition. Från 6 118 kr/mån. Miltal: 7 920 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: ORR014. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-v60-orr014</g:link>
-    <link>https://borasbil.se/bilar/volvo-v60-orr014</link>
-    <url>https://borasbil.se/bilar/volvo-v60-orr014</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/831a1c2c4b2b4335bf07db277da00ed8/a0d1e3c04d48413abc4853a3544b6f0f?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/831a1c2c4b2b4335bf07db277da00ed8/a0d1e3c04d48413abc4853a3544b6f0f?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V60</model>
-    <year>2024</year>
-    <mileage>
-      <value>79200</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>389000 SEK</g:price>
-    <price>389000 SEK</price>
-    <sale_price>389000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Kinna Bil</component>
       <component name="country">SE</component>
