@@ -5,6 +5,337 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>5e46e446-b68f-4a10-9fab-5951f9ae8ca1</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>5e46e446-b68f-4a10-9fab-5951f9ae8ca1</vehicle_id>
+    <vehicle_registration_plate>KJG16U</vehicle_registration_plate>
+    <g:title>Volvo V60 T6 Plus Dark Nordic Edition - - Vinterhjul Ingår</g:title>
+    <title>Volvo V60 T6 Plus Dark Nordic Edition - - Vinterhjul Ingår</title>
+    <g:description>T6 Plus Dark Nordic Edition - - Vinterhjul Ingår. Från 9 106 kr/mån. Miltal: 150 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: KJG16U. Kontakta oss för mer information.</g:description>
+    <description>T6 Plus Dark Nordic Edition - - Vinterhjul Ingår. Från 9 106 kr/mån. Miltal: 150 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: KJG16U. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-v60-kjg16u</g:link>
+    <link>https://borasbil.se/bilar/volvo-v60-kjg16u</link>
+    <url>https://borasbil.se/bilar/volvo-v60-kjg16u</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/07bf9be0-20b5-43a7-9f84-127841d5c125/14351966-baa4-4961-bf78-4d8a717324dd?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/07bf9be0-20b5-43a7-9f84-127841d5c125/14351966-baa4-4961-bf78-4d8a717324dd?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>V60</model>
+    <year>2027</year>
+    <mileage>
+      <value>1500</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Wagon</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>579000 SEK</g:price>
+    <price>579000 SEK</price>
+    <sale_price>579000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>275ab301-cf79-4989-9a86-3ee7ad27bf7e</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>275ab301-cf79-4989-9a86-3ee7ad27bf7e</vehicle_id>
+    <vehicle_registration_plate>KJP04A</vehicle_registration_plate>
+    <g:title>Volvo XC90 T8 Ultra Dark</g:title>
+    <title>Volvo XC90 T8 Ultra Dark</title>
+    <g:description>T8 Ultra Dark. Från 14 769 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: KJP04A. Kontakta oss för mer information.</g:description>
+    <description>T8 Ultra Dark. Från 14 769 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: KJP04A. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-xc90-kjp04a</g:link>
+    <link>https://borasbil.se/bilar/volvo-xc90-kjp04a</link>
+    <url>https://borasbil.se/bilar/volvo-xc90-kjp04a</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/b79b4d97144b44b29dda49bef769a81e/c0268a944f8d4abeb55a234a4670092b?format=jpeg&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/b79b4d97144b44b29dda49bef769a81e/c0268a944f8d4abeb55a234a4670092b?format=jpeg&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC90</model>
+    <year>2026</year>
+    <body_style>SUV</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>939000 SEK</g:price>
+    <price>939000 SEK</price>
+    <sale_price>939000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>9de63b9a-5032-417f-ba15-f46fa4d5c168</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>9de63b9a-5032-417f-ba15-f46fa4d5c168</vehicle_id>
+    <vehicle_registration_plate>SYH05Y</vehicle_registration_plate>
+    <g:title>Volvo XC90 T8 Ultra Dark</g:title>
+    <title>Volvo XC90 T8 Ultra Dark</title>
+    <g:description>T8 Ultra Dark. Från 15 712 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: SYH05Y. Kontakta oss för mer information.</g:description>
+    <description>T8 Ultra Dark. Från 15 712 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: SYH05Y. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-xc90-syh05y</g:link>
+    <link>https://borasbil.se/bilar/volvo-xc90-syh05y</link>
+    <url>https://borasbil.se/bilar/volvo-xc90-syh05y</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/bfb95866a4fa4091a1bcea78f2196852/f1ff9cec11a44db79ef18ed85da3e49d?format=jpeg&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/bfb95866a4fa4091a1bcea78f2196852/f1ff9cec11a44db79ef18ed85da3e49d?format=jpeg&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC90</model>
+    <year>2027</year>
+    <body_style>SUV</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>999000 SEK</g:price>
+    <price>999000 SEK</price>
+    <sale_price>999000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>3b2cf9fe-6e7c-4acf-9e15-27775976c1fd</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>3b2cf9fe-6e7c-4acf-9e15-27775976c1fd</vehicle_id>
+    <vehicle_registration_plate>GWH47N</vehicle_registration_plate>
+    <g:title>Volvo XC90 T8 Ultra Dark</g:title>
+    <title>Volvo XC90 T8 Ultra Dark</title>
+    <g:description>T8 Ultra Dark. Från 15 712 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: GWH47N. Kontakta oss för mer information.</g:description>
+    <description>T8 Ultra Dark. Från 15 712 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: GWH47N. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-xc90-gwh47n</g:link>
+    <link>https://borasbil.se/bilar/volvo-xc90-gwh47n</link>
+    <url>https://borasbil.se/bilar/volvo-xc90-gwh47n</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/1dc07108fc2a42c1a2e4a3bd7c275015/4e03d5384b794764a99fa321912fa679?format=jpeg&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/1dc07108fc2a42c1a2e4a3bd7c275015/4e03d5384b794764a99fa321912fa679?format=jpeg&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC90</model>
+    <year>2027</year>
+    <body_style>SUV</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>999000 SEK</g:price>
+    <price>999000 SEK</price>
+    <sale_price>999000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>4de7ee7d-74ef-4526-814c-992468beeed7</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>4de7ee7d-74ef-4526-814c-992468beeed7</vehicle_id>
+    <vehicle_registration_plate>XLP06T</vehicle_registration_plate>
+    <g:title>Volvo XC90 T8 Ultra Dark</g:title>
+    <title>Volvo XC90 T8 Ultra Dark</title>
+    <g:description>T8 Ultra Dark. Från 14 769 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: XLP06T. Kontakta oss för mer information.</g:description>
+    <description>T8 Ultra Dark. Från 14 769 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: XLP06T. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-xc90-xlp06t</g:link>
+    <link>https://borasbil.se/bilar/volvo-xc90-xlp06t</link>
+    <url>https://borasbil.se/bilar/volvo-xc90-xlp06t</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <model>XC90</model>
+    <year>2026</year>
+    <body_style>SUV</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>939000 SEK</g:price>
+    <price>939000 SEK</price>
+    <sale_price>939000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>389c69cd-df1b-4952-898f-69bc6bea867f</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>389c69cd-df1b-4952-898f-69bc6bea867f</vehicle_id>
+    <vehicle_registration_plate>RED41A</vehicle_registration_plate>
+    <g:title>Volvo ES90 Ultra</g:title>
+    <title>Volvo ES90 Ultra</title>
+    <g:description>Ultra. Från 11 780 kr/mån. Miltal: 598 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: RED41A. Kontakta oss för mer information.</g:description>
+    <description>Ultra. Från 11 780 kr/mån. Miltal: 598 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: RED41A. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-es90-single-motor-extended-range-red41a</g:link>
+    <link>https://borasbil.se/bilar/volvo-es90-single-motor-extended-range-red41a</link>
+    <url>https://borasbil.se/bilar/volvo-es90-single-motor-extended-range-red41a</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/3902557a-e447-48c2-89ce-fa13d5b9ea05/c6ee0412-2acc-4b09-930e-e67563ea91ba?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/3902557a-e447-48c2-89ce-fa13d5b9ea05/c6ee0412-2acc-4b09-930e-e67563ea91ba?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>ES90</model>
+    <year>2026</year>
+    <mileage>
+      <value>5980</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>749000 SEK</g:price>
+    <price>749000 SEK</price>
+    <sale_price>749000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>e6c957e3-ee34-4418-be6a-78fd7fec78c2</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>e6c957e3-ee34-4418-be6a-78fd7fec78c2</vehicle_id>
+    <vehicle_registration_plate>WCG94E</vehicle_registration_plate>
+    <g:title>Volvo ES90 Ultra</g:title>
+    <title>Volvo ES90 Ultra</title>
+    <g:description>Ultra. Från 11 780 kr/mån. Miltal: 995 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: WCG94E. Kontakta oss för mer information.</g:description>
+    <description>Ultra. Från 11 780 kr/mån. Miltal: 995 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: WCG94E. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-es90-single-motor-extended-range-wcg94e</g:link>
+    <link>https://borasbil.se/bilar/volvo-es90-single-motor-extended-range-wcg94e</link>
+    <url>https://borasbil.se/bilar/volvo-es90-single-motor-extended-range-wcg94e</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/2a594ccf6530490084312ab7098d0fc8/b4cc2eda917f447286f4c7e5c0f1c018?format=jpeg&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/2a594ccf6530490084312ab7098d0fc8/b4cc2eda917f447286f4c7e5c0f1c018?format=jpeg&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>ES90</model>
+    <year>2026</year>
+    <mileage>
+      <value>9950</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>749000 SEK</g:price>
+    <price>749000 SEK</price>
+    <sale_price>749000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>e8383d61-19cf-4f73-931a-4e6561a6e236</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>e8383d61-19cf-4f73-931a-4e6561a6e236</vehicle_id>
+    <vehicle_registration_plate>RBT80E</vehicle_registration_plate>
+    <g:title>Volvo V90 T6 Plus Dark Edition</g:title>
+    <title>Volvo V90 T6 Plus Dark Edition</title>
+    <g:description>T6 Plus Dark Edition. Från 7 219 kr/mån. Miltal: 4 293 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: RBT80E. Kontakta oss för mer information.</g:description>
+    <description>T6 Plus Dark Edition. Från 7 219 kr/mån. Miltal: 4 293 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: RBT80E. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-v90-rbt80e</g:link>
+    <link>https://borasbil.se/bilar/volvo-v90-rbt80e</link>
+    <url>https://borasbil.se/bilar/volvo-v90-rbt80e</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/e0438b5d-2fff-4d9e-b5ea-d2bf919e8ce8/7ac862f7-65ce-46be-ae31-d3f65fa35afd?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/e0438b5d-2fff-4d9e-b5ea-d2bf919e8ce8/7ac862f7-65ce-46be-ae31-d3f65fa35afd?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>V90</model>
+    <year>2025</year>
+    <mileage>
+      <value>42930</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Wagon</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>459000 SEK</g:price>
+    <price>459000 SEK</price>
+    <sale_price>459000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>0ddd67dc-1f55-4ba4-a2be-903bee7eede8</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -12,8 +343,8 @@
     <vehicle_registration_plate>FPY18R</vehicle_registration_plate>
     <g:title>Volvo XC90 II T8 Ultra Dark</g:title>
     <title>Volvo XC90 II T8 Ultra Dark</title>
-    <g:description>II T8 Ultra Dark. Från 13 982 kr/mån. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: FPY18R. Kontakta oss för mer information.</g:description>
-    <description>II T8 Ultra Dark. Från 13 982 kr/mån. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: FPY18R. Kontakta oss för mer information.</description>
+    <g:description>II T8 Ultra Dark. Från 13 825 kr/mån. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: FPY18R. Kontakta oss för mer information.</g:description>
+    <description>II T8 Ultra Dark. Från 13 825 kr/mån. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: FPY18R. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc90-7-saten-fpy18r</g:link>
     <link>https://borasbil.se/bilar/volvo-xc90-7-saten-fpy18r</link>
     <url>https://borasbil.se/bilar/volvo-xc90-7-saten-fpy18r</url>
@@ -30,9 +361,9 @@
     <body_style>SUV</body_style>
     <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>889000 SEK</g:price>
-    <price>889000 SEK</price>
-    <sale_price>889000 SEK</sale_price>
+    <g:price>879000 SEK</g:price>
+    <price>879000 SEK</price>
+    <sale_price>879000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Bogesunds Bil Ulricehamn</component>
       <component name="country">SE</component>
@@ -52,8 +383,8 @@
     <vehicle_registration_plate>RCZ90G</vehicle_registration_plate>
     <g:title>Volvo XC90 T8 Ultra Black Edition</g:title>
     <title>Volvo XC90 T8 Ultra Black Edition</title>
-    <g:description>T8 Ultra Black Edition. Från 16 813 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: RCZ90G. Kontakta oss för mer information.</g:description>
-    <description>T8 Ultra Black Edition. Från 16 813 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: RCZ90G. Kontakta oss för mer information.</description>
+    <g:description>T8 Ultra Black Edition. Från 16 499 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: RCZ90G. Kontakta oss för mer information.</g:description>
+    <description>T8 Ultra Black Edition. Från 16 499 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: RCZ90G. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc90-rcz90g</g:link>
     <link>https://borasbil.se/bilar/volvo-xc90-rcz90g</link>
     <url>https://borasbil.se/bilar/volvo-xc90-rcz90g</url>
@@ -70,9 +401,9 @@
     <body_style>SUV</body_style>
     <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>1069000 SEK</g:price>
-    <price>1069000 SEK</price>
-    <sale_price>1069000 SEK</sale_price>
+    <g:price>1049000 SEK</g:price>
+    <price>1049000 SEK</price>
+    <sale_price>1049000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Bogesunds Bil Ulricehamn</component>
       <component name="country">SE</component>
@@ -580,9 +911,9 @@
     <g:brand>Peugeot</g:brand>
     <brand>Peugeot</brand>
     <make>Peugeot</make>
-    <g:image_link>https://cdn.wayke.se/cfit/e3489701-f111-48e3-9e4d-9a759efdd201/33aa9237-79ad-4520-a202-e3d9df9cbc38?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/ca85994c846a4410b762ccb34695b2dd/7c4d7bb2e2d94c39a8dda28b89996c70?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/e3489701-f111-48e3-9e4d-9a759efdd201/33aa9237-79ad-4520-a202-e3d9df9cbc38?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/ca85994c846a4410b762ccb34695b2dd/7c4d7bb2e2d94c39a8dda28b89996c70?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>2008</model>
@@ -5184,9 +5515,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/13e5908f-ffa0-4579-892a-86172562af51/e0dedb37-c6bb-4385-90e8-08b256fc9575?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/28476453-4431-4099-9940-43dae27aeade/21b9842f-898e-4669-ad9a-175afc12e9b5?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/13e5908f-ffa0-4579-892a-86172562af51/e0dedb37-c6bb-4385-90e8-08b256fc9575?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/28476453-4431-4099-9940-43dae27aeade/21b9842f-898e-4669-ad9a-175afc12e9b5?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>V90</model>
@@ -14975,8 +15306,8 @@
     <vehicle_registration_plate>YFS70U</vehicle_registration_plate>
     <g:title>Volvo XC90 T8 Ultra Black Edition</g:title>
     <title>Volvo XC90 T8 Ultra Black Edition</title>
-    <g:description>T8 Ultra Black Edition. Från 16 436 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: YFS70U. Kontakta oss för mer information.</g:description>
-    <description>T8 Ultra Black Edition. Från 16 436 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: YFS70U. Kontakta oss för mer information.</description>
+    <g:description>T8 Ultra Black Edition. Från 15 398 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: YFS70U. Kontakta oss för mer information.</g:description>
+    <description>T8 Ultra Black Edition. Från 15 398 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: YFS70U. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc90-yfs70u</g:link>
     <link>https://borasbil.se/bilar/volvo-xc90-yfs70u</link>
     <url>https://borasbil.se/bilar/volvo-xc90-yfs70u</url>
@@ -14993,9 +15324,9 @@
     <body_style>SUV</body_style>
     <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>1045000 SEK</g:price>
-    <price>1045000 SEK</price>
-    <sale_price>1045000 SEK</sale_price>
+    <g:price>979000 SEK</g:price>
+    <price>979000 SEK</price>
+    <sale_price>979000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Kinna Bil</component>
       <component name="country">SE</component>
