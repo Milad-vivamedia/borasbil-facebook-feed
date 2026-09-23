@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>96acfdd2-1552-4fdd-b84c-daf70536efb8</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>96acfdd2-1552-4fdd-b84c-daf70536efb8</vehicle_id>
+    <vehicle_registration_plate>RBJ39U</vehicle_registration_plate>
+    <g:title>Citroën C5 Aircross FEEL Pure Tech 130 A 5-d SUV</g:title>
+    <title>Citroën C5 Aircross FEEL Pure Tech 130 A 5-d SUV</title>
+    <g:description>FEEL Pure Tech 130 A 5-d SUV. Från 3 130 kr/mån. Miltal: 9 935 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin. Reg.nr: RBJ39U. Kontakta oss för mer information.</g:description>
+    <description>FEEL Pure Tech 130 A 5-d SUV. Från 3 130 kr/mån. Miltal: 9 935 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin. Reg.nr: RBJ39U. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/citroen-c5-aircross-rbj39u</g:link>
+    <link>https://borasbil.se/bilar/citroen-c5-aircross-rbj39u</link>
+    <url>https://borasbil.se/bilar/citroen-c5-aircross-rbj39u</url>
+    <g:brand>Citroën</g:brand>
+    <brand>Citroën</brand>
+    <make>Citroën</make>
+    <g:image_link>https://cdn.wayke.se/cfit/de00ce51-887b-4711-b5ea-e207c4aa6957/9e4925a0-d2d4-43b2-ab6b-b35cdc06484f?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/de00ce51-887b-4711-b5ea-e207c4aa6957/9e4925a0-d2d4-43b2-ab6b-b35cdc06484f?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>C5 Aircross</model>
+    <year>2022</year>
+    <mileage>
+      <value>99350</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>199000 SEK</g:price>
+    <price>199000 SEK</price>
+    <sale_price>199000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>868321b2-6063-495a-8e33-40d80e2310e2</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -8217,50 +8261,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>6f4abb49-e86c-4626-8f30-263f2e739b32</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>6f4abb49-e86c-4626-8f30-263f2e739b32</vehicle_id>
-    <vehicle_registration_plate>JWA12W</vehicle_registration_plate>
-    <g:title>Lynk &amp; Co 01</g:title>
-    <title>Lynk &amp; Co 01</title>
-    <g:description>Från 3 916 kr/mån. Miltal: 4 898 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: JWA12W. Kontakta oss för mer information.</g:description>
-    <description>Från 3 916 kr/mån. Miltal: 4 898 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: JWA12W. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/lynk-co-01-phev-jwa12w</g:link>
-    <link>https://borasbil.se/bilar/lynk-co-01-phev-jwa12w</link>
-    <url>https://borasbil.se/bilar/lynk-co-01-phev-jwa12w</url>
-    <g:brand>Lynk &amp; Co</g:brand>
-    <brand>Lynk &amp; Co</brand>
-    <make>Lynk &amp; Co</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/74ab5e47a7cd47c6aa64ae1851f25e59/6ad7e0da19eb4cc2b3ed617a16efc1dd?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/74ab5e47a7cd47c6aa64ae1851f25e59/6ad7e0da19eb4cc2b3ed617a16efc1dd?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>01</model>
-    <year>2022</year>
-    <mileage>
-      <value>48980</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>249000 SEK</g:price>
-    <price>249000 SEK</price>
-    <sale_price>249000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>3d347edf-6486-4e87-99cd-9712f43fef49</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -11203,50 +11203,6 @@
     <state_of_vehicle>NEW</state_of_vehicle>
     </item>
     <item>
-    <g:id>2f99832b-b9eb-4f37-8909-8be58c32482b</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>2f99832b-b9eb-4f37-8909-8be58c32482b</vehicle_id>
-    <vehicle_registration_plate>GYC38A</vehicle_registration_plate>
-    <g:title>Volvo V60 Recharge T6 II Inscr Expression</g:title>
-    <title>Volvo V60 Recharge T6 II Inscr Expression</title>
-    <g:description>Recharge T6 II Inscr Expression. Från 4 074 kr/mån. Miltal: 16 235 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: GYC38A. Kontakta oss för mer information.</g:description>
-    <description>Recharge T6 II Inscr Expression. Från 4 074 kr/mån. Miltal: 16 235 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: GYC38A. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-v60-gyc38a</g:link>
-    <link>https://borasbil.se/bilar/volvo-v60-gyc38a</link>
-    <url>https://borasbil.se/bilar/volvo-v60-gyc38a</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/3f9d86cb9c6c46d38b6e91a799f1c2fd/9a07e4a22349499f8cc6ff80bc51c365?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/3f9d86cb9c6c46d38b6e91a799f1c2fd/9a07e4a22349499f8cc6ff80bc51c365?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V60</model>
-    <year>2022</year>
-    <mileage>
-      <value>162350</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>259000 SEK</g:price>
-    <price>259000 SEK</price>
-    <sale_price>259000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>313bc1dc-800f-48cd-9d89-ef5284e09f4b</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -13362,50 +13318,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>7660fbe2-4c74-4b30-a867-6f83059b748a</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>7660fbe2-4c74-4b30-a867-6f83059b748a</vehicle_id>
-    <vehicle_registration_plate>LRC91D</vehicle_registration_plate>
-    <g:title>Volvo XC40 Ultimate</g:title>
-    <title>Volvo XC40 Ultimate</title>
-    <g:description>Ultimate. Från 4 860 kr/mån. Miltal: 12 801 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: LRC91D. Kontakta oss för mer information.</g:description>
-    <description>Ultimate. Från 4 860 kr/mån. Miltal: 12 801 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: LRC91D. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-lrc91d</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc40-recharge-lrc91d</link>
-    <url>https://borasbil.se/bilar/volvo-xc40-recharge-lrc91d</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/ec34707b883142129595a9f313d68777/4db17cdd616a44fbaf0768ff31d744fd?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/ec34707b883142129595a9f313d68777/4db17cdd616a44fbaf0768ff31d744fd?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2023</year>
-    <mileage>
-      <value>128010</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>309000 SEK</g:price>
-    <price>309000 SEK</price>
-    <sale_price>309000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Bogesunds Bil Ulricehamn</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>970dca5c-406e-4e4b-acfd-86e5165fa1d3</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -15356,50 +15268,6 @@
     <g:condition>new</g:condition>
     <condition>new</condition>
     <state_of_vehicle>NEW</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>fbb7f22c-568a-4c8a-870d-bc2b4d84123b</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>fbb7f22c-568a-4c8a-870d-bc2b4d84123b</vehicle_id>
-    <vehicle_registration_plate>DDG23N</vehicle_registration_plate>
-    <g:title>Lynk &amp; Co 08</g:title>
-    <title>Lynk &amp; Co 08</title>
-    <g:description>Från 7 848 kr/mån. Miltal: 673 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: DDG23N. Kontakta oss för mer information.</g:description>
-    <description>Från 7 848 kr/mån. Miltal: 673 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: DDG23N. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/lynk-co-08-phev-ddg23n</g:link>
-    <link>https://borasbil.se/bilar/lynk-co-08-phev-ddg23n</link>
-    <url>https://borasbil.se/bilar/lynk-co-08-phev-ddg23n</url>
-    <g:brand>Lynk &amp; Co</g:brand>
-    <brand>Lynk &amp; Co</brand>
-    <make>Lynk &amp; Co</make>
-    <g:image_link>https://cdn.wayke.se/cfit/b614422b-ca1f-465e-b00e-625435a090a0/667c7a83-ad72-4fd5-9327-d9db7b308a71?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/b614422b-ca1f-465e-b00e-625435a090a0/667c7a83-ad72-4fd5-9327-d9db7b308a71?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>08</model>
-    <year>2025</year>
-    <mileage>
-      <value>6730</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>499000 SEK</g:price>
-    <price>499000 SEK</price>
-    <sale_price>499000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Bogesunds Bil Ulricehamn</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
     <g:id>595f387f-6a0c-4b3b-b8f6-3b8db2cb82a7</g:id>
