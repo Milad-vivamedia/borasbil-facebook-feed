@@ -5,6 +5,94 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>675dc03a-cc7a-41b3-9550-b1af41d51a8b</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>675dc03a-cc7a-41b3-9550-b1af41d51a8b</vehicle_id>
+    <vehicle_registration_plate>RDL93N</vehicle_registration_plate>
+    <g:title>Peugeot 3008 GT Edition PureTech 130 A</g:title>
+    <title>Peugeot 3008 GT Edition PureTech 130 A</title>
+    <g:description>GT Edition PureTech 130 A. Från 3 130 kr/mån. Miltal: 9 892 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: RDL93N. Kontakta oss för mer information.</g:description>
+    <description>GT Edition PureTech 130 A. Från 3 130 kr/mån. Miltal: 9 892 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: RDL93N. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/peugeot-3008-rdl93n</g:link>
+    <link>https://borasbil.se/bilar/peugeot-3008-rdl93n</link>
+    <url>https://borasbil.se/bilar/peugeot-3008-rdl93n</url>
+    <g:brand>Peugeot</g:brand>
+    <brand>Peugeot</brand>
+    <make>Peugeot</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/7ce1d2c0560544988b202a9dd9b00475/741d3433d534490b88bba12218717e6e?format=jpeg&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/7ce1d2c0560544988b202a9dd9b00475/741d3433d534490b88bba12218717e6e?format=jpeg&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>3008</model>
+    <year>2023</year>
+    <mileage>
+      <value>98920</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>199000 SEK</g:price>
+    <price>199000 SEK</price>
+    <sale_price>199000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>0fc51bcd-ce56-4c80-a539-5f73a4bcc62f</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>0fc51bcd-ce56-4c80-a539-5f73a4bcc62f</vehicle_id>
+    <vehicle_registration_plate>CXZ86F</vehicle_registration_plate>
+    <g:title>Polestar 2 Plus</g:title>
+    <title>Polestar 2 Plus</title>
+    <g:description>Plus. Från 6 433 kr/mån. Miltal: 3 776 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Reg.nr: CXZ86F. Kontakta oss för mer information.</g:description>
+    <description>Plus. Från 6 433 kr/mån. Miltal: 3 776 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Reg.nr: CXZ86F. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/polestar-2-long-range-single-motor-cxz86f</g:link>
+    <link>https://borasbil.se/bilar/polestar-2-long-range-single-motor-cxz86f</link>
+    <url>https://borasbil.se/bilar/polestar-2-long-range-single-motor-cxz86f</url>
+    <g:brand>Polestar</g:brand>
+    <brand>Polestar</brand>
+    <make>Polestar</make>
+    <g:image_link>https://cdn.wayke.se/cfit/2ae6db3a-5339-4b49-93f1-782dac7b67c1/c8ff5a56-a5d4-43f8-8351-756d4375f4a9?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/2ae6db3a-5339-4b49-93f1-782dac7b67c1/c8ff5a56-a5d4-43f8-8351-756d4375f4a9?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>2</model>
+    <year>2024</year>
+    <mileage>
+      <value>37760</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>409000 SEK</g:price>
+    <price>409000 SEK</price>
+    <sale_price>409000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>96acfdd2-1552-4fdd-b84c-daf70536efb8</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -8188,9 +8276,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/1ca5d0362bb44563bd4c180a1d41fb7c/37620ee2876a464e9121b55771541b2b?format=jpeg&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/59ee0fc252dd4bd6865c67c8d1b372ce/922696637a6f45409773ee134671d91b?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/v3/1ca5d0362bb44563bd4c180a1d41fb7c/37620ee2876a464e9121b55771541b2b?format=jpeg&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/59ee0fc252dd4bd6865c67c8d1b372ce/922696637a6f45409773ee134671d91b?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC60</model>
@@ -9016,9 +9104,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/6612fe1496594aac9041e30241f0380b/79862c2f37ab46c28f93c8156e9eefc3?format=jpeg&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/ac3ad60fb05947dcb6c8e48a8de0eeb9/d1e1bc9d59e74179a812a6ee63024ee6?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/v3/6612fe1496594aac9041e30241f0380b/79862c2f37ab46c28f93c8156e9eefc3?format=jpeg&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/ac3ad60fb05947dcb6c8e48a8de0eeb9/d1e1bc9d59e74179a812a6ee63024ee6?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>C40</model>
@@ -10351,9 +10439,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/42e0ec0d-975c-448c-9a96-820fa56fd166/b8d59c97-8e66-49b1-a21d-f6705424d89d?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/c566c8df79f644da941aaeda7c2b650c/8ac7ae2a402142c7910c7b8763c0ac8b?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/42e0ec0d-975c-448c-9a96-820fa56fd166/b8d59c97-8e66-49b1-a21d-f6705424d89d?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/c566c8df79f644da941aaeda7c2b650c/8ac7ae2a402142c7910c7b8763c0ac8b?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>V60</model>
@@ -11790,9 +11878,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/7bb064cd-1401-4202-b7e7-9a50dfc49a51/3f6e1dc0-0d0b-443b-a8c7-1ed5b3857606?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/65ac08eeb6f14768959b82565154e4c2/7521ce0f4aaa4e8caf2612d99a25ce54?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/7bb064cd-1401-4202-b7e7-9a50dfc49a51/3f6e1dc0-0d0b-443b-a8c7-1ed5b3857606?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/65ac08eeb6f14768959b82565154e4c2/7521ce0f4aaa4e8caf2612d99a25ce54?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>V90</model>
@@ -12314,9 +12402,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/ed8a497e-d4ff-45b5-994c-c98798fc8d87/8f4dd94b-3c63-461a-8b96-753ce92caac8?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/f18c72e0-e616-4d86-a0f7-a396493710d0/8b0e6166-33b2-4561-be2c-af54a2ce7515?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/ed8a497e-d4ff-45b5-994c-c98798fc8d87/8f4dd94b-3c63-461a-8b96-753ce92caac8?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/f18c72e0-e616-4d86-a0f7-a396493710d0/8b0e6166-33b2-4561-be2c-af54a2ce7515?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>V90</model>
@@ -12402,9 +12490,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/516e0b46-21e1-48e7-b67b-c5661322518b/253dc801-2f4e-4fbc-8eda-1d742c93dfa1?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/f26a8349-4cc3-4d74-bc87-6c3116f27e26/faf73eed-b5b6-4ab2-b433-6e7cae6b4520?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/516e0b46-21e1-48e7-b67b-c5661322518b/253dc801-2f4e-4fbc-8eda-1d742c93dfa1?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/f26a8349-4cc3-4d74-bc87-6c3116f27e26/faf73eed-b5b6-4ab2-b433-6e7cae6b4520?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC90</model>
@@ -12578,9 +12666,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/91d9078f-a893-417a-8f6c-e9cc5ab75c99/586866df-8509-46d3-9ebb-c387b4490fe1?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/1e36bfb3ac7a467cb492f454d183154e/f5137030d60243bd88bae3274918c7df?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/91d9078f-a893-417a-8f6c-e9cc5ab75c99/586866df-8509-46d3-9ebb-c387b4490fe1?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/1e36bfb3ac7a467cb492f454d183154e/f5137030d60243bd88bae3274918c7df?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>V90</model>
@@ -12754,9 +12842,9 @@
     <g:brand>Lynk &amp; Co</g:brand>
     <brand>Lynk &amp; Co</brand>
     <make>Lynk &amp; Co</make>
-    <g:image_link>https://cdn.wayke.se/cfit/edd83f01-48dd-4dbb-928d-7d6001e07e82/deb1c728-1c21-470a-9607-296e42fb6b2b?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/b4870d1e120f41229a2d6d1ca4c560c8/04d40739df7a4fe1829a5283f29b6fcf?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/edd83f01-48dd-4dbb-928d-7d6001e07e82/deb1c728-1c21-470a-9607-296e42fb6b2b?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/b4870d1e120f41229a2d6d1ca4c560c8/04d40739df7a4fe1829a5283f29b6fcf?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>01</model>
@@ -13333,9 +13421,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/8f64db6f845441ccbb9cfad0841be5e6/25bcf28a3ee249d98f97b255b071065e?format=jpeg&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/66a77d6df4e64bd5aa079563d0df537e/b9e1973ddef34fb290ce665bbfabd3da?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/v3/8f64db6f845441ccbb9cfad0841be5e6/25bcf28a3ee249d98f97b255b071065e?format=jpeg&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/66a77d6df4e64bd5aa079563d0df537e/b9e1973ddef34fb290ce665bbfabd3da?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC90</model>
@@ -16883,9 +16971,9 @@
     <g:brand>Peugeot</g:brand>
     <brand>Peugeot</brand>
     <make>Peugeot</make>
-    <g:image_link>https://cdn.wayke.se/cfit/a4f44b39-9962-4e10-9adc-96104585344d/7e44d86f-a246-4126-a9db-e21918a42a5f?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/347966394e1745f19f02f1e87218ce0a/844651e986df4284be9465baf2a1856a?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/a4f44b39-9962-4e10-9adc-96104585344d/7e44d86f-a246-4126-a9db-e21918a42a5f?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/347966394e1745f19f02f1e87218ce0a/844651e986df4284be9465baf2a1856a?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>Partner</model>
