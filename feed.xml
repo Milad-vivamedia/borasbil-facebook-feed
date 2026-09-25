@@ -313,50 +313,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>0fc51bcd-ce56-4c80-a539-5f73a4bcc62f</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>0fc51bcd-ce56-4c80-a539-5f73a4bcc62f</vehicle_id>
-    <vehicle_registration_plate>CXZ86F</vehicle_registration_plate>
-    <g:title>Polestar 2 Plus</g:title>
-    <title>Polestar 2 Plus</title>
-    <g:description>Plus. Från 6 433 kr/mån. Miltal: 3 776 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Reg.nr: CXZ86F. Kontakta oss för mer information.</g:description>
-    <description>Plus. Från 6 433 kr/mån. Miltal: 3 776 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Reg.nr: CXZ86F. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/polestar-2-long-range-single-motor-cxz86f</g:link>
-    <link>https://borasbil.se/bilar/polestar-2-long-range-single-motor-cxz86f</link>
-    <url>https://borasbil.se/bilar/polestar-2-long-range-single-motor-cxz86f</url>
-    <g:brand>Polestar</g:brand>
-    <brand>Polestar</brand>
-    <make>Polestar</make>
-    <g:image_link>https://cdn.wayke.se/cfit/2ae6db3a-5339-4b49-93f1-782dac7b67c1/c8ff5a56-a5d4-43f8-8351-756d4375f4a9?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/2ae6db3a-5339-4b49-93f1-782dac7b67c1/c8ff5a56-a5d4-43f8-8351-756d4375f4a9?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>2</model>
-    <year>2024</year>
-    <mileage>
-      <value>37760</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>409000 SEK</g:price>
-    <price>409000 SEK</price>
-    <sale_price>409000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>96acfdd2-1552-4fdd-b84c-daf70536efb8</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -14928,50 +14884,6 @@
     <g:condition>new</g:condition>
     <condition>new</condition>
     <state_of_vehicle>NEW</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>f00ef921-213d-42f5-8e41-ca9065e875f0</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>f00ef921-213d-42f5-8e41-ca9065e875f0</vehicle_id>
-    <vehicle_registration_plate>JBN85Y</vehicle_registration_plate>
-    <g:title>Lynk &amp; Co 08</g:title>
-    <title>Lynk &amp; Co 08</title>
-    <g:description>Från 7 848 kr/mån. Miltal: 1 101 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: JBN85Y. Kontakta oss för mer information.</g:description>
-    <description>Från 7 848 kr/mån. Miltal: 1 101 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: JBN85Y. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/lynk-co-08-phev-jbn85y</g:link>
-    <link>https://borasbil.se/bilar/lynk-co-08-phev-jbn85y</link>
-    <url>https://borasbil.se/bilar/lynk-co-08-phev-jbn85y</url>
-    <g:brand>Lynk &amp; Co</g:brand>
-    <brand>Lynk &amp; Co</brand>
-    <make>Lynk &amp; Co</make>
-    <g:image_link>https://cdn.wayke.se/cfit/faef6039-68f4-45fd-8efc-0d5da3b0ff21/3298fb69-576b-45ca-b767-89744120e210?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/faef6039-68f4-45fd-8efc-0d5da3b0ff21/3298fb69-576b-45ca-b767-89744120e210?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>08</model>
-    <year>2025</year>
-    <mileage>
-      <value>11010</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>499000 SEK</g:price>
-    <price>499000 SEK</price>
-    <sale_price>499000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
     <g:id>a3117381-2b92-43a9-95d1-a547f523dde8</g:id>
