@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>b6e26714-701d-417d-be1b-1216cfc7041a</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>b6e26714-701d-417d-be1b-1216cfc7041a</vehicle_id>
+    <vehicle_registration_plate>UXY25L</vehicle_registration_plate>
+    <g:title>Renault Mégane E-TECH Evolution ER 60kWh/130hk</g:title>
+    <title>Renault Mégane E-TECH Evolution ER 60kWh/130hk</title>
+    <g:description>Evolution ER 60kWh/130hk. Från 4 231 kr/mån. Miltal: 7 188 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: UXY25L. Kontakta oss för mer information.</g:description>
+    <description>Evolution ER 60kWh/130hk. Från 4 231 kr/mån. Miltal: 7 188 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: UXY25L. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/renault-megane-e-tech-uxy25l</g:link>
+    <link>https://borasbil.se/bilar/renault-megane-e-tech-uxy25l</link>
+    <url>https://borasbil.se/bilar/renault-megane-e-tech-uxy25l</url>
+    <g:brand>Renault</g:brand>
+    <brand>Renault</brand>
+    <make>Renault</make>
+    <g:image_link>https://cdn.wayke.se/cfit/52c603f1-329b-4483-b0c6-8050c0594c37/a3f74838-47d8-4983-a1f1-a10cdcde51ea?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/52c603f1-329b-4483-b0c6-8050c0594c37/a3f74838-47d8-4983-a1f1-a10cdcde51ea?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>Mégane E-TECH</model>
+    <year>2023</year>
+    <mileage>
+      <value>71880</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>269000 SEK</g:price>
+    <price>269000 SEK</price>
+    <sale_price>269000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>a84e5745-87ba-498b-8f5b-f39d8005ce95</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -4341,50 +4385,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>18b7dac6-d064-4590-a7e6-3f3a4a2361f6</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>18b7dac6-d064-4590-a7e6-3f3a4a2361f6</vehicle_id>
-    <vehicle_registration_plate>UXY25L</vehicle_registration_plate>
-    <g:title>Renault Mégane E-TECH Evolution ER 60kWh/130hk</g:title>
-    <title>Renault Mégane E-TECH Evolution ER 60kWh/130hk</title>
-    <g:description>Evolution ER 60kWh/130hk. Från 4 231 kr/mån. Miltal: 7 188 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: UXY25L. Kontakta oss för mer information.</g:description>
-    <description>Evolution ER 60kWh/130hk. Från 4 231 kr/mån. Miltal: 7 188 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: UXY25L. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/renault-megane-e-tech-uxy25l</g:link>
-    <link>https://borasbil.se/bilar/renault-megane-e-tech-uxy25l</link>
-    <url>https://borasbil.se/bilar/renault-megane-e-tech-uxy25l</url>
-    <g:brand>Renault</g:brand>
-    <brand>Renault</brand>
-    <make>Renault</make>
-    <g:image_link>https://cdn.wayke.se/cfit/3bc80e04-548a-43f8-a1f3-1c04562e04ce/290d2e13-6f82-40e1-9365-19a3ec1c3f46?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/3bc80e04-548a-43f8-a1f3-1c04562e04ce/290d2e13-6f82-40e1-9365-19a3ec1c3f46?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Mégane E-TECH</model>
-    <year>2023</year>
-    <mileage>
-      <value>71880</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>269000 SEK</g:price>
-    <price>269000 SEK</price>
-    <sale_price>269000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -12791,50 +12791,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>a99e3a7e-cc5b-48cc-86b7-12d5c0327619</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>a99e3a7e-cc5b-48cc-86b7-12d5c0327619</vehicle_id>
-    <vehicle_registration_plate>YFX42N</vehicle_registration_plate>
-    <g:title>Volvo XC60 Recharge T6 Core Edition</g:title>
-    <title>Volvo XC60 Recharge T6 Core Edition</title>
-    <g:description>Recharge T6 Core Edition. Från 5 961 kr/mån. Miltal: 13 312 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: YFX42N. Kontakta oss för mer information.</g:description>
-    <description>Recharge T6 Core Edition. Från 5 961 kr/mån. Miltal: 13 312 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: YFX42N. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc60-yfx42n</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc60-yfx42n</link>
-    <url>https://borasbil.se/bilar/volvo-xc60-yfx42n</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/2af46a84-29dd-4796-a4db-f5b3d3a1130c/0ffc93af-874f-41e1-bc33-b33c0c4248a5?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/2af46a84-29dd-4796-a4db-f5b3d3a1130c/0ffc93af-874f-41e1-bc33-b33c0c4248a5?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2024</year>
-    <mileage>
-      <value>133120</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>379000 SEK</g:price>
-    <price>379000 SEK</price>
-    <sale_price>379000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
