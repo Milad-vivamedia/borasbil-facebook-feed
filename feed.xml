@@ -196,9 +196,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/4c3b73b104f141b6bbef278016ebce02/dc2fc7995b9d4422ae7db970afc5e3b3?format=jpeg&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/0946fb17-164e-49aa-8262-b01bf617f627/3c3f9959-3d09-4b28-897e-45ccd8c0aca9?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/v3/4c3b73b104f141b6bbef278016ebce02/dc2fc7995b9d4422ae7db970afc5e3b3?format=jpeg&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/0946fb17-164e-49aa-8262-b01bf617f627/3c3f9959-3d09-4b28-897e-45ccd8c0aca9?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC60</model>
@@ -240,6 +240,11 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/ce2a424c-4e40-45e5-a47e-93ee781a312c/23aee76c-579e-4387-ad73-6362407e166e?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/ce2a424c-4e40-45e5-a47e-93ee781a312c/23aee76c-579e-4387-ad73-6362407e166e?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
     <model>XC60</model>
     <year>2024</year>
     <mileage>
