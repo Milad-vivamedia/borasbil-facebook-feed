@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>ddb184f0-6e22-40ea-96d8-3e6d803221a0</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>ddb184f0-6e22-40ea-96d8-3e6d803221a0</vehicle_id>
+    <vehicle_registration_plate>APD27X</vehicle_registration_plate>
+    <g:title>Peugeot 308 FL Allure A 5-d Kombi</g:title>
+    <title>Peugeot 308 FL Allure A 5-d Kombi</title>
+    <g:description>FL Allure A 5-d Kombi. Från 4 231 kr/mån. Miltal: 4 366 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: APD27X. Kontakta oss för mer information.</g:description>
+    <description>FL Allure A 5-d Kombi. Från 4 231 kr/mån. Miltal: 4 366 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: APD27X. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/peugeot-308-sw-hybrid-145-apd27x</g:link>
+    <link>https://borasbil.se/bilar/peugeot-308-sw-hybrid-145-apd27x</link>
+    <url>https://borasbil.se/bilar/peugeot-308-sw-hybrid-145-apd27x</url>
+    <g:brand>Peugeot</g:brand>
+    <brand>Peugeot</brand>
+    <make>Peugeot</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/f760160acac1403eb8bdb5d04241e1cc/95327e61b6b24211bc5d6e0fb23f564f?format=jpeg&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/f760160acac1403eb8bdb5d04241e1cc/95327e61b6b24211bc5d6e0fb23f564f?format=jpeg&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>308</model>
+    <year>2025</year>
+    <mileage>
+      <value>43660</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>269000 SEK</g:price>
+    <price>269000 SEK</price>
+    <sale_price>269000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>59a2d333-e014-4fd4-8144-502ec11b5eac</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -6920,9 +6964,9 @@
     <g:brand>Polestar</g:brand>
     <brand>Polestar</brand>
     <make>Polestar</make>
-    <g:image_link>https://cdn.wayke.se/cfit/341854e3-e507-47db-be31-6e0a64e4c2b1/7924490f-d479-40d9-823b-4cec9b4ce838?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/e97be5eef8e84094bfc351666c33ad4f/8fa1d8dd48b743b2bbbd9300a201a1c4?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/341854e3-e507-47db-be31-6e0a64e4c2b1/7924490f-d479-40d9-823b-4cec9b4ce838?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/e97be5eef8e84094bfc351666c33ad4f/8fa1d8dd48b743b2bbbd9300a201a1c4?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>2</model>
