@@ -180,8 +180,8 @@
     <vehicle_registration_plate>KOS64H</vehicle_registration_plate>
     <g:title>Volvo ES90 Ultra</g:title>
     <title>Volvo ES90 Ultra</title>
-    <g:description>Ultra. Från 15 712 kr/mån. Miltal: 50 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: KOS64H. Kontakta oss för mer information.</g:description>
-    <description>Ultra. Från 15 712 kr/mån. Miltal: 50 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: KOS64H. Kontakta oss för mer information.</description>
+    <g:description>Ultra. Från 15 712 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: KOS64H. Kontakta oss för mer information.</g:description>
+    <description>Ultra. Från 15 712 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: KOS64H. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-es90-twin-motor-performance-kos64h</g:link>
     <link>https://borasbil.se/bilar/volvo-es90-twin-motor-performance-kos64h</link>
     <url>https://borasbil.se/bilar/volvo-es90-twin-motor-performance-kos64h</url>
@@ -195,10 +195,6 @@
     </image>
     <model>ES90</model>
     <year>2027</year>
-    <mileage>
-      <value>500</value>
-      <unit>KM</unit>
-    </mileage>
     <body_style>Sedan</body_style>
     <fuel_type>Electric</fuel_type>
     <transmission>Automatic</transmission>
