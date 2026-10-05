@@ -5,6 +5,133 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>3cd34f4c-ab11-402f-8787-bcf2af67bfdd</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>3cd34f4c-ab11-402f-8787-bcf2af67bfdd</vehicle_id>
+    <vehicle_registration_plate>UCE77A</vehicle_registration_plate>
+    <g:title>Volvo V60 D3 Momentum Edition</g:title>
+    <title>Volvo V60 D3 Momentum Edition</title>
+    <g:description>D3 Momentum Edition. Från 3 130 kr/mån. Miltal: 18 652 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Diesel. Reg.nr: UCE77A. Kontakta oss för mer information.</g:description>
+    <description>D3 Momentum Edition. Från 3 130 kr/mån. Miltal: 18 652 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Diesel. Reg.nr: UCE77A. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-v60-uce77a</g:link>
+    <link>https://borasbil.se/bilar/volvo-v60-uce77a</link>
+    <url>https://borasbil.se/bilar/volvo-v60-uce77a</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/8a0d2568c92c418baa0ae21d6c99fa8b/e9068e001e4e4cdda572197fd5a9bcf8?format=jpeg&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/8a0d2568c92c418baa0ae21d6c99fa8b/e9068e001e4e4cdda572197fd5a9bcf8?format=jpeg&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>V60</model>
+    <year>2020</year>
+    <mileage>
+      <value>186520</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Wagon</body_style>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>199000 SEK</g:price>
+    <price>199000 SEK</price>
+    <sale_price>199000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>000fe162-708c-4243-bbbf-823ce8abecc2</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>000fe162-708c-4243-bbbf-823ce8abecc2</vehicle_id>
+    <vehicle_registration_plate>DPD46Y</vehicle_registration_plate>
+    <g:title>Volvo V60 D4 AWD SE II</g:title>
+    <title>Volvo V60 D4 AWD SE II</title>
+    <g:description>D4 AWD SE II. Från 4 325 kr/mån. Miltal: 13 067 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Diesel. Reg.nr: DPD46Y. Kontakta oss för mer information.</g:description>
+    <description>D4 AWD SE II. Från 4 325 kr/mån. Miltal: 13 067 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Diesel. Reg.nr: DPD46Y. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-v60-cross-country-dpd46y</g:link>
+    <link>https://borasbil.se/bilar/volvo-v60-cross-country-dpd46y</link>
+    <url>https://borasbil.se/bilar/volvo-v60-cross-country-dpd46y</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <model>V60</model>
+    <year>2020</year>
+    <mileage>
+      <value>130670</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Wagon</body_style>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>275000 SEK</g:price>
+    <price>275000 SEK</price>
+    <sale_price>275000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>36da5547-d72b-464b-8d82-c92fc2418a8d</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>36da5547-d72b-464b-8d82-c92fc2418a8d</vehicle_id>
+    <vehicle_registration_plate>TGP66G</vehicle_registration_plate>
+    <g:title>Volvo XC60 Recharge T6 Inscription T</g:title>
+    <title>Volvo XC60 Recharge T6 Inscription T</title>
+    <g:description>Recharge T6 Inscription T. Från 5 646 kr/mån. Miltal: 11 964 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: TGP66G. Kontakta oss för mer information.</g:description>
+    <description>Recharge T6 Inscription T. Från 5 646 kr/mån. Miltal: 11 964 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: TGP66G. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-xc60-tgp66g</g:link>
+    <link>https://borasbil.se/bilar/volvo-xc60-tgp66g</link>
+    <url>https://borasbil.se/bilar/volvo-xc60-tgp66g</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/4e5b48e13f76435b9069a90d1c156d56/b00cc57739d140d6b2f4f50dafd6734a?format=jpeg&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/4e5b48e13f76435b9069a90d1c156d56/b00cc57739d140d6b2f4f50dafd6734a?format=jpeg&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC60</model>
+    <year>2021</year>
+    <mileage>
+      <value>119640</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>359000 SEK</g:price>
+    <price>359000 SEK</price>
+    <sale_price>359000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Bogesunds Bil Ulricehamn</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>ddb184f0-6e22-40ea-96d8-3e6d803221a0</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
