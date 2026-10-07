@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>df6aabf6-4759-46e1-876f-476b43776078</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>df6aabf6-4759-46e1-876f-476b43776078</vehicle_id>
+    <vehicle_registration_plate>JAL89L</vehicle_registration_plate>
+    <g:title>Polestar 2 78kWh Plus</g:title>
+    <title>Polestar 2 78kWh Plus</title>
+    <g:description>78kWh Plus. Från 5 489 kr/mån. Miltal: 9 322 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: JAL89L. Kontakta oss för mer information.</g:description>
+    <description>78kWh Plus. Från 5 489 kr/mån. Miltal: 9 322 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: JAL89L. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-jal89l</g:link>
+    <link>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-jal89l</link>
+    <url>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-jal89l</url>
+    <g:brand>Polestar</g:brand>
+    <brand>Polestar</brand>
+    <make>Polestar</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/d21478d86a0243539475c2f0130d615a/c7b24320dea2457dbb1ee0f4ab0cbcc9?format=jpeg&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/d21478d86a0243539475c2f0130d615a/c7b24320dea2457dbb1ee0f4ab0cbcc9?format=jpeg&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>2</model>
+    <year>2023</year>
+    <mileage>
+      <value>93220</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>349000 SEK</g:price>
+    <price>349000 SEK</price>
+    <sale_price>349000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>707091d1-9100-4903-b1bc-35ff05cc63b8</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -284,9 +328,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/1cb3753915c4476186256dcdd6beff8c/6880975545c845df8a652d1a3c274ecd?format=jpeg&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/cd75475e66104b57ad886bce9dae2518/21d0e2dba0be41b8b723e92b2fa597a4?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/v3/1cb3753915c4476186256dcdd6beff8c/6880975545c845df8a652d1a3c274ecd?format=jpeg&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/cd75475e66104b57ad886bce9dae2518/21d0e2dba0be41b8b723e92b2fa597a4?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>V60</model>
@@ -4197,8 +4241,8 @@
     <vehicle_registration_plate>KJG16U</vehicle_registration_plate>
     <g:title>Volvo V60 T6 Plus Dark Nordic Edition - - Vinterhjul Ingår</g:title>
     <title>Volvo V60 T6 Plus Dark Nordic Edition - - Vinterhjul Ingår</title>
-    <g:description>T6 Plus Dark Nordic Edition - - Vinterhjul Ingår. Från 9 106 kr/mån. Miltal: 99 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: KJG16U. Kontakta oss för mer information.</g:description>
-    <description>T6 Plus Dark Nordic Edition - - Vinterhjul Ingår. Från 9 106 kr/mån. Miltal: 99 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: KJG16U. Kontakta oss för mer information.</description>
+    <g:description>T6 Plus Dark Nordic Edition - - Vinterhjul Ingår. Från 9 106 kr/mån. Miltal: 670 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: KJG16U. Kontakta oss för mer information.</g:description>
+    <description>T6 Plus Dark Nordic Edition - - Vinterhjul Ingår. Från 9 106 kr/mån. Miltal: 670 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: KJG16U. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-v60-kjg16u</g:link>
     <link>https://borasbil.se/bilar/volvo-v60-kjg16u</link>
     <url>https://borasbil.se/bilar/volvo-v60-kjg16u</url>
@@ -4213,7 +4257,7 @@
     <model>V60</model>
     <year>2027</year>
     <mileage>
-      <value>990</value>
+      <value>6700</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Wagon</body_style>
@@ -8052,8 +8096,8 @@
     <vehicle_registration_plate>YBJ73U</vehicle_registration_plate>
     <g:title>Volvo XC60 T6 Plus Dark Nordic Edition</g:title>
     <title>Volvo XC60 T6 Plus Dark Nordic Edition</title>
-    <g:description>T6 Plus Dark Nordic Edition. Från 9 736 kr/mån. Miltal: 50 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: YBJ73U. Kontakta oss för mer information.</g:description>
-    <description>T6 Plus Dark Nordic Edition. Från 9 736 kr/mån. Miltal: 50 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: YBJ73U. Kontakta oss för mer information.</description>
+    <g:description>T6 Plus Dark Nordic Edition. Från 9 736 kr/mån. Miltal: 175 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: YBJ73U. Kontakta oss för mer information.</g:description>
+    <description>T6 Plus Dark Nordic Edition. Från 9 736 kr/mån. Miltal: 175 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: YBJ73U. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc60-ybj73u</g:link>
     <link>https://borasbil.se/bilar/volvo-xc60-ybj73u</link>
     <url>https://borasbil.se/bilar/volvo-xc60-ybj73u</url>
@@ -8068,7 +8112,7 @@
     <model>XC60</model>
     <year>2027</year>
     <mileage>
-      <value>500</value>
+      <value>1750</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
@@ -10923,8 +10967,8 @@
     <vehicle_registration_plate>DHY51F</vehicle_registration_plate>
     <g:title>Volvo V60 T6 Plus Dark Nordic Edition</g:title>
     <title>Volvo V60 T6 Plus Dark Nordic Edition</title>
-    <g:description>T6 Plus Dark Nordic Edition. Från 8 635 kr/mån. Miltal: 133 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: DHY51F. Kontakta oss för mer information.</g:description>
-    <description>T6 Plus Dark Nordic Edition. Från 8 635 kr/mån. Miltal: 133 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: DHY51F. Kontakta oss för mer information.</description>
+    <g:description>T6 Plus Dark Nordic Edition. Från 8 635 kr/mån. Miltal: 195 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: DHY51F. Kontakta oss för mer information.</g:description>
+    <description>T6 Plus Dark Nordic Edition. Från 8 635 kr/mån. Miltal: 195 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: DHY51F. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-v60-dhy51f</g:link>
     <link>https://borasbil.se/bilar/volvo-v60-dhy51f</link>
     <url>https://borasbil.se/bilar/volvo-v60-dhy51f</url>
@@ -10939,7 +10983,7 @@
     <model>V60</model>
     <year>2027</year>
     <mileage>
-      <value>1330</value>
+      <value>1950</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Wagon</body_style>
@@ -11898,9 +11942,9 @@
     <g:brand>Kia</g:brand>
     <brand>Kia</brand>
     <make>Kia</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/daaee04f721d4d3e9a3e668bc0a12f59/ba1b7aa893524310b6f69736e73bf144?format=jpeg&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/5450b8394f0e49cf8b22eb260f32c826/1400ae4ebe8d47f2a1a55137824523f6?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/v3/daaee04f721d4d3e9a3e668bc0a12f59/ba1b7aa893524310b6f69736e73bf144?format=jpeg&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/5450b8394f0e49cf8b22eb260f32c826/1400ae4ebe8d47f2a1a55137824523f6?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>Sportage</model>
@@ -14081,8 +14125,8 @@
     <vehicle_registration_plate>YRB13D</vehicle_registration_plate>
     <g:title>Volvo V60 T8 Plus Dark Nordic Edition</g:title>
     <title>Volvo V60 T8 Plus Dark Nordic Edition</title>
-    <g:description>T8 Plus Dark Nordic Edition. Från 9 421 kr/mån. Miltal: 55 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: YRB13D. Kontakta oss för mer information.</g:description>
-    <description>T8 Plus Dark Nordic Edition. Från 9 421 kr/mån. Miltal: 55 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: YRB13D. Kontakta oss för mer information.</description>
+    <g:description>T8 Plus Dark Nordic Edition. Från 9 421 kr/mån. Miltal: 758 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: YRB13D. Kontakta oss för mer information.</g:description>
+    <description>T8 Plus Dark Nordic Edition. Från 9 421 kr/mån. Miltal: 758 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: YRB13D. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-v60-yrb13d</g:link>
     <link>https://borasbil.se/bilar/volvo-v60-yrb13d</link>
     <url>https://borasbil.se/bilar/volvo-v60-yrb13d</url>
@@ -14097,7 +14141,7 @@
     <model>V60</model>
     <year>2026</year>
     <mileage>
-      <value>550</value>
+      <value>7580</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Wagon</body_style>
@@ -14556,8 +14600,8 @@
     <vehicle_registration_plate>NWG93B</vehicle_registration_plate>
     <g:title>Volvo V60 T6 Plus Dark Nordic Edition</g:title>
     <title>Volvo V60 T6 Plus Dark Nordic Edition</title>
-    <g:description>T6 Plus Dark Nordic Edition. Från 7 848 kr/mån. Miltal: 1 116 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: NWG93B. Kontakta oss för mer information.</g:description>
-    <description>T6 Plus Dark Nordic Edition. Från 7 848 kr/mån. Miltal: 1 116 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: NWG93B. Kontakta oss för mer information.</description>
+    <g:description>T6 Plus Dark Nordic Edition. Från 7 848 kr/mån. Miltal: 1 265 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: NWG93B. Kontakta oss för mer information.</g:description>
+    <description>T6 Plus Dark Nordic Edition. Från 7 848 kr/mån. Miltal: 1 265 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: NWG93B. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-v60-nwg93b</g:link>
     <link>https://borasbil.se/bilar/volvo-v60-nwg93b</link>
     <url>https://borasbil.se/bilar/volvo-v60-nwg93b</url>
@@ -14572,7 +14616,7 @@
     <model>V60</model>
     <year>2026</year>
     <mileage>
-      <value>11160</value>
+      <value>12650</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Wagon</body_style>
