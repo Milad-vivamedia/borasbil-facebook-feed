@@ -5,6 +5,94 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>ab487ede-ee6c-4dde-a0e1-175cee5934ea</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>ab487ede-ee6c-4dde-a0e1-175cee5934ea</vehicle_id>
+    <vehicle_registration_plate>MWN890</vehicle_registration_plate>
+    <g:title>Renault Captur Energy TCe 90 Helly Hansen II</g:title>
+    <title>Renault Captur Energy TCe 90 Helly Hansen II</title>
+    <g:description>Energy TCe 90 Helly Hansen II. Från 1 400 kr/mån. Miltal: 9 933 mil. Årsmodell: 2016. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: MWN890. Kontakta oss för mer information.</g:description>
+    <description>Energy TCe 90 Helly Hansen II. Från 1 400 kr/mån. Miltal: 9 933 mil. Årsmodell: 2016. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: MWN890. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/renault-captur-mwn890</g:link>
+    <link>https://borasbil.se/bilar/renault-captur-mwn890</link>
+    <url>https://borasbil.se/bilar/renault-captur-mwn890</url>
+    <g:brand>Renault</g:brand>
+    <brand>Renault</brand>
+    <make>Renault</make>
+    <g:image_link>https://cdn.wayke.se/cfit/45188e99-97b7-4b99-986d-9176316c53b6/12913f5e-1a27-4662-be49-92effc80eeae?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/45188e99-97b7-4b99-986d-9176316c53b6/12913f5e-1a27-4662-be49-92effc80eeae?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>Captur</model>
+    <year>2016</year>
+    <mileage>
+      <value>99330</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Manual</transmission>
+    <g:price>89000 SEK</g:price>
+    <price>89000 SEK</price>
+    <sale_price>89000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Bogesunds Bil Ulricehamn</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>b063433e-793c-454b-8ba4-0431683d58b4</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>b063433e-793c-454b-8ba4-0431683d58b4</vehicle_id>
+    <vehicle_registration_plate>JAK73G</vehicle_registration_plate>
+    <g:title>Peugeot 308 GT PureTech 130 A 5-d Kombi</g:title>
+    <title>Peugeot 308 GT PureTech 130 A 5-d Kombi</title>
+    <g:description>GT PureTech 130 A 5-d Kombi. Från 3 539 kr/mån. Miltal: 5 398 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: JAK73G. Kontakta oss för mer information.</g:description>
+    <description>GT PureTech 130 A 5-d Kombi. Från 3 539 kr/mån. Miltal: 5 398 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: JAK73G. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/peugeot-308-sw-jak73g</g:link>
+    <link>https://borasbil.se/bilar/peugeot-308-sw-jak73g</link>
+    <url>https://borasbil.se/bilar/peugeot-308-sw-jak73g</url>
+    <g:brand>Peugeot</g:brand>
+    <brand>Peugeot</brand>
+    <make>Peugeot</make>
+    <g:image_link>https://cdn.wayke.se/cfit/39e1acc3-c7d9-45a8-9607-32f0ac87bbe3/2d909c69-c00f-4156-b4f0-7dfd24a4f2bd?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/39e1acc3-c7d9-45a8-9607-32f0ac87bbe3/2d909c69-c00f-4156-b4f0-7dfd24a4f2bd?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>308</model>
+    <year>2023</year>
+    <mileage>
+      <value>53980</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>225000 SEK</g:price>
+    <price>225000 SEK</price>
+    <sale_price>225000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>8f3193ef-4af7-4d21-bf29-d30caed954d6</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -240,9 +328,9 @@
     <g:brand>Peugeot</g:brand>
     <brand>Peugeot</brand>
     <make>Peugeot</make>
-    <g:image_link>https://cdn.wayke.se/cfit/13022251-3907-4621-946e-f2ada226f45c/c0222d75-958b-42a3-931d-809798c092de?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/078205bb66894728bcbff24c16dad8ff/14a875a670b94845b0d02b80ee97aa78?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/13022251-3907-4621-946e-f2ada226f45c/c0222d75-958b-42a3-931d-809798c092de?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/078205bb66894728bcbff24c16dad8ff/14a875a670b94845b0d02b80ee97aa78?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>3008</model>
@@ -504,9 +592,9 @@
     <g:brand>Peugeot</g:brand>
     <brand>Peugeot</brand>
     <make>Peugeot</make>
-    <g:image_link>https://cdn.wayke.se/cfit/69b7dc80-77eb-4e6f-b7ea-86405174b43d/79da42a7-6947-45ce-b39b-abf311b3edab?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/fd231fe118084a9384317734de2b735b/08e1a8a6fa294199b963c4ef48194d36?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/69b7dc80-77eb-4e6f-b7ea-86405174b43d/79da42a7-6947-45ce-b39b-abf311b3edab?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/fd231fe118084a9384317734de2b735b/08e1a8a6fa294199b963c4ef48194d36?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>3008</model>
@@ -1984,9 +2072,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/c712d06a-e3d4-4d43-8876-bf99deeeb093/2402106a-4858-48bd-b24e-f76899423869?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/f31108383b7e4e4f87b35fbb1181ed8b/2f3e1b9b5d854151af133ca44112aac6?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/c712d06a-e3d4-4d43-8876-bf99deeeb093/2402106a-4858-48bd-b24e-f76899423869?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/f31108383b7e4e4f87b35fbb1181ed8b/2f3e1b9b5d854151af133ca44112aac6?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>V40</model>
@@ -3369,9 +3457,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/ecffd6df-b1b8-4a01-985e-af7d6d78c008/61cf1812-1101-4c1c-b8e2-660a56882aaa?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/e39d093caf7644c581407f6d516871cd/d13a8fe0a84f4b829b945855748cf415?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/ecffd6df-b1b8-4a01-985e-af7d6d78c008/61cf1812-1101-4c1c-b8e2-660a56882aaa?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/e39d093caf7644c581407f6d516871cd/d13a8fe0a84f4b829b945855748cf415?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>V90</model>
@@ -6587,9 +6675,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/6d99b928-3851-4b6f-b012-a9936c81b0d0/2073edb5-81bd-4e56-b305-1c659c2c8003?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/807152cc2c334a45a743eee559070414/19164b0e45044e46b0637808ba4f0f41?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/6d99b928-3851-4b6f-b012-a9936c81b0d0/2073edb5-81bd-4e56-b305-1c659c2c8003?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/807152cc2c334a45a743eee559070414/19164b0e45044e46b0637808ba4f0f41?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>V60</model>
