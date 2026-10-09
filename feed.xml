@@ -5,6 +5,337 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>718a0ac1-e415-4a31-b13b-81043728c05a</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>718a0ac1-e415-4a31-b13b-81043728c05a</vehicle_id>
+    <vehicle_registration_plate>JAG51K</vehicle_registration_plate>
+    <g:title>Peugeot 3008 GT Edition PureTech 130 A</g:title>
+    <title>Peugeot 3008 GT Edition PureTech 130 A</title>
+    <g:description>GT Edition PureTech 130 A. Från 2 973 kr/mån. Miltal: 11 493 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: JAG51K. Kontakta oss för mer information.</g:description>
+    <description>GT Edition PureTech 130 A. Från 2 973 kr/mån. Miltal: 11 493 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: JAG51K. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/peugeot-3008-jag51k</g:link>
+    <link>https://borasbil.se/bilar/peugeot-3008-jag51k</link>
+    <url>https://borasbil.se/bilar/peugeot-3008-jag51k</url>
+    <g:brand>Peugeot</g:brand>
+    <brand>Peugeot</brand>
+    <make>Peugeot</make>
+    <g:image_link>https://cdn.wayke.se/cfit/029048d1-9d3d-4380-9ff3-0d68a251a6b6/8593d17d-16d1-4b3e-8ab1-1bdfda08e837?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/029048d1-9d3d-4380-9ff3-0d68a251a6b6/8593d17d-16d1-4b3e-8ab1-1bdfda08e837?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>3008</model>
+    <year>2023</year>
+    <mileage>
+      <value>114930</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>189000 SEK</g:price>
+    <price>189000 SEK</price>
+    <sale_price>189000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Bogesunds Bil Ulricehamn</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>72d73563-87bf-449b-998e-bbdb0c91ff71</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>72d73563-87bf-449b-998e-bbdb0c91ff71</vehicle_id>
+    <vehicle_registration_plate>KSE64D</vehicle_registration_plate>
+    <g:title>Citroën C4 FL MAX A 5-d</g:title>
+    <title>Citroën C4 FL MAX A 5-d</title>
+    <g:description>FL MAX A 5-d. Från 3 916 kr/mån. Miltal: 2 710 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Reg.nr: KSE64D. Kontakta oss för mer information.</g:description>
+    <description>FL MAX A 5-d. Från 3 916 kr/mån. Miltal: 2 710 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Reg.nr: KSE64D. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/citroen-c4-x-hybrid-145-kse64d</g:link>
+    <link>https://borasbil.se/bilar/citroen-c4-x-hybrid-145-kse64d</link>
+    <url>https://borasbil.se/bilar/citroen-c4-x-hybrid-145-kse64d</url>
+    <g:brand>Citroën</g:brand>
+    <brand>Citroën</brand>
+    <make>Citroën</make>
+    <g:image_link>https://cdn.wayke.se/cfit/da5ceec1-de72-45db-89a0-4aab03fcf6d2/c1952b35-196c-4e8a-809c-9d4c5321486c?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/da5ceec1-de72-45db-89a0-4aab03fcf6d2/c1952b35-196c-4e8a-809c-9d4c5321486c?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>C4</model>
+    <year>2025</year>
+    <mileage>
+      <value>27100</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>249000 SEK</g:price>
+    <price>249000 SEK</price>
+    <sale_price>249000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>0097b9fd-1288-4a91-b2f4-597d14e4bd2f</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>0097b9fd-1288-4a91-b2f4-597d14e4bd2f</vehicle_id>
+    <vehicle_registration_plate>YDF09R</vehicle_registration_plate>
+    <g:title>Peugeot Boxer Skåp L3H2 BHDi 180 A</g:title>
+    <title>Peugeot Boxer Skåp L3H2 BHDi 180 A</title>
+    <g:description>Skåp L3H2 BHDi 180 A. Från 8 320 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: Diesel. Reg.nr: YDF09R. Kontakta oss för mer information.</g:description>
+    <description>Skåp L3H2 BHDi 180 A. Från 8 320 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: Diesel. Reg.nr: YDF09R. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/peugeot-boxer-skapbil-ydf09r</g:link>
+    <link>https://borasbil.se/bilar/peugeot-boxer-skapbil-ydf09r</link>
+    <url>https://borasbil.se/bilar/peugeot-boxer-skapbil-ydf09r</url>
+    <g:brand>Peugeot</g:brand>
+    <brand>Peugeot</brand>
+    <make>Peugeot</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/4fdc9edccd5b42c6b5ee9eb648a39441/2f8baecfa59345c19d1479886ceb8997?format=jpeg&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/4fdc9edccd5b42c6b5ee9eb648a39441/2f8baecfa59345c19d1479886ceb8997?format=jpeg&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>Boxer</model>
+    <year>2026</year>
+    <body_style>Sedan</body_style>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>529000 SEK</g:price>
+    <price>529000 SEK</price>
+    <sale_price>529000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>9d8931e3-4716-48e5-a169-f1313ddfa917</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>9d8931e3-4716-48e5-a169-f1313ddfa917</vehicle_id>
+    <vehicle_registration_plate>RGY56H</vehicle_registration_plate>
+    <g:title>Peugeot Partner Skåp L2 BHDi 130 A</g:title>
+    <title>Peugeot Partner Skåp L2 BHDi 130 A</title>
+    <g:description>Skåp L2 BHDi 130 A. Från 5 741 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: Diesel. Reg.nr: RGY56H. Kontakta oss för mer information.</g:description>
+    <description>Skåp L2 BHDi 130 A. Från 5 741 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: Diesel. Reg.nr: RGY56H. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/peugeot-partner-utokad-last-rgy56h</g:link>
+    <link>https://borasbil.se/bilar/peugeot-partner-utokad-last-rgy56h</link>
+    <url>https://borasbil.se/bilar/peugeot-partner-utokad-last-rgy56h</url>
+    <g:brand>Peugeot</g:brand>
+    <brand>Peugeot</brand>
+    <make>Peugeot</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/97aec2d1aa60408eba5eb1de724e4c8b/94a16463adee4d2aa1bcb15c194ac5f0?format=jpeg&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/97aec2d1aa60408eba5eb1de724e4c8b/94a16463adee4d2aa1bcb15c194ac5f0?format=jpeg&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>Partner</model>
+    <year>2026</year>
+    <body_style>Sedan</body_style>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>365000 SEK</g:price>
+    <price>365000 SEK</price>
+    <sale_price>365000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>1ba20753-39a1-4f7a-b6d1-10fdbd61e222</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>1ba20753-39a1-4f7a-b6d1-10fdbd61e222</vehicle_id>
+    <vehicle_registration_plate>1ba20753</vehicle_registration_plate>
+    <g:title>Maxus T60 Pickup 4x4 215hk - ADR-klassad</g:title>
+    <title>Maxus T60 Pickup 4x4 215hk - ADR-klassad</title>
+    <g:description>Pickup 4x4 215hk - ADR-klassad. Från 9 814 kr/mån. Årsmodell: 2026. Växellåda: Automat. Reg.nr: 1ba20753. Kontakta oss för mer information.</g:description>
+    <description>Pickup 4x4 215hk - ADR-klassad. Från 9 814 kr/mån. Årsmodell: 2026. Växellåda: Automat. Reg.nr: 1ba20753. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/maxus-t60-max-1ba20753</g:link>
+    <link>https://borasbil.se/bilar/maxus-t60-max-1ba20753</link>
+    <url>https://borasbil.se/bilar/maxus-t60-max-1ba20753</url>
+    <g:brand>Maxus</g:brand>
+    <brand>Maxus</brand>
+    <make>Maxus</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/eba68bba7d964185a7cb3915e1044432/c221855c2f44411888b10746a331cd04?format=jpeg&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/eba68bba7d964185a7cb3915e1044432/c221855c2f44411888b10746a331cd04?format=jpeg&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>T60</model>
+    <year>2026</year>
+    <body_style>Sedan</body_style>
+    <transmission>Automatic</transmission>
+    <g:price>624000 SEK</g:price>
+    <price>624000 SEK</price>
+    <sale_price>624000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>a0052de7-7318-49e2-a987-a49dde3895b2</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>a0052de7-7318-49e2-a987-a49dde3895b2</vehicle_id>
+    <vehicle_registration_plate>CJB59F</vehicle_registration_plate>
+    <g:title>Volvo EX30 RWD Plus</g:title>
+    <title>Volvo EX30 RWD Plus</title>
+    <g:description>RWD Plus. Från 6 747 kr/mån. Miltal: 50 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: CJB59F. Kontakta oss för mer information.</g:description>
+    <description>RWD Plus. Från 6 747 kr/mån. Miltal: 50 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: CJB59F. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-ex30-p5-cjb59f</g:link>
+    <link>https://borasbil.se/bilar/volvo-ex30-p5-cjb59f</link>
+    <url>https://borasbil.se/bilar/volvo-ex30-p5-cjb59f</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/09dff3b2-1aae-480a-b184-28d4608c051d/3df0adba-29f2-4f33-9367-c4c42f854197?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/09dff3b2-1aae-480a-b184-28d4608c051d/3df0adba-29f2-4f33-9367-c4c42f854197?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>EX30</model>
+    <year>2027</year>
+    <mileage>
+      <value>500</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>429000 SEK</g:price>
+    <price>429000 SEK</price>
+    <sale_price>429000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>7f1ae248-cdb0-4ae3-8d3f-2b5d4615a2b9</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>7f1ae248-cdb0-4ae3-8d3f-2b5d4615a2b9</vehicle_id>
+    <vehicle_registration_plate>SGH31C</vehicle_registration_plate>
+    <g:title>Volvo XC60 T6 Plus Black Nordic Edition</g:title>
+    <title>Volvo XC60 T6 Plus Black Nordic Edition</title>
+    <g:description>T6 Plus Black Nordic Edition. Från 9 421 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: SGH31C. Kontakta oss för mer information.</g:description>
+    <description>T6 Plus Black Nordic Edition. Från 9 421 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: SGH31C. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-xc60-sgh31c</g:link>
+    <link>https://borasbil.se/bilar/volvo-xc60-sgh31c</link>
+    <url>https://borasbil.se/bilar/volvo-xc60-sgh31c</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/f9e2e4bd-0998-4365-bbb9-940060d63399/460d6508-6c20-4edc-9964-aada59935795?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/f9e2e4bd-0998-4365-bbb9-940060d63399/460d6508-6c20-4edc-9964-aada59935795?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC60</model>
+    <year>2027</year>
+    <body_style>SUV</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>599000 SEK</g:price>
+    <price>599000 SEK</price>
+    <sale_price>599000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>c684aa75-dde0-46b9-bd1a-b4ed5ff5cd98</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>c684aa75-dde0-46b9-bd1a-b4ed5ff5cd98</vehicle_id>
+    <vehicle_registration_plate>HPJ58B</vehicle_registration_plate>
+    <g:title>Volvo V60 T6 Plus Dark Nordic Edition</g:title>
+    <title>Volvo V60 T6 Plus Dark Nordic Edition</title>
+    <g:description>T6 Plus Dark Nordic Edition. Från 8 949 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: HPJ58B. Kontakta oss för mer information.</g:description>
+    <description>T6 Plus Dark Nordic Edition. Från 8 949 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: HPJ58B. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-v60-hpj58b</g:link>
+    <link>https://borasbil.se/bilar/volvo-v60-hpj58b</link>
+    <url>https://borasbil.se/bilar/volvo-v60-hpj58b</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/aa980126d7da4b9c91794e72d9e7db63/55967fdaae0e4b8fa80cf510e6c82d89?format=jpeg&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/aa980126d7da4b9c91794e72d9e7db63/55967fdaae0e4b8fa80cf510e6c82d89?format=jpeg&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>V60</model>
+    <year>2027</year>
+    <body_style>Wagon</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>569000 SEK</g:price>
+    <price>569000 SEK</price>
+    <sale_price>569000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    </item>
+    <item>
     <g:id>ab487ede-ee6c-4dde-a0e1-175cee5934ea</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -196,9 +527,9 @@
     <g:brand>Lynk &amp; Co</g:brand>
     <brand>Lynk &amp; Co</brand>
     <make>Lynk &amp; Co</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/59bbed305c4d48359ca9b730a72bd2f1/77690f4107684c0182dd4dc7fb839634?format=jpeg&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/25d1c84b-0401-4158-b7db-703295f8fbcf/5d2e3b56-1719-4de1-bfe3-e5c9328535b4?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/v3/59bbed305c4d48359ca9b730a72bd2f1/77690f4107684c0182dd4dc7fb839634?format=jpeg&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/25d1c84b-0401-4158-b7db-703295f8fbcf/5d2e3b56-1719-4de1-bfe3-e5c9328535b4?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>01</model>
@@ -2456,8 +2787,8 @@
     <vehicle_registration_plate>FBA46W</vehicle_registration_plate>
     <g:title>Peugeot 3008 GT Edition PureTech 130 A</g:title>
     <title>Peugeot 3008 GT Edition PureTech 130 A</title>
-    <g:description>GT Edition PureTech 130 A. Från 3 287 kr/mån. Miltal: 9 303 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: FBA46W. Kontakta oss för mer information.</g:description>
-    <description>GT Edition PureTech 130 A. Från 3 287 kr/mån. Miltal: 9 303 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: FBA46W. Kontakta oss för mer information.</description>
+    <g:description>GT Edition PureTech 130 A. Från 3 130 kr/mån. Miltal: 9 303 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: FBA46W. Kontakta oss för mer information.</g:description>
+    <description>GT Edition PureTech 130 A. Från 3 130 kr/mån. Miltal: 9 303 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: FBA46W. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/peugeot-3008-fba46w</g:link>
     <link>https://borasbil.se/bilar/peugeot-3008-fba46w</link>
     <url>https://borasbil.se/bilar/peugeot-3008-fba46w</url>
@@ -2478,9 +2809,9 @@
     <body_style>SUV</body_style>
     <fuel_type>Gasoline</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>209000 SEK</g:price>
-    <price>209000 SEK</price>
-    <sale_price>209000 SEK</sale_price>
+    <g:price>199000 SEK</g:price>
+    <price>199000 SEK</price>
+    <sale_price>199000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Kinna Bil</component>
       <component name="country">SE</component>
@@ -3970,50 +4301,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>fa7f5f97-1895-42f2-9c45-394c50261701</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>fa7f5f97-1895-42f2-9c45-394c50261701</vehicle_id>
-    <vehicle_registration_plate>JAG51K</vehicle_registration_plate>
-    <g:title>Peugeot 3008 GT Edition PureTech 130 A</g:title>
-    <title>Peugeot 3008 GT Edition PureTech 130 A</title>
-    <g:description>GT Edition PureTech 130 A. Från 2 973 kr/mån. Miltal: 11 493 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: JAG51K. Kontakta oss för mer information.</g:description>
-    <description>GT Edition PureTech 130 A. Från 2 973 kr/mån. Miltal: 11 493 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: JAG51K. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/peugeot-3008-jag51k</g:link>
-    <link>https://borasbil.se/bilar/peugeot-3008-jag51k</link>
-    <url>https://borasbil.se/bilar/peugeot-3008-jag51k</url>
-    <g:brand>Peugeot</g:brand>
-    <brand>Peugeot</brand>
-    <make>Peugeot</make>
-    <g:image_link>https://cdn.wayke.se/cfit/2568d416-5704-4337-b8fe-5502a26092a1/bd49e635-02bd-486a-a74e-78020bc6d9f7?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/2568d416-5704-4337-b8fe-5502a26092a1/bd49e635-02bd-486a-a74e-78020bc6d9f7?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>3008</model>
-    <year>2023</year>
-    <mileage>
-      <value>114930</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>189000 SEK</g:price>
-    <price>189000 SEK</price>
-    <sale_price>189000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>dad661a1-d912-40e9-af82-929bd9e8d3a0</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -4359,50 +4646,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>1b637d30-2212-42aa-95d3-4af1890d42cc</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>1b637d30-2212-42aa-95d3-4af1890d42cc</vehicle_id>
-    <vehicle_registration_plate>KSE64D</vehicle_registration_plate>
-    <g:title>Citroën C4 FL MAX A 5-d</g:title>
-    <title>Citroën C4 FL MAX A 5-d</title>
-    <g:description>FL MAX A 5-d. Från 3 916 kr/mån. Miltal: 2 710 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Reg.nr: KSE64D. Kontakta oss för mer information.</g:description>
-    <description>FL MAX A 5-d. Från 3 916 kr/mån. Miltal: 2 710 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin. Reg.nr: KSE64D. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/citroen-c4-x-hybrid-145-kse64d</g:link>
-    <link>https://borasbil.se/bilar/citroen-c4-x-hybrid-145-kse64d</link>
-    <url>https://borasbil.se/bilar/citroen-c4-x-hybrid-145-kse64d</url>
-    <g:brand>Citroën</g:brand>
-    <brand>Citroën</brand>
-    <make>Citroën</make>
-    <g:image_link>https://cdn.wayke.se/cfit/908eac24-c565-4531-b663-75e06565f2b6/8af057e7-0e24-4d47-b372-6e8a60392274?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/908eac24-c565-4531-b663-75e06565f2b6/8af057e7-0e24-4d47-b372-6e8a60392274?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C4</model>
-    <year>2025</year>
-    <mileage>
-      <value>27100</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>249000 SEK</g:price>
-    <price>249000 SEK</price>
-    <sale_price>249000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -5089,50 +5332,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>83952cf6-8508-40b2-93e5-577d8b8201aa</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>83952cf6-8508-40b2-93e5-577d8b8201aa</vehicle_id>
-    <vehicle_registration_plate>GDE83C</vehicle_registration_plate>
-    <g:title>Peugeot 2008 GT PT 130 A 5-d SUV</g:title>
-    <title>Peugeot 2008 GT PT 130 A 5-d SUV</title>
-    <g:description>GT PT 130 A 5-d SUV. Från 3 287 kr/mån. Miltal: 1 373 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: GDE83C. Kontakta oss för mer information.</g:description>
-    <description>GT PT 130 A 5-d SUV. Från 3 287 kr/mån. Miltal: 1 373 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: GDE83C. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/peugeot-2008-gde83c</g:link>
-    <link>https://borasbil.se/bilar/peugeot-2008-gde83c</link>
-    <url>https://borasbil.se/bilar/peugeot-2008-gde83c</url>
-    <g:brand>Peugeot</g:brand>
-    <brand>Peugeot</brand>
-    <make>Peugeot</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/ca85994c846a4410b762ccb34695b2dd/7c4d7bb2e2d94c39a8dda28b89996c70?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/ca85994c846a4410b762ccb34695b2dd/7c4d7bb2e2d94c39a8dda28b89996c70?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>2008</model>
-    <year>2023</year>
-    <mileage>
-      <value>13730</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>209000 SEK</g:price>
-    <price>209000 SEK</price>
-    <sale_price>209000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Bogesunds Bil Ulricehamn</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>4710dd37-dcb4-474e-b5f7-227e5dc6f993</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -5492,8 +5691,8 @@
     <vehicle_registration_plate>ERL34S</vehicle_registration_plate>
     <g:title>Volvo XC60 B4 Diesel Momentum Advanced SE</g:title>
     <title>Volvo XC60 B4 Diesel Momentum Advanced SE</title>
-    <g:description>B4 Diesel Momentum Advanced SE. Från 4 860 kr/mån. Miltal: 12 561 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Diesel. Reg.nr: ERL34S. Kontakta oss för mer information.</g:description>
-    <description>B4 Diesel Momentum Advanced SE. Från 4 860 kr/mån. Miltal: 12 561 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Diesel. Reg.nr: ERL34S. Kontakta oss för mer information.</description>
+    <g:description>B4 Diesel Momentum Advanced SE. Från 4 703 kr/mån. Miltal: 12 561 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Diesel. Reg.nr: ERL34S. Kontakta oss för mer information.</g:description>
+    <description>B4 Diesel Momentum Advanced SE. Från 4 703 kr/mån. Miltal: 12 561 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Diesel. Reg.nr: ERL34S. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc60-erl34s</g:link>
     <link>https://borasbil.se/bilar/volvo-xc60-erl34s</link>
     <url>https://borasbil.se/bilar/volvo-xc60-erl34s</url>
@@ -5514,9 +5713,9 @@
     <body_style>SUV</body_style>
     <fuel_type>Diesel</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>309000 SEK</g:price>
-    <price>309000 SEK</price>
-    <sale_price>309000 SEK</sale_price>
+    <g:price>299000 SEK</g:price>
+    <price>299000 SEK</price>
+    <sale_price>299000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Kinna Bil</component>
       <component name="country">SE</component>
@@ -5712,8 +5911,8 @@
     <vehicle_registration_plate>AKG236</vehicle_registration_plate>
     <g:title>Mercedes-Benz A-Klass AMG Sport Base, 150hk</g:title>
     <title>Mercedes-Benz A-Klass AMG Sport Base, 150hk</title>
-    <g:description>AMG Sport Base, 150hk. Från 4 231 kr/mån. Miltal: 6 012 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Diesel. Reg.nr: AKG236. Kontakta oss för mer information.</g:description>
-    <description>AMG Sport Base, 150hk. Från 4 231 kr/mån. Miltal: 6 012 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Diesel. Reg.nr: AKG236. Kontakta oss för mer information.</description>
+    <g:description>AMG Sport Base, 150hk. Från 4 074 kr/mån. Miltal: 6 012 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Diesel. Reg.nr: AKG236. Kontakta oss för mer information.</g:description>
+    <description>AMG Sport Base, 150hk. Från 4 074 kr/mån. Miltal: 6 012 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Diesel. Reg.nr: AKG236. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/mercedes-benz-a-200-d-akg236</g:link>
     <link>https://borasbil.se/bilar/mercedes-benz-a-200-d-akg236</link>
     <url>https://borasbil.se/bilar/mercedes-benz-a-200-d-akg236</url>
@@ -5734,9 +5933,9 @@
     <body_style>Sedan</body_style>
     <fuel_type>Diesel</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>269000 SEK</g:price>
-    <price>269000 SEK</price>
-    <sale_price>269000 SEK</sale_price>
+    <g:price>259000 SEK</g:price>
+    <price>259000 SEK</price>
+    <sale_price>259000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Bogesunds Bil Ulricehamn</component>
       <component name="country">SE</component>
@@ -6280,8 +6479,8 @@
     <vehicle_registration_plate>ZMU51L</vehicle_registration_plate>
     <g:title>Škoda Fabia 1,0 TSI</g:title>
     <title>Škoda Fabia 1,0 TSI</title>
-    <g:description>1,0 TSI. Från 1 872 kr/mån. Miltal: 7 930 mil. Årsmodell: 2019. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: ZMU51L. Kontakta oss för mer information.</g:description>
-    <description>1,0 TSI. Från 1 872 kr/mån. Miltal: 7 930 mil. Årsmodell: 2019. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: ZMU51L. Kontakta oss för mer information.</description>
+    <g:description>1,0 TSI. Från 1 714 kr/mån. Miltal: 7 930 mil. Årsmodell: 2019. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: ZMU51L. Kontakta oss för mer information.</g:description>
+    <description>1,0 TSI. Från 1 714 kr/mån. Miltal: 7 930 mil. Årsmodell: 2019. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: ZMU51L. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/skoda-fabia-zmu51l</g:link>
     <link>https://borasbil.se/bilar/skoda-fabia-zmu51l</link>
     <url>https://borasbil.se/bilar/skoda-fabia-zmu51l</url>
@@ -6302,9 +6501,9 @@
     <body_style>Sedan</body_style>
     <fuel_type>Gasoline</fuel_type>
     <transmission>Manual</transmission>
-    <g:price>119000 SEK</g:price>
-    <price>119000 SEK</price>
-    <sale_price>119000 SEK</sale_price>
+    <g:price>109000 SEK</g:price>
+    <price>109000 SEK</price>
+    <sale_price>109000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Bogesunds Bil Ulricehamn</component>
       <component name="country">SE</component>
@@ -6447,8 +6646,8 @@
     <vehicle_registration_plate>ALF81Z</vehicle_registration_plate>
     <g:title>Peugeot 3008 GT Edition PureTech 130 A</g:title>
     <title>Peugeot 3008 GT Edition PureTech 130 A</title>
-    <g:description>GT Edition PureTech 130 A. Från 3 382 kr/mån. Miltal: 4 494 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: ALF81Z. Kontakta oss för mer information.</g:description>
-    <description>GT Edition PureTech 130 A. Från 3 382 kr/mån. Miltal: 4 494 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: ALF81Z. Kontakta oss för mer information.</description>
+    <g:description>GT Edition PureTech 130 A. Från 3 287 kr/mån. Miltal: 4 494 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: ALF81Z. Kontakta oss för mer information.</g:description>
+    <description>GT Edition PureTech 130 A. Från 3 287 kr/mån. Miltal: 4 494 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: ALF81Z. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/peugeot-3008-alf81z</g:link>
     <link>https://borasbil.se/bilar/peugeot-3008-alf81z</link>
     <url>https://borasbil.se/bilar/peugeot-3008-alf81z</url>
@@ -6469,9 +6668,9 @@
     <body_style>SUV</body_style>
     <fuel_type>Gasoline</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>215000 SEK</g:price>
-    <price>215000 SEK</price>
-    <sale_price>215000 SEK</sale_price>
+    <g:price>209000 SEK</g:price>
+    <price>209000 SEK</price>
+    <sale_price>209000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Kinna Bil</component>
       <component name="country">SE</component>
@@ -6711,8 +6910,8 @@
     <vehicle_registration_plate>THJ04N</vehicle_registration_plate>
     <g:title>Volvo XC60 Recharge T6 Core Edition</g:title>
     <title>Volvo XC60 Recharge T6 Core Edition</title>
-    <g:description>Recharge T6 Core Edition. Från 6 590 kr/mån. Miltal: 10 718 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: THJ04N. Kontakta oss för mer information.</g:description>
-    <description>Recharge T6 Core Edition. Från 6 590 kr/mån. Miltal: 10 718 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: THJ04N. Kontakta oss för mer information.</description>
+    <g:description>Recharge T6 Core Edition. Från 6 433 kr/mån. Miltal: 10 718 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: THJ04N. Kontakta oss för mer information.</g:description>
+    <description>Recharge T6 Core Edition. Från 6 433 kr/mån. Miltal: 10 718 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: THJ04N. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc60-thj04n</g:link>
     <link>https://borasbil.se/bilar/volvo-xc60-thj04n</link>
     <url>https://borasbil.se/bilar/volvo-xc60-thj04n</url>
@@ -6733,9 +6932,9 @@
     <body_style>SUV</body_style>
     <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>419000 SEK</g:price>
-    <price>419000 SEK</price>
-    <sale_price>419000 SEK</sale_price>
+    <g:price>409000 SEK</g:price>
+    <price>409000 SEK</price>
+    <sale_price>409000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Kinna Bil</component>
       <component name="country">SE</component>
@@ -6921,8 +7120,8 @@
     <vehicle_registration_plate>OFW23N</vehicle_registration_plate>
     <g:title>Volvo EX90 Ultra 7sätes</g:title>
     <title>Volvo EX90 Ultra 7sätes</title>
-    <g:description>Ultra 7sätes. Från 12 252 kr/mån. Miltal: 1 934 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: OFW23N. Kontakta oss för mer information.</g:description>
-    <description>Ultra 7sätes. Från 12 252 kr/mån. Miltal: 1 934 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: OFW23N. Kontakta oss för mer information.</description>
+    <g:description>Ultra 7sätes. Från 11 938 kr/mån. Miltal: 1 934 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: OFW23N. Kontakta oss för mer information.</g:description>
+    <description>Ultra 7sätes. Från 11 938 kr/mån. Miltal: 1 934 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: OFW23N. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-ex90-twin-motor-performance-7-seater-ofw23n</g:link>
     <link>https://borasbil.se/bilar/volvo-ex90-twin-motor-performance-7-seater-ofw23n</link>
     <url>https://borasbil.se/bilar/volvo-ex90-twin-motor-performance-7-seater-ofw23n</url>
@@ -6943,9 +7142,9 @@
     <body_style>SUV</body_style>
     <fuel_type>Electric</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>779000 SEK</g:price>
-    <price>779000 SEK</price>
-    <sale_price>779000 SEK</sale_price>
+    <g:price>759000 SEK</g:price>
+    <price>759000 SEK</price>
+    <sale_price>759000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Borås Bil</component>
       <component name="country">SE</component>
@@ -7229,8 +7428,8 @@
     <vehicle_registration_plate>RXB669</vehicle_registration_plate>
     <g:title>Volvo XC60 Recharge T6 Core Bright</g:title>
     <title>Volvo XC60 Recharge T6 Core Bright</title>
-    <g:description>Recharge T6 Core Bright. Från 6 433 kr/mån. Miltal: 11 640 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: RXB669. Kontakta oss för mer information.</g:description>
-    <description>Recharge T6 Core Bright. Från 6 433 kr/mån. Miltal: 11 640 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: RXB669. Kontakta oss för mer information.</description>
+    <g:description>Recharge T6 Core Bright. Från 6 275 kr/mån. Miltal: 11 640 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: RXB669. Kontakta oss för mer information.</g:description>
+    <description>Recharge T6 Core Bright. Från 6 275 kr/mån. Miltal: 11 640 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: RXB669. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc60-rxb669</g:link>
     <link>https://borasbil.se/bilar/volvo-xc60-rxb669</link>
     <url>https://borasbil.se/bilar/volvo-xc60-rxb669</url>
@@ -7251,9 +7450,9 @@
     <body_style>SUV</body_style>
     <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>409000 SEK</g:price>
-    <price>409000 SEK</price>
-    <sale_price>409000 SEK</sale_price>
+    <g:price>399000 SEK</g:price>
+    <price>399000 SEK</price>
+    <sale_price>399000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Kinna Bil</component>
       <component name="country">SE</component>
@@ -7317,8 +7516,8 @@
     <vehicle_registration_plate>ZJF93R</vehicle_registration_plate>
     <g:title>Volvo XC60 B5 Bensin Momentum Advanced Edt</g:title>
     <title>Volvo XC60 B5 Bensin Momentum Advanced Edt</title>
-    <g:description>B5 Bensin Momentum Advanced Edt. Från 6 118 kr/mån. Miltal: 5 955 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Bensin. Reg.nr: ZJF93R. Kontakta oss för mer information.</g:description>
-    <description>B5 Bensin Momentum Advanced Edt. Från 6 118 kr/mån. Miltal: 5 955 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Bensin. Reg.nr: ZJF93R. Kontakta oss för mer information.</description>
+    <g:description>B5 Bensin Momentum Advanced Edt. Från 5 961 kr/mån. Miltal: 5 955 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Bensin. Reg.nr: ZJF93R. Kontakta oss för mer information.</g:description>
+    <description>B5 Bensin Momentum Advanced Edt. Från 5 961 kr/mån. Miltal: 5 955 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Bensin. Reg.nr: ZJF93R. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc60-zjf93r</g:link>
     <link>https://borasbil.se/bilar/volvo-xc60-zjf93r</link>
     <url>https://borasbil.se/bilar/volvo-xc60-zjf93r</url>
@@ -7339,9 +7538,9 @@
     <body_style>SUV</body_style>
     <fuel_type>Gasoline</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>389000 SEK</g:price>
-    <price>389000 SEK</price>
-    <sale_price>389000 SEK</sale_price>
+    <g:price>379000 SEK</g:price>
+    <price>379000 SEK</price>
+    <sale_price>379000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Borås Bil</component>
       <component name="country">SE</component>
@@ -10196,8 +10395,8 @@
     <vehicle_registration_plate>JBK63F</vehicle_registration_plate>
     <g:title>Volvo EX90 Ultra 6sätes</g:title>
     <title>Volvo EX90 Ultra 6sätes</title>
-    <g:description>Ultra 6sätes. Från 12 881 kr/mån. Miltal: 2 193 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: JBK63F. Kontakta oss för mer information.</g:description>
-    <description>Ultra 6sätes. Från 12 881 kr/mån. Miltal: 2 193 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: JBK63F. Kontakta oss för mer information.</description>
+    <g:description>Ultra 6sätes. Från 12 567 kr/mån. Miltal: 2 193 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: JBK63F. Kontakta oss för mer information.</g:description>
+    <description>Ultra 6sätes. Från 12 567 kr/mån. Miltal: 2 193 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: JBK63F. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-ex90-twin-motor-performance-6-seater-jbk63f</g:link>
     <link>https://borasbil.se/bilar/volvo-ex90-twin-motor-performance-6-seater-jbk63f</link>
     <url>https://borasbil.se/bilar/volvo-ex90-twin-motor-performance-6-seater-jbk63f</url>
@@ -10218,9 +10417,9 @@
     <body_style>SUV</body_style>
     <fuel_type>Electric</fuel_type>
     <transmission>Automatic</transmission>
-    <g:price>819000 SEK</g:price>
-    <price>819000 SEK</price>
-    <sale_price>819000 SEK</sale_price>
+    <g:price>799000 SEK</g:price>
+    <price>799000 SEK</price>
+    <sale_price>799000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Bogesunds Bil Ulricehamn</component>
       <component name="country">SE</component>
@@ -14251,10 +14450,10 @@
     <g:fb_product_category>173</g:fb_product_category>
     <vehicle_id>51ca47a9-ab42-4441-8d49-2fa74c6d7452</vehicle_id>
     <vehicle_registration_plate>51ca47a9</vehicle_registration_plate>
-    <g:title>Maxus T60 Pickup 4x4 215hk - ADR-klassad</g:title>
-    <title>Maxus T60 Pickup 4x4 215hk - ADR-klassad</title>
-    <g:description>Pickup 4x4 215hk - ADR-klassad. Från 9 417 kr/mån. Årsmodell: 2026. Växellåda: Automat. Reg.nr: 51ca47a9. Kontakta oss för mer information.</g:description>
-    <description>Pickup 4x4 215hk - ADR-klassad. Från 9 417 kr/mån. Årsmodell: 2026. Växellåda: Automat. Reg.nr: 51ca47a9. Kontakta oss för mer information.</description>
+    <g:title>Maxus MAX Pickup 4x4 215hk - ADR-klassad</g:title>
+    <title>Maxus MAX Pickup 4x4 215hk - ADR-klassad</title>
+    <g:description>Pickup 4x4 215hk - ADR-klassad. Från 9 417 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: Diesel. Reg.nr: 51ca47a9. Kontakta oss för mer information.</g:description>
+    <description>Pickup 4x4 215hk - ADR-klassad. Från 9 417 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: Diesel. Reg.nr: 51ca47a9. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/maxus-t60-max-51ca47a9</g:link>
     <link>https://borasbil.se/bilar/maxus-t60-max-51ca47a9</link>
     <url>https://borasbil.se/bilar/maxus-t60-max-51ca47a9</url>
@@ -14266,9 +14465,10 @@
       <url>https://cdn.wayke.se/cfit/d6034159-82ec-4096-a034-482db9836063/5aff459e-8324-4076-abe8-d7a896220e95?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
-    <model>T60</model>
+    <model>MAX</model>
     <year>2026</year>
     <body_style>Sedan</body_style>
+    <fuel_type>Diesel</fuel_type>
     <transmission>Automatic</transmission>
     <g:price>598750 SEK</g:price>
     <price>598750 SEK</price>
@@ -15060,90 +15260,6 @@
     <state_of_vehicle>NEW</state_of_vehicle>
     </item>
     <item>
-    <g:id>019016b5-6f15-41b4-ba63-03f5dd462996</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>019016b5-6f15-41b4-ba63-03f5dd462996</vehicle_id>
-    <vehicle_registration_plate>019016b5</vehicle_registration_plate>
-    <g:title>Maxus T60 MAX Pickup 4x4 215hk</g:title>
-    <title>Maxus T60 MAX Pickup 4x4 215hk</title>
-    <g:description>Pickup 4x4 215hk. Från 7 665 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: Diesel. Reg.nr: 019016b5. Kontakta oss för mer information.</g:description>
-    <description>Pickup 4x4 215hk. Från 7 665 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: Diesel. Reg.nr: 019016b5. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/maxus-t60-max-019016b5</g:link>
-    <link>https://borasbil.se/bilar/maxus-t60-max-019016b5</link>
-    <url>https://borasbil.se/bilar/maxus-t60-max-019016b5</url>
-    <g:brand>Maxus</g:brand>
-    <brand>Maxus</brand>
-    <make>Maxus</make>
-    <g:image_link>https://cdn.wayke.se/cfit/cd65d2d2-5e24-4111-8930-4384ca6f50b5/6bc3cb4d-ec92-4db2-b999-6df228ada276?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/cd65d2d2-5e24-4111-8930-4384ca6f50b5/6bc3cb4d-ec92-4db2-b999-6df228ada276?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>T60 MAX</model>
-    <year>2026</year>
-    <body_style>Sedan</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>487375 SEK</g:price>
-    <price>487375 SEK</price>
-    <sale_price>487375 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>new</g:condition>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>95dfa8f7-2252-481d-bcad-5ad957055dee</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>95dfa8f7-2252-481d-bcad-5ad957055dee</vehicle_id>
-    <vehicle_registration_plate>95dfa8f7</vehicle_registration_plate>
-    <g:title>Maxus T60 MAX Pickup 4x4 215hk</g:title>
-    <title>Maxus T60 MAX Pickup 4x4 215hk</title>
-    <g:description>Pickup 4x4 215hk. Från 7 665 kr/mån. Miltal: 3 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Diesel. Reg.nr: 95dfa8f7. Kontakta oss för mer information.</g:description>
-    <description>Pickup 4x4 215hk. Från 7 665 kr/mån. Miltal: 3 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Diesel. Reg.nr: 95dfa8f7. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/maxus-t60-max-95dfa8f7</g:link>
-    <link>https://borasbil.se/bilar/maxus-t60-max-95dfa8f7</link>
-    <url>https://borasbil.se/bilar/maxus-t60-max-95dfa8f7</url>
-    <g:brand>Maxus</g:brand>
-    <brand>Maxus</brand>
-    <make>Maxus</make>
-    <g:image_link>https://cdn.wayke.se/cfit/890dd332-9eb7-4828-bad8-663bdcf2c7e5/78f1a01e-50f5-4d99-beb0-64baafe6ceed?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/890dd332-9eb7-4828-bad8-663bdcf2c7e5/78f1a01e-50f5-4d99-beb0-64baafe6ceed?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>T60 MAX</model>
-    <year>2026</year>
-    <mileage>
-      <value>30</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>487375 SEK</g:price>
-    <price>487375 SEK</price>
-    <sale_price>487375 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>new</g:condition>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    </item>
-    <item>
     <g:id>7359e0f9-94c2-4d18-bd54-c6878410dcd3</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -15360,50 +15476,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>2598f12f-673d-49aa-8565-c7b5a78d7e58</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>2598f12f-673d-49aa-8565-c7b5a78d7e58</vehicle_id>
-    <vehicle_registration_plate>RJZ94H</vehicle_registration_plate>
-    <g:title>Citroën C3 Aircross PLUS Pure Tech 100</g:title>
-    <title>Citroën C3 Aircross PLUS Pure Tech 100</title>
-    <g:description>PLUS Pure Tech 100. Från 3 287 kr/mån. Miltal: 160 mil. Årsmodell: 2025. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: RJZ94H. Kontakta oss för mer information.</g:description>
-    <description>PLUS Pure Tech 100. Från 3 287 kr/mån. Miltal: 160 mil. Årsmodell: 2025. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: RJZ94H. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/citroen-c3-aircross-rjz94h</g:link>
-    <link>https://borasbil.se/bilar/citroen-c3-aircross-rjz94h</link>
-    <url>https://borasbil.se/bilar/citroen-c3-aircross-rjz94h</url>
-    <g:brand>Citroën</g:brand>
-    <brand>Citroën</brand>
-    <make>Citroën</make>
-    <g:image_link>https://cdn.wayke.se/cfit/6120c21f-6a61-4471-8ea5-ee86fc2eac6f/de415fa2-2721-415d-a7c1-82978d951f96?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/6120c21f-6a61-4471-8ea5-ee86fc2eac6f/de415fa2-2721-415d-a7c1-82978d951f96?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C3 Aircross</model>
-    <year>2025</year>
-    <mileage>
-      <value>1600</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Manual</transmission>
-    <g:price>209000 SEK</g:price>
-    <price>209000 SEK</price>
-    <sale_price>209000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>94c165e4-1ed5-4ef9-85e1-5e174d9f2e50</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -15595,9 +15667,9 @@
     <g:brand>Maxus</g:brand>
     <brand>Maxus</brand>
     <make>Maxus</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/5675964c5ce14a70a005d94d971c0892/c051b5aacdd546d3a8c189149a823e9a?format=jpeg&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/07edbedb-e60d-4340-9681-54ef0ac0d50b/680ce908-8384-4eca-8ae9-bf5d6eda5288?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/v3/5675964c5ce14a70a005d94d971c0892/c051b5aacdd546d3a8c189149a823e9a?format=jpeg&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/07edbedb-e60d-4340-9681-54ef0ac0d50b/680ce908-8384-4eca-8ae9-bf5d6eda5288?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>MAX</model>
