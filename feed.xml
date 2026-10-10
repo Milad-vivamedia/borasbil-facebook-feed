@@ -3392,50 +3392,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>228682c8-ce03-4360-9176-13c5a1032fc2</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>228682c8-ce03-4360-9176-13c5a1032fc2</vehicle_id>
-    <vehicle_registration_plate>WLL84J</vehicle_registration_plate>
-    <g:title>Peugeot 3008 GT Edition PureTech 130 A</g:title>
-    <title>Peugeot 3008 GT Edition PureTech 130 A</title>
-    <g:description>GT Edition PureTech 130 A. Från 3 287 kr/mån. Miltal: 8 593 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: WLL84J. Kontakta oss för mer information.</g:description>
-    <description>GT Edition PureTech 130 A. Från 3 287 kr/mån. Miltal: 8 593 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: WLL84J. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/peugeot-3008-wll84j</g:link>
-    <link>https://borasbil.se/bilar/peugeot-3008-wll84j</link>
-    <url>https://borasbil.se/bilar/peugeot-3008-wll84j</url>
-    <g:brand>Peugeot</g:brand>
-    <brand>Peugeot</brand>
-    <make>Peugeot</make>
-    <g:image_link>https://cdn.wayke.se/cfit/a50d69d7-f10b-4c5a-95a5-e1aa6089477b/e7f5f10f-bc21-4402-9f43-8da124e846cd?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/a50d69d7-f10b-4c5a-95a5-e1aa6089477b/e7f5f10f-bc21-4402-9f43-8da124e846cd?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>3008</model>
-    <year>2023</year>
-    <mileage>
-      <value>85930</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>209000 SEK</g:price>
-    <price>209000 SEK</price>
-    <sale_price>209000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>2dee6850-6350-472c-9031-2a0061f1a64f</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
