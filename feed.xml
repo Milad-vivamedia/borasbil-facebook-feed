@@ -480,8 +480,8 @@
     <vehicle_registration_plate>JAG51K</vehicle_registration_plate>
     <g:title>Peugeot 3008 GT Edition PT 130 A</g:title>
     <title>Peugeot 3008 GT Edition PT 130 A</title>
-    <g:description>GT Edition PT 130 A. Från 2 815 kr/mån. Miltal: 11 493 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: JAG51K. Kontakta oss för mer information.</g:description>
-    <description>GT Edition PT 130 A. Från 2 815 kr/mån. Miltal: 11 493 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: JAG51K. Kontakta oss för mer information.</description>
+    <g:description>GT Edition PT 130 A. Från 2 815 kr/mån. Miltal: 11 500 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: JAG51K. Kontakta oss för mer information.</g:description>
+    <description>GT Edition PT 130 A. Från 2 815 kr/mån. Miltal: 11 500 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: JAG51K. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/peugeot-3008-jag51k</g:link>
     <link>https://borasbil.se/bilar/peugeot-3008-jag51k</link>
     <url>https://borasbil.se/bilar/peugeot-3008-jag51k</url>
@@ -496,7 +496,7 @@
     <model>3008</model>
     <year>2023</year>
     <mileage>
-      <value>114930</value>
+      <value>115000</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
@@ -1475,8 +1475,8 @@
     <vehicle_registration_plate>JAL48E</vehicle_registration_plate>
     <g:title>Volvo V60 B4 AWD Diesel Ultimate</g:title>
     <title>Volvo V60 B4 AWD Diesel Ultimate</title>
-    <g:description>B4 AWD Diesel Ultimate. Från 5 804 kr/mån. Miltal: 14 272 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Diesel. Reg.nr: JAL48E. Kontakta oss för mer information.</g:description>
-    <description>B4 AWD Diesel Ultimate. Från 5 804 kr/mån. Miltal: 14 272 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Diesel. Reg.nr: JAL48E. Kontakta oss för mer information.</description>
+    <g:description>B4 AWD Diesel Ultimate. Från 5 804 kr/mån. Miltal: 14 279 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Diesel. Reg.nr: JAL48E. Kontakta oss för mer information.</g:description>
+    <description>B4 AWD Diesel Ultimate. Från 5 804 kr/mån. Miltal: 14 279 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Diesel. Reg.nr: JAL48E. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-v60-cross-country-jal48e</g:link>
     <link>https://borasbil.se/bilar/volvo-v60-cross-country-jal48e</link>
     <url>https://borasbil.se/bilar/volvo-v60-cross-country-jal48e</url>
@@ -1491,7 +1491,7 @@
     <model>V60</model>
     <year>2024</year>
     <mileage>
-      <value>142720</value>
+      <value>142790</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Wagon</body_style>
