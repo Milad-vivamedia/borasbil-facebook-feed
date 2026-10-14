@@ -1732,46 +1732,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>87d274db-1a16-4226-b507-9191f9d9a32e</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>87d274db-1a16-4226-b507-9191f9d9a32e</vehicle_id>
-    <vehicle_registration_plate>LBJ96A</vehicle_registration_plate>
-    <g:title>Citroën C4 FL MAX A</g:title>
-    <title>Citroën C4 FL MAX A</title>
-    <g:description>FL MAX A. Från 5 182 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: LBJ96A. Kontakta oss för mer information.</g:description>
-    <description>FL MAX A. Från 5 182 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin. Reg.nr: LBJ96A. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/citroen-c4-hybrid-145-lbj96a</g:link>
-    <link>https://borasbil.se/bilar/citroen-c4-hybrid-145-lbj96a</link>
-    <url>https://borasbil.se/bilar/citroen-c4-hybrid-145-lbj96a</url>
-    <g:brand>Citroën</g:brand>
-    <brand>Citroën</brand>
-    <make>Citroën</make>
-    <g:image_link>https://cdn.wayke.se/cfit/e555f748-19f2-4d35-a8f7-ddcc463e0b8c/7286db4d-9f3c-4d42-acc4-3d3585a78c57?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/e555f748-19f2-4d35-a8f7-ddcc463e0b8c/7286db4d-9f3c-4d42-acc4-3d3585a78c57?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C4</model>
-    <year>2026</year>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>329500 SEK</g:price>
-    <price>329500 SEK</price>
-    <sale_price>329500 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Bogesunds Bil Ulricehamn</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>new</g:condition>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    </item>
-    <item>
     <g:id>463188f1-9cfa-4bb6-9ed9-565b9da5f1c9</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
