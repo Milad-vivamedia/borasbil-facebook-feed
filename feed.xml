@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>e003528f-2c13-45d1-a4e6-e8b79d6ba0d3</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>e003528f-2c13-45d1-a4e6-e8b79d6ba0d3</vehicle_id>
+    <vehicle_registration_plate>RBT34H</vehicle_registration_plate>
+    <g:title>Volvo EX90 Ultra 7sätes</g:title>
+    <title>Volvo EX90 Ultra 7sätes</title>
+    <g:description>Ultra 7sätes. Från 11 466 kr/mån. Miltal: 4 333 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: RBT34H. Kontakta oss för mer information.</g:description>
+    <description>Ultra 7sätes. Från 11 466 kr/mån. Miltal: 4 333 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: RBT34H. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-ex90-twin-motor-performance-rbt34h</g:link>
+    <link>https://borasbil.se/bilar/volvo-ex90-twin-motor-performance-rbt34h</link>
+    <url>https://borasbil.se/bilar/volvo-ex90-twin-motor-performance-rbt34h</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/202fce50-6476-489a-95f7-db86a8c2e060/f1d3e6ab-b91e-44c5-8a06-14789950bfed?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/202fce50-6476-489a-95f7-db86a8c2e060/f1d3e6ab-b91e-44c5-8a06-14789950bfed?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>EX90</model>
+    <year>2025</year>
+    <mileage>
+      <value>43330</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>729000 SEK</g:price>
+    <price>729000 SEK</price>
+    <sale_price>729000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>2dafc2b8-a7dc-4f88-ab99-5b1d3535e531</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -505,50 +549,6 @@
     <g:price>249000 SEK</g:price>
     <price>249000 SEK</price>
     <sale_price>249000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>1881ed34-7dba-400a-b9bb-0689983bd5e2</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>1881ed34-7dba-400a-b9bb-0689983bd5e2</vehicle_id>
-    <vehicle_registration_plate>YHA32L</vehicle_registration_plate>
-    <g:title>Volvo XC40 Core Edition</g:title>
-    <title>Volvo XC40 Core Edition</title>
-    <g:description>Core Edition. Från 5 646 kr/mån. Miltal: 3 152 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: YHA32L. Kontakta oss för mer information.</g:description>
-    <description>Core Edition. Från 5 646 kr/mån. Miltal: 3 152 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: YHA32L. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc40-recharge-yha32l</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc40-recharge-yha32l</link>
-    <url>https://borasbil.se/bilar/volvo-xc40-recharge-yha32l</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/6edca17086ef46a0a673d216b0052433/71805f521a614fc19f901be696206fd3?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/6edca17086ef46a0a673d216b0052433/71805f521a614fc19f901be696206fd3?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2023</year>
-    <mileage>
-      <value>31520</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>359000 SEK</g:price>
-    <price>359000 SEK</price>
-    <sale_price>359000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Kinna Bil</component>
       <component name="country">SE</component>
@@ -2378,50 +2378,6 @@
     <g:condition>used</g:condition>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>8425a3a6-6b3e-45d0-99b1-a462114bf61a</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>8425a3a6-6b3e-45d0-99b1-a462114bf61a</vehicle_id>
-    <vehicle_registration_plate>YWF59T</vehicle_registration_plate>
-    <g:title>Volvo EX40 ExtendedRange Plus SE</g:title>
-    <title>Volvo EX40 ExtendedRange Plus SE</title>
-    <g:description>ExtendedRange Plus SE. Från 7 691 kr/mån. Miltal: 478 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: YWF59T. Kontakta oss för mer information.</g:description>
-    <description>ExtendedRange Plus SE. Från 7 691 kr/mån. Miltal: 478 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: YWF59T. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-ywf59t</g:link>
-    <link>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-ywf59t</link>
-    <url>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-ywf59t</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/6a0d1a7a-8eda-4aeb-82e4-f7cc24f587da/8d3494af-02c0-47e9-b46e-460689dc994c?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/6a0d1a7a-8eda-4aeb-82e4-f7cc24f587da/8d3494af-02c0-47e9-b46e-460689dc994c?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>EX40</model>
-    <year>2026</year>
-    <mileage>
-      <value>4780</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>489000 SEK</g:price>
-    <price>489000 SEK</price>
-    <sale_price>489000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>new</g:condition>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
     </item>
     <item>
     <g:id>6198331e-1d48-48aa-8ead-c939cce294ec</g:id>
@@ -12819,46 +12775,6 @@
     <g:price>610000 SEK</g:price>
     <price>610000 SEK</price>
     <sale_price>610000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>new</g:condition>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>c913c54b-bb5c-4c27-90f9-ed9ea2b0b6ed</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>c913c54b-bb5c-4c27-90f9-ed9ea2b0b6ed</vehicle_id>
-    <vehicle_registration_plate>FXR04A</vehicle_registration_plate>
-    <g:title>Volvo XC60 T6 Plus Bright Nordic Edition</g:title>
-    <title>Volvo XC60 T6 Plus Bright Nordic Edition</title>
-    <g:description>T6 Plus Bright Nordic Edition. Från 9 500 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: FXR04A. Kontakta oss för mer information.</g:description>
-    <description>T6 Plus Bright Nordic Edition. Från 9 500 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: FXR04A. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc60-fxr04a</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc60-fxr04a</link>
-    <url>https://borasbil.se/bilar/volvo-xc60-fxr04a</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/3d283774-c1f7-44de-8498-345237896372/2931135d-6012-420c-9bbe-e2564eb60272?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/3d283774-c1f7-44de-8498-345237896372/2931135d-6012-420c-9bbe-e2564eb60272?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2027</year>
-    <body_style>SUV</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>604000 SEK</g:price>
-    <price>604000 SEK</price>
-    <sale_price>604000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Borås Bil</component>
       <component name="country">SE</component>
