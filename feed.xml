@@ -8916,50 +8916,6 @@
     <state_of_vehicle>NEW</state_of_vehicle>
     </item>
     <item>
-    <g:id>6dc8f0eb-4877-410a-86e6-4436bb55f84a</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>6dc8f0eb-4877-410a-86e6-4436bb55f84a</vehicle_id>
-    <vehicle_registration_plate>AHU62E</vehicle_registration_plate>
-    <g:title>Volvo XC40 D3 FWD Inscription</g:title>
-    <title>Volvo XC40 D3 FWD Inscription</title>
-    <g:description>D3 FWD Inscription. Från 4 545 kr/mån. Miltal: 11 297 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Diesel. Reg.nr: AHU62E. Kontakta oss för mer information.</g:description>
-    <description>D3 FWD Inscription. Från 4 545 kr/mån. Miltal: 11 297 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Diesel. Reg.nr: AHU62E. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc40-ahu62e</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc40-ahu62e</link>
-    <url>https://borasbil.se/bilar/volvo-xc40-ahu62e</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/0d1877cb-b558-43e8-b32d-f1aec25d4eb7/de4eef60-b33f-452a-bb77-a1040e050998?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/0d1877cb-b558-43e8-b32d-f1aec25d4eb7/de4eef60-b33f-452a-bb77-a1040e050998?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2020</year>
-    <mileage>
-      <value>112970</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>289000 SEK</g:price>
-    <price>289000 SEK</price>
-    <sale_price>289000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>74342a9a-a125-4784-93b2-934f198178b9</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
