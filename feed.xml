@@ -341,46 +341,6 @@
     <state_of_vehicle>NEW</state_of_vehicle>
     </item>
     <item>
-    <g:id>5c0c9b00-b1e0-48ca-bea6-c2a019bf9c29</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>5c0c9b00-b1e0-48ca-bea6-c2a019bf9c29</vehicle_id>
-    <vehicle_registration_plate>AXR82X</vehicle_registration_plate>
-    <g:title>Volvo XC60 T6 Plus Black Nordic Edition</g:title>
-    <title>Volvo XC60 T6 Plus Black Nordic Edition</title>
-    <g:description>T6 Plus Black Nordic Edition. Från 10 561 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: AXR82X. Kontakta oss för mer information.</g:description>
-    <description>T6 Plus Black Nordic Edition. Från 10 561 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: AXR82X. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc60-axr82x</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc60-axr82x</link>
-    <url>https://borasbil.se/bilar/volvo-xc60-axr82x</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/d8891c56d05141fb893541b47f6eb394/b2418042e9514c76bbddbe5941a484df?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/d8891c56d05141fb893541b47f6eb394/b2418042e9514c76bbddbe5941a484df?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2027</year>
-    <body_style>SUV</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>671500 SEK</g:price>
-    <price>671500 SEK</price>
-    <sale_price>671500 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>new</g:condition>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    </item>
-    <item>
     <g:id>7d88299a-3237-476c-8c05-95fc19ce896f</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -1832,50 +1792,6 @@
     <g:price>339000 SEK</g:price>
     <price>339000 SEK</price>
     <sale_price>339000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>38b49b96-51c7-4087-a946-48aa6604fc76</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>38b49b96-51c7-4087-a946-48aa6604fc76</vehicle_id>
-    <vehicle_registration_plate>PBL17G</vehicle_registration_plate>
-    <g:title>Dacia Duster PhII 4x2 TCe 150 Express A</g:title>
-    <title>Dacia Duster PhII 4x2 TCe 150 Express A</title>
-    <g:description>PhII 4x2 TCe 150 Express A. Från 3 130 kr/mån. Miltal: 3 350 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: PBL17G. Kontakta oss för mer information.</g:description>
-    <description>PhII 4x2 TCe 150 Express A. Från 3 130 kr/mån. Miltal: 3 350 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: PBL17G. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/dacia-duster-pbl17g</g:link>
-    <link>https://borasbil.se/bilar/dacia-duster-pbl17g</link>
-    <url>https://borasbil.se/bilar/dacia-duster-pbl17g</url>
-    <g:brand>Dacia</g:brand>
-    <brand>Dacia</brand>
-    <make>Dacia</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/9e93d14cd274402b85e613e7076b03bb/83517cde8de943ec8033da5bc2c76f89?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/9e93d14cd274402b85e613e7076b03bb/83517cde8de943ec8033da5bc2c76f89?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Duster</model>
-    <year>2023</year>
-    <mileage>
-      <value>33500</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>199000 SEK</g:price>
-    <price>199000 SEK</price>
-    <sale_price>199000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Borås Bil</component>
       <component name="country">SE</component>
@@ -10538,50 +10454,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>e95a2ef0-e4e0-4571-8da7-ee6279db9241</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>e95a2ef0-e4e0-4571-8da7-ee6279db9241</vehicle_id>
-    <vehicle_registration_plate>RHT83Y</vehicle_registration_plate>
-    <g:title>Volvo C40 Core</g:title>
-    <title>Volvo C40 Core</title>
-    <g:description>Core. Från 5 175 kr/mån. Miltal: 6 153 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: RHT83Y. Kontakta oss för mer information.</g:description>
-    <description>Core. Från 5 175 kr/mån. Miltal: 6 153 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: RHT83Y. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-c40-recharge-rht83y</g:link>
-    <link>https://borasbil.se/bilar/volvo-c40-recharge-rht83y</link>
-    <url>https://borasbil.se/bilar/volvo-c40-recharge-rht83y</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/cd9a758ccae7475e991bc6412fbb5dd7/d850443d1c104a919f4c7da499144506?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/cd9a758ccae7475e991bc6412fbb5dd7/d850443d1c104a919f4c7da499144506?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C40</model>
-    <year>2023</year>
-    <mileage>
-      <value>61530</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>329000 SEK</g:price>
-    <price>329000 SEK</price>
-    <sale_price>329000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
