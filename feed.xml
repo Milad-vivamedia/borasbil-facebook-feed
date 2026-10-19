@@ -6427,8 +6427,8 @@
     <vehicle_registration_plate>AKG236</vehicle_registration_plate>
     <g:title>Mercedes-Benz A-Klass AMG Sport Base, 150hk</g:title>
     <title>Mercedes-Benz A-Klass AMG Sport Base, 150hk</title>
-    <g:description>AMG Sport Base, 150hk. Från 4 074 kr/mån. Miltal: 6 012 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Diesel. Reg.nr: AKG236. Kontakta oss för mer information.</g:description>
-    <description>AMG Sport Base, 150hk. Från 4 074 kr/mån. Miltal: 6 012 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Diesel. Reg.nr: AKG236. Kontakta oss för mer information.</description>
+    <g:description>AMG Sport Base, 150hk. Från 4 074 kr/mån. Miltal: 6 016 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Diesel. Reg.nr: AKG236. Kontakta oss för mer information.</g:description>
+    <description>AMG Sport Base, 150hk. Från 4 074 kr/mån. Miltal: 6 016 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Diesel. Reg.nr: AKG236. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/mercedes-benz-a-200-d-akg236</g:link>
     <link>https://borasbil.se/bilar/mercedes-benz-a-200-d-akg236</link>
     <url>https://borasbil.se/bilar/mercedes-benz-a-200-d-akg236</url>
@@ -6443,7 +6443,7 @@
     <model>A-Klass</model>
     <year>2020</year>
     <mileage>
-      <value>60120</value>
+      <value>60160</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
@@ -10864,8 +10864,8 @@
     <vehicle_registration_plate>DHY51F</vehicle_registration_plate>
     <g:title>Volvo V60 T6 Plus Dark Nordic Edition</g:title>
     <title>Volvo V60 T6 Plus Dark Nordic Edition</title>
-    <g:description>T6 Plus Dark Nordic Edition. Från 8 635 kr/mån. Miltal: 230 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: DHY51F. Kontakta oss för mer information.</g:description>
-    <description>T6 Plus Dark Nordic Edition. Från 8 635 kr/mån. Miltal: 230 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: DHY51F. Kontakta oss för mer information.</description>
+    <g:description>T6 Plus Dark Nordic Edition. Från 8 635 kr/mån. Miltal: 231 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: DHY51F. Kontakta oss för mer information.</g:description>
+    <description>T6 Plus Dark Nordic Edition. Från 8 635 kr/mån. Miltal: 231 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: DHY51F. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-v60-dhy51f</g:link>
     <link>https://borasbil.se/bilar/volvo-v60-dhy51f</link>
     <url>https://borasbil.se/bilar/volvo-v60-dhy51f</url>
@@ -10880,7 +10880,7 @@
     <model>V60</model>
     <year>2027</year>
     <mileage>
-      <value>2300</value>
+      <value>2310</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Wagon</body_style>
