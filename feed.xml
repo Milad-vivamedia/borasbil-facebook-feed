@@ -1056,8 +1056,8 @@
     <vehicle_registration_plate>CHS86K</vehicle_registration_plate>
     <g:title>Citroën C4</g:title>
     <title>Citroën C4</title>
-    <g:description>Från 2 815 kr/mån. Miltal: 3 495 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: CHS86K. Kontakta oss för mer information.</g:description>
-    <description>Från 2 815 kr/mån. Miltal: 3 495 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: CHS86K. Kontakta oss för mer information.</description>
+    <g:description>Från 2 815 kr/mån. Miltal: 3 490 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: CHS86K. Kontakta oss för mer information.</g:description>
+    <description>Från 2 815 kr/mån. Miltal: 3 490 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: CHS86K. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/citroen-c4-chs86k</g:link>
     <link>https://borasbil.se/bilar/citroen-c4-chs86k</link>
     <url>https://borasbil.se/bilar/citroen-c4-chs86k</url>
@@ -1072,7 +1072,7 @@
     <model>C4</model>
     <year>2023</year>
     <mileage>
-      <value>34950</value>
+      <value>34900</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
