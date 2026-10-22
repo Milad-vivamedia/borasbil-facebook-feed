@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>19b31dfd-24fd-4d16-9302-548c36e2cac7</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>19b31dfd-24fd-4d16-9302-548c36e2cac7</vehicle_id>
+    <vehicle_registration_plate>WSG98J</vehicle_registration_plate>
+    <g:title>Polestar 2 69kWh</g:title>
+    <title>Polestar 2 69kWh</title>
+    <g:description>69kWh. Från 4 074 kr/mån. Miltal: 13 956 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: WSG98J. Kontakta oss för mer information.</g:description>
+    <description>69kWh. Från 4 074 kr/mån. Miltal: 13 956 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: WSG98J. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/polestar-2-standard-range-single-motor-wsg98j</g:link>
+    <link>https://borasbil.se/bilar/polestar-2-standard-range-single-motor-wsg98j</link>
+    <url>https://borasbil.se/bilar/polestar-2-standard-range-single-motor-wsg98j</url>
+    <g:brand>Polestar</g:brand>
+    <brand>Polestar</brand>
+    <make>Polestar</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/712e14b9-d87e-4893-a3d6-f52977c5d89c?format=jpeg&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/712e14b9-d87e-4893-a3d6-f52977c5d89c?format=jpeg&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>2</model>
+    <year>2022</year>
+    <mileage>
+      <value>139560</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>259000 SEK</g:price>
+    <price>259000 SEK</price>
+    <sale_price>259000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>494f96c8-1db0-4198-ad06-ec0dba51af5a</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -49,50 +93,6 @@
     <state_of_vehicle>NEW</state_of_vehicle>
     </item>
     <item>
-    <g:id>3a5e081c-22a2-48ec-a59c-cf85cf6c2648</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>3a5e081c-22a2-48ec-a59c-cf85cf6c2648</vehicle_id>
-    <vehicle_registration_plate>BCW65Y</vehicle_registration_plate>
-    <g:title>Peugeot 2008 GT Electric</g:title>
-    <title>Peugeot 2008 GT Electric</title>
-    <g:description>GT Electric. Från 3 444 kr/mån. Miltal: 4 064 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: BCW65Y. Kontakta oss för mer information.</g:description>
-    <description>GT Electric. Från 3 444 kr/mån. Miltal: 4 064 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: El. Reg.nr: BCW65Y. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/peugeot-e-2008-bcw65y</g:link>
-    <link>https://borasbil.se/bilar/peugeot-e-2008-bcw65y</link>
-    <url>https://borasbil.se/bilar/peugeot-e-2008-bcw65y</url>
-    <g:brand>Peugeot</g:brand>
-    <brand>Peugeot</brand>
-    <make>Peugeot</make>
-    <g:image_link>https://cdn.wayke.se/cfit/62d92b77-26e6-419c-946a-ec66d3dbc9a2/d9d3d6e4-1da5-49ea-99c0-2207d7255edc?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/62d92b77-26e6-419c-946a-ec66d3dbc9a2/d9d3d6e4-1da5-49ea-99c0-2207d7255edc?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>2008</model>
-    <year>2022</year>
-    <mileage>
-      <value>40640</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>219000 SEK</g:price>
-    <price>219000 SEK</price>
-    <sale_price>219000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Bogesunds Bil Ulricehamn</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>4ba48d2d-2154-52e5-8735-6e6bfd0d98a3</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -130,50 +130,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>50ee8f50-68a3-4fa5-a7da-385f7426ef5a</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>50ee8f50-68a3-4fa5-a7da-385f7426ef5a</vehicle_id>
-    <vehicle_registration_plate>TYK48H</vehicle_registration_plate>
-    <g:title>Volvo XC40 T2 FWD Momentum/Panorama</g:title>
-    <title>Volvo XC40 T2 FWD Momentum/Panorama</title>
-    <g:description>T2 FWD Momentum/Panorama. Från 4 011 kr/mån. Miltal: 8 780 mil. Årsmodell: 2022. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: TYK48H. Kontakta oss för mer information.</g:description>
-    <description>T2 FWD Momentum/Panorama. Från 4 011 kr/mån. Miltal: 8 780 mil. Årsmodell: 2022. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: TYK48H. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc40-tyk48h</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc40-tyk48h</link>
-    <url>https://borasbil.se/bilar/volvo-xc40-tyk48h</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/f252c7de0c6343febf96eb6f15caf356/61613448e90543d98550105416a72c8f?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/f252c7de0c6343febf96eb6f15caf356/61613448e90543d98550105416a72c8f?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2022</year>
-    <mileage>
-      <value>87800</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Manual</transmission>
-    <g:price>255000 SEK</g:price>
-    <price>255000 SEK</price>
-    <sale_price>255000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -2659,9 +2615,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/bbf09f4b-5e16-45c7-a2f9-2b8668330408/edb54a07-de8b-41a2-bd07-b46dbc56ebe7?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/334402314b284e6eb8852daa4d7551af/96e2d3ac67a54306aea09c21649bbba0?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/bbf09f4b-5e16-45c7-a2f9-2b8668330408/edb54a07-de8b-41a2-bd07-b46dbc56ebe7?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/334402314b284e6eb8852daa4d7551af/96e2d3ac67a54306aea09c21649bbba0?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>V60</model>
@@ -5756,50 +5712,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>61ccb0c7-9c2a-4c1b-b491-b87a10679f70</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>61ccb0c7-9c2a-4c1b-b491-b87a10679f70</vehicle_id>
-    <vehicle_registration_plate>OJX22J</vehicle_registration_plate>
-    <g:title>Volvo XC40 B4 FWD Bensin R-Design</g:title>
-    <title>Volvo XC40 B4 FWD Bensin R-Design</title>
-    <g:description>B4 FWD Bensin R-Design. Från 5 489 kr/mån. Miltal: 4 287 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Bensin. Reg.nr: OJX22J. Kontakta oss för mer information.</g:description>
-    <description>B4 FWD Bensin R-Design. Från 5 489 kr/mån. Miltal: 4 287 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Bensin. Reg.nr: OJX22J. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc40-ojx22j</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc40-ojx22j</link>
-    <url>https://borasbil.se/bilar/volvo-xc40-ojx22j</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/20c693ce626e4e7a876dacabf1456c2e/936ee615c78e4c1a809c4b900ffe19a6?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/20c693ce626e4e7a876dacabf1456c2e/936ee615c78e4c1a809c4b900ffe19a6?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC40</model>
-    <year>2021</year>
-    <mileage>
-      <value>42870</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>349000 SEK</g:price>
-    <price>349000 SEK</price>
-    <sale_price>349000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>369ee577-0de2-4b14-acd1-32a116203781</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -6691,9 +6603,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/4777bb97-7c33-4253-8652-0a8a5b280520/15f02527-4b65-425e-b1bb-3dc8ce1d8736?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/517759e90671458f8f58d0e4afed770f/2bc9ffc81a5f449aaefb82bc76e3ea02?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/4777bb97-7c33-4253-8652-0a8a5b280520/15f02527-4b65-425e-b1bb-3dc8ce1d8736?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/517759e90671458f8f58d0e4afed770f/2bc9ffc81a5f449aaefb82bc76e3ea02?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC60</model>
