@@ -4627,8 +4627,8 @@
     <vehicle_registration_plate>WDF09M</vehicle_registration_plate>
     <g:title>Volvo EX30 RWD Plus Black Edt</g:title>
     <title>Volvo EX30 RWD Plus Black Edt</title>
-    <g:description>RWD Plus Black Edt. Från 7 848 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: WDF09M. Kontakta oss för mer information.</g:description>
-    <description>RWD Plus Black Edt. Från 7 848 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: WDF09M. Kontakta oss för mer information.</description>
+    <g:description>RWD Plus Black Edt. Från 7 848 kr/mån. Miltal: 200 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: WDF09M. Kontakta oss för mer information.</g:description>
+    <description>RWD Plus Black Edt. Från 7 848 kr/mån. Miltal: 200 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: WDF09M. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-ex30-p5-long-range-wdf09m</g:link>
     <link>https://borasbil.se/bilar/volvo-ex30-p5-long-range-wdf09m</link>
     <url>https://borasbil.se/bilar/volvo-ex30-p5-long-range-wdf09m</url>
@@ -4642,6 +4642,10 @@
     </image>
     <model>EX30</model>
     <year>2027</year>
+    <mileage>
+      <value>2000</value>
+      <unit>KM</unit>
+    </mileage>
     <body_style>SUV</body_style>
     <fuel_type>Electric</fuel_type>
     <transmission>Automatic</transmission>
