@@ -5,6 +5,89 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>f9cdf128-8825-5ced-a4b6-422cd5e86667</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>f9cdf128-8825-5ced-a4b6-422cd5e86667</vehicle_id>
+    <vehicle_registration_plate>EPG16F</vehicle_registration_plate>
+    <g:title>Volvo XC90 B5 AWD Bensin Inscription</g:title>
+    <title>Volvo XC90 B5 AWD Bensin Inscription</title>
+    <g:description>B5 AWD Bensin Inscription. Från 7 219 kr/mån. Miltal: 12 126 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Bensin. Reg.nr: EPG16F. Kontakta oss för mer information.</g:description>
+    <description>B5 AWD Bensin Inscription. Från 7 219 kr/mån. Miltal: 12 126 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Bensin. Reg.nr: EPG16F. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-xc90-7-saten-epg16f</g:link>
+    <link>https://borasbil.se/bilar/volvo-xc90-7-saten-epg16f</link>
+    <url>https://borasbil.se/bilar/volvo-xc90-7-saten-epg16f</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/d32da0c6-8dfe-40fc-aaa0-1fae52c37028?format=jpeg&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/d32da0c6-8dfe-40fc-aaa0-1fae52c37028?format=jpeg&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>XC90</model>
+    <year>2020</year>
+    <mileage>
+      <value>121260</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>459000 SEK</g:price>
+    <price>459000 SEK</price>
+    <sale_price>459000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Bogesunds Bil Ulricehamn</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>028b8961-6b8a-5b16-aa61-c9eb6f5d8d00</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>028b8961-6b8a-5b16-aa61-c9eb6f5d8d00</vehicle_id>
+    <vehicle_registration_plate>FRA61T</vehicle_registration_plate>
+    <g:title>Volvo V90 T6 Plus Dark Edition</g:title>
+    <title>Volvo V90 T6 Plus Dark Edition</title>
+    <g:description>T6 Plus Dark Edition. Från 6 905 kr/mån. Miltal: 4 185 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: FRA61T. Kontakta oss för mer information.</g:description>
+    <description>T6 Plus Dark Edition. Från 6 905 kr/mån. Miltal: 4 185 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: FRA61T. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-v90-fra61t</g:link>
+    <link>https://borasbil.se/bilar/volvo-v90-fra61t</link>
+    <url>https://borasbil.se/bilar/volvo-v90-fra61t</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <model>V90</model>
+    <year>2025</year>
+    <mileage>
+      <value>41850</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Wagon</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>439000 SEK</g:price>
+    <price>439000 SEK</price>
+    <sale_price>439000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>6dcf1068-a1f9-5674-920a-c82b3846027e</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -692,8 +775,8 @@
     <vehicle_registration_plate>RCF06P</vehicle_registration_plate>
     <g:title>Lynk &amp; Co 08</g:title>
     <title>Lynk &amp; Co 08</title>
-    <g:description>Från 7 691 kr/mån. Miltal: 23 606 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: RCF06P. Kontakta oss för mer information.</g:description>
-    <description>Från 7 691 kr/mån. Miltal: 23 606 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: RCF06P. Kontakta oss för mer information.</description>
+    <g:description>Från 7 691 kr/mån. Miltal: 2 360 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: RCF06P. Kontakta oss för mer information.</g:description>
+    <description>Från 7 691 kr/mån. Miltal: 2 360 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: RCF06P. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/lynk-co-08-phev-rcf06p</g:link>
     <link>https://borasbil.se/bilar/lynk-co-08-phev-rcf06p</link>
     <url>https://borasbil.se/bilar/lynk-co-08-phev-rcf06p</url>
@@ -708,7 +791,7 @@
     <model>08</model>
     <year>2025</year>
     <mileage>
-      <value>236060</value>
+      <value>23600</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
@@ -912,8 +995,8 @@
     <vehicle_registration_plate>DDP07L</vehicle_registration_plate>
     <g:title>Citroën C4 SHINE Pure Tech 130 A</g:title>
     <title>Citroën C4 SHINE Pure Tech 130 A</title>
-    <g:description>SHINE Pure Tech 130 A. Från 2 910 kr/mån. Miltal: 404 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Reg.nr: DDP07L. Kontakta oss för mer information.</g:description>
-    <description>SHINE Pure Tech 130 A. Från 2 910 kr/mån. Miltal: 404 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Reg.nr: DDP07L. Kontakta oss för mer information.</description>
+    <g:description>SHINE Pure Tech 130 A. Från 2 910 kr/mån. Miltal: 4 041 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Reg.nr: DDP07L. Kontakta oss för mer information.</g:description>
+    <description>SHINE Pure Tech 130 A. Från 2 910 kr/mån. Miltal: 4 041 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin. Reg.nr: DDP07L. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/citroen-c4-ddp07l</g:link>
     <link>https://borasbil.se/bilar/citroen-c4-ddp07l</link>
     <url>https://borasbil.se/bilar/citroen-c4-ddp07l</url>
@@ -928,7 +1011,7 @@
     <model>C4</model>
     <year>2024</year>
     <mileage>
-      <value>4040</value>
+      <value>40410</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
@@ -1070,46 +1153,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>new</g:condition>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>c12c29d0-7593-46ec-89e7-528fcd1f2d31</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>c12c29d0-7593-46ec-89e7-528fcd1f2d31</vehicle_id>
-    <vehicle_registration_plate>ARB80Z</vehicle_registration_plate>
-    <g:title>Volvo EX30 RWD LR Plus</g:title>
-    <title>Volvo EX30 RWD LR Plus</title>
-    <g:description>RWD LR Plus. Från 7 911 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: ARB80Z. Kontakta oss för mer information.</g:description>
-    <description>RWD LR Plus. Från 7 911 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: ARB80Z. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-ex30-p5-long-range-arb80z</g:link>
-    <link>https://borasbil.se/bilar/volvo-ex30-p5-long-range-arb80z</link>
-    <url>https://borasbil.se/bilar/volvo-ex30-p5-long-range-arb80z</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/63787b3c797e4f90bb82802ffc15d48c/62fae8d1b7da489c98fadf43b33eb12d?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/63787b3c797e4f90bb82802ffc15d48c/62fae8d1b7da489c98fadf43b33eb12d?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>EX30</model>
-    <year>2027</year>
-    <body_style>SUV</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>503000 SEK</g:price>
-    <price>503000 SEK</price>
-    <sale_price>503000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>new</g:condition>
@@ -1661,46 +1704,6 @@
     <g:price>348000 SEK</g:price>
     <price>348000 SEK</price>
     <sale_price>348000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>new</g:condition>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>01a12fa3-a54f-79ab-a158-0a5bf5098080</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>01a12fa3-a54f-79ab-a158-0a5bf5098080</vehicle_id>
-    <vehicle_registration_plate>BRB18R</vehicle_registration_plate>
-    <g:title>Volvo EX40 M R Plus Black Edt</g:title>
-    <title>Volvo EX40 M R Plus Black Edt</title>
-    <g:description>M R Plus Black Edt. Från 9 106 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: BRB18R. Kontakta oss för mer information.</g:description>
-    <description>M R Plus Black Edt. Från 9 106 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: El. Reg.nr: BRB18R. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-brb18r</g:link>
-    <link>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-brb18r</link>
-    <url>https://borasbil.se/bilar/volvo-ex40-single-motor-extended-range-brb18r</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/a14ebfde-304b-494d-8d1c-7ce50abb5076?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/a14ebfde-304b-494d-8d1c-7ce50abb5076?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>EX40</model>
-    <year>2026</year>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>579000 SEK</g:price>
-    <price>579000 SEK</price>
-    <sale_price>579000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Borås Bil</component>
       <component name="country">SE</component>
@@ -11666,50 +11669,6 @@
     <state_of_vehicle>NEW</state_of_vehicle>
     </item>
     <item>
-    <g:id>115c0ba4-6b2d-4ae3-a928-dbf4ed3fd301</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>115c0ba4-6b2d-4ae3-a928-dbf4ed3fd301</vehicle_id>
-    <vehicle_registration_plate>GHO304</vehicle_registration_plate>
-    <g:title>Audi A6</g:title>
-    <title>Audi A6</title>
-    <g:description>Från 5 332 kr/mån. Miltal: 4 100 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Diesel. Reg.nr: GHO304. Kontakta oss för mer information.</g:description>
-    <description>Från 5 332 kr/mån. Miltal: 4 100 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Diesel. Reg.nr: GHO304. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/audi-a6-avant-40-tdi-quattro-gho304</g:link>
-    <link>https://borasbil.se/bilar/audi-a6-avant-40-tdi-quattro-gho304</link>
-    <url>https://borasbil.se/bilar/audi-a6-avant-40-tdi-quattro-gho304</url>
-    <g:brand>Audi</g:brand>
-    <brand>Audi</brand>
-    <make>Audi</make>
-    <g:image_link>https://cdn.wayke.se/cfit/cdb88533-74ba-42a7-b64c-542590ee6a64/20722818-7ad4-4653-8267-1b5d928a7249?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/cdb88533-74ba-42a7-b64c-542590ee6a64/20722818-7ad4-4653-8267-1b5d928a7249?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>A6</model>
-    <year>2023</year>
-    <mileage>
-      <value>41000</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>339000 SEK</g:price>
-    <price>339000 SEK</price>
-    <sale_price>339000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>da8b5455-41bd-4a49-bdfc-b09c8dfd4aba</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -12762,50 +12721,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>new</g:condition>
-    <condition>new</condition>
-    <state_of_vehicle>NEW</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>1abdf2b5-eba8-4c73-9832-987cdcee56b1</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>1abdf2b5-eba8-4c73-9832-987cdcee56b1</vehicle_id>
-    <vehicle_registration_plate>LPX74K</vehicle_registration_plate>
-    <g:title>Volvo XC60 T6 Plus Dark Nordic Edition</g:title>
-    <title>Volvo XC60 T6 Plus Dark Nordic Edition</title>
-    <g:description>T6 Plus Dark Nordic Edition. Från 9 264 kr/mån. Miltal: 619 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: LPX74K. Kontakta oss för mer information.</g:description>
-    <description>T6 Plus Dark Nordic Edition. Från 9 264 kr/mån. Miltal: 619 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: LPX74K. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc60-lpx74k</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc60-lpx74k</link>
-    <url>https://borasbil.se/bilar/volvo-xc60-lpx74k</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/d7aadf00d0c7477b96902fe37bf3d4d3/4622bb58d5ab465db71dc844bd07a738?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/d7aadf00d0c7477b96902fe37bf3d4d3/4622bb58d5ab465db71dc844bd07a738?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2027</year>
-    <mileage>
-      <value>6190</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>589000 SEK</g:price>
-    <price>589000 SEK</price>
-    <sale_price>589000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Bogesunds Bil Ulricehamn</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>new</g:condition>
