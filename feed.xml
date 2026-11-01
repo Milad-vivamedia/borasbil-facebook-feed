@@ -712,8 +712,8 @@
     <vehicle_registration_plate>MBX31X</vehicle_registration_plate>
     <g:title>Volvo V60 B4 AWD Diesel Adv SE</g:title>
     <title>Volvo V60 B4 AWD Diesel Adv SE</title>
-    <g:description>B4 AWD Diesel Adv SE. Från 5 175 kr/mån. Miltal: 11 587 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Diesel. Reg.nr: MBX31X. Kontakta oss för mer information.</g:description>
-    <description>B4 AWD Diesel Adv SE. Från 5 175 kr/mån. Miltal: 11 587 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Diesel. Reg.nr: MBX31X. Kontakta oss för mer information.</description>
+    <g:description>B4 AWD Diesel Adv SE. Från 5 175 kr/mån. Miltal: 11 589 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Diesel. Reg.nr: MBX31X. Kontakta oss för mer information.</g:description>
+    <description>B4 AWD Diesel Adv SE. Från 5 175 kr/mån. Miltal: 11 589 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: Diesel. Reg.nr: MBX31X. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-v60-cross-country-mbx31x</g:link>
     <link>https://borasbil.se/bilar/volvo-v60-cross-country-mbx31x</link>
     <url>https://borasbil.se/bilar/volvo-v60-cross-country-mbx31x</url>
@@ -728,7 +728,7 @@
     <model>V60</model>
     <year>2021</year>
     <mileage>
-      <value>115870</value>
+      <value>115890</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Wagon</body_style>
@@ -836,8 +836,8 @@
     <vehicle_registration_plate>EEY07N</vehicle_registration_plate>
     <g:title>Volvo EC40 M ExtR Plus SE</g:title>
     <title>Volvo EC40 M ExtR Plus SE</title>
-    <g:description>M ExtR Plus SE. Från 8 792 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: EEY07N. Kontakta oss för mer information.</g:description>
-    <description>M ExtR Plus SE. Från 8 792 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: EEY07N. Kontakta oss för mer information.</description>
+    <g:description>M ExtR Plus SE. Från 8 792 kr/mån. Miltal: 23 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: EEY07N. Kontakta oss för mer information.</g:description>
+    <description>M ExtR Plus SE. Från 8 792 kr/mån. Miltal: 23 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: EEY07N. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-ec40-single-motor-extended-range-eey07n</g:link>
     <link>https://borasbil.se/bilar/volvo-ec40-single-motor-extended-range-eey07n</link>
     <url>https://borasbil.se/bilar/volvo-ec40-single-motor-extended-range-eey07n</url>
@@ -851,6 +851,10 @@
     </image>
     <model>EC40</model>
     <year>2027</year>
+    <mileage>
+      <value>230</value>
+      <unit>KM</unit>
+    </mileage>
     <body_style>Sedan</body_style>
     <fuel_type>Electric</fuel_type>
     <transmission>Automatic</transmission>
@@ -1784,8 +1788,8 @@
     <vehicle_registration_plate>CYH24J</vehicle_registration_plate>
     <g:title>Volvo XC60 T6 Plus Black Nordic Edt</g:title>
     <title>Volvo XC60 T6 Plus Black Nordic Edt</title>
-    <g:description>T6 Plus Black Nordic Edt. Från 9 421 kr/mån. Miltal: 1 011 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: CYH24J. Kontakta oss för mer information.</g:description>
-    <description>T6 Plus Black Nordic Edt. Från 9 421 kr/mån. Miltal: 1 011 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: CYH24J. Kontakta oss för mer information.</description>
+    <g:description>T6 Plus Black Nordic Edt. Från 9 421 kr/mån. Miltal: 1 100 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: CYH24J. Kontakta oss för mer information.</g:description>
+    <description>T6 Plus Black Nordic Edt. Från 9 421 kr/mån. Miltal: 1 100 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: CYH24J. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc60-cyh24j</g:link>
     <link>https://borasbil.se/bilar/volvo-xc60-cyh24j</link>
     <url>https://borasbil.se/bilar/volvo-xc60-cyh24j</url>
@@ -1800,7 +1804,7 @@
     <model>XC60</model>
     <year>2027</year>
     <mileage>
-      <value>10110</value>
+      <value>11000</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
@@ -6843,8 +6847,8 @@
     <vehicle_registration_plate>WSS21D</vehicle_registration_plate>
     <g:title>Peugeot 3008 GT Edition PT 130 A</g:title>
     <title>Peugeot 3008 GT Edition PT 130 A</title>
-    <g:description>GT Edition PT 130 A. Från 3 130 kr/mån. Miltal: 9 016 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: WSS21D. Kontakta oss för mer information.</g:description>
-    <description>GT Edition PT 130 A. Från 3 130 kr/mån. Miltal: 9 016 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: WSS21D. Kontakta oss för mer information.</description>
+    <g:description>GT Edition PT 130 A. Från 3 130 kr/mån. Miltal: 9 017 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: WSS21D. Kontakta oss för mer information.</g:description>
+    <description>GT Edition PT 130 A. Från 3 130 kr/mån. Miltal: 9 017 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: WSS21D. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/peugeot-3008-wss21d</g:link>
     <link>https://borasbil.se/bilar/peugeot-3008-wss21d</link>
     <url>https://borasbil.se/bilar/peugeot-3008-wss21d</url>
@@ -6859,7 +6863,7 @@
     <model>3008</model>
     <year>2023</year>
     <mileage>
-      <value>90160</value>
+      <value>90170</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
@@ -8493,8 +8497,8 @@
     <vehicle_registration_plate>ZKM71F</vehicle_registration_plate>
     <g:title>Volvo XC90 T8 Ultra Dark</g:title>
     <title>Volvo XC90 T8 Ultra Dark</title>
-    <g:description>T8 Ultra Dark. Från 14 769 kr/mån. Miltal: 142 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: ZKM71F. Kontakta oss för mer information.</g:description>
-    <description>T8 Ultra Dark. Från 14 769 kr/mån. Miltal: 142 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: ZKM71F. Kontakta oss för mer information.</description>
+    <g:description>T8 Ultra Dark. Från 14 769 kr/mån. Miltal: 149 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: ZKM71F. Kontakta oss för mer information.</g:description>
+    <description>T8 Ultra Dark. Från 14 769 kr/mån. Miltal: 149 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: ZKM71F. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc90-zkm71f</g:link>
     <link>https://borasbil.se/bilar/volvo-xc90-zkm71f</link>
     <url>https://borasbil.se/bilar/volvo-xc90-zkm71f</url>
@@ -8509,7 +8513,7 @@
     <model>XC90</model>
     <year>2027</year>
     <mileage>
-      <value>1420</value>
+      <value>1490</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
@@ -11349,8 +11353,8 @@
     <vehicle_registration_plate>DFJ08C</vehicle_registration_plate>
     <g:title>Citroën C5 Aircross FL MAX A</g:title>
     <title>Citroën C5 Aircross FL MAX A</title>
-    <g:description>FL MAX A. Från 5 017 kr/mån. Miltal: 1 639 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: DFJ08C. Kontakta oss för mer information.</g:description>
-    <description>FL MAX A. Från 5 017 kr/mån. Miltal: 1 639 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: DFJ08C. Kontakta oss för mer information.</description>
+    <g:description>FL MAX A. Från 5 017 kr/mån. Miltal: 1 792 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: DFJ08C. Kontakta oss för mer information.</g:description>
+    <description>FL MAX A. Från 5 017 kr/mån. Miltal: 1 792 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: DFJ08C. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/citroen-c5-aircross-hybrid-145-dfj08c</g:link>
     <link>https://borasbil.se/bilar/citroen-c5-aircross-hybrid-145-dfj08c</link>
     <url>https://borasbil.se/bilar/citroen-c5-aircross-hybrid-145-dfj08c</url>
@@ -11365,7 +11369,7 @@
     <model>C5 Aircross</model>
     <year>2026</year>
     <mileage>
-      <value>16390</value>
+      <value>17920</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
@@ -12668,8 +12672,8 @@
     <vehicle_registration_plate>SCY03U</vehicle_registration_plate>
     <g:title>Volvo V60 T6 Plus Dark Nordic Edt</g:title>
     <title>Volvo V60 T6 Plus Dark Nordic Edt</title>
-    <g:description>T6 Plus Dark Nordic Edt. Från 7 062 kr/mån. Miltal: 2 046 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: SCY03U. Kontakta oss för mer information.</g:description>
-    <description>T6 Plus Dark Nordic Edt. Från 7 062 kr/mån. Miltal: 2 046 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: SCY03U. Kontakta oss för mer information.</description>
+    <g:description>T6 Plus Dark Nordic Edt. Från 7 062 kr/mån. Miltal: 2 047 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: SCY03U. Kontakta oss för mer information.</g:description>
+    <description>T6 Plus Dark Nordic Edt. Från 7 062 kr/mån. Miltal: 2 047 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: SCY03U. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-v60-scy03u</g:link>
     <link>https://borasbil.se/bilar/volvo-v60-scy03u</link>
     <url>https://borasbil.se/bilar/volvo-v60-scy03u</url>
@@ -12684,7 +12688,7 @@
     <model>V60</model>
     <year>2026</year>
     <mileage>
-      <value>20460</value>
+      <value>20470</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Wagon</body_style>
