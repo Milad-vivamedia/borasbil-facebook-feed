@@ -584,8 +584,8 @@
     <vehicle_registration_plate>YWG70T</vehicle_registration_plate>
     <g:title>Lynk &amp; Co 01 Core</g:title>
     <title>Lynk &amp; Co 01 Core</title>
-    <g:description>Core. Från 5 804 kr/mån. Miltal: 1 495 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: YWG70T. Kontakta oss för mer information.</g:description>
-    <description>Core. Från 5 804 kr/mån. Miltal: 1 495 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: YWG70T. Kontakta oss för mer information.</description>
+    <g:description>Core. Från 5 804 kr/mån. Miltal: 14 595 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: YWG70T. Kontakta oss för mer information.</g:description>
+    <description>Core. Från 5 804 kr/mån. Miltal: 14 595 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: YWG70T. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/lynk-co-01-phev-ywg70t</g:link>
     <link>https://borasbil.se/bilar/lynk-co-01-phev-ywg70t</link>
     <url>https://borasbil.se/bilar/lynk-co-01-phev-ywg70t</url>
@@ -600,7 +600,7 @@
     <model>01</model>
     <year>2025</year>
     <mileage>
-      <value>14950</value>
+      <value>145950</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
@@ -884,8 +884,8 @@
     <vehicle_registration_plate>JSU79P</vehicle_registration_plate>
     <g:title>Volvo V60 T6 Plus Dark Nordic Edt</g:title>
     <title>Volvo V60 T6 Plus Dark Nordic Edt</title>
-    <g:description>T6 Plus Dark Nordic Edt. Från 8 477 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: JSU79P. Kontakta oss för mer information.</g:description>
-    <description>T6 Plus Dark Nordic Edt. Från 8 477 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: JSU79P. Kontakta oss för mer information.</description>
+    <g:description>T6 Plus Dark Nordic Edt. Från 8 477 kr/mån. Miltal: 19 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: JSU79P. Kontakta oss för mer information.</g:description>
+    <description>T6 Plus Dark Nordic Edt. Från 8 477 kr/mån. Miltal: 19 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: JSU79P. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-v60-jsu79p</g:link>
     <link>https://borasbil.se/bilar/volvo-v60-jsu79p</link>
     <url>https://borasbil.se/bilar/volvo-v60-jsu79p</url>
@@ -899,6 +899,10 @@
     </image>
     <model>V60</model>
     <year>2027</year>
+    <mileage>
+      <value>190</value>
+      <unit>KM</unit>
+    </mileage>
     <body_style>Wagon</body_style>
     <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
@@ -6375,8 +6379,8 @@
     <vehicle_registration_plate>HMC98C</vehicle_registration_plate>
     <g:title>Volvo XC60 T8 TE Inscription</g:title>
     <title>Volvo XC60 T8 TE Inscription</title>
-    <g:description>T8 TE Inscription. Från 4 545 kr/mån. Miltal: 16 240 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: HMC98C. Kontakta oss för mer information.</g:description>
-    <description>T8 TE Inscription. Från 4 545 kr/mån. Miltal: 16 240 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: HMC98C. Kontakta oss för mer information.</description>
+    <g:description>T8 TE Inscription. Från 4 545 kr/mån. Miltal: 16 241 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: HMC98C. Kontakta oss för mer information.</g:description>
+    <description>T8 TE Inscription. Från 4 545 kr/mån. Miltal: 16 241 mil. Årsmodell: 2020. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: HMC98C. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc60-hmc98c</g:link>
     <link>https://borasbil.se/bilar/volvo-xc60-hmc98c</link>
     <url>https://borasbil.se/bilar/volvo-xc60-hmc98c</url>
@@ -6391,7 +6395,7 @@
     <model>XC60</model>
     <year>2020</year>
     <mileage>
-      <value>162400</value>
+      <value>162410</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
@@ -9113,8 +9117,8 @@
     <vehicle_registration_plate>FWR03S</vehicle_registration_plate>
     <g:title>Volvo EC40 PlusBlackSE</g:title>
     <title>Volvo EC40 PlusBlackSE</title>
-    <g:description>PlusBlackSE. Från 8 792 kr/mån. Miltal: 191 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: FWR03S. Kontakta oss för mer information.</g:description>
-    <description>PlusBlackSE. Från 8 792 kr/mån. Miltal: 191 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: FWR03S. Kontakta oss för mer information.</description>
+    <g:description>PlusBlackSE. Från 8 792 kr/mån. Miltal: 212 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: FWR03S. Kontakta oss för mer information.</g:description>
+    <description>PlusBlackSE. Från 8 792 kr/mån. Miltal: 212 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: El. Reg.nr: FWR03S. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-ec40-twin-motor-performance-fwr03s</g:link>
     <link>https://borasbil.se/bilar/volvo-ec40-twin-motor-performance-fwr03s</link>
     <url>https://borasbil.se/bilar/volvo-ec40-twin-motor-performance-fwr03s</url>
@@ -9129,7 +9133,7 @@
     <model>EC40</model>
     <year>2027</year>
     <mileage>
-      <value>1910</value>
+      <value>2120</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
