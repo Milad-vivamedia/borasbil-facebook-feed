@@ -5,6 +5,138 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>78d8ceb9-2874-4238-baf6-ce28f658da1e</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>78d8ceb9-2874-4238-baf6-ce28f658da1e</vehicle_id>
+    <vehicle_registration_plate>LTJ64J</vehicle_registration_plate>
+    <g:title>Peugeot 3008 GT Edition PT 130 A</g:title>
+    <title>Peugeot 3008 GT Edition PT 130 A</title>
+    <g:description>GT Edition PT 130 A. Från 2 815 kr/mån. Miltal: 10 098 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: LTJ64J. Kontakta oss för mer information.</g:description>
+    <description>GT Edition PT 130 A. Från 2 815 kr/mån. Miltal: 10 098 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: LTJ64J. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/peugeot-3008-ltj64j</g:link>
+    <link>https://borasbil.se/bilar/peugeot-3008-ltj64j</link>
+    <url>https://borasbil.se/bilar/peugeot-3008-ltj64j</url>
+    <g:brand>Peugeot</g:brand>
+    <brand>Peugeot</brand>
+    <make>Peugeot</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/8b6bb8518e8f455790fd23229ca287bb/5e8e351299b64c04b7c0ec837ca2e984?format=jpeg&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/8b6bb8518e8f455790fd23229ca287bb/5e8e351299b64c04b7c0ec837ca2e984?format=jpeg&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>3008</model>
+    <year>2023</year>
+    <mileage>
+      <value>100980</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>SUV</body_style>
+    <fuel_type>Gasoline</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>179000 SEK</g:price>
+    <price>179000 SEK</price>
+    <sale_price>179000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>9b3313b2-9c59-5c15-96f9-e0b94378f517</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>9b3313b2-9c59-5c15-96f9-e0b94378f517</vehicle_id>
+    <vehicle_registration_plate>GRW46H</vehicle_registration_plate>
+    <g:title>Polestar 2</g:title>
+    <title>Polestar 2</title>
+    <g:description>Från 6 433 kr/mån. Miltal: 5 338 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Reg.nr: GRW46H. Kontakta oss för mer information.</g:description>
+    <description>Från 6 433 kr/mån. Miltal: 5 338 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Reg.nr: GRW46H. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-grw46h</g:link>
+    <link>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-grw46h</link>
+    <url>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-grw46h</url>
+    <g:brand>Polestar</g:brand>
+    <brand>Polestar</brand>
+    <make>Polestar</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/d74de59b0c244974af2341b8400f34b4/b55bcdbab4d749d6889ea34b6ad310a1?format=jpeg&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/d74de59b0c244974af2341b8400f34b4/b55bcdbab4d749d6889ea34b6ad310a1?format=jpeg&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>2</model>
+    <year>2024</year>
+    <mileage>
+      <value>53380</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>409000 SEK</g:price>
+    <price>409000 SEK</price>
+    <sale_price>409000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>ea77d712-593e-502a-a0ac-39e6d93e89fb</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>ea77d712-593e-502a-a0ac-39e6d93e89fb</vehicle_id>
+    <vehicle_registration_plate>LUP02C</vehicle_registration_plate>
+    <g:title>Polestar 2</g:title>
+    <title>Polestar 2</title>
+    <g:description>Från 6 433 kr/mån. Miltal: 5 004 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Reg.nr: LUP02C. Kontakta oss för mer information.</g:description>
+    <description>Från 6 433 kr/mån. Miltal: 5 004 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: El. Reg.nr: LUP02C. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-lup02c</g:link>
+    <link>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-lup02c</link>
+    <url>https://borasbil.se/bilar/polestar-2-long-range-dual-motor-lup02c</url>
+    <g:brand>Polestar</g:brand>
+    <brand>Polestar</brand>
+    <make>Polestar</make>
+    <g:image_link>https://cdn.wayke.se/cfit/dc2bfef3-86db-4c75-a7d5-ba77fda84cdd/46b337f2-cbd6-4bae-ab6c-fa563d692506?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/dc2bfef3-86db-4c75-a7d5-ba77fda84cdd/46b337f2-cbd6-4bae-ab6c-fa563d692506?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>2</model>
+    <year>2024</year>
+    <mileage>
+      <value>50040</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>409000 SEK</g:price>
+    <price>409000 SEK</price>
+    <sale_price>409000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>65cc5140-6bb3-5d46-ab86-72a9a0369556</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -13437,6 +13569,50 @@
     <g:condition>used</g:condition>
     <condition>used</condition>
     <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
+    <g:id>92566fd5-f8c7-4146-911d-a1ff9c77223b</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>92566fd5-f8c7-4146-911d-a1ff9c77223b</vehicle_id>
+    <vehicle_registration_plate>LFH12K</vehicle_registration_plate>
+    <g:title>Lynk &amp; Co 08 200km</g:title>
+    <title>Lynk &amp; Co 08 200km</title>
+    <g:description>200km. Från 7 848 kr/mån. Miltal: 1 922 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: LFH12K. Kontakta oss för mer information.</g:description>
+    <description>200km. Från 7 848 kr/mån. Miltal: 1 922 mil. Årsmodell: 2026. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: LFH12K. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/lynk-co-08-phev-lfh12k</g:link>
+    <link>https://borasbil.se/bilar/lynk-co-08-phev-lfh12k</link>
+    <url>https://borasbil.se/bilar/lynk-co-08-phev-lfh12k</url>
+    <g:brand>Lynk &amp; Co</g:brand>
+    <brand>Lynk &amp; Co</brand>
+    <make>Lynk &amp; Co</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/46c4d7658fdb43e58d4e0dd7be37f7ef/4f5fee9cadc74de88016d3d288c18aa7?format=jpeg&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/46c4d7658fdb43e58d4e0dd7be37f7ef/4f5fee9cadc74de88016d3d288c18aa7?format=jpeg&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>08</model>
+    <year>2026</year>
+    <mileage>
+      <value>19220</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Bensin+El</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>499000 SEK</g:price>
+    <price>499000 SEK</price>
+    <sale_price>499000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
     </item>
     <item>
     <g:id>dcf5bb23-53ea-4353-9c6a-065f7fcb3f25</g:id>
