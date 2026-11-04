@@ -9902,50 +9902,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>4b7673c7-174e-49b3-be9f-fc37f6379691</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>4b7673c7-174e-49b3-be9f-fc37f6379691</vehicle_id>
-    <vehicle_registration_plate>BBL82L</vehicle_registration_plate>
-    <g:title>Volvo XC60 Recharge T6 Ultima Dark</g:title>
-    <title>Volvo XC60 Recharge T6 Ultima Dark</title>
-    <g:description>Recharge T6 Ultima Dark. Från 7 534 kr/mån. Miltal: 9 342 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: BBL82L. Kontakta oss för mer information.</g:description>
-    <description>Recharge T6 Ultima Dark. Från 7 534 kr/mån. Miltal: 9 342 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: BBL82L. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc60-bbl82l</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc60-bbl82l</link>
-    <url>https://borasbil.se/bilar/volvo-xc60-bbl82l</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/a397df2863f749a5bbd1c62cc57b5fe7/895762f51b744c8b8c57d835f434e748?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/a397df2863f749a5bbd1c62cc57b5fe7/895762f51b744c8b8c57d835f434e748?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2024</year>
-    <mileage>
-      <value>93420</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>479000 SEK</g:price>
-    <price>479000 SEK</price>
-    <sale_price>479000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>0919d31c-9e33-4c6c-b98c-227d5cff79b6</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
