@@ -1196,8 +1196,8 @@
     <vehicle_registration_plate>HCJ10X</vehicle_registration_plate>
     <g:title>Volvo XC60 T6 Plus Dark Nordic Edt</g:title>
     <title>Volvo XC60 T6 Plus Dark Nordic Edt</title>
-    <g:description>T6 Plus Dark Nordic Edt. Från 9 421 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: HCJ10X. Kontakta oss för mer information.</g:description>
-    <description>T6 Plus Dark Nordic Edt. Från 9 421 kr/mån. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: HCJ10X. Kontakta oss för mer information.</description>
+    <g:description>T6 Plus Dark Nordic Edt. Från 9 421 kr/mån. Miltal: 69 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: HCJ10X. Kontakta oss för mer information.</g:description>
+    <description>T6 Plus Dark Nordic Edt. Från 9 421 kr/mån. Miltal: 69 mil. Årsmodell: 2027. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: HCJ10X. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc60-hcj10x</g:link>
     <link>https://borasbil.se/bilar/volvo-xc60-hcj10x</link>
     <url>https://borasbil.se/bilar/volvo-xc60-hcj10x</url>
@@ -1211,6 +1211,10 @@
     </image>
     <model>XC60</model>
     <year>2027</year>
+    <mileage>
+      <value>690</value>
+      <unit>KM</unit>
+    </mileage>
     <body_style>SUV</body_style>
     <fuel_type>Bensin+El</fuel_type>
     <transmission>Automatic</transmission>
@@ -8857,8 +8861,8 @@
     <vehicle_registration_plate>TRA315</vehicle_registration_plate>
     <g:title>Volvo XC60 Recharge T6 Plus B Edt</g:title>
     <title>Volvo XC60 Recharge T6 Plus B Edt</title>
-    <g:description>Recharge T6 Plus B Edt. Från 7 376 kr/mån. Miltal: 7 416 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: TRA315. Kontakta oss för mer information.</g:description>
-    <description>Recharge T6 Plus B Edt. Från 7 376 kr/mån. Miltal: 7 416 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: TRA315. Kontakta oss för mer information.</description>
+    <g:description>Recharge T6 Plus B Edt. Från 7 376 kr/mån. Miltal: 7 418 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: TRA315. Kontakta oss för mer information.</g:description>
+    <description>Recharge T6 Plus B Edt. Från 7 376 kr/mån. Miltal: 7 418 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: TRA315. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/volvo-xc60-tra315</g:link>
     <link>https://borasbil.se/bilar/volvo-xc60-tra315</link>
     <url>https://borasbil.se/bilar/volvo-xc60-tra315</url>
@@ -8873,7 +8877,7 @@
     <model>XC60</model>
     <year>2024</year>
     <mileage>
-      <value>74160</value>
+      <value>74180</value>
       <unit>KM</unit>
     </mileage>
     <body_style>SUV</body_style>
