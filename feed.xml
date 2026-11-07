@@ -592,9 +592,9 @@
     <g:brand>Citroën</g:brand>
     <brand>Citroën</brand>
     <make>Citroën</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/4cbea8aa-a660-43eb-8920-af45bf71af8c?format=jpeg&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/0c724867aeb643ec974256f321236f37/33c1ce3182e344989932b0209ad9de13?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/v3/4cbea8aa-a660-43eb-8920-af45bf71af8c?format=jpeg&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/0c724867aeb643ec974256f321236f37/33c1ce3182e344989932b0209ad9de13?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>C4</model>
@@ -1621,50 +1621,6 @@
     <g:price>369000 SEK</g:price>
     <price>369000 SEK</price>
     <sale_price>369000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>e88a5444-865e-4bfe-abff-6f1924adf385</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>e88a5444-865e-4bfe-abff-6f1924adf385</vehicle_id>
-    <vehicle_registration_plate>CFF53S</vehicle_registration_plate>
-    <g:title>Peugeot 2008 GT PureTech 155 A</g:title>
-    <title>Peugeot 2008 GT PureTech 155 A</title>
-    <g:description>GT PureTech 155 A. Från 3 130 kr/mån. Miltal: 4 345 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin. Reg.nr: CFF53S. Kontakta oss för mer information.</g:description>
-    <description>GT PureTech 155 A. Från 3 130 kr/mån. Miltal: 4 345 mil. Årsmodell: 2022. Växellåda: Automat. Bränsle: Bensin. Reg.nr: CFF53S. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/peugeot-2008-cff53s</g:link>
-    <link>https://borasbil.se/bilar/peugeot-2008-cff53s</link>
-    <url>https://borasbil.se/bilar/peugeot-2008-cff53s</url>
-    <g:brand>Peugeot</g:brand>
-    <brand>Peugeot</brand>
-    <make>Peugeot</make>
-    <g:image_link>https://cdn.wayke.se/cfit/5e972d32-f849-4c33-8872-ded7929f3d85/bc423e3c-2eb4-40ae-ae1b-db7899febe85?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/5e972d32-f849-4c33-8872-ded7929f3d85/bc423e3c-2eb4-40ae-ae1b-db7899febe85?format=jpeg&amp;r=0000000&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>2008</model>
-    <year>2022</year>
-    <mileage>
-      <value>43450</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>199000 SEK</g:price>
-    <price>199000 SEK</price>
-    <sale_price>199000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Borås Bil</component>
       <component name="country">SE</component>
@@ -4620,50 +4576,6 @@
     <state_of_vehicle>NEW</state_of_vehicle>
     </item>
     <item>
-    <g:id>adc4b1ed-f1d8-4c13-828f-82cb9e044858</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>adc4b1ed-f1d8-4c13-828f-82cb9e044858</vehicle_id>
-    <vehicle_registration_plate>ZPR712</vehicle_registration_plate>
-    <g:title>Volvo XC60 Recharge T6II Plus D Edt</g:title>
-    <title>Volvo XC60 Recharge T6II Plus D Edt</title>
-    <g:description>Recharge T6II Plus D Edt. Från 7 848 kr/mån. Miltal: 4 272 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: ZPR712. Kontakta oss för mer information.</g:description>
-    <description>Recharge T6II Plus D Edt. Från 7 848 kr/mån. Miltal: 4 272 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: ZPR712. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-xc60-zpr712</g:link>
-    <link>https://borasbil.se/bilar/volvo-xc60-zpr712</link>
-    <url>https://borasbil.se/bilar/volvo-xc60-zpr712</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/4815d514caa4480582eef549fc6a85c4/cb4f7ca9543c4d0d979be1078ebbce94?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/4815d514caa4480582eef549fc6a85c4/cb4f7ca9543c4d0d979be1078ebbce94?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>XC60</model>
-    <year>2024</year>
-    <mileage>
-      <value>42720</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>499000 SEK</g:price>
-    <price>499000 SEK</price>
-    <sale_price>499000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>89cfaf3e-2aa3-458b-9699-f0f80dd29273</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -7472,50 +7384,6 @@
     <state_of_vehicle>NEW</state_of_vehicle>
     </item>
     <item>
-    <g:id>9b8f0f9c-6c29-428e-8127-2d5c66527369</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>9b8f0f9c-6c29-428e-8127-2d5c66527369</vehicle_id>
-    <vehicle_registration_plate>WSS21D</vehicle_registration_plate>
-    <g:title>Peugeot 3008 GT Edition PT 130 A</g:title>
-    <title>Peugeot 3008 GT Edition PT 130 A</title>
-    <g:description>GT Edition PT 130 A. Från 2 973 kr/mån. Miltal: 9 017 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: WSS21D. Kontakta oss för mer information.</g:description>
-    <description>GT Edition PT 130 A. Från 2 973 kr/mån. Miltal: 9 017 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: WSS21D. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/peugeot-3008-wss21d</g:link>
-    <link>https://borasbil.se/bilar/peugeot-3008-wss21d</link>
-    <url>https://borasbil.se/bilar/peugeot-3008-wss21d</url>
-    <g:brand>Peugeot</g:brand>
-    <brand>Peugeot</brand>
-    <make>Peugeot</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/6264a93472924e9b9033bee7c97142d2/ba824571a0384775a6aa567e4c0875d9?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/6264a93472924e9b9033bee7c97142d2/ba824571a0384775a6aa567e4c0875d9?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>3008</model>
-    <year>2023</year>
-    <mileage>
-      <value>90170</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>SUV</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>189000 SEK</g:price>
-    <price>189000 SEK</price>
-    <sale_price>189000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>9173151c-a4a3-4cdd-b54b-2a88153d7051</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -8419,50 +8287,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>3af3578c-db6e-4477-b881-02610974f24a</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>3af3578c-db6e-4477-b881-02610974f24a</vehicle_id>
-    <vehicle_registration_plate>YMW506</vehicle_registration_plate>
-    <g:title>MINI Cooper</g:title>
-    <title>MINI Cooper</title>
-    <g:description>Från 1 872 kr/mån. Miltal: 7 857 mil. Årsmodell: 2017. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: YMW506. Kontakta oss för mer information.</g:description>
-    <description>Från 1 872 kr/mån. Miltal: 7 857 mil. Årsmodell: 2017. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: YMW506. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/mini-cooper-ymw506</g:link>
-    <link>https://borasbil.se/bilar/mini-cooper-ymw506</link>
-    <url>https://borasbil.se/bilar/mini-cooper-ymw506</url>
-    <g:brand>MINI</g:brand>
-    <brand>MINI</brand>
-    <make>MINI</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/19f6b15043bd49d2ab187c6b5d0d32a6/1dd38b23e0fb4deeae76fa3a3471a653?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/19f6b15043bd49d2ab187c6b5d0d32a6/1dd38b23e0fb4deeae76fa3a3471a653?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Cooper</model>
-    <year>2017</year>
-    <mileage>
-      <value>78570</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Manual</transmission>
-    <g:price>119000 SEK</g:price>
-    <price>119000 SEK</price>
-    <sale_price>119000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Bogesunds Bil Ulricehamn</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
