@@ -5,6 +5,46 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>abc5e4e5-eb84-5088-9d17-c931e026ecf8</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>abc5e4e5-eb84-5088-9d17-c931e026ecf8</vehicle_id>
+    <vehicle_registration_plate>COP49L</vehicle_registration_plate>
+    <g:title>Citroën Berlingo Cab 1.5 130 A FL</g:title>
+    <title>Citroën Berlingo Cab 1.5 130 A FL</title>
+    <g:description>Cab 1.5 130 A FL. Från 5 646 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: Diesel. Reg.nr: COP49L. Kontakta oss för mer information.</g:description>
+    <description>Cab 1.5 130 A FL. Från 5 646 kr/mån. Årsmodell: 2026. Växellåda: Automat. Bränsle: Diesel. Reg.nr: COP49L. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/citroen-berlingo-crew-van-cop49l</g:link>
+    <link>https://borasbil.se/bilar/citroen-berlingo-crew-van-cop49l</link>
+    <url>https://borasbil.se/bilar/citroen-berlingo-crew-van-cop49l</url>
+    <g:brand>Citroën</g:brand>
+    <brand>Citroën</brand>
+    <make>Citroën</make>
+    <g:image_link>https://cdn.wayke.se/cfit/0af36bdc-81d9-4585-b15c-25c67ac322fc/240b4549-4e1b-4b9b-9cec-a7fbdb75cc51?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/0af36bdc-81d9-4585-b15c-25c67ac322fc/240b4549-4e1b-4b9b-9cec-a7fbdb75cc51?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>Berlingo</model>
+    <year>2026</year>
+    <body_style>Sedan</body_style>
+    <fuel_type>Diesel</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>359000 SEK</g:price>
+    <price>359000 SEK</price>
+    <sale_price>359000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Borås Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>new</g:condition>
+    <condition>new</condition>
+    <state_of_vehicle>NEW</state_of_vehicle>
+    </item>
+    <item>
     <g:id>1defd188-0be5-556e-b7ee-95259f1cd2fb</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -504,9 +544,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/58b86d96-6894-4c5e-b8e6-c8d465fcac02?format=jpeg&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/3451d415abf04e78922daff46447789c/8723cef4810547d2a7c05a026b8401f2?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/v3/58b86d96-6894-4c5e-b8e6-c8d465fcac02?format=jpeg&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/3451d415abf04e78922daff46447789c/8723cef4810547d2a7c05a026b8401f2?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>V90</model>
