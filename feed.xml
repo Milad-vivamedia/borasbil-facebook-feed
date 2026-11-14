@@ -236,9 +236,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/cb20ffb7-7a02-4800-8c9c-179eae1f0901/87995e99-08c2-4e3c-836b-1c16b485fc00?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/657bef76-2854-403a-9bba-3e8e7be05c43/c61c55e9-1e34-4854-b371-37dc41b48cb0?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/cb20ffb7-7a02-4800-8c9c-179eae1f0901/87995e99-08c2-4e3c-836b-1c16b485fc00?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/657bef76-2854-403a-9bba-3e8e7be05c43/c61c55e9-1e34-4854-b371-37dc41b48cb0?format=jpeg&amp;r=0000000&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC40</model>
@@ -2801,50 +2801,6 @@
     <g:price>449000 SEK</g:price>
     <price>449000 SEK</price>
     <sale_price>449000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Bogesunds Bil Ulricehamn</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>6dcf1068-a1f9-5674-920a-c82b3846027e</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>6dcf1068-a1f9-5674-920a-c82b3846027e</vehicle_id>
-    <vehicle_registration_plate>HNP30U</vehicle_registration_plate>
-    <g:title>Peugeot 308</g:title>
-    <title>Peugeot 308</title>
-    <g:description>Från 2 815 kr/mån. Miltal: 8 973 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: HNP30U. Kontakta oss för mer information.</g:description>
-    <description>Från 2 815 kr/mån. Miltal: 8 973 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: Bensin. Reg.nr: HNP30U. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/peugeot-308-hnp30u</g:link>
-    <link>https://borasbil.se/bilar/peugeot-308-hnp30u</link>
-    <url>https://borasbil.se/bilar/peugeot-308-hnp30u</url>
-    <g:brand>Peugeot</g:brand>
-    <brand>Peugeot</brand>
-    <make>Peugeot</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/1122ef61720747a4b3a138b17f773897/94f3e971437e480ab0b2e216cc6fe862?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/1122ef61720747a4b3a138b17f773897/94f3e971437e480ab0b2e216cc6fe862?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>308</model>
-    <year>2023</year>
-    <mileage>
-      <value>89730</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>179000 SEK</g:price>
-    <price>179000 SEK</price>
-    <sale_price>179000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Bogesunds Bil Ulricehamn</component>
       <component name="country">SE</component>
