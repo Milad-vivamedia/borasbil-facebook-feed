@@ -5,6 +5,50 @@
     <link>https://borasbil.se</link>
     <description>Borås Bil Vehicle Inventory</description>
     <item>
+    <g:id>a906284c-c02f-5603-822c-6c6ccc88ab4e</g:id>
+    <g:google_product_category>916</g:google_product_category>
+    <g:fb_product_category>173</g:fb_product_category>
+    <vehicle_id>a906284c-c02f-5603-822c-6c6ccc88ab4e</vehicle_id>
+    <vehicle_registration_plate>BWD01P</vehicle_registration_plate>
+    <g:title>Volvo C40 Plus</g:title>
+    <title>Volvo C40 Plus</title>
+    <g:description>Plus. Från 5 489 kr/mån. Miltal: 5 941 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: BWD01P. Kontakta oss för mer information.</g:description>
+    <description>Plus. Från 5 489 kr/mån. Miltal: 5 941 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: BWD01P. Kontakta oss för mer information.</description>
+    <g:link>https://borasbil.se/bilar/volvo-c40-recharge-bwd01p</g:link>
+    <link>https://borasbil.se/bilar/volvo-c40-recharge-bwd01p</link>
+    <url>https://borasbil.se/bilar/volvo-c40-recharge-bwd01p</url>
+    <g:brand>Volvo</g:brand>
+    <brand>Volvo</brand>
+    <make>Volvo</make>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/53c60357-a7ed-4e8b-8695-a75eeab68d7f?format=jpeg&amp;w=800</g:image_link>
+    <image>
+      <url>https://cdn.wayke.se/cfit/v3/53c60357-a7ed-4e8b-8695-a75eeab68d7f?format=jpeg&amp;w=800</url>
+      <tag>Exterior</tag>
+    </image>
+    <model>C40</model>
+    <year>2023</year>
+    <mileage>
+      <value>59410</value>
+      <unit>KM</unit>
+    </mileage>
+    <body_style>Sedan</body_style>
+    <fuel_type>Electric</fuel_type>
+    <transmission>Automatic</transmission>
+    <g:price>349000 SEK</g:price>
+    <price>349000 SEK</price>
+    <sale_price>349000 SEK</sale_price>
+    <address format="simple">
+      <component name="addr1">Kinna Bil</component>
+      <component name="country">SE</component>
+    </address>
+    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
+    <g:availability>in stock</g:availability>
+    <availability>in stock</availability>
+    <g:condition>used</g:condition>
+    <condition>used</condition>
+    <state_of_vehicle>USED</state_of_vehicle>
+    </item>
+    <item>
     <g:id>cc577a3b-4f3b-5489-bcac-52ac79b56a69</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -108,9 +152,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/f479e6cf-97ca-4b59-bd1c-e893947f2859?format=jpeg&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/4ce0c7074fe54c509e507130840c31b2/ce700f12930c435ba9fdfcdf15e140cd?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/v3/f479e6cf-97ca-4b59-bd1c-e893947f2859?format=jpeg&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/4ce0c7074fe54c509e507130840c31b2/ce700f12930c435ba9fdfcdf15e140cd?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC60</model>
@@ -1852,8 +1896,8 @@
     <vehicle_registration_plate>JAH566</vehicle_registration_plate>
     <g:title>Peugeot 208 Allure PureTech 100</g:title>
     <title>Peugeot 208 Allure PureTech 100</title>
-    <g:description>Allure PureTech 100. Från 2 501 kr/mån. Miltal: 3 170 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: JAH566. Kontakta oss för mer information.</g:description>
-    <description>Allure PureTech 100. Från 2 501 kr/mån. Miltal: 3 170 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: JAH566. Kontakta oss för mer information.</description>
+    <g:description>Allure PureTech 100. Från 2 501 kr/mån. Miltal: 3 169 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: JAH566. Kontakta oss för mer information.</g:description>
+    <description>Allure PureTech 100. Från 2 501 kr/mån. Miltal: 3 169 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: JAH566. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/peugeot-208-jah566</g:link>
     <link>https://borasbil.se/bilar/peugeot-208-jah566</link>
     <url>https://borasbil.se/bilar/peugeot-208-jah566</url>
@@ -1868,7 +1912,7 @@
     <model>208</model>
     <year>2023</year>
     <mileage>
-      <value>31700</value>
+      <value>31690</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
@@ -2721,50 +2765,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>02a7b8be-9baf-516c-b028-ec4ba5522424</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>02a7b8be-9baf-516c-b028-ec4ba5522424</vehicle_id>
-    <vehicle_registration_plate>LFH12K</vehicle_registration_plate>
-    <g:title>Lynk &amp; Co 08</g:title>
-    <title>Lynk &amp; Co 08</title>
-    <g:description>Från 7 691 kr/mån. Miltal: 1 923 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: LFH12K. Kontakta oss för mer information.</g:description>
-    <description>Från 7 691 kr/mån. Miltal: 1 923 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: LFH12K. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/lynk-co-08-phev-lfh12k</g:link>
-    <link>https://borasbil.se/bilar/lynk-co-08-phev-lfh12k</link>
-    <url>https://borasbil.se/bilar/lynk-co-08-phev-lfh12k</url>
-    <g:brand>Lynk &amp; Co</g:brand>
-    <brand>Lynk &amp; Co</brand>
-    <make>Lynk &amp; Co</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/7ec14642-243a-4d67-94ea-ce411c340eb2?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/7ec14642-243a-4d67-94ea-ce411c340eb2?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>08</model>
-    <year>2025</year>
-    <mileage>
-      <value>19230</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>489000 SEK</g:price>
-    <price>489000 SEK</price>
-    <sale_price>489000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Kinna Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>2db183df-e2f6-5a0e-843b-9999b0efeb02</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -3017,50 +3017,6 @@
     <g:price>259000 SEK</g:price>
     <price>259000 SEK</price>
     <sale_price>259000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>f47308fc-7c76-4ee3-be62-9967511f09da</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>f47308fc-7c76-4ee3-be62-9967511f09da</vehicle_id>
-    <vehicle_registration_plate>JAY53R</vehicle_registration_plate>
-    <g:title>Peugeot Partner Plus L2 BHDi 130 A FL</g:title>
-    <title>Peugeot Partner Plus L2 BHDi 130 A FL</title>
-    <g:description>Plus L2 BHDi 130 A FL. Från 4 388 kr/mån. Miltal: 5 000 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Diesel. Reg.nr: JAY53R. Kontakta oss för mer information.</g:description>
-    <description>Plus L2 BHDi 130 A FL. Från 4 388 kr/mån. Miltal: 5 000 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Diesel. Reg.nr: JAY53R. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/peugeot-partner-utokad-last-jay53r</g:link>
-    <link>https://borasbil.se/bilar/peugeot-partner-utokad-last-jay53r</link>
-    <url>https://borasbil.se/bilar/peugeot-partner-utokad-last-jay53r</url>
-    <g:brand>Peugeot</g:brand>
-    <brand>Peugeot</brand>
-    <make>Peugeot</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/545775fa1f3643c0a27a66942e112cab/1dfb9106fc834135be3a61989fb1dc4b?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/545775fa1f3643c0a27a66942e112cab/1dfb9106fc834135be3a61989fb1dc4b?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Partner</model>
-    <year>2024</year>
-    <mileage>
-      <value>50000</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Diesel</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>279000 SEK</g:price>
-    <price>279000 SEK</price>
-    <sale_price>279000 SEK</sale_price>
     <address format="simple">
       <component name="addr1">Borås Bil</component>
       <component name="country">SE</component>
@@ -3770,50 +3726,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>7f9478b4-3f8e-4f06-907b-52486b31267f</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>7f9478b4-3f8e-4f06-907b-52486b31267f</vehicle_id>
-    <vehicle_registration_plate>BWD01P</vehicle_registration_plate>
-    <g:title>Volvo C40 Plus</g:title>
-    <title>Volvo C40 Plus</title>
-    <g:description>Plus. Från 5 489 kr/mån. Miltal: 5 941 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: BWD01P. Kontakta oss för mer information.</g:description>
-    <description>Plus. Från 5 489 kr/mån. Miltal: 5 941 mil. Årsmodell: 2023. Växellåda: Automat. Bränsle: El. Reg.nr: BWD01P. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-c40-recharge-bwd01p</g:link>
-    <link>https://borasbil.se/bilar/volvo-c40-recharge-bwd01p</link>
-    <url>https://borasbil.se/bilar/volvo-c40-recharge-bwd01p</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/a11ca28218834addb5b723e51c47218c/042664b3cbfb4603bb7158ca1bd68c12?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/a11ca28218834addb5b723e51c47218c/042664b3cbfb4603bb7158ca1bd68c12?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>C40</model>
-    <year>2023</year>
-    <mileage>
-      <value>59410</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>349000 SEK</g:price>
-    <price>349000 SEK</price>
-    <sale_price>349000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
