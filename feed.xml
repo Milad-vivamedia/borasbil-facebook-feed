@@ -20,9 +20,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/d32ef723-accf-4ab4-9863-c100db785e9d?format=jpeg&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/dda3fac3f0ad4e3ebffc4998a825c30b/5eafb67f073e497ca2ce1b7be11f1960?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/v3/d32ef723-accf-4ab4-9863-c100db785e9d?format=jpeg&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/dda3fac3f0ad4e3ebffc4998a825c30b/5eafb67f073e497ca2ce1b7be11f1960?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC40</model>
@@ -484,50 +484,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>58f50920-765e-5675-b5df-eaa8d58c0206</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>58f50920-765e-5675-b5df-eaa8d58c0206</vehicle_id>
-    <vehicle_registration_plate>YRX934</vehicle_registration_plate>
-    <g:title>Audi A4 2.0 TFSI Quattro</g:title>
-    <title>Audi A4 2.0 TFSI Quattro</title>
-    <g:description>2.0 TFSI Quattro. Från 3 916 kr/mån. Miltal: 5 242 mil. Årsmodell: 2018. Växellåda: Automat. Bränsle: Bensin. Reg.nr: YRX934. Kontakta oss för mer information.</g:description>
-    <description>2.0 TFSI Quattro. Från 3 916 kr/mån. Miltal: 5 242 mil. Årsmodell: 2018. Växellåda: Automat. Bränsle: Bensin. Reg.nr: YRX934. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/audi-a4-avant-yrx934</g:link>
-    <link>https://borasbil.se/bilar/audi-a4-avant-yrx934</link>
-    <url>https://borasbil.se/bilar/audi-a4-avant-yrx934</url>
-    <g:brand>Audi</g:brand>
-    <brand>Audi</brand>
-    <make>Audi</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/149ee6dddaec4d19ba12effba52aa130/3d0636d64042430bb27e8cfb7b87a4bb?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/149ee6dddaec4d19ba12effba52aa130/3d0636d64042430bb27e8cfb7b87a4bb?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>A4</model>
-    <year>2018</year>
-    <mileage>
-      <value>52420</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Gasoline</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>249000 SEK</g:price>
-    <price>249000 SEK</price>
-    <sale_price>249000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Bogesunds Bil Ulricehamn</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>b06da5c7-4f5b-5037-906e-672e8f49e694</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -883,9 +839,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/1d9f8ba3-85af-4f2c-8e7f-a0406a29e635/596c6525-723e-4d25-9b54-9807d44b8f7c?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/6b1c687e5dce4398b29aeb6249ed4b20/74b96341bab04485b9e48eac8edc8f68?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/1d9f8ba3-85af-4f2c-8e7f-a0406a29e635/596c6525-723e-4d25-9b54-9807d44b8f7c?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/6b1c687e5dce4398b29aeb6249ed4b20/74b96341bab04485b9e48eac8edc8f68?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC60</model>
