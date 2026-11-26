@@ -272,23 +272,23 @@
     <vehicle_registration_plate>NZY32C</vehicle_registration_plate>
     <g:title>Audi A3 150 hk</g:title>
     <title>Audi A3 150 hk</title>
-    <g:description>150 hk. Från 3 444 kr/mån. Miltal: 7 107 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: NZY32C. Kontakta oss för mer information.</g:description>
-    <description>150 hk. Från 3 444 kr/mån. Miltal: 7 107 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: NZY32C. Kontakta oss för mer information.</description>
+    <g:description>150 hk. Från 3 444 kr/mån. Miltal: 5 107 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: NZY32C. Kontakta oss för mer information.</g:description>
+    <description>150 hk. Från 3 444 kr/mån. Miltal: 5 107 mil. Årsmodell: 2023. Växellåda: Manuell. Bränsle: Bensin. Reg.nr: NZY32C. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/audi-a3-sportback-35-tfsi-nzy32c</g:link>
     <link>https://borasbil.se/bilar/audi-a3-sportback-35-tfsi-nzy32c</link>
     <url>https://borasbil.se/bilar/audi-a3-sportback-35-tfsi-nzy32c</url>
     <g:brand>Audi</g:brand>
     <brand>Audi</brand>
     <make>Audi</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/ca57c631-19f5-47f4-bd68-c79c87eaa242?format=jpeg&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/95db3eac6f1c4f2b80f77503e82f9324/ff69b2f4081a49d7ad9360ee3ef7cc26?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/v3/ca57c631-19f5-47f4-bd68-c79c87eaa242?format=jpeg&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/95db3eac6f1c4f2b80f77503e82f9324/ff69b2f4081a49d7ad9360ee3ef7cc26?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>A3</model>
     <year>2023</year>
     <mileage>
-      <value>71070</value>
+      <value>51070</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
@@ -931,9 +931,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/d55a7c8a-53a3-49fb-af94-96d249083a5a/c895314f-bd1c-4d4e-94c2-4fdf530936ac?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/f25afee889b542cd98fb2b2d98e041ad/d34d9b62cf4741f18a2eaf9780a19afc?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/d55a7c8a-53a3-49fb-af94-96d249083a5a/c895314f-bd1c-4d4e-94c2-4fdf530936ac?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/f25afee889b542cd98fb2b2d98e041ad/d34d9b62cf4741f18a2eaf9780a19afc?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC60</model>
@@ -1279,9 +1279,9 @@
     <g:brand>Volvo</g:brand>
     <brand>Volvo</brand>
     <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/2a02a384-3162-4b28-b5df-724d470fbb1b/d49fda78-184d-4052-ba1a-2ed19ee208c8?format=jpeg&amp;r=0000000&amp;w=800</g:image_link>
+    <g:image_link>https://cdn.wayke.se/cfit/v3/eacc4a55d20e434fbe1a52ff647d9710/6d02890972cf4fe8b356b86327e65be1?format=jpeg&amp;w=800</g:image_link>
     <image>
-      <url>https://cdn.wayke.se/cfit/2a02a384-3162-4b28-b5df-724d470fbb1b/d49fda78-184d-4052-ba1a-2ed19ee208c8?format=jpeg&amp;r=0000000&amp;w=800</url>
+      <url>https://cdn.wayke.se/cfit/v3/eacc4a55d20e434fbe1a52ff647d9710/6d02890972cf4fe8b356b86327e65be1?format=jpeg&amp;w=800</url>
       <tag>Exterior</tag>
     </image>
     <model>XC60</model>
@@ -3584,50 +3584,6 @@
     <state_of_vehicle>USED</state_of_vehicle>
     </item>
     <item>
-    <g:id>1bc41708-8bf9-47a5-ae46-fce322320f0e</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>1bc41708-8bf9-47a5-ae46-fce322320f0e</vehicle_id>
-    <vehicle_registration_plate>MYX21K</vehicle_registration_plate>
-    <g:title>Volvo V90 Recharge T6 Core Bright</g:title>
-    <title>Volvo V90 Recharge T6 Core Bright</title>
-    <g:description>Recharge T6 Core Bright. Från 6 275 kr/mån. Miltal: 6 642 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: MYX21K. Kontakta oss för mer information.</g:description>
-    <description>Recharge T6 Core Bright. Från 6 275 kr/mån. Miltal: 6 642 mil. Årsmodell: 2024. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: MYX21K. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/volvo-v90-myx21k</g:link>
-    <link>https://borasbil.se/bilar/volvo-v90-myx21k</link>
-    <url>https://borasbil.se/bilar/volvo-v90-myx21k</url>
-    <g:brand>Volvo</g:brand>
-    <brand>Volvo</brand>
-    <make>Volvo</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/c7e22121304d4f35965f68e4005bdcf7/c39abfdec0694eb89215e99d06dd023e?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/c7e22121304d4f35965f68e4005bdcf7/c39abfdec0694eb89215e99d06dd023e?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>V90</model>
-    <year>2024</year>
-    <mileage>
-      <value>66420</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Wagon</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>399000 SEK</g:price>
-    <price>399000 SEK</price>
-    <sale_price>399000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Borås Bil</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>56b1373f-95bd-4e74-9030-15708ada078d</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>ebe46a1a-3acc-50cc-92bc-7e2328a4e1d4</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -4501,50 +4457,6 @@
       <component name="country">SE</component>
     </address>
     <dealer_id>0acea758-e5c9-412b-933a-8cd3c8e269f3</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
-    <g:id>c23dcd42-341c-5b82-8871-3b93e7e13214</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>c23dcd42-341c-5b82-8871-3b93e7e13214</vehicle_id>
-    <vehicle_registration_plate>RCF06P</vehicle_registration_plate>
-    <g:title>Lynk &amp; Co 08</g:title>
-    <title>Lynk &amp; Co 08</title>
-    <g:description>Från 7 534 kr/mån. Miltal: 2 364 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: RCF06P. Kontakta oss för mer information.</g:description>
-    <description>Från 7 534 kr/mån. Miltal: 2 364 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: Bensin+El. Reg.nr: RCF06P. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/lynk-co-08-phev-rcf06p</g:link>
-    <link>https://borasbil.se/bilar/lynk-co-08-phev-rcf06p</link>
-    <url>https://borasbil.se/bilar/lynk-co-08-phev-rcf06p</url>
-    <g:brand>Lynk &amp; Co</g:brand>
-    <brand>Lynk &amp; Co</brand>
-    <make>Lynk &amp; Co</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/d9339f4d6eea458ca19d87b92bb38637/52284a1c18e1485c92c7adbc116dbbb7?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/d9339f4d6eea458ca19d87b92bb38637/52284a1c18e1485c92c7adbc116dbbb7?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>08</model>
-    <year>2025</year>
-    <mileage>
-      <value>23640</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Bensin+El</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>479000 SEK</g:price>
-    <price>479000 SEK</price>
-    <sale_price>479000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Bogesunds Bil Ulricehamn</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
     <g:availability>in stock</g:availability>
     <availability>in stock</availability>
     <g:condition>used</g:condition>
@@ -10665,50 +10577,6 @@
     <state_of_vehicle>NEW</state_of_vehicle>
     </item>
     <item>
-    <g:id>5c10fc13-fe40-42dc-92f9-e7d1c4cdf2db</g:id>
-    <g:google_product_category>916</g:google_product_category>
-    <g:fb_product_category>173</g:fb_product_category>
-    <vehicle_id>5c10fc13-fe40-42dc-92f9-e7d1c4cdf2db</vehicle_id>
-    <vehicle_registration_plate>NKL43A</vehicle_registration_plate>
-    <g:title>Ford Mustang Mach-E Lng Rang 91kWh</g:title>
-    <title>Ford Mustang Mach-E Lng Rang 91kWh</title>
-    <g:description>Lng Rang 91kWh. Från 4 703 kr/mån. Miltal: 11 462 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: El. Reg.nr: NKL43A. Kontakta oss för mer information.</g:description>
-    <description>Lng Rang 91kWh. Från 4 703 kr/mån. Miltal: 11 462 mil. Årsmodell: 2021. Växellåda: Automat. Bränsle: El. Reg.nr: NKL43A. Kontakta oss för mer information.</description>
-    <g:link>https://borasbil.se/bilar/ford-mustang-mach-e-long-range-awd-nkl43a</g:link>
-    <link>https://borasbil.se/bilar/ford-mustang-mach-e-long-range-awd-nkl43a</link>
-    <url>https://borasbil.se/bilar/ford-mustang-mach-e-long-range-awd-nkl43a</url>
-    <g:brand>Ford</g:brand>
-    <brand>Ford</brand>
-    <make>Ford</make>
-    <g:image_link>https://cdn.wayke.se/cfit/v3/ec13e8a10f764bada1f651900fdfd08c/c97e7d2c6e994d3f80d2f93081253547?format=jpeg&amp;w=800</g:image_link>
-    <image>
-      <url>https://cdn.wayke.se/cfit/v3/ec13e8a10f764bada1f651900fdfd08c/c97e7d2c6e994d3f80d2f93081253547?format=jpeg&amp;w=800</url>
-      <tag>Exterior</tag>
-    </image>
-    <model>Mustang Mach-E</model>
-    <year>2021</year>
-    <mileage>
-      <value>114620</value>
-      <unit>KM</unit>
-    </mileage>
-    <body_style>Sedan</body_style>
-    <fuel_type>Electric</fuel_type>
-    <transmission>Automatic</transmission>
-    <g:price>299000 SEK</g:price>
-    <price>299000 SEK</price>
-    <sale_price>299000 SEK</sale_price>
-    <address format="simple">
-      <component name="addr1">Bogesunds Bil Ulricehamn</component>
-      <component name="country">SE</component>
-    </address>
-    <dealer_id>c2d1288f-1959-4cbe-afd2-9e60608c9a6b</dealer_id>
-    <g:availability>in stock</g:availability>
-    <availability>in stock</availability>
-    <g:condition>used</g:condition>
-    <condition>used</condition>
-    <state_of_vehicle>USED</state_of_vehicle>
-    </item>
-    <item>
     <g:id>369b3793-1dd6-4270-b984-19ccd36870ce</g:id>
     <g:google_product_category>916</g:google_product_category>
     <g:fb_product_category>173</g:fb_product_category>
@@ -14191,8 +14059,8 @@
     <vehicle_registration_plate>EFF45N</vehicle_registration_plate>
     <g:title>Maxus Deliver 7 L2H1 200hk 88 kWh TECH+ 362km</g:title>
     <title>Maxus Deliver 7 L2H1 200hk 88 kWh TECH+ 362km</title>
-    <g:description>L2H1 200hk 88 kWh TECH+ 362km. Från 6 747 kr/mån. Miltal: 721 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: EFF45N. Kontakta oss för mer information.</g:description>
-    <description>L2H1 200hk 88 kWh TECH+ 362km. Från 6 747 kr/mån. Miltal: 721 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: EFF45N. Kontakta oss för mer information.</description>
+    <g:description>L2H1 200hk 88 kWh TECH+ 362km. Från 6 747 kr/mån. Miltal: 850 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: EFF45N. Kontakta oss för mer information.</g:description>
+    <description>L2H1 200hk 88 kWh TECH+ 362km. Från 6 747 kr/mån. Miltal: 850 mil. Årsmodell: 2025. Växellåda: Automat. Bränsle: El. Reg.nr: EFF45N. Kontakta oss för mer information.</description>
     <g:link>https://borasbil.se/bilar/maxus-e-deliver-7-eff45n</g:link>
     <link>https://borasbil.se/bilar/maxus-e-deliver-7-eff45n</link>
     <url>https://borasbil.se/bilar/maxus-e-deliver-7-eff45n</url>
@@ -14207,7 +14075,7 @@
     <model>Deliver 7</model>
     <year>2025</year>
     <mileage>
-      <value>7210</value>
+      <value>8500</value>
       <unit>KM</unit>
     </mileage>
     <body_style>Sedan</body_style>
